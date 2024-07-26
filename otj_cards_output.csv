@@ -1,0 +1,590 @@
+name,mana_cost,cmc,type_line,oracle_text,power,toughness,colors,color_identity,keywords,set,rarity
+Abraded Bluffs,,0.0,Land — Desert,"Abraded Bluffs enters the battlefield tapped.
+When Abraded Bluffs enters the battlefield, it deals 1 damage to target opponent.
+{T}: Add {R} or {W}.",n/a,n/a,[],"['R', 'W']",[],otj,common
+Akul the Unrepentant,{B}{B}{R}{R},4.0,Legendary Creature — Scorpion Dragon Rogue,"Flying, trample
+Sacrifice three other creatures: You may put a creature card from your hand onto the battlefield. Activate only as a sorcery and only once each turn.",5,5,"['B', 'R']","['B', 'R']","['Flying', 'Trample']",otj,rare
+Aloe Alchemist,{1}{G},2.0,Creature — Plant Warlock,"Trample
+When Aloe Alchemist becomes plotted, target creature gets +3/+2 and gains trample until end of turn.
+Plot {1}{G} (You may pay {1}{G} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)",3,2,['G'],['G'],"['Plot', 'Trample']",otj,uncommon
+Ambush Gigapede,{4}{B}{B},6.0,Creature — Insect,"Flash
+When Ambush Gigapede enters the battlefield, target creature an opponent controls gets -2/-2 until end of turn.",6,2,['B'],['B'],['Flash'],otj,common
+Ankle Biter,{G},1.0,Creature — Snake,Deathtouch,1,1,['G'],['G'],['Deathtouch'],otj,common
+"Annie Flash, the Veteran",{3}{R}{G}{W},6.0,Legendary Creature — Human Rogue,"Flash
+When Annie Flash, the Veteran enters the battlefield, if you cast it, return target permanent card with mana value 3 or less from your graveyard to the battlefield tapped.
+Whenever Annie Flash becomes tapped, exile the top two cards of your library. You may play those cards this turn.",4,5,"['G', 'R', 'W']","['G', 'R', 'W']",['Flash'],otj,mythic
+Annie Joins Up,{1}{R}{G}{W},4.0,Legendary Enchantment,"When Annie Joins Up enters the battlefield, it deals 5 damage to target creature or planeswalker an opponent controls.
+If a triggered ability of a legendary creature you control triggers, that ability triggers an additional time.",n/a,n/a,"['G', 'R', 'W']","['G', 'R', 'W']",[],otj,rare
+Another Round,{X}{X}{2}{W},3.0,Sorcery,"Exile any number of creatures you control, then return them to the battlefield under their owner's control. Then repeat this process X more times.",n/a,n/a,['W'],['W'],[],otj,rare
+Archangel of Tithes,{1}{W}{W}{W},4.0,Creature — Angel,"Flying
+As long as Archangel of Tithes is untapped, creatures can't attack you or planeswalkers you control unless their controller pays {1} for each of those creatures.
+As long as Archangel of Tithes is attacking, creatures can't block unless their controller pays {1} for each of those creatures.",3,5,['W'],['W'],['Flying'],otj,mythic
+Archmage's Newt,{1}{U},2.0,Creature — Salamander Mount,"Whenever Archmage's Newt deals combat damage to a player, target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost. That card gains flashback {0} until end of turn instead if Archmage's Newt is saddled. (You may cast that card from your graveyard for its flashback cost. Then exile it.)
+Saddle 3",2,2,['U'],['U'],['Saddle'],otj,rare
+Arid Archway,,0.0,Land — Desert,"Arid Archway enters the battlefield tapped.
+When Arid Archway enters the battlefield, return a land you control to its owner's hand. If another Desert was returned this way, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+{T}: Add {C}{C}.",n/a,n/a,[],[],['Surveil'],otj,uncommon
+Armored Armadillo,{W},1.0,Creature — Armadillo,"Ward {1} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)
+{3}{W}: Armored Armadillo gets +X/+0 until end of turn, where X is its toughness.",0,4,['W'],['W'],['Ward'],otj,common
+Assimilation Aegis,{1}{W}{U},3.0,Artifact — Equipment,"When Assimilation Aegis enters the battlefield, exile up to one target creature until Assimilation Aegis leaves the battlefield.
+Whenever Assimilation Aegis becomes attached to a creature, for as long as Assimilation Aegis remains attached to it, that creature becomes a copy of a creature card exiled with Assimilation Aegis.
+Equip {2}",n/a,n/a,"['U', 'W']","['U', 'W']",['Equip'],otj,mythic
+At Knifepoint,{1}{B}{R},3.0,Enchantment,"As long as it's your turn, outlaws you control have first strike. (Assassins, Mercenaries, Pirates, Rogues, and Warlocks are outlaws.)
+Whenever you commit a crime, create a 1/1 red Mercenary creature token with ""{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery."" This ability triggers only once each turn.",n/a,n/a,"['B', 'R']","['B', 'R']",[],otj,uncommon
+Aven Interrupter,{1}{W}{W},3.0,Creature — Bird Rogue,"Flash
+Flying
+When Aven Interrupter enters the battlefield, exile target spell. It becomes plotted. (Its owner may cast it as a sorcery on a later turn without paying its mana cost.)
+Spells your opponents cast from graveyards or from exile cost {2} more to cast.",2,2,['W'],['W'],"['Flying', 'Plot', 'Flash']",otj,rare
+Badlands Revival,{3}{B}{G},5.0,Sorcery,Return up to one target creature card from your graveyard to the battlefield. Return up to one target permanent card from your graveyard to your hand.,n/a,n/a,"['B', 'G']","['B', 'G']",[],otj,uncommon
+Bandit's Haul,{3},3.0,Artifact,"Whenever you commit a crime, put a loot counter on Bandit's Haul. This ability triggers only once each turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)
+{T}: Add one mana of any color.
+{2}, {T}, Remove two loot counters from Bandit's Haul: Draw a card.",n/a,n/a,[],[],[],otj,uncommon
+Baron Bertram Graywater,{2}{W}{B},4.0,Legendary Creature — Vampire Noble,"Whenever one or more tokens enter the battlefield under your control, create a 1/1 black Vampire Rogue creature token with lifelink. This ability triggers only once each turn.
+{1}{B}, Sacrifice another creature or artifact: Draw a card.",3,4,"['B', 'W']","['B', 'W']",[],otj,uncommon
+Beastbond Outcaster,{2}{G},3.0,Creature — Human Druid,"When Beastbond Outcaster enters the battlefield, if you control a creature with power 4 or greater, draw a card.
+Plot {1}{G} (You may pay {1}{G} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)",3,3,['G'],['G'],['Plot'],otj,uncommon
+Betrayal at the Vault,{4}{G}{G},6.0,Instant,Target creature you control deals damage equal to its power to each of two other target creatures.,n/a,n/a,['G'],['G'],[],otj,uncommon
+Binding Negotiation,{1}{B},2.0,Sorcery,"Target opponent reveals their hand. You may choose a nonland card from it. If you do, they discard it. Otherwise, you may put a face-up exiled card they own into their graveyard.",n/a,n/a,['B'],['B'],[],otj,uncommon
+Blacksnag Buzzard,{2}{B},3.0,Creature — Bird,"Flying
+Blacksnag Buzzard enters the battlefield with a +1/+1 counter on it if a creature died this turn.
+Plot {1}{B} (You may pay {1}{B} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)",2,1,['B'],['B'],"['Flying', 'Plot']",otj,common
+Blood Hustler,{1}{B},2.0,Creature — Vampire Rogue,"Whenever you commit a crime, put a +1/+1 counter on Blood Hustler. This ability triggers only once each turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)
+{3}{B}: Target opponent loses 1 life and you gain 1 life.",1,1,['B'],['B'],[],otj,uncommon
+Blooming Marsh,,0.0,Land,"Blooming Marsh enters the battlefield tapped unless you control two or fewer other lands.
+{T}: Add {B} or {G}.",n/a,n/a,[],"['B', 'G']",[],otj,rare
+Boneyard Desecrator,{3}{B},4.0,Creature — Zombie Mercenary,"Menace
+{1}{B}, Sacrifice another creature: Put a +1/+1 counter on Boneyard Desecrator. If an outlaw was sacrificed this way, create a Treasure token. (Assassins, Mercenaries, Pirates, Rogues, and Warlocks are outlaws.)",3,4,['B'],['B'],"['Treasure', 'Menace']",otj,common
+"Bonny Pall, Clearcutter",{3}{G}{U}{U},6.0,Legendary Creature — Giant Scout,"Reach
+When Bonny Pall, Clearcutter enters the battlefield, create Beau, a legendary blue Ox creature token with ""This creature's power and toughness are each equal to the number of lands you control.""
+Whenever you attack, draw a card, then you may put a land card from your hand or graveyard onto the battlefield.",6,5,"['G', 'U']","['G', 'U']",['Reach'],otj,rare
+Boom Box,{2},2.0,Artifact,"{6}, {T}, Sacrifice Boom Box: Destroy up to one target artifact, up to one target creature, and up to one target land.",n/a,n/a,[],[],[],otj,uncommon
+Botanical Sanctum,,0.0,Land,"Botanical Sanctum enters the battlefield tapped unless you control two or fewer other lands.
+{T}: Add {G} or {U}.",n/a,n/a,[],"['G', 'U']",[],otj,rare
+Bounding Felidar,{5}{W},6.0,Creature — Cat Beast Mount,"Whenever Bounding Felidar attacks while saddled, put a +1/+1 counter on each other creature you control. You gain 1 life for each of those creatures.
+Saddle 2 (Tap any number of other creatures you control with total power 2 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)",4,7,['W'],['W'],['Saddle'],otj,uncommon
+Bovine Intervention,{1}{W},2.0,Instant,Destroy target artifact or creature. Its controller creates a 2/2 white Ox creature token.,n/a,n/a,['W'],['W'],[],otj,uncommon
+"Breeches, the Blastmaker",{1}{U}{R},3.0,Legendary Creature — Goblin Pirate,"Menace
+Whenever you cast your second spell each turn, you may sacrifice an artifact. If you do, flip a coin. When you win the flip, copy that spell. You may choose new targets for the copy. When you lose the flip, Breeches, the Blastmaker deals damage equal to that spell's mana value to any target.",3,3,"['R', 'U']","['R', 'U']",['Menace'],otj,rare
+Bridled Bighorn,{3}{W},4.0,Creature — Sheep Mount,"Vigilance
+Whenever Bridled Bighorn attacks while saddled, create a 1/1 white Sheep creature token.
+Saddle 2 (Tap any number of other creatures you control with total power 2 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)",3,4,['W'],['W'],"['Saddle', 'Vigilance']",otj,common
+Brimstone Roundup,{1}{R},2.0,Enchantment,"Whenever you cast your second spell each turn, create a 1/1 red Mercenary creature token with ""{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.""
+Plot {2}{R} (You may pay {2}{R} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)",n/a,n/a,['R'],['R'],['Plot'],otj,uncommon
+Bristlepack Sentry,{1}{G},2.0,Creature — Plant Wolf,"Defender
+As long as you control a creature with power 4 or greater, Bristlepack Sentry can attack as though it didn't have defender.",3,3,['G'],['G'],['Defender'],otj,common
+Bristling Backwoods,,0.0,Land — Desert,"Bristling Backwoods enters the battlefield tapped.
+When Bristling Backwoods enters the battlefield, it deals 1 damage to target opponent.
+{T}: Add {R} or {G}.",n/a,n/a,[],"['G', 'R']",[],otj,common
+"Bristly Bill, Spine Sower",{1}{G},2.0,Legendary Creature — Plant Druid,"Landfall — Whenever a land enters the battlefield under your control, put a +1/+1 counter on target creature.
+{3}{G}{G}: Double the number of +1/+1 counters on each creature you control.",2,2,['G'],['G'],['Landfall'],otj,mythic
+"Bruse Tarl, Roving Rancher",{2}{R}{W},4.0,Legendary Creature — Human Warrior,"Oxen you control have double strike.
+Whenever Bruse Tarl, Roving Rancher enters the battlefield or attacks, exile the top card of your library. If it's a land card, create a 2/2 white Ox creature token. Otherwise, you may cast it until the end of your next turn.",4,3,"['R', 'W']","['R', 'W']",[],otj,rare
+Bucolic Ranch,,0.0,Land — Desert,"{T}: Add {C}.
+{T}: Add one mana of any color. Spend this mana only to cast a Mount spell.
+{3}, {T}: Look at the top card of your library. If it's a Mount card, you may reveal it and put it into your hand. If you don't put it into your hand, you may put it on the bottom of your library.",n/a,n/a,[],[],[],otj,uncommon
+Cactarantula,{4}{G}{G},6.0,Creature — Plant Spider,"This spell costs {1} less to cast if you control a Desert.
+Reach
+Whenever Cactarantula becomes the target of a spell or ability an opponent controls, you may draw a card.",6,5,['G'],['G'],['Reach'],otj,common
+Cactusfolk Sureshot,{2}{R}{G},4.0,Creature — Plant Mercenary,"Reach
+Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+At the beginning of combat on your turn, other creatures you control with power 4 or greater gain trample and haste until end of turn.",4,4,"['G', 'R']","['G', 'R']","['Reach', 'Ward']",otj,uncommon
+"Calamity, Galloping Inferno",{4}{R}{R},6.0,Legendary Creature — Horse Mount,"Haste
+Whenever Calamity, Galloping Inferno attacks while saddled, choose a nonlegendary creature that saddled it this turn and create a tapped and attacking token that's a copy of it. Sacrifice that token at the beginning of the next end step. Repeat this process once.
+Saddle 1",4,6,['R'],['R'],"['Saddle', 'Haste']",otj,rare
+Canyon Crab,{1}{U},2.0,Creature — Crab,"{1}{U}: Canyon Crab gets +2/-2 until end of turn.
+At the beginning of your end step, if you haven't cast a spell from your hand this turn, draw a card, then discard a card.",0,5,['U'],['U'],[],otj,uncommon
+Caught in the Crossfire,{R}{R},2.0,Instant,"Spree (Choose one or more additional costs.)
++ {1} — Caught in the Crossfire deals 2 damage to each outlaw creature. (Assassins, Mercenaries, Pirates, Rogues, and Warlocks are outlaws.)
++ {1} — Caught in the Crossfire deals 2 damage to each non-outlaw creature.",n/a,n/a,['R'],['R'],['Spree'],otj,uncommon
+Caustic Bronco,{1}{B},2.0,Creature — Snake Horse Mount,"Whenever Caustic Bronco attacks, reveal the top card of your library and put it into your hand. You lose life equal to that card's mana value if Caustic Bronco isn't saddled. Otherwise, each opponent loses that much life.
+Saddle 3 (Tap any number of other creatures you control with total power 3 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)",2,2,['B'],['B'],['Saddle'],otj,rare
+Claim Jumper,{2}{W},3.0,Creature — Rabbit Mercenary,"Vigilance
+When Claim Jumper enters the battlefield, if an opponent controls more lands than you, you may search your library for a Plains card and put it onto the battlefield tapped. Then if an opponent controls more lands than you, repeat this process once. If you search your library this way, shuffle.",3,3,['W'],['W'],['Vigilance'],otj,rare
+Colossal Rattlewurm,{2}{G}{G},4.0,Creature — Wurm,"Colossal Rattlewurm has flash as long as you control a Desert.
+Trample
+{1}{G}, Exile Colossal Rattlewurm from your graveyard: Search your library for a Desert card, put it onto the battlefield tapped, then shuffle.",6,5,['G'],['G'],['Trample'],otj,rare
+Concealed Courtyard,,0.0,Land,"Concealed Courtyard enters the battlefield tapped unless you control two or fewer other lands.
+{T}: Add {W} or {B}.",n/a,n/a,[],"['B', 'W']",[],otj,rare
+Conduit Pylons,,0.0,Land — Desert,"When Conduit Pylons enters the battlefield, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+{T}: Add {C}.
+{1}, {T}: Add one mana of any color.",n/a,n/a,[],[],['Surveil'],otj,common
+Congregation Gryff,{1}{G}{W},3.0,Creature — Hippogriff Mount,"Flying, lifelink
+Whenever Congregation Gryff attacks while saddled, it gets +X/+X until end of turn, where X is the number of Mounts you control.
+Saddle 3 (Tap any number of other creatures you control with total power 3 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)",1,4,"['G', 'W']","['G', 'W']","['Flying', 'Lifelink', 'Saddle']",otj,uncommon
+Consuming Ashes,{2}{B}{B},4.0,Instant,"Exile target creature. If it had mana value 3 or less, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)",n/a,n/a,['B'],['B'],['Surveil'],otj,common
+Corrupted Conviction,{B},1.0,Instant,"As an additional cost to cast this spell, sacrifice a creature.
+Draw two cards.",n/a,n/a,['B'],['B'],[],otj,common
+Creosote Heath,,0.0,Land — Desert,"Creosote Heath enters the battlefield tapped.
+When Creosote Heath enters the battlefield, it deals 1 damage to target opponent.
+{T}: Add {G} or {W}.",n/a,n/a,[],"['G', 'W']",[],otj,common
+Cunning Coyote,{1}{R},2.0,Creature — Coyote,"Haste
+When Cunning Coyote enters the battlefield, another target creature you control gets +1/+1 and gains haste until end of turn.
+Plot {1}{R} (You may pay {1}{R} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)",2,2,['R'],['R'],"['Plot', 'Haste']",otj,uncommon
+Dance of the Tumbleweeds,{1}{G},2.0,Sorcery,"Spree (Choose one or more additional costs.)
++ {1} — Search your library for a basic land card or a Desert card, put it onto the battlefield, then shuffle.
++ {3} — Create an X/X green Elemental creature token, where X is the number of lands you control.",n/a,n/a,['G'],['G'],['Spree'],otj,common
+Daring Thunder-Thief,{3}{U},4.0,Creature — Turtle Rogue,"Flash
+Daring Thunder-Thief enters the battlefield tapped.",4,4,['U'],['U'],['Flash'],otj,common
+Deadeye Duelist,{1}{R},2.0,Creature — Human Assassin,"Reach
+{1}, {T}: Deadeye Duelist deals 1 damage to target opponent.",1,3,['R'],['R'],['Reach'],otj,common
+Deepmuck Desperado,{2}{U},3.0,Creature — Homarid Mercenary,"Whenever you commit a crime, each opponent mills three cards. This ability triggers only once each turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)",2,4,['U'],['U'],['Mill'],otj,uncommon
+Demonic Ruckus,{1}{R},2.0,Enchantment — Aura,"Enchant creature
+Enchanted creature gets +1/+1 and has menace and trample.
+When Demonic Ruckus is put into a graveyard from the battlefield, draw a card.
+Plot {R} (You may pay {R} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)",n/a,n/a,['R'],['R'],"['Plot', 'Enchant']",otj,uncommon
+Desert's Due,{1}{B},2.0,Instant,Target creature gets -2/-2 until end of turn. It gets an additional -1/-1 until end of turn for each Desert you control.,n/a,n/a,['B'],['B'],[],otj,common
+Desperate Bloodseeker,{1}{B},2.0,Creature — Vampire,"Lifelink
+When Desperate Bloodseeker enters the battlefield, target player mills two cards. (They put the top two cards of their library into their graveyard.)",2,2,['B'],['B'],"['Lifelink', 'Mill']",otj,common
+Discerning Peddler,{1}{R},2.0,Creature — Human Rogue,"When Discerning Peddler enters the battlefield, you may discard a card. If you do, draw a card.",2,2,['R'],['R'],[],otj,common
+Djinn of Fool's Fall,{4}{U},5.0,Creature — Djinn,"Flying
+Plot {3}{U} (You may pay {3}{U} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)",4,3,['U'],['U'],"['Flying', 'Plot']",otj,common
+"Doc Aurlock, Grizzled Genius",{G}{U},2.0,Legendary Creature — Bear Druid,"Spells you cast from your graveyard or from exile cost {2} less to cast.
+Plotting cards from your hand costs {2} less.",2,3,"['G', 'U']","['G', 'U']",[],otj,uncommon
+Double Down,{3}{U},4.0,Enchantment,"Whenever you cast an outlaw spell, copy that spell. (Assassins, Mercenaries, Pirates, Rogues, and Warlocks are outlaws. Copies of permanent spells become tokens.)",n/a,n/a,['U'],['U'],[],otj,mythic
+Drover Grizzly,{2}{G},3.0,Creature — Bear Mount,"Whenever Drover Grizzly attacks while saddled, creatures you control gain trample until end of turn.
+Saddle 1 (Tap any number of other creatures you control with total power 1 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)",4,2,['G'],['G'],['Saddle'],otj,common
+Duelist of the Mind,{1}{U},2.0,Creature — Human Advisor,"Flying, vigilance
+Duelist of the Mind's power is equal to the number of cards you've drawn this turn.
+Whenever you commit a crime, you may draw a card. If you do, discard a card. This ability triggers only once each turn.",*,3,['U'],['U'],"['Flying', 'Vigilance']",otj,rare
+Dust Animus,{1}{W},2.0,Creature — Spirit,"Flying
+If you control five or more untapped lands, Dust Animus enters the battlefield with two +1/+1 counters and a lifelink counter on it.
+Plot {1}{W} (You may pay {1}{W} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)",2,3,['W'],['W'],"['Flying', 'Plot']",otj,rare
+Emergent Haunting,{1}{U},2.0,Enchantment,"At the beginning of your end step, if you haven't cast a spell from your hand this turn and Emergent Haunting isn't a creature, it becomes a 3/3 Spirit creature with flying in addition to its other types.
+{2}{U}: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",n/a,n/a,['U'],['U'],['Surveil'],otj,uncommon
+Eriette's Lullaby,{1}{W},2.0,Sorcery,Destroy target tapped creature. You gain 2 life.,n/a,n/a,['W'],['W'],[],otj,common
+"Eriette, the Beguiler",{1}{W}{U}{B},4.0,Legendary Creature — Human Warlock,"Lifelink
+Whenever an Aura you control becomes attached to a nonland permanent an opponent controls with mana value less than or equal to that Aura's mana value, gain control of that permanent for as long as that Aura is attached to it.",4,4,"['B', 'U', 'W']","['B', 'U', 'W']",['Lifelink'],otj,rare
+Eroded Canyon,,0.0,Land — Desert,"Eroded Canyon enters the battlefield tapped.
+When Eroded Canyon enters the battlefield, it deals 1 damage to target opponent.
+{T}: Add {U} or {R}.",n/a,n/a,[],"['R', 'U']",[],otj,common
+"Ertha Jo, Frontier Mentor",{2}{R}{W},4.0,Legendary Creature — Kor Advisor,"When Ertha Jo, Frontier Mentor enters the battlefield, create a 1/1 red Mercenary creature token with ""{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.""
+Whenever you activate an ability that targets a creature or player, copy that ability. You may choose new targets for the copy.",2,4,"['R', 'W']","['R', 'W']",[],otj,uncommon
+Explosive Derailment,{R},1.0,Instant,"Spree (Choose one or more additional costs.)
++ {2} — Explosive Derailment deals 4 damage to target creature.
++ {2} — Destroy target artifact.",n/a,n/a,['R'],['R'],['Spree'],otj,common
+Failed Fording,{1}{U},2.0,Instant,"Return target nonland permanent to its owner's hand. If you control a Desert, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",n/a,n/a,['U'],['U'],['Surveil'],otj,common
+Fake Your Own Death,{1}{B},2.0,Instant,"Until end of turn, target creature gets +2/+0 and gains ""When this creature dies, return it to the battlefield tapped under its owner's control and you create a Treasure token."" (It's an artifact with ""{T}, Sacrifice this artifact: Add one mana of any color."")",n/a,n/a,['B'],['B'],['Treasure'],otj,common
+"Fblthp, Lost on the Range",{1}{U}{U},3.0,Legendary Creature — Homunculus,"Ward {2}
+You may look at the top card of your library any time.
+The top card of your library has plot. The plot cost is equal to its mana cost.
+You may plot nonland cards from the top of your library.",1,1,['U'],['U'],"['Plot', 'Ward']",otj,rare
+Ferocification,{2}{R},3.0,Enchantment,"At the beginning of combat on your turn, choose one —
+• Target creature you control gets +2/+0 until end of turn.
+• Target creature you control gains menace and haste until end of turn.",n/a,n/a,['R'],['R'],[],otj,uncommon
+Festering Gulch,,0.0,Land — Desert,"Festering Gulch enters the battlefield tapped.
+When Festering Gulch enters the battlefield, it deals 1 damage to target opponent.
+{T}: Add {B} or {G}.",n/a,n/a,[],"['B', 'G']",[],otj,common
+Final Showdown,{W},1.0,Instant,"Spree (Choose one or more additional costs.)
++ {1} — All creatures lose all abilities until end of turn.
++ {1} — Choose a creature you control. It gains indestructible until end of turn.
++ {3}{W}{W} — Destroy all creatures.",n/a,n/a,['W'],['W'],['Spree'],otj,mythic
+Fleeting Reflection,{1}{U},2.0,Instant,"Target creature you control gains hexproof until end of turn. Untap that creature. Until end of turn, it becomes a copy of up to one other target creature.",n/a,n/a,['U'],['U'],[],otj,uncommon
+Forest,,0.0,Basic Land — Forest,({T}: Add {G}.),n/a,n/a,[],['G'],[],otj,common
+Forlorn Flats,,0.0,Land — Desert,"Forlorn Flats enters the battlefield tapped.
+When Forlorn Flats enters the battlefield, it deals 1 damage to target opponent.
+{T}: Add {W} or {B}.",n/a,n/a,[],"['B', 'W']",[],otj,common
+Form a Posse,{X}{R}{W},2.0,Sorcery,"Create X 1/1 red Mercenary creature tokens with ""{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.""",n/a,n/a,"['R', 'W']","['R', 'W']",[],otj,uncommon
+Forsaken Miner,{B},1.0,Creature — Skeleton Rogue,"Forsaken Miner can't block.
+Whenever you commit a crime, you may pay {B}. If you do, return Forsaken Miner from your graveyard to the battlefield. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)",2,2,['B'],['B'],[],otj,uncommon
+"Fortune, Loyal Steed",{2}{W},3.0,Legendary Creature — Beast Mount,"When Fortune, Loyal Steed enters the battlefield, scry 2.
+Whenever Fortune attacks while saddled, at end of combat, exile it and up to one creature that saddled it this turn, then return those cards to the battlefield under their owner's control.
+Saddle 1",2,4,['W'],['W'],"['Saddle', 'Scry']",otj,rare
+Freestrider Commando,{2}{G},3.0,Creature — Centaur Mercenary,"Freestrider Commando enters the battlefield with two +1/+1 counters on it if it wasn't cast or no mana was spent to cast it.
+Plot {3}{G} (You may pay {3}{G} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)",3,3,['G'],['G'],['Plot'],otj,common
+Freestrider Lookout,{2}{G},3.0,Creature — Human Rogue,"Reach
+Whenever you commit a crime, look at the top five cards of your library. You may put a land card from among them onto the battlefield tapped. Put the rest on the bottom of your library in a random order. This ability triggers only once each turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)",3,3,['G'],['G'],['Reach'],otj,rare
+Frontier Seeker,{1}{W},2.0,Creature — Human Scout,"When Frontier Seeker enters the battlefield, look at the top five cards of your library. You may reveal a Mount creature card or a Plains card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",2,1,['W'],['W'],[],otj,uncommon
+Full Steam Ahead,{3}{G}{G},5.0,Sorcery,"Until end of turn, each creature you control gets +2/+2 and gains trample and ""This creature can't be blocked by more than one creature.""",n/a,n/a,['G'],['G'],[],otj,uncommon
+"Geralf, the Fleshwright",{2}{U},3.0,Legendary Creature — Human Warlock,"Whenever you cast a spell during your turn other than your first spell that turn, create a 2/2 blue and black Zombie Rogue creature token.
+Whenever a Zombie enters the battlefield under your control, put a +1/+1 counter on it for each other Zombie that entered the battlefield under your control this turn.",2,3,['U'],['U'],[],otj,mythic
+Getaway Glamer,{W},1.0,Instant,"Spree (Choose one or more additional costs.)
++ {1} — Exile target nontoken creature. Return it to the battlefield under its owner's control at the beginning of the next end step.
++ {2} — Destroy target creature if no other creature has greater power.",n/a,n/a,['W'],['W'],['Spree'],otj,uncommon
+Geyser Drake,{2}{U},3.0,Creature — Drake,"Flying
+As long as it's not your turn, spells you cast cost {1} less to cast.",2,3,['U'],['U'],['Flying'],otj,common
+"Ghired, Mirror of the Wilds",{R}{G}{W},3.0,Legendary Creature — Human Shaman,"Haste
+Nontoken creatures you control have ""{T}: Create a token that's a copy of target token you control that entered the battlefield this turn.""",3,3,"['G', 'R', 'W']","['G', 'R', 'W']",['Haste'],otj,mythic
+Giant Beaver,{3}{G},4.0,Creature — Beaver Mount,"Vigilance
+Whenever Giant Beaver attacks while saddled, put a +1/+1 counter on target creature that saddled it this turn.
+Saddle 3 (Tap any number of other creatures you control with total power 3 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)",4,4,['G'],['G'],"['Saddle', 'Vigilance']",otj,common
+Gila Courser,{2}{R},3.0,Creature — Lizard Mount,"Whenever Gila Courser attacks while saddled, exile the top card of your library. Until the end of your next turn, you may play that card.
+Saddle 1 (Tap any number of other creatures you control with total power 1 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)",4,2,['R'],['R'],['Saddle'],otj,uncommon
+"Gisa, the Hellraiser",{3}{B}{B},5.0,Legendary Creature — Human Warlock,"Ward—{2}, Pay 2 life.
+Skeletons and Zombies you control get +1/+1 and have menace.
+Whenever you commit a crime, create two tapped 2/2 blue and black Zombie Rogue creature tokens. This ability triggers only once each turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)",4,4,['B'],['B'],['Ward'],otj,mythic
+Gold Pan,{2},2.0,Artifact — Equipment,"When Gold Pan enters the battlefield, create a Treasure token. (It's an artifact with ""{T}, Sacrifice this artifact: Add one mana of any color."")
+Equipped creature gets +1/+1.
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",n/a,n/a,[],[],"['Treasure', 'Equip']",otj,common
+Gold Rush,{1}{G},2.0,Instant,"Create a Treasure token. Until end of turn, up to one target creature gets +2/+2 for each Treasure you control.",n/a,n/a,['G'],['G'],['Treasure'],otj,uncommon
+Goldvein Hydra,{X}{G},1.0,Creature — Hydra,"Vigilance, trample, haste
+Goldvein Hydra enters the battlefield with X +1/+1 counters on it.
+When Goldvein Hydra dies, create a number of tapped Treasure tokens equal to its power.",0,0,['G'],['G'],"['Vigilance', 'Treasure', 'Haste', 'Trample']",otj,mythic
+Great Train Heist,{R},1.0,Instant,"Spree (Choose one or more additional costs.)
++ {2}{R} — Untap all creatures you control. If it's your combat phase, there is an additional combat phase after this phase.
++ {2} — Creatures you control get +1/+0 and gain first strike until end of turn.
++ {R} — Choose target opponent. Whenever a creature you control deals combat damage to that player this turn, create a tapped Treasure token.",n/a,n/a,['R'],['R'],"['Treasure', 'Spree']",otj,rare
+Hardbristle Bandit,{1}{G},2.0,Creature — Plant Rogue,"{T}: Add one mana of any color.
+Whenever you commit a crime, untap Hardbristle Bandit. This ability triggers only once each turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)",1,1,['G'],['G'],[],otj,common
+Harrier Strix,{U},1.0,Creature — Bird,"Flying
+When Harrier Strix enters the battlefield, tap target permanent.
+{2}{U}: Draw a card, then discard a card.",1,1,['U'],['U'],['Flying'],otj,common
+Hellspur Brute,{4}{R},5.0,Creature — Minotaur Mercenary,"Affinity for outlaws (This spell costs {1} less to cast for each Assassin, Mercenary, Pirate, Rogue, and/or Warlock you control.)
+Trample",5,4,['R'],['R'],"['Affinity', 'Trample']",otj,uncommon
+Hellspur Posse Boss,{2}{R}{R},4.0,Creature — Lizard Rogue,"Other outlaws you control have haste. (Assassins, Mercenaries, Pirates, Rogues, and Warlocks are outlaws.)
+When Hellspur Posse Boss enters the battlefield, create two 1/1 red Mercenary creature tokens with ""{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.""",2,4,['R'],['R'],[],otj,rare
+Hell to Pay,{X}{R},1.0,Sorcery,Hell to Pay deals X damage to target creature. Create a number of tapped Treasure tokens equal to the amount of excess damage dealt to that creature this way.,n/a,n/a,['R'],['R'],['Treasure'],otj,rare
+High Noon,{1}{W},2.0,Enchantment,"Each player can't cast more than one spell each turn.
+{4}{R}, Sacrifice High Noon: It deals 5 damage to any target.",n/a,n/a,['W'],"['R', 'W']",[],otj,rare
+Highway Robbery,{1}{R},2.0,Sorcery,"You may discard a card or sacrifice a land. If you do, draw two cards.
+Plot {1}{R} (You may pay {1}{R} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)",n/a,n/a,['R'],['R'],['Plot'],otj,common
+Hollow Marauder,{6}{B},7.0,Creature — Specter Rogue,"This spell costs {1} less to cast for each creature card in your graveyard.
+Flying
+When Hollow Marauder enters the battlefield, any number of target opponents each discard a card. For each of those opponents who didn't discard a card with mana value 4 or greater, draw a card.",4,2,['B'],['B'],['Flying'],otj,uncommon
+Holy Cow,{2}{W},3.0,Creature — Ox Angel,"Flash
+Flying
+When Holy Cow enters the battlefield, you gain 2 life and scry 1. (Look at the top card of your library. You may put that card on the bottom.)",2,2,['W'],['W'],"['Scry', 'Flying', 'Flash']",otj,common
+Honest Rutstein,{1}{B}{G},3.0,Legendary Creature — Human Warlock,"When Honest Rutstein enters the battlefield, return target creature card from your graveyard to your hand.
+Creature spells you cast cost {1} less to cast.",3,2,"['B', 'G']","['B', 'G']",[],otj,uncommon
+Insatiable Avarice,{B},1.0,Sorcery,"Spree (Choose one or more additional costs.)
++ {2} — Search your library for a card, then shuffle and put that card on top.
++ {B}{B} — Target player draws three cards and loses 3 life.",n/a,n/a,['B'],['B'],['Spree'],otj,rare
+Inspiring Vantage,,0.0,Land,"Inspiring Vantage enters the battlefield tapped unless you control two or fewer other lands.
+{T}: Add {R} or {W}.",n/a,n/a,[],"['R', 'W']",[],otj,rare
+Intimidation Campaign,{1}{U}{B},3.0,Enchantment,"When Intimidation Campaign enters the battlefield, each opponent loses 1 life, you gain 1 life, and you draw a card.
+Whenever you commit a crime, you may return Intimidation Campaign to its owner's hand. (It returns only from the battlefield. Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)",n/a,n/a,"['B', 'U']","['B', 'U']",[],otj,uncommon
+Intrepid Stablemaster,{1}{G},2.0,Creature — Human Scout,"Reach
+{T}: Add {G}.
+{T}: Add two mana of any one color. Spend this mana only to cast Mount or Vehicle spells.",2,2,['G'],['G'],['Reach'],otj,uncommon
+Inventive Wingsmith,{2}{W},3.0,Creature — Dwarf Artificer,"At the beginning of your end step, if you haven't cast a spell from your hand this turn and Inventive Wingsmith doesn't have a flying counter on it, put a flying counter on it.",2,4,['W'],['W'],[],otj,common
+Irascible Wolverine,{2}{R},3.0,Creature — Wolverine,"When Irascible Wolverine enters the battlefield, exile the top card of your library. Until end of turn, you may play that card.
+Plot {2}{R} (You may pay {2}{R} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)",3,2,['R'],['R'],['Plot'],otj,common
+Iron-Fist Pulverizer,{4}{R},5.0,Creature — Giant Warrior,"Reach
+Whenever you cast your second spell each turn, Iron-Fist Pulverizer deals 2 damage to target opponent. Scry 1. (Look at the top card of your library. You may put that card on the bottom.)",4,5,['R'],['R'],"['Reach', 'Scry']",otj,common
+Island,,0.0,Basic Land — Island,({T}: Add {U}.),n/a,n/a,[],['U'],[],otj,common
+Jace Reawakened,{U}{U},2.0,Legendary Planeswalker — Jace,"You can't cast this spell during your first, second, or third turns of the game.
++1: Draw a card, then discard a card.
++1: You may exile a nonland card with mana value 3 or less from your hand. If you do, it becomes plotted.
+−6: Until end of turn, whenever you cast a spell, copy it. You may choose new targets for the copy.",n/a,n/a,['U'],['U'],['Plot'],otj,mythic
+Jagged Barrens,,0.0,Land — Desert,"Jagged Barrens enters the battlefield tapped.
+When Jagged Barrens enters the battlefield, it deals 1 damage to target opponent.
+{T}: Add {B} or {R}.",n/a,n/a,[],"['B', 'R']",[],otj,common
+Jailbreak Scheme,{U},1.0,Sorcery,"Spree (Choose one or more additional costs.)
++ {3} — Put a +1/+1 counter on target creature. It can't be blocked this turn.
++ {2} — Target artifact or creature's owner puts it on the top or bottom of their library.",n/a,n/a,['U'],['U'],['Spree'],otj,common
+"Jem Lightfoote, Sky Explorer",{2}{W}{U},4.0,Legendary Creature — Human Scout,"Flying, vigilance
+At the beginning of your end step, if you haven't cast a spell from your hand this turn, draw a card.",3,3,"['U', 'W']","['U', 'W']","['Flying', 'Vigilance']",otj,uncommon
+"Jolene, Plundering Pugilist",{1}{R}{G},3.0,Legendary Creature — Human Mercenary,"Whenever you attack with one or more creatures with power 4 or greater, create a Treasure token.
+{1}{R}, Sacrifice a Treasure: Jolene, Plundering Pugilist deals 1 damage to any target.",4,2,"['G', 'R']","['G', 'R']",['Treasure'],otj,uncommon
+"Kaervek, the Punisher",{1}{B}{B},3.0,Legendary Creature — Human Warlock,"Whenever you commit a crime, exile up to one target black card from your graveyard and copy it. You may cast the copy. If you do, you lose 2 life. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime. Copies of permanent spells become tokens.)",3,3,['B'],['B'],[],otj,rare
+"Kambal, Profiteering Mayor",{1}{W}{B},3.0,Legendary Creature — Human Advisor,"Whenever one or more tokens enter the battlefield under your opponents' control, for each of them, create a tapped token that's a copy of it. This ability triggers only once each turn.
+Whenever one or more tokens enter the battlefield under your control, each opponent loses 1 life and you gain 1 life.",2,4,"['B', 'W']","['B', 'W']",[],otj,rare
+Kellan Joins Up,{G}{W}{U},3.0,Legendary Enchantment,"When Kellan Joins Up enters the battlefield, you may exile a nonland card with mana value 3 or less from your hand. If you do, it becomes plotted. (You may cast it as a sorcery on a later turn without paying its mana cost.)
+Whenever a legendary creature enters the battlefield under your control, put a +1/+1 counter on each creature you control.",n/a,n/a,"['G', 'U', 'W']","['G', 'U', 'W']",['Plot'],otj,rare
+"Kellan, the Kid",{G}{W}{U},3.0,Legendary Creature — Human Faerie Rogue,"Flying, lifelink
+Whenever you cast a spell from anywhere other than your hand, you may cast a permanent spell with equal or lesser mana value from your hand without paying its mana cost. If you don't, you may put a land card from your hand onto the battlefield.",3,3,"['G', 'U', 'W']","['G', 'U', 'W']","['Flying', 'Lifelink']",otj,mythic
+"Kraum, Violent Cacophony",{2}{U}{R},4.0,Legendary Creature — Zombie Horror,"Flying
+Whenever you cast your second spell each turn, put a +1/+1 counter on Kraum, Violent Cacophony and draw a card.",2,3,"['R', 'U']","['R', 'U']",['Flying'],otj,uncommon
+Lassoed by the Law,{3}{W},4.0,Enchantment,"When Lassoed by the Law enters the battlefield, exile target nonland permanent an opponent controls until Lassoed by the Law leaves the battlefield.
+When Lassoed by the Law enters the battlefield, create a 1/1 red Mercenary creature token with ""{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.""",n/a,n/a,['W'],['W'],[],otj,uncommon
+Laughing Jasper Flint,{1}{B}{R},3.0,Legendary Creature — Lizard Rogue,"Creatures you control but don't own are Mercenaries in addition to their other types.
+At the beginning of your upkeep, exile the top X cards of target opponent's library, where X is the number of outlaws you control. Until end of turn, you may cast spells from among those cards, and mana of any type can be spent to cast those spells.",4,3,"['B', 'R']","['B', 'R']",[],otj,rare
+Lavaspur Boots,{1},1.0,Artifact — Equipment,"Equipped creature gets +1/+0 and has haste and ward {1}. (Whenever it becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)
+Equip {1}",n/a,n/a,[],[],['Equip'],otj,uncommon
+"Lazav, Familiar Stranger",{1}{U}{B},3.0,Legendary Creature — Shapeshifter,"Whenever you commit a crime, put a +1/+1 counter on Lazav, Familiar Stranger. Then you may exile a card from a graveyard. If a creature card was exiled this way, you may have Lazav become a copy of that card until end of turn. This ability triggers only once each turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)",1,4,"['B', 'U']","['B', 'U']",[],otj,uncommon
+"Lilah, Undefeated Slickshot",{1}{U}{R},3.0,Legendary Creature — Human Rogue,"Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Whenever you cast a multicolored instant or sorcery spell from your hand, exile that spell instead of putting it into your graveyard as it resolves. If you do, it becomes plotted. (You may cast it as a sorcery on a later turn without paying its mana cost.)",3,3,"['R', 'U']","['R', 'U']","['Plot', 'Prowess']",otj,rare
+Lively Dirge,{1}{B},2.0,Sorcery,"Spree (Choose one or more additional costs.)
++ {1} — Search your library for a card, put it into your graveyard, then shuffle.
++ {2} — Return up to two creature cards with total mana value 4 or less from your graveyard to the battlefield.",n/a,n/a,['B'],['B'],['Spree'],otj,uncommon
+Loan Shark,{3}{U},4.0,Creature — Shark Rogue,"When Loan Shark enters the battlefield, if you've cast two or more spells this turn, draw a card.
+Plot {3}{U} (You may pay {3}{U} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)",3,4,['U'],['U'],['Plot'],otj,common
+Lonely Arroyo,,0.0,Land — Desert,"Lonely Arroyo enters the battlefield tapped.
+When Lonely Arroyo enters the battlefield, it deals 1 damage to target opponent.
+{T}: Add {W} or {U}.",n/a,n/a,[],"['U', 'W']",[],otj,common
+Longhorn Sharpshooter,{2}{R},3.0,Creature — Minotaur Rogue,"Reach
+When Longhorn Sharpshooter becomes plotted, it deals 2 damage to any target.
+Plot {3}{R} (You may pay {3}{R} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)",3,3,['R'],['R'],"['Reach', 'Plot']",otj,uncommon
+Lush Oasis,,0.0,Land — Desert,"Lush Oasis enters the battlefield tapped.
+When Lush Oasis enters the battlefield, it deals 1 damage to target opponent.
+{T}: Add {G} or {U}.",n/a,n/a,[],"['G', 'U']",[],otj,common
+Luxurious Locomotive,{5},5.0,Artifact — Vehicle,"Whenever Luxurious Locomotive attacks, create a Treasure token for each creature that crewed it this turn. (They're artifacts with ""{T}, Sacrifice this artifact: Add one mana of any color."")
+Crew 1. Activate only once each turn. (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)",6,5,[],[],"['Treasure', 'Crew']",otj,uncommon
+"Magda, the Hoardmaster",{1}{R},2.0,Legendary Creature — Dwarf Berserker,"Whenever you commit a crime, create a tapped Treasure token. This ability triggers only once each turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)
+Sacrifice three Treasures: Create a 4/4 red Scorpion Dragon creature token with flying and haste. Activate only as a sorcery.",2,2,['R'],['R'],['Treasure'],otj,rare
+Magebane Lizard,{1}{R},2.0,Creature — Lizard,"Whenever a player casts a noncreature spell, Magebane Lizard deals damage to that player equal to the number of noncreature spells they've cast this turn.",1,4,['R'],['R'],[],otj,uncommon
+Make Your Own Luck,{3}{G}{U},5.0,Sorcery,"Look at the top three cards of your library. You may exile a nonland card from among them. If you do, it becomes plotted. Put the rest into your hand. (You may cast it as a sorcery on a later turn without paying its mana cost.)",n/a,n/a,"['G', 'U']","['G', 'U']",['Plot'],otj,uncommon
+"Malcolm, the Eyes",{U}{R},2.0,Legendary Creature — Siren Pirate,"Flying, haste
+Whenever you cast your second spell each turn, investigate. (Create a Clue token. It's an artifact with ""{2}, Sacrifice this artifact: Draw a card."")",2,2,"['R', 'U']","['R', 'U']","['Flying', 'Investigate', 'Haste']",otj,rare
+Map the Frontier,{3}{G},4.0,Sorcery,"Search your library for up to two basic land cards and/or Desert cards, put them onto the battlefield tapped, then shuffle.",n/a,n/a,['G'],['G'],[],otj,uncommon
+Marauding Sphinx,{3}{U}{U},5.0,Creature — Sphinx Rogue,"Flying, vigilance, ward {2}
+Whenever you commit a crime, surveil 2. This ability triggers only once each turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)",3,5,['U'],['U'],"['Flying', 'Surveil', 'Vigilance', 'Ward']",otj,uncommon
+"Marchesa, Dealer of Death",{U}{B}{R},3.0,Legendary Creature — Human Rogue,"Whenever you commit a crime, you may pay {1}. If you do, look at the top two cards of your library. Put one of them into your hand and the other into your graveyard. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)",3,4,"['B', 'R', 'U']","['B', 'R', 'U']",[],otj,rare
+Metamorphic Blast,{U},1.0,Instant,"Spree (Choose one or more additional costs.)
++ {1} — Until end of turn, target creature becomes a white Rabbit with base power and toughness 0/1.
++ {3} — Target player draws two cards.",n/a,n/a,['U'],['U'],['Spree'],otj,uncommon
+Mine Raider,{2}{R},3.0,Creature — Human Rogue,"Trample
+When Mine Raider enters the battlefield, if you control another outlaw, create a Treasure token. (Assassins, Mercenaries, Pirates, Rogues, and Warlocks are outlaws. A Treasure token is an artifact with ""{T}, Sacrifice this artifact: Add one mana of any color."")",3,2,['R'],['R'],"['Treasure', 'Trample']",otj,common
+Mirage Mesa,,0.0,Land — Desert,"Mirage Mesa enters the battlefield tapped. As it enters, choose a color.
+{T}: Add one mana of the chosen color.",n/a,n/a,[],[],[],otj,common
+"Miriam, Herd Whisperer",{G}{W},2.0,Legendary Creature — Human Druid,"As long as it's your turn, Mounts and Vehicles you control have hexproof.
+Whenever a Mount or Vehicle you control attacks, put a +1/+1 counter on it.",3,2,"['G', 'W']","['G', 'W']",[],otj,uncommon
+Mobile Homestead,{2},2.0,Artifact — Vehicle,"Mobile Homestead has haste as long as you control a Mount.
+Whenever Mobile Homestead attacks, look at the top card of your library. If it's a land card, you may put it onto the battlefield tapped.
+Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)",3,3,[],[],['Crew'],otj,uncommon
+Mountain,,0.0,Basic Land — Mountain,({T}: Add {R}.),n/a,n/a,[],['R'],[],otj,common
+Mourner's Surprise,{1}{B},2.0,Sorcery,"Return up to one target creature card from your graveyard to your hand. Create a 1/1 red Mercenary creature token with ""{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.""",n/a,n/a,['B'],['B'],[],otj,common
+Mystical Tether,{2}{W},3.0,Enchantment,"You may cast Mystical Tether as though it had flash if you pay {2} more to cast it.
+When Mystical Tether enters the battlefield, exile target artifact or creature an opponent controls until Mystical Tether leaves the battlefield.",n/a,n/a,['W'],['W'],[],otj,common
+Neutralize the Guards,{2}{B},3.0,Instant,"Creatures target opponent controls get -1/-1 until end of turn. Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)",n/a,n/a,['B'],['B'],['Surveil'],otj,uncommon
+Nezumi Linkbreaker,{B},1.0,Creature — Rat Warlock,"When Nezumi Linkbreaker dies, create a 1/1 red Mercenary creature token with ""{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.""",1,1,['B'],['B'],[],otj,common
+Nimble Brigand,{2}{U},3.0,Creature — Human Rogue,"Nimble Brigand can't be blocked if you've committed a crime this turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)
+Whenever Nimble Brigand deals combat damage to a player, draw a card.",1,3,['U'],['U'],[],otj,uncommon
+Nurturing Pixie,{W},1.0,Creature — Faerie Rogue,"Flying
+When Nurturing Pixie enters the battlefield, return up to one target non-Faerie, nonland permanent you control to its owner's hand. If a permanent was returned this way, put a +1/+1 counter on Nurturing Pixie.",1,1,['W'],['W'],['Flying'],otj,uncommon
+Oasis Gardener,{3},3.0,Artifact Creature — Scarecrow,"When Oasis Gardener enters the battlefield, you gain 2 life.
+{T}: Add one mana of any color.",2,2,[],[],[],otj,common
+"Obeka, Splitter of Seconds",{1}{U}{B}{R},4.0,Legendary Creature — Ogre Warlock,"Menace
+Whenever Obeka, Splitter of Seconds deals combat damage to a player, you get that many additional upkeep steps after this phase.",2,5,"['B', 'R', 'U']","['B', 'R', 'U']",['Menace'],otj,rare
+"Oko, the Ringleader",{2}{G}{U},4.0,Legendary Planeswalker — Oko,"At the beginning of combat on your turn, Oko, the Ringleader becomes a copy of up to one target creature you control until end of turn, except he has hexproof.
++1: Draw two cards. If you've committed a crime this turn, discard a card. Otherwise, discard two cards.
+−1: Create a 3/3 green Elk creature token.
+−5: For each other nonland permanent you control, create a token that's a copy of that permanent.",n/a,n/a,"['G', 'U']","['G', 'U']",[],otj,mythic
+Omenport Vigilante,{1}{W},2.0,Creature — Human Mercenary,"Omenport Vigilante has double strike as long as you've committed a crime this turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)",2,2,['W'],['W'],[],otj,uncommon
+One Last Job,{2}{W},3.0,Sorcery,"Spree (Choose one or more additional costs.)
++ {2} — Return target creature card from your graveyard to the battlefield.
++ {1} — Return target Mount or Vehicle card from your graveyard to the battlefield.
++ {1} — Return target Aura or Equipment card from your graveyard to the battlefield attached to a creature you control.",n/a,n/a,['W'],['W'],['Spree'],otj,rare
+Ornery Tumblewagg,{2}{G},3.0,Creature — Brushwagg Mount,"At the beginning of combat on your turn, put a +1/+1 counter on target creature.
+Whenever Ornery Tumblewagg attacks while saddled, double the number of +1/+1 counters on target creature.
+Saddle 2 (Tap any number of other creatures you control with total power 2 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)",2,2,['G'],['G'],['Saddle'],otj,rare
+Outcaster Greenblade,{2}{G},3.0,Creature — Human Mercenary,"When Outcaster Greenblade enters the battlefield, search your library for a basic land card or a Desert card, reveal it, put it into your hand, then shuffle.
+Outcaster Greenblade gets +1/+1 for each Desert you control.",1,2,['G'],['G'],[],otj,uncommon
+Outcaster Trailblazer,{2}{G},3.0,Creature — Human Druid,"When Outcaster Trailblazer enters the battlefield, add one mana of any color.
+Whenever another creature with power 4 or greater enters the battlefield under your control, draw a card.
+Plot {2}{G} (You may pay {2}{G} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)",4,2,['G'],['G'],['Plot'],otj,rare
+Outlaw Medic,{1}{W},2.0,Creature — Human Rogue,"Lifelink
+When Outlaw Medic dies, draw a card.",1,3,['W'],['W'],['Lifelink'],otj,common
+Outlaws' Fury,{2}{R},3.0,Instant,"Creatures you control get +2/+0 until end of turn. If you control an outlaw, exile the top card of your library. Until the end of your next turn, you may play that card. (Assassins, Mercenaries, Pirates, Rogues, and Warlocks are outlaws.)",n/a,n/a,['R'],['R'],[],otj,common
+Outlaw Stitcher,{3}{U},4.0,Creature — Human Warlock,"When Outlaw Stitcher enters the battlefield, create a 2/2 blue and black Zombie Rogue creature token, then put two +1/+1 counters on that token for each spell you've cast this turn other than the first.
+Plot {4}{U} (You may pay {4}{U} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)",1,4,['U'],['U'],['Plot'],otj,uncommon
+Overzealous Muscle,{4}{B},5.0,Creature — Ogre Mercenary,"Whenever you commit a crime during your turn, Overzealous Muscle gains indestructible until end of turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime. Damage and effects that say ""destroy"" don't destroy a creature with indestructible.)",5,4,['B'],['B'],[],otj,common
+Patient Naturalist,{2}{G},3.0,Creature — Human Scout,"When Patient Naturalist enters the battlefield, mill three cards. Put a land card from among the milled cards into your hand. If you can't, create a Treasure token. (To mill three cards, put the top three cards of your library into your graveyard.)",2,3,['G'],['G'],"['Treasure', 'Mill']",otj,common
+Peerless Ropemaster,{4}{U},5.0,Creature — Human Rogue,"When Peerless Ropemaster enters the battlefield, return up to one target tapped creature to its owner's hand.",4,4,['U'],['U'],[],otj,common
+Phantom Interference,{U},1.0,Instant,"Spree (Choose one or more additional costs.)
++ {3} — Create a 2/2 white Spirit creature token with flying.
++ {1} — Counter target spell unless its controller pays {2}.",n/a,n/a,['U'],['U'],['Spree'],otj,common
+Pillage the Bog,{B}{G},2.0,Sorcery,"Look at the top X cards of your library, where X is twice the number of lands you control. Put one of them into your hand and the rest on the bottom of your library in a random order.
+Plot {1}{B}{G} (You may pay {1}{B}{G} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)",n/a,n/a,"['B', 'G']","['B', 'G']",['Plot'],otj,rare
+Pitiless Carnage,{3}{B},4.0,Sorcery,"Sacrifice any number of permanents you control, then draw that many cards.
+Plot {1}{B}{B} (You may pay {1}{B}{B} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)",n/a,n/a,['B'],['B'],['Plot'],otj,rare
+Plains,,0.0,Basic Land — Plains,({T}: Add {W}.),n/a,n/a,[],['W'],[],otj,common
+Plan the Heist,{2}{U}{U},4.0,Sorcery,"Surveil 3 if you have no cards in hand. Then draw three cards. (To surveil 3, look at the top three cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+Plot {3}{U} (You may pay {3}{U} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)",n/a,n/a,['U'],['U'],"['Surveil', 'Plot']",otj,uncommon
+Prairie Dog,{1}{W},2.0,Creature — Squirrel,"Lifelink
+At the beginning of your end step, if you haven't cast a spell from your hand this turn, put a +1/+1 counter on Prairie Dog.
+{4}{W}: Until end of turn, if you would put one or more +1/+1 counters on a creature you control, put that many plus one +1/+1 counters on it instead.",2,2,['W'],['W'],['Lifelink'],otj,uncommon
+Prickly Pair,{2}{R},3.0,Creature — Plant Mercenary,"When Prickly Pair enters the battlefield, create a 1/1 red Mercenary creature token with ""{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.""",2,2,['R'],['R'],[],otj,common
+Prosperity Tycoon,{3}{W},4.0,Creature — Human Noble,"When Prosperity Tycoon enters the battlefield, create a 1/1 red Mercenary creature token with ""{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.""
+{2}, Sacrifice a token: Prosperity Tycoon gains indestructible until end of turn. Tap it. (Damage and effects that say ""destroy"" don't destroy it.)",4,2,['W'],['W'],[],otj,uncommon
+Quick Draw,{R},1.0,Instant,Target creature you control gets +1/+1 and gains first strike until end of turn. Creatures target opponent controls lose first strike and double strike until end of turn.,n/a,n/a,['R'],['R'],[],otj,common
+Quilled Charger,{3}{R},4.0,Creature — Porcupine Mount,"Whenever Quilled Charger attacks while saddled, it gets +1/+2 and gains menace until end of turn. (It can't be blocked except by two or more creatures.)
+Saddle 2 (Tap any number of other creatures you control with total power 2 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)",4,3,['R'],['R'],['Saddle'],otj,common
+Railway Brawler,{3}{G}{G},5.0,Creature — Rhino Warrior,"Reach, trample
+Whenever another creature enters the battlefield under your control, put X +1/+1 counters on it, where X is its power.
+Plot {3}{G} (You may pay {3}{G} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)",5,5,['G'],['G'],"['Reach', 'Plot', 'Trample']",otj,mythic
+Rakdos Joins Up,{3}{B}{R},5.0,Legendary Enchantment,"When Rakdos Joins Up enters the battlefield, return target creature card from your graveyard to the battlefield with two additional +1/+1 counters on it.
+Whenever a legendary creature you control dies, Rakdos Joins Up deals damage equal to that creature's power to target opponent.",n/a,n/a,"['B', 'R']","['B', 'R']",[],otj,rare
+"Rakdos, the Muscle",{2}{B}{B}{R},5.0,Legendary Creature — Demon Mercenary,"Flying, trample
+Whenever you sacrifice another creature, exile cards equal to its mana value from the top of target player's library. Until your next end step, you may play those cards, and mana of any type can be spent to cast those spells.
+Sacrifice another creature: Rakdos, the Muscle gains indestructible until end of turn. Tap it. Activate only once each turn.",6,5,"['B', 'R']","['B', 'R']","['Flying', 'Trample']",otj,mythic
+Rakish Crew,{2}{B},3.0,Enchantment,"When Rakish Crew enters the battlefield, create a 1/1 red Mercenary creature token with ""{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.""
+Whenever an outlaw you control dies, each opponent loses 1 life and you gain 1 life. (Assassins, Mercenaries, Pirates, Rogues, and Warlocks are outlaws.)",n/a,n/a,['B'],['B'],[],otj,uncommon
+Rambling Possum,{2}{G},3.0,Creature — Possum Mount,"Whenever Rambling Possum attacks while saddled, it gets +1/+2 until end of turn. Then you may return any number of creatures that saddled it this turn to their owner's hand.
+Saddle 1 (Tap any number of other creatures you control with total power 1 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)",3,3,['G'],['G'],['Saddle'],otj,uncommon
+Rattleback Apothecary,{2}{B},3.0,Creature — Gorgon Warlock,"Deathtouch
+Whenever you commit a crime, target creature you control gains your choice of menace or lifelink until end of turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)",3,2,['B'],['B'],['Deathtouch'],otj,uncommon
+Raucous Entertainer,{1}{G},2.0,Creature — Plant Bard,"{1}, {T}: Put a +1/+1 counter on each creature you control that entered the battlefield this turn.",2,2,['G'],['G'],[],otj,uncommon
+Raven of Fell Omens,{1}{B},2.0,Creature — Bird,"Flying
+Whenever you commit a crime, each opponent loses 1 life and you gain 1 life. This ability triggers only once each turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)",1,2,['B'],['B'],['Flying'],otj,common
+Razzle-Dazzler,{1}{U},2.0,Creature — Human Wizard,"Whenever you cast your second spell each turn, put a +1/+1 counter on Razzle-Dazzler. It can't be blocked this turn.",1,2,['U'],['U'],[],otj,common
+Reach for the Sky,{3}{G},4.0,Enchantment — Aura,"Flash
+Enchant creature
+Enchanted creature gets +3/+2 and has reach.
+When Reach for the Sky is put into a graveyard from the battlefield, draw a card.",n/a,n/a,['G'],['G'],"['Enchant', 'Flash']",otj,common
+Reckless Lackey,{R},1.0,Creature — Goblin Pirate,"First strike, haste
+{2}{R}, Sacrifice Reckless Lackey: Draw a card and create a Treasure token. (It's an artifact with ""{T}, Sacrifice this artifact: Add one mana of any color."")",1,2,['R'],['R'],"['First strike', 'Treasure', 'Haste']",otj,common
+Redrock Sentinel,{3},3.0,Artifact Creature — Golem,"Defender
+{2}, {T}, Sacrifice a land: Draw a card and create a Treasure token. (It's an artifact with ""{T}, Sacrifice this artifact: Add one mana of any color."")",2,4,[],[],"['Treasure', 'Defender']",otj,uncommon
+Requisition Raid,{W},1.0,Sorcery,"Spree (Choose one or more additional costs.)
++ {1} — Destroy target artifact.
++ {1} — Destroy target enchantment.
++ {1} — Put a +1/+1 counter on each creature target player controls.",n/a,n/a,['W'],['W'],['Spree'],otj,uncommon
+Resilient Roadrunner,{1}{R},2.0,Creature — Bird,"Haste, protection from Coyotes
+{3}: Resilient Roadrunner can't be blocked this turn except by creatures with haste.",2,2,['R'],['R'],"['Protection', 'Haste']",otj,uncommon
+Return the Favor,{R}{R},2.0,Instant,"Spree (Choose one or more additional costs.)
++ {1} — Copy target instant spell, sorcery spell, activated ability, or triggered ability. You may choose new targets for the copy.
++ {1} — Change the target of target spell or ability with a single target.",n/a,n/a,['R'],['R'],['Spree'],otj,uncommon
+Rictus Robber,{3}{B},4.0,Creature — Zombie Rogue,"When Rictus Robber enters the battlefield, if a creature died this turn, create a 2/2 blue and black Zombie Rogue creature token.
+Plot {2}{B} (You may pay {2}{B} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)",4,3,['B'],['B'],['Plot'],otj,uncommon
+Riku of Many Paths,{G}{U}{R},3.0,Legendary Creature — Human Wizard,"Whenever you cast a modal spell, choose up to X, where X is the number of times you chose a mode for that spell —
+• Exile the top card of your library. Until the end of your next turn, you may play it.
+• Put a +1/+1 counter on Riku of Many Paths. It gains trample until end of turn.
+• Create a 1/1 blue Bird creature token with flying.",3,3,"['G', 'R', 'U']","['G', 'R', 'U']",[],otj,rare
+Rise of the Varmints,{3}{G},4.0,Sorcery,"Create X 2/1 green Varmint creature tokens, where X is the number of creature cards in your graveyard.
+Plot {2}{G} (You may pay {2}{G} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)",n/a,n/a,['G'],['G'],['Plot'],otj,uncommon
+Rodeo Pyromancers,{3}{R},4.0,Creature — Human Mercenary,"Whenever you cast your first spell each turn, add {R}{R}.",3,4,['R'],['R'],[],otj,common
+Rooftop Assassin,{3}{B},4.0,Creature — Vampire Assassin,"Flash
+Flying, lifelink
+When Rooftop Assassin enters the battlefield, destroy target creature an opponent controls that was dealt damage this turn.",2,2,['B'],['B'],"['Flying', 'Lifelink', 'Flash']",otj,common
+"Roxanne, Starfall Savant",{3}{R}{G},5.0,Legendary Creature — Cat Druid,"Whenever Roxanne, Starfall Savant enters the battlefield or attacks, create a tapped colorless artifact token named Meteorite with ""When Meteorite enters the battlefield, it deals 2 damage to any target"" and ""{T}: Add one mana of any color.""
+Whenever you tap an artifact token for mana, add one mana of any type that artifact token produced.",4,3,"['G', 'R']","['G', 'R']",[],otj,rare
+Rush of Dread,{1}{B}{B},3.0,Sorcery,"Spree (Choose one or more additional costs.)
++ {1} — Target opponent sacrifices half the creatures they control, rounded up.
++ {2} — Target opponent discards half the cards in their hand, rounded up.
++ {2} — Target opponent loses half their life, rounded up.",n/a,n/a,['B'],['B'],['Spree'],otj,rare
+Rustler Rampage,{W},1.0,Instant,"Spree (Choose one or more additional costs.)
++ {1} — Untap all creatures target player controls.
++ {1} — Target creature gains double strike until end of turn.",n/a,n/a,['W'],['W'],['Spree'],otj,uncommon
+Ruthless Lawbringer,{1}{W}{B},3.0,Creature — Vampire Assassin,"When Ruthless Lawbringer enters the battlefield, you may sacrifice another creature. When you do, destroy target nonland permanent.",3,2,"['B', 'W']","['B', 'W']",[],otj,uncommon
+Sandstorm Verge,,0.0,Land — Desert,"{T}: Add {C}.
+{3}, {T}: Target creature can't block this turn. Activate only as a sorcery.",n/a,n/a,[],[],[],otj,uncommon
+"Satoru, the Infiltrator",{U}{B},2.0,Legendary Creature — Human Ninja Rogue,"Menace
+Whenever Satoru, the Infiltrator and/or one or more other nontoken creatures enter the battlefield under your control, if none of them were cast or no mana was spent to cast them, draw a card.",2,3,"['B', 'U']","['B', 'U']",['Menace'],otj,rare
+Scalestorm Summoner,{2}{R},3.0,Creature — Human Warlock,"Whenever Scalestorm Summoner attacks, create a 3/1 red Dinosaur creature token if you control a creature with power 4 or greater.",3,3,['R'],['R'],[],otj,uncommon
+Scorching Shot,{R}{R},2.0,Sorcery,Scorching Shot deals 5 damage to target creature.,n/a,n/a,['R'],['R'],[],otj,uncommon
+Seize the Secrets,{2}{U},3.0,Sorcery,"This spell costs {1} less to cast if you've committed a crime this turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)
+Draw two cards.",n/a,n/a,['U'],['U'],[],otj,common
+"Selvala, Eager Trailblazer",{2}{G}{W},4.0,Legendary Creature — Elf Scout,"Vigilance
+Whenever you cast a creature spell, create a 1/1 red Mercenary creature token with ""{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.""
+{T}: Choose a color. Add one mana of that color for each different power among creatures you control.",4,5,"['G', 'W']","['G', 'W']",['Vigilance'],otj,mythic
+Seraphic Steed,{G}{W},2.0,Creature — Unicorn Mount,"First strike, lifelink
+Whenever Seraphic Steed attacks while saddled, create a 3/3 white Angel creature token with flying.
+Saddle 4 (Tap any number of other creatures you control with total power 4 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)",2,2,"['G', 'W']","['G', 'W']","['Lifelink', 'Saddle', 'First strike']",otj,rare
+Servant of the Stinger,{1}{B},2.0,Creature — Human Warlock,"Deathtouch
+Whenever Servant of the Stinger deals combat damage to a player, if you've committed a crime this turn, you may sacrifice Servant of the Stinger. If you do, search your library for a card, put it into your hand, then shuffle. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)",1,3,['B'],['B'],['Deathtouch'],otj,uncommon
+Shackle Slinger,{2}{U},3.0,Creature — Human Soldier,"Whenever you cast your second spell each turn, choose target creature an opponent controls. If it's tapped, put a stun counter on it. Otherwise, tap it. (If a permanent with a stun counter would become untapped, remove one from it instead.)",3,2,['U'],['U'],[],otj,uncommon
+Shepherd of the Clouds,{4}{W},5.0,Creature — Pegasus,"Flying, vigilance
+When Shepherd of the Clouds enters the battlefield, return target permanent card with mana value 3 or less from your graveyard to your hand. Return that card to the battlefield instead if you control a Mount.",4,3,['W'],['W'],"['Flying', 'Vigilance']",otj,uncommon
+Sheriff of Safe Passage,{2}{W},3.0,Creature — Human Knight,"Sheriff of Safe Passage enters the battlefield with a +1/+1 counter on it plus an additional +1/+1 counter on it for each other creature you control.
+Plot {1}{W} (You may pay {1}{W} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)",0,0,['W'],['W'],['Plot'],otj,uncommon
+Shifting Grift,{U}{U},2.0,Sorcery,"Spree (Choose one or more additional costs.)
++ {2} — Exchange control of two target creatures.
++ {1} — Exchange control of two target artifacts.
++ {1} — Exchange control of two target enchantments.",n/a,n/a,['U'],['U'],['Spree'],otj,uncommon
+Shoot the Sheriff,{1}{B},2.0,Instant,"Destroy target non-outlaw creature. (Assassins, Mercenaries, Pirates, Rogues, and Warlocks are outlaws. Everyone else is fair game.)",n/a,n/a,['B'],['B'],[],otj,uncommon
+Silver Deputy,{2},2.0,Artifact Creature — Mercenary,"When Silver Deputy enters the battlefield, you may search your library for a basic land card or a Desert card, reveal it, then shuffle and put it on top.
+{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.",1,2,[],[],[],otj,common
+Skulduggery,{B},1.0,Instant,"Until end of turn, target creature you control gets +1/+1 and target creature an opponent controls gets -1/-1.",n/a,n/a,['B'],['B'],[],otj,common
+Slick Sequence,{U}{R},2.0,Instant,"Slick Sequence deals 2 damage to any target. If you've cast another spell this turn, draw a card.",n/a,n/a,"['R', 'U']","['R', 'U']",[],otj,uncommon
+Slickshot Lockpicker,{2}{U},3.0,Creature — Human Rogue,"When Slickshot Lockpicker enters the battlefield, target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost. (You may cast that card from your graveyard for its flashback cost. Then exile it.)
+Plot {2}{U} (You may pay {2}{U} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)",2,3,['U'],['U'],['Plot'],otj,uncommon
+Slickshot Show-Off,{1}{R},2.0,Creature — Bird Wizard,"Flying, haste
+Whenever you cast a noncreature spell, Slickshot Show-Off gets +2/+0 until end of turn.
+Plot {1}{R} (You may pay {1}{R} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)",1,2,['R'],['R'],"['Flying', 'Plot', 'Haste']",otj,rare
+Slickshot Vault-Buster,{2}{U},3.0,Creature — Human Rogue,"Vigilance
+Slickshot Vault-Buster gets +2/+0 as long as you've committed a crime this turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)",1,4,['U'],['U'],['Vigilance'],otj,common
+Smuggler's Surprise,{G},1.0,Instant,"Spree (Choose one or more additional costs.)
++ {2} — Mill four cards. You may put up to two creature and/or land cards from among the milled cards into your hand.
++ {4}{G} — You may put up to two creature cards from your hand onto the battlefield.
++ {1} — Creatures you control with power 4 or greater gain hexproof and indestructible until end of turn.",n/a,n/a,['G'],['G'],"['Spree', 'Mill']",otj,rare
+Snakeskin Veil,{G},1.0,Instant,Put a +1/+1 counter on target creature you control. It gains hexproof until end of turn. (It can't be the target of spells or abilities your opponents control.),n/a,n/a,['G'],['G'],[],otj,common
+Soured Springs,,0.0,Land — Desert,"Soured Springs enters the battlefield tapped.
+When Soured Springs enters the battlefield, it deals 1 damage to target opponent.
+{T}: Add {U} or {B}.",n/a,n/a,[],"['B', 'U']",[],otj,common
+Spinewoods Armadillo,{4}{G}{G},6.0,Creature — Armadillo,"Reach
+Ward {3} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {3}.)
+{1}{G}, Discard Spinewoods Armadillo: Search your library for a basic land card or a Desert card, reveal it, put it into your hand, then shuffle. You gain 3 life.",7,7,['G'],['G'],"['Reach', 'Ward']",otj,uncommon
+Spinewoods Paladin,{4}{G},5.0,Creature — Human Knight,"Trample
+When Spinewoods Paladin enters the battlefield, you gain 3 life.
+Plot {3}{G} (You may pay {3}{G} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)",5,4,['G'],['G'],"['Plot', 'Trample']",otj,common
+Spirebluff Canal,,0.0,Land,"Spirebluff Canal enters the battlefield tapped unless you control two or fewer other lands.
+{T}: Add {U} or {R}.",n/a,n/a,[],"['R', 'U']",[],otj,rare
+Spring Splasher,{1}{U},2.0,Creature — Frog Beast,"Whenever Spring Splasher attacks, target creature defending player controls gets -3/-0 until end of turn.",2,1,['U'],['U'],[],otj,common
+Stagecoach Security,{4}{W},5.0,Creature — Human Soldier,"When Stagecoach Security enters the battlefield, creatures you control get +1/+1 and gain vigilance until end of turn.
+Plot {3}{W} (You may pay {3}{W} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)",4,5,['W'],['W'],['Plot'],otj,common
+Steer Clear,{W},1.0,Instant,Steer Clear deals 2 damage to target attacking or blocking creature. Steer Clear deals 4 damage to that creature instead if you controlled a Mount as you cast this spell.,n/a,n/a,['W'],['W'],[],otj,common
+Step Between Worlds,{3}{U}{U},5.0,Sorcery,"Each player may shuffle their hand and graveyard into their library. Each player who does draws seven cards. Exile Step Between Worlds.
+Plot {4}{U}{U} (You may pay {4}{U}{U} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)",n/a,n/a,['U'],['U'],['Plot'],otj,rare
+Sterling Hound,{3},3.0,Artifact Creature — Dog,"When Sterling Hound enters the battlefield, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)",3,2,[],[],['Surveil'],otj,common
+Sterling Keykeeper,{1}{W},2.0,Creature — Human Mercenary,"{2}, {T}: Tap target non-Mount creature.",2,2,['W'],['W'],[],otj,common
+Sterling Supplier,{4}{W},5.0,Creature — Bird Soldier,"Flying
+When Sterling Supplier enters the battlefield, put a +1/+1 counter on another target creature you control.",3,4,['W'],['W'],['Flying'],otj,common
+Stingerback Terror,{2}{R}{R},4.0,Creature — Scorpion Dragon,"Flying, trample
+Stingerback Terror gets -1/-1 for each card in your hand.
+Plot {2}{R} (You may pay {2}{R} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)",7,7,['R'],['R'],"['Flying', 'Plot', 'Trample']",otj,rare
+Stoic Sphinx,{2}{U}{U},4.0,Creature — Sphinx,"Flash
+Flying
+Stoic Sphinx has hexproof as long as you haven't cast a spell this turn.",5,3,['U'],['U'],"['Flying', 'Flash']",otj,rare
+Stop Cold,{3}{U},4.0,Enchantment — Aura,"Flash
+Enchant artifact or creature
+When Stop Cold enters the battlefield, tap enchanted permanent.
+Enchanted permanent loses all abilities and doesn't untap during its controller's untap step.",n/a,n/a,['U'],['U'],"['Enchant', 'Flash']",otj,common
+Stubborn Burrowfiend,{1}{G},2.0,Creature — Badger Beast Mount,"Whenever Stubborn Burrowfiend becomes saddled for the first time each turn, mill two cards, then Stubborn Burrowfiend gets +X/+X until end of turn, where X is the number of creature cards in your graveyard.
+Saddle 2 (Tap any number of other creatures you control with total power 2 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)",2,2,['G'],['G'],"['Saddle', 'Mill']",otj,uncommon
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),n/a,n/a,[],['B'],[],otj,common
+"Taii Wakeen, Perfect Shot",{R}{W},2.0,Legendary Creature — Human Mercenary,"Whenever a source you control deals noncombat damage to a creature equal to that creature's toughness, draw a card.
+{X}, {T}: If a source you control would deal noncombat damage to a permanent or player this turn, it deals that much damage plus X instead.",2,3,"['R', 'W']","['R', 'W']",[],otj,rare
+Take for a Ride,{2}{R},3.0,Sorcery,"Take for a Ride has flash as long as you've committed a crime this turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)
+Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.",n/a,n/a,['R'],['R'],[],otj,uncommon
+Take the Fall,{U},1.0,Instant,"Target creature gets -1/-0 until end of turn. It gets -4/-0 until end of turn instead if you control an outlaw. (Assassins, Mercenaries, Pirates, Rogues, and Warlocks are outlaws.)
+Draw a card.",n/a,n/a,['U'],['U'],[],otj,common
+Take Up the Shield,{1}{W},2.0,Instant,"Put a +1/+1 counter on target creature. It gains lifelink and indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy it.)",n/a,n/a,['W'],['W'],[],otj,common
+Terror of the Peaks,{3}{R}{R},5.0,Creature — Dragon,"Flying
+Spells your opponents cast that target Terror of the Peaks cost an additional 3 life to cast.
+Whenever another creature enters the battlefield under your control, Terror of the Peaks deals damage equal to that creature's power to any target.",5,4,['R'],['R'],['Flying'],otj,mythic
+"The Gitrog, Ravenous Ride",{3}{B}{G},5.0,Legendary Creature — Frog Horror Mount,"Trample, haste
+Whenever The Gitrog, Ravenous Ride deals combat damage to a player, you may sacrifice a creature that saddled it this turn. If you do, draw X cards, then put up to X land cards from your hand onto the battlefield tapped, where X is the sacrificed creature's power.
+Saddle 1",6,5,"['B', 'G']","['B', 'G']","['Saddle', 'Haste', 'Trample']",otj,mythic
+The Key to the Vault,{1}{U},2.0,Legendary Artifact — Equipment,"Whenever equipped creature deals combat damage to a player, look at that many cards from the top of your library. You may exile a nonland card from among them. Put the rest on the bottom of your library in a random order. You may cast the exiled card without paying its mana cost.
+Equip {2}{U}",n/a,n/a,['U'],['U'],['Equip'],otj,rare
+This Town Ain't Big Enough,{4}{U},5.0,Instant,"This spell costs {3} less to cast if it targets a permanent you control.
+Return up to two target nonland permanents to their owners' hands.",n/a,n/a,['U'],['U'],[],otj,uncommon
+Three Steps Ahead,{U},1.0,Instant,"Spree (Choose one or more additional costs.)
++ {1}{U} — Counter target spell.
++ {3} — Create a token that's a copy of target artifact or creature you control.
++ {2} — Draw two cards, then discard a card.",n/a,n/a,['U'],['U'],['Spree'],otj,rare
+Throw from the Saddle,{1}{G},2.0,Sorcery,Target creature you control gets +1/+1 until end of turn. Put a +1/+1 counter on it instead if it's a Mount. Then it deals damage equal to its power to target creature you don't control.,n/a,n/a,['G'],['G'],[],otj,common
+Thunder Lasso,{2}{W},3.0,Artifact — Equipment,"When Thunder Lasso enters the battlefield, attach it to target creature you control.
+Equipped creature gets +1/+1.
+Whenever equipped creature attacks, tap target creature defending player controls.
+Equip {2}",n/a,n/a,['W'],['W'],['Equip'],otj,uncommon
+Thunder Salvo,{1}{R},2.0,Instant,"Thunder Salvo deals X damage to target creature, where X is 2 plus the number of other spells you've cast this turn.",n/a,n/a,['R'],['R'],[],otj,common
+Tinybones Joins Up,{B},1.0,Legendary Enchantment,"When Tinybones Joins Up enters the battlefield, any number of target players each discard a card.
+Whenever a legendary creature enters the battlefield under your control, any number of target players each mill a card and lose 1 life.",n/a,n/a,['B'],['B'],['Mill'],otj,rare
+"Tinybones, the Pickpocket",{B},1.0,Legendary Creature — Skeleton Rogue,"Deathtouch
+Whenever Tinybones, the Pickpocket deals combat damage to a player, you may cast target nonland permanent card from that player's graveyard, and mana of any type can be spent to cast that spell.",1,1,['B'],['B'],['Deathtouch'],otj,mythic
+Tomb Trawler,{2},2.0,Artifact Creature — Golem,{2}: Put target card from your graveyard on the bottom of your library.,0,4,[],[],[],otj,uncommon
+Trained Arynx,{1}{W},2.0,Creature — Cat Beast Mount,"Whenever Trained Arynx attacks while saddled, it gains first strike until end of turn. Scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+Saddle 2 (Tap any number of other creatures you control with total power 2 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)",3,1,['W'],['W'],"['Saddle', 'Scry']",otj,common
+Trash the Town,{G},1.0,Instant,"Spree (Choose one or more additional costs.)
++ {2} — Put two +1/+1 counters on target creature.
++ {1} — Target creature gains trample until end of turn.
++ {1} — Until end of turn, target creature gains ""Whenever this creature deals combat damage to a player, draw two cards.""",n/a,n/a,['G'],['G'],['Spree'],otj,uncommon
+Treasure Dredger,{1}{B},2.0,Creature — Human Rogue,"{1}, {T}, Pay 1 life: Create a Treasure token. (It's an artifact with ""{T}, Sacrifice this artifact: Add one mana of any color."")",2,2,['B'],['B'],['Treasure'],otj,uncommon
+Trick Shot,{4}{R},5.0,Instant,Trick Shot deals 6 damage to target creature and 2 damage to up to one other target creature token.,n/a,n/a,['R'],['R'],[],otj,common
+Tumbleweed Rising,{1}{G},2.0,Sorcery,"Create an X/X green Elemental creature token, where X is the greatest power among creatures you control.
+Plot {2}{G} (You may pay {2}{G} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)",n/a,n/a,['G'],['G'],['Plot'],otj,common
+Unfortunate Accident,{B},1.0,Instant,"Spree (Choose one or more additional costs.)
++ {2}{B} — Destroy target creature.
++ {1} — Create a 1/1 red Mercenary creature token with ""{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.""",n/a,n/a,['B'],['B'],['Spree'],otj,uncommon
+Unscrupulous Contractor,{2}{B},3.0,Creature — Human Assassin,"When Unscrupulous Contractor enters the battlefield, you may sacrifice a creature. When you do, target player draws two cards and loses 2 life.
+Plot {2}{B} (You may pay {2}{B} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)",3,2,['B'],['B'],['Plot'],otj,uncommon
+"Vadmir, New Blood",{1}{B},2.0,Legendary Creature — Vampire Rogue,"Whenever you commit a crime, put a +1/+1 counter on Vadmir, New Blood. This ability triggers only once each turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)
+As long as Vadmir has four or more +1/+1 counters on it, it has menace and lifelink.",2,2,['B'],['B'],[],otj,rare
+Vault Plunderer,{2}{B},3.0,Creature — Human Rogue,"When Vault Plunderer enters the battlefield, target player draws a card and loses 1 life.",3,1,['B'],['B'],[],otj,common
+Vengeful Townsfolk,{2}{W},3.0,Creature — Human Citizen,"Whenever one or more other creatures you control die, put a +1/+1 counter on Vengeful Townsfolk.",3,3,['W'],['W'],[],otj,common
+"Vial Smasher, Gleeful Grenadier",{B}{R},2.0,Legendary Creature — Goblin Mercenary,"Whenever another outlaw enters the battlefield under your control, Vial Smasher, Gleeful Grenadier deals 1 damage to target opponent. (Assassins, Mercenaries, Pirates, Rogues, and Warlocks are outlaws.)",3,2,"['B', 'R']","['B', 'R']",[],otj,uncommon
+Visage Bandit,{3}{U},4.0,Creature — Shapeshifter Rogue,"You may have Visage Bandit enter the battlefield as a copy of a creature you control, except it's a Shapeshifter Rogue in addition to its other types.
+Plot {2}{U} (You may pay {2}{U} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)",2,2,['U'],['U'],['Plot'],otj,uncommon
+Voracious Varmint,{1}{G},2.0,Creature — Varmint,"Vigilance
+{1}, Sacrifice Voracious Varmint: Destroy target artifact or enchantment.",2,2,['G'],['G'],['Vigilance'],otj,common
+Vraska Joins Up,{B}{G},2.0,Legendary Enchantment,"When Vraska Joins Up enters the battlefield, put a deathtouch counter on each creature you control.
+Whenever a legendary creature you control deals combat damage to a player, draw a card.",n/a,n/a,"['B', 'G']","['B', 'G']",[],otj,rare
+"Vraska, the Silencer",{1}{B}{G},3.0,Legendary Creature — Gorgon Assassin,"Deathtouch
+Whenever a nontoken creature an opponent controls dies, you may pay {1}. If you do, return that card to the battlefield tapped under your control. It's a Treasure artifact with ""{T}, Sacrifice this artifact: Add one mana of any color,"" and it loses all other card types.",3,3,"['B', 'G']","['B', 'G']",['Deathtouch'],otj,mythic
+Wanted Griffin,{3}{W},4.0,Creature — Griffin,"Flying
+When Wanted Griffin dies, create a 1/1 red Mercenary creature token with ""{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.""",3,2,['W'],['W'],['Flying'],otj,common
+Wrangler of the Damned,{3}{W}{U},5.0,Creature — Human Soldier,"Flash
+At the beginning of your end step, if you haven't cast a spell from your hand this turn, create a 2/2 white Spirit creature token with flying.",1,4,"['U', 'W']","['U', 'W']",['Flash'],otj,uncommon
+"Wylie Duke, Atiin Hero",{1}{G}{W},3.0,Legendary Creature — Human Ranger,"Vigilance
+Whenever Wylie Duke, Atiin Hero becomes tapped, you gain 1 life and draw a card.",4,2,"['G', 'W']","['G', 'W']",['Vigilance'],otj,rare

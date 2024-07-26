@@ -1,0 +1,635 @@
+name,mana_cost,cmc,type_line,oracle_text,power,toughness,colors,color_identity,keywords,set,rarity
+Abiding Grace,{2}{W},3.0,Enchantment,"At the beginning of your end step, choose one —
+• You gain 1 life.
+• Return target creature card with mana value 1 from your graveyard to the battlefield.",n/a,n/a,['W'],['W'],[],mh2,uncommon
+Abundant Harvest,{G},1.0,Sorcery,Choose land or nonland. Reveal cards from the top of your library until you reveal a card of the chosen kind. Put that card into your hand and the rest on the bottom of your library in a random order.,n/a,n/a,['G'],['G'],[],mh2,common
+Academy Manufactor,{3},3.0,Artifact Creature — Assembly-Worker,"If you would create a Clue, Food, or Treasure token, instead create one of each.",1,3,[],[],"['Treasure', 'Food']",mh2,rare
+A-Dragon's Rage Channeler,{R},1.0,Creature — Human Shaman,"Whenever you cast a noncreature spell, surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)
+Delirium — As long as there are four or more card types among cards in your graveyard, Dragon's Rage Channeler gets +2/+0, has flying, and attacks each combat if able.",1,1,['R'],['R'],"['Delirium', 'Surveil']",mh2,uncommon
+Aeromoeba,{3}{U},4.0,Creature — Elemental Beast,"Flying
+Discard a card: Switch Aeromoeba's power and toughness until end of turn.",2,4,['U'],['U'],['Flying'],mh2,common
+"Aeve, Progenitor Ooze",{2}{G}{G}{G},5.0,Legendary Creature — Ooze,"Storm (When you cast this spell, copy it for each spell cast before it this turn. Copies become tokens.)
+Aeve, Progenitor Ooze isn't legendary if it's a token.
+Aeve enters the battlefield with a +1/+1 counter on it for each other Ooze you control.",2,2,['G'],['G'],['Storm'],mh2,rare
+Altar of the Goyf,{5},5.0,Kindred Artifact — Lhurgoyf,"Whenever a creature you control attacks alone, it gets +X/+X until end of turn, where X is the number of card types among cards in all graveyards.
+Lhurgoyf creatures you control have trample.",n/a,n/a,[],[],[],mh2,uncommon
+Angelic Curator,{1}{W},2.0,Creature — Angel Spirit,"Flying, protection from artifacts",1,1,['W'],['W'],"['Flying', 'Protection']",mh2,uncommon
+Arcbound Javelineer,{W},1.0,Artifact Creature — Soldier,"{T}, Remove X +1/+1 counters from Arcbound Javelineer: It deals X damage to target attacking or blocking creature.
+Modular 1 (This creature enters the battlefield with a +1/+1 counter on it. When it dies, you may put its +1/+1 counters on target artifact creature.)",0,1,['W'],['W'],['Modular'],mh2,uncommon
+Arcbound Mouser,{W},1.0,Artifact Creature — Cat,"Lifelink
+Modular 1 (This creature enters the battlefield with a +1/+1 counter on it. When it dies, you may put its +1/+1 counters on target artifact creature.)",0,0,['W'],['W'],"['Lifelink', 'Modular']",mh2,common
+Arcbound Prototype,{1}{W},2.0,Artifact Creature — Assembly-Worker,"Modular 2 (This creature enters the battlefield with two +1/+1 counters on it. When it dies, you may put its +1/+1 counters on target artifact creature.)",0,0,['W'],['W'],['Modular'],mh2,common
+Arcbound Shikari,{1}{R}{W},3.0,Artifact Creature — Cat Soldier,"First strike
+When Arcbound Shikari enters the battlefield, put a +1/+1 counter on each other artifact creature you control.
+Modular 2 (This creature enters the battlefield with two +1/+1 counters on it. When it dies, you may put its +1/+1 counters on target artifact creature.)",0,0,"['R', 'W']","['R', 'W']","['First strike', 'Modular']",mh2,uncommon
+Arcbound Slasher,{4}{R},5.0,Artifact Creature — Cat,"Modular 4 (This creature enters the battlefield with four +1/+1 counters on it. When it dies, you may put its +1/+1 counters on target artifact creature.)
+Riot (This creature enters the battlefield with your choice of an additional +1/+1 counter or haste.)",0,0,['R'],['R'],"['Modular', 'Riot']",mh2,common
+Arcbound Tracker,{2}{R},3.0,Artifact Creature — Dog,"Menace
+Modular 2 (This creature enters the battlefield with two +1/+1 counters on it. When it dies, you may put its +1/+1 counters on target artifact creature.)
+Whenever you cast a spell other than your first spell each turn, put a +1/+1 counter on Arcbound Tracker.",0,0,['R'],['R'],"['Modular', 'Menace']",mh2,common
+Arcbound Whelp,{3}{R},4.0,Artifact Creature — Dragon,"Flying
+{R}: Arcbound Whelp gets +1/+0 until end of turn.
+Modular 2 (This creature enters the battlefield with two +1/+1 counters on it. When it dies, you may put its +1/+1 counters on target artifact creature.)",0,0,['R'],['R'],"['Flying', 'Modular']",mh2,uncommon
+Archfiend of Sorrows,{5}{B}{B},7.0,Creature — Demon,"Flying
+When Archfiend of Sorrows enters the battlefield, creatures your opponents control get -2/-2 until end of turn.
+Unearth {3}{B}{B} ({3}{B}{B}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)",4,5,['B'],['B'],"['Flying', 'Unearth']",mh2,uncommon
+Archon of Cruelty,{6}{B}{B},8.0,Creature — Archon,"Flying
+Whenever Archon of Cruelty enters the battlefield or attacks, target opponent sacrifices a creature or planeswalker, discards a card, and loses 3 life. You draw a card and gain 3 life.",6,6,['B'],['B'],['Flying'],mh2,mythic
+Arcus Acolyte,{G}{W},2.0,Creature — Human Cleric Archer,"Reach, lifelink
+Outlast {G/W} ({G/W}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)
+Each other creature you control without a +1/+1 counter on it has outlast {G/W}.",2,2,"['G', 'W']","['G', 'W']","['Lifelink', 'Reach', 'Outlast']",mh2,uncommon
+Arid Mesa,,0.0,Land,"{T}, Pay 1 life, Sacrifice Arid Mesa: Search your library for a Mountain or Plains card, put it onto the battlefield, then shuffle.",n/a,n/a,[],[],[],mh2,rare
+Asmoranomardicadaistinaculdacar,,0.0,Legendary Creature — Human Wizard,"As long as you've discarded a card this turn, you may pay {B/R} to cast this spell.
+When Asmoranomardicadaistinaculdacar enters the battlefield, you may search your library for a card named The Underworld Cookbook, reveal it, put it into your hand, then shuffle.
+Sacrifice two Foods: Target creature deals 6 damage to itself.",3,3,"['B', 'R']","['B', 'R']",[],mh2,rare
+A-Unholy Heat,{R},1.0,Instant,"Unholy Heat deals 2 damage to target creature or planeswalker.
+Delirium — Unholy Heat deals 4 damage instead if there are four or more card types among cards in your graveyard.",n/a,n/a,['R'],['R'],['Delirium'],mh2,common
+Bannerhide Krushok,{3}{G},4.0,Creature — Beast,"Trample
+Reinforce 2—{1}{G} ({1}{G}, Discard this card: Put two +1/+1 counters on target creature.)
+Scavenge {5}{G}{G} ({5}{G}{G}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)",4,4,['G'],['G'],"['Scavenge', 'Trample', 'Reinforce']",mh2,common
+Barbed Spike,{1}{W},2.0,Artifact — Equipment,"When Barbed Spike enters the battlefield, create a 1/1 colorless Thopter artifact creature token with flying, then attach Barbed Spike to it.
+Equipped creature gets +1/+0.
+Equip {2}",n/a,n/a,['W'],['W'],['Equip'],mh2,uncommon
+Batterbone,{2},2.0,Artifact — Equipment,"Living weapon (When this Equipment enters the battlefield, create a 0/0 black Phyrexian Germ creature token, then attach this to it.)
+Equipped creature gets +1/+1 and has vigilance and lifelink.
+Equip {5}",n/a,n/a,[],[],"['Equip', 'Living weapon']",mh2,uncommon
+Battle Plan,{3}{R},4.0,Enchantment,"At the beginning of combat on your turn, target creature you control gets +2/+0 until end of turn.
+Basic landcycling {1}{R} ({1}{R}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)",n/a,n/a,['R'],['R'],"['Landcycling', 'Basic landcycling', 'Typecycling', 'Cycling']",mh2,common
+Blacksmith's Skill,{W},1.0,Instant,"Target permanent gains hexproof and indestructible until end of turn. If it's an artifact creature, it gets +2/+2 until end of turn.",n/a,n/a,['W'],['W'],[],mh2,common
+Blazing Rootwalla,{R},1.0,Creature — Lizard,"{R}: Blazing Rootwalla gets +2/+0 until end of turn. Activate only once each turn.
+Madness {0} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)",1,1,['R'],['R'],['Madness'],mh2,uncommon
+Blessed Respite,{1}{G},2.0,Instant,Target player shuffles their graveyard into their library. Prevent all combat damage that would be dealt this turn.,n/a,n/a,['G'],['G'],[],mh2,uncommon
+Bloodbraid Marauder,{1}{R},2.0,Creature — Human Berserker,"Bloodbraid Marauder can't block.
+Delirium — This spell has cascade as long as there are four or more card types among cards in your graveyard. (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)",3,1,['R'],['R'],['Delirium'],mh2,rare
+Blossoming Calm,{W},1.0,Instant,"You gain hexproof until your next turn. You gain 2 life.
+Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)",n/a,n/a,['W'],['W'],['Rebound'],mh2,uncommon
+Bone Shards,{B},1.0,Sorcery,"As an additional cost to cast this spell, sacrifice a creature or discard a card.
+Destroy target creature or planeswalker.",n/a,n/a,['B'],['B'],[],mh2,common
+Bone Shredder,{2}{B},3.0,Creature — Phyrexian Minion,"Flying
+Echo {2}{B} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)
+When Bone Shredder enters the battlefield, destroy target nonartifact, nonblack creature.",1,1,['B'],['B'],"['Echo', 'Flying']",mh2,uncommon
+Bottle Golems,{4},4.0,Artifact Creature — Golem,"Trample
+When Bottle Golems dies, you gain life equal to its power.",3,3,[],[],['Trample'],mh2,common
+"Braids, Cabal Minion",{2}{B}{B},4.0,Legendary Creature — Human Minion,"At the beginning of each player's upkeep, that player sacrifices an artifact, creature, or land.",2,2,['B'],['B'],[],mh2,rare
+Brainstone,{1},1.0,Artifact,"{2}, {T}, Sacrifice Brainstone: Draw three cards, then put two cards from your hand on top of your library in any order.",n/a,n/a,[],[],[],mh2,uncommon
+Break the Ice,{B}{B},2.0,Sorcery,"Destroy target land that is snow or could produce {C}.
+Overload {4}{B}{B} (You may cast this spell for its overload cost. If you do, change ""target"" in its text to ""each."")",n/a,n/a,['B'],['B'],['Overload'],mh2,uncommon
+Break Ties,{2}{W},3.0,Instant,"Choose one —
+• Destroy target artifact.
+• Destroy target enchantment.
+• Exile target card from a graveyard.
+Reinforce 1—{W} ({W}, Discard this card: Put a +1/+1 counter on target creature.)",n/a,n/a,['W'],['W'],['Reinforce'],mh2,common
+Breathless Knight,{1}{W}{B},3.0,Creature — Spirit Knight,"Flying, lifelink
+Whenever Breathless Knight or another creature enters the battlefield under your control, if that creature entered from a graveyard or you cast it from a graveyard, put a +1/+1 counter on Breathless Knight.",2,2,"['B', 'W']","['B', 'W']","['Flying', 'Lifelink']",mh2,common
+Breya's Apprentice,{2}{R},3.0,Artifact Creature — Human Artificer,"When Breya's Apprentice enters the battlefield, create a 1/1 colorless Thopter artifact creature token with flying.
+{T}, Sacrifice an artifact: Choose one —
+• Exile the top card of your library. Until the end of your next turn, you may play that card.
+• Target creature gets +2/+0 until end of turn.",2,3,['R'],['R'],[],mh2,rare
+Burdened Aerialist,{2}{U},3.0,Creature — Human Pirate,"When Burdened Aerialist enters the battlefield, create a Treasure token. (It's an artifact with ""{T}, Sacrifice this artifact: Add one mana of any color."")
+Whenever you sacrifice a token, Burdened Aerialist gains flying until end of turn.",3,1,['U'],['U'],['Treasure'],mh2,common
+Cabal Coffers,,0.0,Land,"{2}, {T}: Add {B} for each Swamp you control.",n/a,n/a,[],['B'],[],mh2,mythic
+Cabal Initiate,{1}{B},2.0,Creature — Human Warlock,"Discard a card: Cabal Initiate gains lifelink until end of turn.
+Threshold — Cabal Initiate gets +1/+2 as long as seven or more cards are in your graveyard.",2,1,['B'],['B'],['Threshold'],mh2,common
+Calibrated Blast,{2}{R},3.0,Instant,"Reveal cards from the top of your library until you reveal a nonland card. Put the revealed cards on the bottom of your library in a random order. When you reveal a nonland card this way, Calibrated Blast deals damage equal to that card's mana value to any target.
+Flashback {3}{R}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",n/a,n/a,['R'],['R'],['Flashback'],mh2,rare
+Caprichrome,{3}{W},4.0,Artifact Creature — Goat,"Flash
+Vigilance
+Devour artifact 1 (As this enters the battlefield, you may sacrifice any number of artifacts. This creature enters the battlefield with that many +1/+1 counters on it.)",2,2,['W'],['W'],"['Vigilance', 'Flash', 'Devour']",mh2,uncommon
+Captain Ripley Vance,{2}{R},3.0,Legendary Creature — Human Pirate,"Whenever you cast your third spell each turn, put a +1/+1 counter on Captain Ripley Vance, then it deals damage equal to its power to any target.",3,2,['R'],['R'],[],mh2,uncommon
+Captured by Lagacs,{1}{G}{W},3.0,Enchantment — Aura,"Enchant creature
+Enchanted creature can't attack or block.
+When Captured by Lagacs enters the battlefield, support 2. (Put a +1/+1 counter on each of up to two target creatures.)",n/a,n/a,"['G', 'W']","['G', 'W']","['Support', 'Enchant']",mh2,common
+Carth the Lion,{2}{B}{G},4.0,Legendary Creature — Human Warrior,"Whenever Carth the Lion enters the battlefield or a planeswalker you control dies, look at the top seven cards of your library. You may reveal a planeswalker card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+Planeswalkers' loyalty abilities you activate cost an additional [+1] to activate.",3,5,"['B', 'G']","['B', 'G']",[],mh2,rare
+"Chainer, Nightmare Adept",{2}{B}{R},4.0,Legendary Creature — Human Minion,"Discard a card: You may cast a creature spell from your graveyard this turn. Activate only once each turn.
+Whenever a nontoken creature enters the battlefield under your control, if you didn't cast it from your hand, it gains haste until your next turn.",3,2,"['B', 'R']","['B', 'R']",[],mh2,rare
+Chance Encounter,{2}{R}{R},4.0,Enchantment,"Whenever you win a coin flip, put a luck counter on Chance Encounter.
+At the beginning of your upkeep, if Chance Encounter has ten or more luck counters on it, you win the game.",n/a,n/a,['R'],['R'],[],mh2,rare
+"Chatterfang, Squirrel General",{2}{G},3.0,Legendary Creature — Squirrel Warrior,"Forestwalk (This creature can't be blocked as long as defending player controls a Forest.)
+If one or more tokens would be created under your control, those tokens plus that many 1/1 green Squirrel creature tokens are created instead.
+{B}, Sacrifice X Squirrels: Target creature gets +X/-X until end of turn.",3,3,['G'],"['B', 'G']","['Landwalk', 'Forestwalk']",mh2,mythic
+Chatterstorm,{1}{G},2.0,Sorcery,"Create a 1/1 green Squirrel creature token.
+Storm (When you cast this spell, copy it for each spell cast before it this turn.)",n/a,n/a,['G'],['G'],['Storm'],mh2,common
+Chef's Kiss,{1}{R}{R},3.0,Instant,"Gain control of target spell that targets only a single permanent or player. Copy it, then reselect the targets at random for the spell and the copy. The new targets can't be you or a permanent you control.",n/a,n/a,['R'],['R'],[],mh2,rare
+Chitterspitter,{2}{G},3.0,Artifact,"At the beginning of your upkeep, you may sacrifice a token. If you do, put an acorn counter on Chitterspitter.
+Squirrels you control get +1/+1 for each acorn counter on Chitterspitter.
+{G}, {T}: Create a 1/1 green Squirrel creature token.",n/a,n/a,['G'],['G'],[],mh2,rare
+Chrome Courier,{1}{W}{U},3.0,Artifact Creature — Thopter,"Flying
+When Chrome Courier enters the battlefield, reveal the top two cards of your library. Put one of them into your hand and the other into your graveyard. If you put an artifact card into your hand this way, you gain 3 life.",1,1,"['U', 'W']","['U', 'W']",['Flying'],mh2,common
+Clattering Augur,{1}{B},2.0,Creature — Skeleton Shaman,"Clattering Augur can't block.
+When Clattering Augur enters the battlefield, you draw a card and you lose 1 life.
+{2}{B}{B}: Return Clattering Augur from your graveyard to your hand.",1,1,['B'],['B'],[],mh2,uncommon
+Combine Chrysalis,{G}{U},2.0,Artifact,"Creature tokens you control have flying.
+{2}{G}{U}, {T}, Sacrifice a token: Create a 4/4 green Beast creature token. Activate only as a sorcery.",n/a,n/a,"['G', 'U']","['G', 'U']",[],mh2,uncommon
+Constable of the Realm,{4}{W},5.0,Creature — Giant Soldier,"Renown 2 (When this creature deals combat damage to a player, if it isn't renowned, put two +1/+1 counters on it and it becomes renowned.)
+Whenever one or more +1/+1 counters are put on Constable of the Realm, exile up to one other target nonland permanent until Constable of the Realm leaves the battlefield.",3,3,['W'],['W'],['Renown'],mh2,uncommon
+Counterspell,{U}{U},2.0,Instant,Counter target spell.,n/a,n/a,['U'],['U'],[],mh2,uncommon
+Crack Open,{2}{G},3.0,Sorcery,"Destroy target artifact or enchantment. Create a Treasure token. (It's an artifact with ""{T}, Sacrifice this artifact: Add one mana of any color."")",n/a,n/a,['G'],['G'],['Treasure'],mh2,common
+Cursed Totem,{2},2.0,Artifact,Activated abilities of creatures can't be activated.,n/a,n/a,[],[],[],mh2,rare
+"Dakkon, Shadow Slayer",{W}{U}{B},3.0,Legendary Planeswalker — Dakkon,"Dakkon, Shadow Slayer enters the battlefield with a number of loyalty counters on him equal to the number of lands you control.
++1: Surveil 2.
+−3: Exile target creature.
+−6: You may put an artifact card from your hand or graveyard onto the battlefield.",n/a,n/a,"['B', 'U', 'W']","['B', 'U', 'W']",['Surveil'],mh2,mythic
+Damn,{B}{B},2.0,Sorcery,"Destroy target creature. A creature destroyed this way can't be regenerated.
+Overload {2}{W}{W} (You may cast this spell for its overload cost. If you do, change ""target"" in its text to ""each."")",n/a,n/a,['B'],"['B', 'W']",['Overload'],mh2,rare
+Darkmoss Bridge,,0.0,Artifact Land,"Darkmoss Bridge enters the battlefield tapped.
+Indestructible
+{T}: Add {B} or {G}.",n/a,n/a,[],"['B', 'G']",['Indestructible'],mh2,common
+Dauthi Voidwalker,{B}{B},2.0,Creature — Dauthi Rogue,"Shadow (This creature can block or be blocked by only creatures with shadow.)
+If a card would be put into an opponent's graveyard from anywhere, instead exile it with a void counter on it.
+{T}, Sacrifice Dauthi Voidwalker: Choose an exiled card an opponent owns with a void counter on it. You may play it this turn without paying its mana cost.",3,2,['B'],['B'],['Shadow'],mh2,rare
+Deepwood Denizen,{2}{G},3.0,Creature — Elf Warrior,"Vigilance
+{5}{G}, {T}: Draw a card. This ability costs {1} less to activate for each +1/+1 counter on creatures you control.",3,2,['G'],['G'],['Vigilance'],mh2,common
+Dermotaxi,{2},2.0,Artifact — Vehicle,"Imprint — As Dermotaxi enters the battlefield, exile a creature card from a graveyard.
+Tap two untapped creatures you control: Until end of turn, Dermotaxi becomes a copy of the exiled card, except it's a Vehicle artifact in addition to its other types.",0,0,[],[],['Imprint'],mh2,rare
+Diamond Lion,{2},2.0,Artifact Creature — Cat,"{T}, Discard your hand, Sacrifice Diamond Lion: Add three mana of any one color. Activate only as an instant.",2,2,[],[],[],mh2,rare
+Dihada's Ploy,{1}{U}{B},3.0,Instant,"Draw two cards, then discard a card. You gain life equal to the number of cards you've discarded this turn.
+Jump-start (You may cast this card from your graveyard by discarding a card in addition to paying its other costs. Then exile this card.)",n/a,n/a,"['B', 'U']","['B', 'U']",['Jump-start'],mh2,common
+Discerning Taste,{2}{B},3.0,Sorcery,Look at the top four cards of your library. Put one of them into your hand and the rest into your graveyard. You gain life equal to the greatest power among creature cards put into your graveyard this way.,n/a,n/a,['B'],['B'],[],mh2,common
+Disciple of the Sun,{4}{W},5.0,Creature — Human Cleric,"Lifelink
+When Disciple of the Sun enters the battlefield, return target permanent card with mana value 3 or less from your graveyard to your hand.",3,3,['W'],['W'],['Lifelink'],mh2,common
+Dragon's Rage Channeler,{R},1.0,Creature — Human Shaman,"Whenever you cast a noncreature spell, surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)
+Delirium — As long as there are four or more card types among cards in your graveyard, Dragon's Rage Channeler gets +2/+2, has flying, and attacks each combat if able.",1,1,['R'],['R'],"['Delirium', 'Surveil']",mh2,uncommon
+Dress Down,{1}{U},2.0,Enchantment,"Flash
+When Dress Down enters the battlefield, draw a card.
+Creatures lose all abilities.
+At the beginning of the end step, sacrifice Dress Down.",n/a,n/a,['U'],['U'],['Flash'],mh2,rare
+Drey Keeper,{3}{B}{G},5.0,Creature — Elf Druid,"When Drey Keeper enters the battlefield, create two 1/1 green Squirrel creature tokens.
+{3}{B}: Squirrels you control get +1/+0 and gain menace until end of turn.",2,2,"['B', 'G']","['B', 'G']",[],mh2,common
+Drossforge Bridge,,0.0,Artifact Land,"Drossforge Bridge enters the battlefield tapped.
+Indestructible
+{T}: Add {B} or {R}.",n/a,n/a,[],"['B', 'R']",['Indestructible'],mh2,common
+Duskshell Crawler,{1}{G},2.0,Creature — Insect,"When Duskshell Crawler enters the battlefield, put a +1/+1 counter on target creature.
+Each creature you control with a +1/+1 counter on it has trample.",0,3,['G'],['G'],[],mh2,common
+Echoing Return,{B},1.0,Sorcery,Return target creature card and all other cards with the same name as that card from your graveyard to your hand.,n/a,n/a,['B'],['B'],[],mh2,common
+Enchantress's Presence,{2}{G},3.0,Enchantment,"Whenever you cast an enchantment spell, draw a card.",n/a,n/a,['G'],['G'],[],mh2,rare
+Endurance,{1}{G}{G},3.0,Creature — Elemental Incarnation,"Flash
+Reach
+When Endurance enters the battlefield, up to one target player puts all the cards from their graveyard on the bottom of their library in a random order.
+Evoke—Exile a green card from your hand.",3,4,['G'],['G'],"['Reach', 'Evoke', 'Flash']",mh2,mythic
+Esper Sentinel,{W},1.0,Artifact Creature — Human Soldier,"Whenever an opponent casts their first noncreature spell each turn, draw a card unless that player pays {X}, where X is Esper Sentinel's power.",1,1,['W'],['W'],[],mh2,rare
+Etherium Spinner,{2}{U},3.0,Artifact Creature — Human Wizard,"Whenever you cast a spell with mana value 4 or greater, create a 1/1 colorless Thopter artifact creature token with flying.",2,1,['U'],['U'],[],mh2,common
+Ethersworn Sphinx,{7}{W}{U},9.0,Artifact Creature — Sphinx,"Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+Flying
+Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card with lesser mana value. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)",4,4,"['U', 'W']","['U', 'W']","['Cascade', 'Flying', 'Affinity']",mh2,uncommon
+Extruder,{4},4.0,Artifact Creature — Juggernaut,"Echo {4} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)
+Sacrifice an artifact: Put a +1/+1 counter on target creature.",4,3,[],[],['Echo'],mh2,uncommon
+Fae Offering,{2}{G},3.0,Enchantment,"At the beginning of each end step, if you've cast both a creature spell and a noncreature spell this turn, create a Clue token, a Food token, and a Treasure token.",n/a,n/a,['G'],['G'],"['Treasure', 'Food']",mh2,uncommon
+Fairgrounds Patrol,{1}{W},2.0,Creature — Human Soldier,"{1}{W}, Exile Fairgrounds Patrol from your graveyard: Create a 1/1 colorless Thopter artifact creature token with flying. Activate only as a sorcery.",2,1,['W'],['W'],[],mh2,common
+Faithless Salvaging,{1}{R},2.0,Instant,"Discard a card, then draw a card.
+Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)",n/a,n/a,['R'],['R'],['Rebound'],mh2,common
+Fast // Furious,{2}{R} // {3}{R}{R},8.0,Instant // Sorcery,n/a,n/a,n/a,['R'],['R'],[],mh2,uncommon
+Feast of Sanity,{3}{B},4.0,Enchantment,"Whenever you discard a card, Feast of Sanity deals 1 damage to any target and you gain 1 life.",n/a,n/a,['B'],['B'],[],mh2,uncommon
+Filigree Attendant,{2}{U}{U},4.0,Artifact Creature — Homunculus,"Flying
+Filigree Attendant's power is equal to the number of artifacts you control.",*,3,['U'],['U'],['Flying'],mh2,uncommon
+Fire // Ice,{1}{R} // {1}{U},4.0,Instant // Instant,n/a,n/a,n/a,"['R', 'U']","['R', 'U']",[],mh2,rare
+Flame Blitz,{R},1.0,Enchantment,"At the beginning of your end step, Flame Blitz deals 5 damage to each planeswalker.
+Cycling {2} ({2}, Discard this card: Draw a card.)",n/a,n/a,['R'],['R'],['Cycling'],mh2,uncommon
+Flame Rift,{1}{R},2.0,Sorcery,Flame Rift deals 4 damage to each player.,n/a,n/a,['R'],['R'],[],mh2,uncommon
+Flametongue Yearling,{R}{R},2.0,Creature — Kavu,"Multikicker {2} (You may pay an additional {2} any number of times as you cast this spell.)
+Flametongue Yearling enters the battlefield with a +1/+1 counter on it for each time it was kicked.
+When Flametongue Yearling enters the battlefield, it deals damage equal to its power to target creature.",2,1,['R'],['R'],['Multikicker'],mh2,uncommon
+Flay Essence,{1}{B}{B},3.0,Sorcery,Exile target creature or planeswalker. You gain life equal to the number of counters on it.,n/a,n/a,['B'],['B'],[],mh2,uncommon
+Floodhound,{U},1.0,Creature — Elemental Dog,"{3}, {T}: Investigate. (Create a Clue token. It's an artifact with ""{2}, Sacrifice this artifact: Draw a card."")",1,2,['U'],['U'],['Investigate'],mh2,common
+Flourishing Strike,{1}{G},2.0,Instant,"Choose one —
+• Flourishing Strike deals 5 damage to target creature with flying.
+• Target creature gets +3/+3 until end of turn.
+Entwine {2}{G} (Choose both if you pay the entwine cost.)",n/a,n/a,['G'],['G'],['Entwine'],mh2,common
+Fodder Tosser,{3},3.0,Artifact,"{T}, Discard a card: Fodder Tosser deals 2 damage to target player or planeswalker.",n/a,n/a,[],[],[],mh2,common
+Forest,,0.0,Basic Land — Forest,({T}: Add {G}.),n/a,n/a,[],['G'],[],mh2,common
+Foul Watcher,{1}{U},2.0,Creature — Nightmare Bird,"Flying
+When Foul Watcher enters the battlefield, surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)
+Delirium — Foul Watcher gets +1/+0 as long as there are four or more card types among cards in your graveyard.",1,2,['U'],['U'],"['Flying', 'Delirium', 'Surveil']",mh2,common
+Foundation Breaker,{3}{G},4.0,Creature — Elemental,"When Foundation Breaker enters the battlefield, you may destroy target artifact or enchantment.
+Evoke {1}{G} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)",2,2,['G'],['G'],['Evoke'],mh2,uncommon
+Foundry Helix,{1}{R}{W},3.0,Instant,"As an additional cost to cast this spell, sacrifice a permanent.
+Foundry Helix deals 4 damage to any target. If the sacrificed permanent was an artifact, you gain 4 life.",n/a,n/a,"['R', 'W']","['R', 'W']",[],mh2,common
+Fractured Sanity,{U}{U}{U},3.0,Sorcery,"Each opponent mills fourteen cards.
+Cycling {1}{U} ({1}{U}, Discard this card: Draw a card.)
+When you cycle Fractured Sanity, each opponent mills four cards.",n/a,n/a,['U'],['U'],"['Mill', 'Cycling']",mh2,rare
+Funnel-Web Recluse,{4}{G},5.0,Creature — Spider,"Reach
+Morbid — When Funnel-Web Recluse enters the battlefield, if a creature died this turn, investigate. (Create a Clue token. It's an artifact with ""{2}, Sacrifice this artifact: Draw a card."")",3,5,['G'],['G'],"['Reach', 'Investigate', 'Morbid']",mh2,common
+Fury,{3}{R}{R},5.0,Creature — Elemental Incarnation,"Double strike
+When Fury enters the battlefield, it deals 4 damage divided as you choose among any number of target creatures and/or planeswalkers.
+Evoke—Exile a red card from your hand.",3,3,['R'],['R'],"['Evoke', 'Double strike']",mh2,mythic
+Gaea's Will,,0.0,Sorcery,"Suspend 4—{G}
+Until end of turn, you may play lands and cast spells from your graveyard.
+If a card would be put into your graveyard from anywhere this turn, exile that card instead.",n/a,n/a,['G'],['G'],['Suspend'],mh2,rare
+Galvanic Relay,{2}{R},3.0,Sorcery,"Exile the top card of your library. During your next turn, you may play that card.
+Storm (When you cast this spell, copy it for each spell cast before it this turn.)",n/a,n/a,['R'],['R'],['Storm'],mh2,common
+Gargadon,{5}{R}{R},7.0,Creature — Beast,"Trample
+Suspend 4—{1}{R} (Rather than cast this card from your hand, you may pay {1}{R} and exile it with four time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost. It has haste.)",7,5,['R'],['R'],"['Suspend', 'Trample']",mh2,common
+Garth One-Eye,{W}{U}{B}{R}{G},5.0,Legendary Creature — Human Wizard,"{T}: Choose a card name that hasn't been chosen from among Disenchant, Braingeyser, Terror, Shivan Dragon, Regrowth, and Black Lotus. Create a copy of the card with the chosen name. You may cast the copy. (You still pay its costs.)",5,5,"['B', 'G', 'R', 'U', 'W']","['B', 'G', 'R', 'U', 'W']",[],mh2,mythic
+General Ferrous Rokiric,{1}{R}{W},3.0,Legendary Creature — Human Soldier,"Hexproof from monocolored
+Whenever you cast a multicolored spell, create a 4/4 red and white Golem artifact creature token.",3,1,"['R', 'W']","['R', 'W']","['Hexproof from', 'Hexproof']",mh2,rare
+Geyadrone Dihada,{1}{U}{B}{R},4.0,Legendary Planeswalker — Dihada,"Protection from permanents with corruption counters on them
++1: Each opponent loses 2 life and you gain 2 life. Put a corruption counter on up to one other target creature or planeswalker.
+−3: Gain control of target creature or planeswalker until end of turn. Untap it and put a corruption counter on it. It gains haste until end of turn.
+−7: Gain control of each permanent with a corruption counter on it.",n/a,n/a,"['B', 'R', 'U']","['B', 'R', 'U']",['Protection'],mh2,mythic
+Ghost-Lit Drifter,{2}{U},3.0,Creature — Spirit,"Flying
+{2}{U}: Another target creature gains flying until end of turn.
+Channel — {X}{U}, Discard Ghost-Lit Drifter: X target creatures gain flying until end of turn.",2,2,['U'],['U'],"['Flying', 'Channel']",mh2,uncommon
+Gilt-Blade Prowler,{2}{B},3.0,Creature — Human Rogue,"{1}, {T}, Pay 1 life: Draw a card. Activate only if you've discarded a card this turn.",2,3,['B'],['B'],[],mh2,common
+Glimmer Bairn,{G},1.0,Creature — Ouphe,Sacrifice a token: Glimmer Bairn gets +2/+2 until end of turn.,1,2,['G'],['G'],[],mh2,common
+Glimpse of Tomorrow,,0.0,Sorcery,"Suspend 3—{R}{R}
+Shuffle all permanents you own into your library, then reveal that many cards from the top of your library. Put all non-Aura permanent cards revealed this way onto the battlefield, then do the same for Aura cards, then put the rest on the bottom of your library in a random order.",n/a,n/a,['R'],['R'],['Suspend'],mh2,rare
+Glinting Creeper,{4}{G},5.0,Creature — Plant,"Converge — Glinting Creeper enters the battlefield with two +1/+1 counters on it for each color of mana spent to cast it.
+Glinting Creeper can't be blocked by creatures with power 2 or less.",0,0,['G'],['G'],['Converge'],mh2,uncommon
+Glorious Enforcer,{5}{W}{W},7.0,Creature — Angel,"Flying, lifelink
+At the beginning of each combat, if you have more life than an opponent, Glorious Enforcer gains double strike until end of turn.",5,5,['W'],['W'],"['Flying', 'Lifelink']",mh2,uncommon
+Goblin Anarchomancer,{R}{G},2.0,Creature — Goblin Shaman,Each spell you cast that's red or green costs {1} less to cast.,2,2,"['G', 'R']","['G', 'R']",[],mh2,common
+Goblin Bombardment,{1}{R},2.0,Enchantment,Sacrifice a creature: Goblin Bombardment deals 1 damage to any target.,n/a,n/a,['R'],['R'],[],mh2,rare
+Goblin Traprunner,{3}{R},4.0,Creature — Goblin,"Whenever Goblin Traprunner attacks, flip three coins. For each flip you win, create a 1/1 red Goblin creature token that's tapped and attacking.",4,2,['R'],['R'],[],mh2,uncommon
+Goldmire Bridge,,0.0,Artifact Land,"Goldmire Bridge enters the battlefield tapped.
+Indestructible
+{T}: Add {W} or {B}.",n/a,n/a,[],"['B', 'W']",['Indestructible'],mh2,common
+Gorilla Shaman,{R},1.0,Creature — Ape Shaman,{X}{X}{1}: Destroy target noncreature artifact with mana value X.,1,1,['R'],['R'],[],mh2,uncommon
+Gouged Zealot,{3}{R},4.0,Creature — Cyclops Berserker,"Reach
+Delirium — Whenever Gouged Zealot attacks, if there are four or more card types among cards in your graveyard, Gouged Zealot deals 1 damage to each creature defending player controls.",4,3,['R'],['R'],"['Delirium', 'Reach']",mh2,common
+Graceful Restoration,{3}{W}{B},5.0,Sorcery,"Choose one —
+• Return target creature card from your graveyard to the battlefield with an additional +1/+1 counter on it.
+• Return up to two target creature cards with power 2 or less from your graveyard to the battlefield.",n/a,n/a,"['B', 'W']","['B', 'W']",[],mh2,uncommon
+Greed,{3}{B},4.0,Enchantment,"{B}, Pay 2 life: Draw a card.",n/a,n/a,['B'],['B'],[],mh2,uncommon
+Grief,{2}{B}{B},4.0,Creature — Elemental Incarnation,"Menace
+When Grief enters the battlefield, target opponent reveals their hand. You choose a nonland card from it. That player discards that card.
+Evoke—Exile a black card from your hand.",3,2,['B'],['B'],"['Evoke', 'Menace']",mh2,mythic
+"Grist, the Hunger Tide",{1}{B}{G},3.0,Legendary Planeswalker — Grist,"As long as Grist, the Hunger Tide isn't on the battlefield, it's a 1/1 Insect creature in addition to its other types.
++1: Create a 1/1 black and green Insect creature token, then mill a card. If an Insect card was milled this way, put a loyalty counter on Grist and repeat this process.
+−2: You may sacrifice a creature. When you do, destroy target creature or planeswalker.
+−5: Each opponent loses life equal to the number of creature cards in your graveyard.",n/a,n/a,"['B', 'G']","['B', 'G']",['Mill'],mh2,mythic
+Guardian Kirin,{3}{W},4.0,Creature — Kirin,"Flying
+Whenever another creature you control dies, put a +1/+1 counter on Guardian Kirin.",2,3,['W'],['W'],['Flying'],mh2,common
+Hard Evidence,{U},1.0,Sorcery,"Create a 0/3 blue Crab creature token.
+Investigate. (Create a Clue token. It's an artifact with ""{2}, Sacrifice this artifact: Draw a card."")",n/a,n/a,['U'],['U'],['Investigate'],mh2,common
+Harmonic Prodigy,{1}{R},2.0,Creature — Human Wizard,"Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+If an ability of a Shaman or another Wizard you control triggers, that ability triggers an additional time.",1,3,['R'],['R'],['Prowess'],mh2,rare
+Healer's Flock,{W}{W}{W},3.0,Creature — Bird,"Flying, lifelink",3,3,['W'],['W'],"['Flying', 'Lifelink']",mh2,uncommon
+Hell Mongrel,{3}{B},4.0,Creature — Nightmare Dog,"Discard a card: Hell Mongrel gets +1/+1 until end of turn.
+Madness {2}{B} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)",4,3,['B'],['B'],['Madness'],mh2,common
+Herd Baloth,{3}{G}{G},5.0,Creature — Beast,"Whenever one or more +1/+1 counters are put on Herd Baloth, you may create a 4/4 green Beast creature token.",4,4,['G'],['G'],[],mh2,uncommon
+Hunting Pack,{5}{G}{G},7.0,Instant,"Create a 4/4 green Beast creature token.
+Storm (When you cast this spell, copy it for each spell cast before it this turn.)",n/a,n/a,['G'],['G'],['Storm'],mh2,uncommon
+Ignoble Hierarch,{G},1.0,Creature — Goblin Shaman,"Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
+{T}: Add {B}, {R}, or {G}.",0,1,['G'],"['B', 'G', 'R']",['Exalted'],mh2,rare
+Imperial Recruiter,{2}{R},3.0,Creature — Human Advisor,"When Imperial Recruiter enters the battlefield, search your library for a creature card with power 2 or less, reveal it, put it into your hand, then shuffle.",1,1,['R'],['R'],[],mh2,mythic
+Inevitable Betrayal,,0.0,Sorcery,"Suspend 3—{1}{U}{U} (Rather than cast this card from your hand, pay {1}{U}{U} and exile it with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)
+Search target opponent's library for a creature card and put that card onto the battlefield under your control. Then that player shuffles.",n/a,n/a,['U'],['U'],['Suspend'],mh2,rare
+Island,,0.0,Basic Land — Island,({T}: Add {U}.),n/a,n/a,[],['U'],[],mh2,common
+Jade Avenger,{1}{G},2.0,Creature — Frog Samurai,"Bushido 2 (Whenever this creature blocks or becomes blocked, it gets +2/+2 until end of turn.)",2,2,['G'],['G'],['Bushido'],mh2,common
+Jewel-Eyed Cobra,{2}{G},3.0,Creature — Snake,"Deathtouch
+When Jewel-Eyed Cobra dies, create a Treasure token. (It's an artifact with ""{T}, Sacrifice this artifact: Add one mana of any color."")",3,1,['G'],['G'],"['Treasure', 'Deathtouch']",mh2,common
+Junk Winder,{5}{U}{U},7.0,Creature — Serpent,"Affinity for tokens (This spell costs {1} less to cast for each token you control.)
+Whenever a token enters the battlefield under your control, tap target nonland permanent an opponent controls. It doesn't untap during its controller's next untap step.",5,6,['U'],['U'],['Affinity'],mh2,uncommon
+Kaldra Compleat,{7},7.0,Legendary Artifact — Equipment,"Living weapon
+Indestructible
+Equipped creature gets +5/+5 and has first strike, trample, indestructible, haste, and ""Whenever this creature deals combat damage to a creature, exile that creature.""
+Equip {7}",n/a,n/a,[],[],"['Indestructible', 'Equip', 'Living weapon']",mh2,mythic
+Kaleidoscorch,{1}{R},2.0,Sorcery,"Converge — Kaleidoscorch deals X damage to any target, where X is the number of colors of mana spent to cast this spell.
+Flashback {4}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",n/a,n/a,['R'],['R'],"['Converge', 'Flashback']",mh2,uncommon
+Karmic Guide,{3}{W}{W},5.0,Creature — Angel Spirit,"Flying, protection from black
+Echo {3}{W}{W} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)
+When Karmic Guide enters the battlefield, return target creature card from your graveyard to the battlefield.",2,2,['W'],['W'],"['Echo', 'Flying', 'Protection']",mh2,rare
+Kitchen Imp,{3}{B},4.0,Creature — Imp,"Flying, haste
+Madness {B} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)",2,2,['B'],['B'],"['Flying', 'Madness', 'Haste']",mh2,common
+Knighted Myr,{2}{W},3.0,Artifact Creature — Myr Knight,"{2}{W}: Adapt 1. (If this creature has no +1/+1 counters on it, put a +1/+1 counter on it.)
+Whenever one or more +1/+1 counters are put on Knighted Myr, it gains double strike until end of turn.",2,2,['W'],['W'],['Adapt'],mh2,common
+Landscaper Colos,{5}{W},6.0,Creature — Goat Beast,"When Landscaper Colos enters the battlefield, put target card from an opponent's graveyard on the bottom of their library.
+Basic landcycling {1}{W} ({1}{W}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)",4,6,['W'],['W'],"['Landcycling', 'Basic landcycling', 'Typecycling', 'Cycling']",mh2,common
+Late to Dinner,{3}{W},4.0,Sorcery,"Return target creature card from your graveyard to the battlefield. Create a Food token. (It's an artifact with ""{2}, {T}, Sacrifice this artifact: You gain 3 life."")",n/a,n/a,['W'],['W'],['Food'],mh2,common
+Lazotep Chancellor,{U}{B},2.0,Creature — Zombie Wizard,"Whenever you discard a card, you may pay {1}. If you do, amass Zombies 2. (Put two +1/+1 counters on an Army you control. It's also a Zombie. If you don't control an Army, create a 0/0 black Zombie Army creature token first.)",1,3,"['B', 'U']","['B', 'U']",['Amass'],mh2,uncommon
+Legion Vanguard,{1}{B},2.0,Creature — Vampire Soldier,"{1}, Sacrifice another creature: Legion Vanguard explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)",2,2,['B'],['B'],['Explore'],mh2,uncommon
+Lens Flare,{4}{W},5.0,Instant,"Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+Lens Flare deals 5 damage to target attacking or blocking creature.",n/a,n/a,['W'],['W'],['Affinity'],mh2,common
+Lightning Spear,{1}{R},2.0,Artifact — Equipment,"Equipped creature gets +1/+0 and has trample.
+{2}{R}, Sacrifice Lightning Spear: It deals 3 damage to any target.
+Equip {1}",n/a,n/a,['R'],['R'],['Equip'],mh2,common
+Liquimetal Torque,{2},2.0,Artifact,"{T}: Add {C}.
+{T}: Target nonland permanent becomes an artifact in addition to its other types until end of turn.",n/a,n/a,[],[],[],mh2,uncommon
+Loathsome Curator,{4}{B},5.0,Creature — Gorgon Wizard,"Exploit (When this creature enters the battlefield, you may sacrifice a creature.)
+Menace
+When Loathsome Curator exploits a creature, destroy target creature you don't control with mana value 3 or less.",5,4,['B'],['B'],"['Menace', 'Exploit']",mh2,common
+"Lonis, Cryptozoologist",{G}{U},2.0,Legendary Creature — Snake Elf Scout,"Whenever another nontoken creature enters the battlefield under your control, investigate.
+{T}, Sacrifice X Clues: Target opponent reveals the top X cards of their library. You may put a nonland permanent card with mana value X or less from among them onto the battlefield under your control. That player puts the rest on the bottom of their library in a random order.",1,2,"['G', 'U']","['G', 'U']",['Investigate'],mh2,rare
+Lose Focus,{1}{U},2.0,Instant,"Replicate {U} (When you cast this spell, copy it for each time you paid its replicate cost. You may choose new targets for the copies.)
+Counter target spell unless its controller pays {2}.",n/a,n/a,['U'],['U'],['Replicate'],mh2,common
+Lucid Dreams,{3}{U}{U},5.0,Sorcery,"Draw X cards, where X is the number of card types among cards in your graveyard.",n/a,n/a,['U'],['U'],[],mh2,uncommon
+Magus of the Bridge,{B}{B}{B},3.0,Creature — Human Wizard,"Whenever a nontoken creature is put into your graveyard from the battlefield, create a 2/2 black Zombie creature token.
+When a creature is put into an opponent's graveyard from the battlefield, exile Magus of the Bridge.",4,4,['B'],['B'],[],mh2,rare
+Marble Gargoyle,{2}{W},3.0,Artifact Creature — Gargoyle,"Flying
+{W}: Marble Gargoyle gets +0/+1 until end of turn.",2,2,['W'],['W'],['Flying'],mh2,common
+Marsh Flats,,0.0,Land,"{T}, Pay 1 life, Sacrifice Marsh Flats: Search your library for a Plains or Swamp card, put it onto the battlefield, then shuffle.",n/a,n/a,[],[],[],mh2,rare
+Master of Death,{1}{U}{B},3.0,Creature — Zombie Wizard,"When Master of Death enters the battlefield, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+At the beginning of your upkeep, if Master of Death is in your graveyard, you may pay 1 life. If you do, return it to your hand.",3,1,"['B', 'U']","['B', 'U']",['Surveil'],mh2,rare
+Mental Journey,{4}{U}{U},6.0,Instant,"Draw three cards.
+Basic landcycling {1}{U} ({1}{U}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)",n/a,n/a,['U'],['U'],"['Landcycling', 'Basic landcycling', 'Typecycling', 'Cycling']",mh2,common
+Millikin,{2},2.0,Artifact Creature — Construct,"{T}, Mill a card: Add {C}. (To mill a card, put the top card of your library into your graveyard.)",0,1,[],[],['Mill'],mh2,uncommon
+Mine Collapse,{3}{R},4.0,Instant,"If it's your turn, you may sacrifice a Mountain rather than pay this spell's mana cost.
+Mine Collapse deals 5 damage to target creature or planeswalker.",n/a,n/a,['R'],['R'],[],mh2,common
+Mirari's Wake,{3}{G}{W},5.0,Enchantment,"Creatures you control get +1/+1.
+Whenever you tap a land for mana, add one mana of any type that land produced.",n/a,n/a,"['G', 'W']","['G', 'W']",[],mh2,mythic
+Mishra's Factory,,0.0,Land,"{T}: Add {C}.
+{1}: Mishra's Factory becomes a 2/2 Assembly-Worker artifact creature until end of turn. It's still a land.
+{T}: Target Assembly-Worker creature gets +1/+1 until end of turn.",n/a,n/a,[],[],[],mh2,uncommon
+Mistvault Bridge,,0.0,Artifact Land,"Mistvault Bridge enters the battlefield tapped.
+Indestructible
+{T}: Add {U} or {B}.",n/a,n/a,[],"['B', 'U']",['Indestructible'],mh2,common
+Misty Rainforest,,0.0,Land,"{T}, Pay 1 life, Sacrifice Misty Rainforest: Search your library for a Forest or Island card, put it onto the battlefield, then shuffle.",n/a,n/a,[],[],[],mh2,rare
+Moderation,{1}{W}{U},3.0,Enchantment,"You can't cast more than one spell each turn.
+Whenever you cast a spell, draw a card.",n/a,n/a,"['U', 'W']","['U', 'W']",[],mh2,rare
+Mogg Salvage,{2}{R},3.0,Instant,"If an opponent controls an Island and you control a Mountain, you may cast this spell without paying its mana cost.
+Destroy target artifact.",n/a,n/a,['R'],['R'],[],mh2,uncommon
+Monoskelion,{2},2.0,Artifact Creature — Construct,"Monoskelion enters the battlefield with a +1/+1 counter on it.
+{1}, Remove a +1/+1 counter from Monoskelion: It deals 1 damage to any target.",1,1,[],[],[],mh2,uncommon
+Mountain,,0.0,Basic Land — Mountain,({T}: Add {R}.),n/a,n/a,[],['R'],[],mh2,common
+Mount Velus Manticore,{2}{R}{R},4.0,Enchantment Creature — Manticore,"At the beginning of combat on your turn, you may discard a card. When you do, Mount Velus Manticore deals X damage to any target, where X is the number of card types the discarded card has.",3,4,['R'],['R'],[],mh2,common
+Murktide Regent,{5}{U}{U},7.0,Creature — Dragon,"Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)
+Flying
+Murktide Regent enters the battlefield with a +1/+1 counter on it for each instant and sorcery card exiled with it.
+Whenever an instant or sorcery card leaves your graveyard, put a +1/+1 counter on Murktide Regent.",3,3,['U'],['U'],"['Flying', 'Delve']",mh2,mythic
+Myr Scrapling,{1},1.0,Artifact Creature — Myr,Sacrifice Myr Scrapling: Put a +1/+1 counter on target creature.,1,1,[],[],[],mh2,common
+Mystic Redaction,{2}{U},3.0,Enchantment,"At the beginning of your upkeep, scry 1.
+Whenever you discard a card, each opponent mills two cards. (They put the top two cards of their library into their graveyard.)",n/a,n/a,['U'],['U'],"['Mill', 'Scry']",mh2,uncommon
+Necrogoyf,{3}{B}{B},5.0,Creature — Lhurgoyf,"Necrogoyf's power is equal to the number of creature cards in all graveyards.
+At the beginning of each player's upkeep, that player discards a card.
+Madness {1}{B}{B} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)",*,4,['B'],['B'],['Madness'],mh2,rare
+Necromancer's Familiar,{3}{B},4.0,Creature — Bird Spirit,"Flying
+Hellbent — Necromancer's Familiar has lifelink as long as you have no cards in hand.
+{B}, Discard a card: Necromancer's Familiar gains indestructible until end of turn. Tap it.",3,1,['B'],['B'],"['Flying', 'Hellbent']",mh2,uncommon
+Nested Shambler,{B},1.0,Creature — Zombie,"When Nested Shambler dies, create X tapped 1/1 green Squirrel creature tokens, where X is Nested Shambler's power.",1,1,['B'],['B'],[],mh2,common
+Nettlecyst,{3},3.0,Artifact — Equipment,"Living weapon (When this Equipment enters the battlefield, create a 0/0 black Phyrexian Germ creature token, then attach this to it.)
+Equipped creature gets +1/+1 for each artifact and/or enchantment you control.
+Equip {2}",n/a,n/a,[],[],"['Equip', 'Living weapon']",mh2,rare
+Nevinyrral's Disk,{4},4.0,Artifact,"Nevinyrral's Disk enters the battlefield tapped.
+{1}, {T}: Destroy all artifacts, creatures, and enchantments.",n/a,n/a,[],[],[],mh2,rare
+Nykthos Paragon,{4}{W}{W},6.0,Enchantment Creature — Human Soldier,"Whenever you gain life, you may put that many +1/+1 counters on each creature you control. Do this only once each turn.",4,6,['W'],['W'],[],mh2,rare
+Obsidian Charmaw,{3}{R}{R},5.0,Creature — Dragon,"This spell costs {1} less to cast for each land your opponents control that could produce {C}.
+Flying
+When Obsidian Charmaw enters the battlefield, destroy target nonbasic land an opponent controls.",4,4,['R'],['R'],['Flying'],mh2,rare
+Orchard Strider,{4}{G}{G},6.0,Creature — Treefolk,"When Orchard Strider enters the battlefield, create two Food tokens. (They're artifacts with ""{2}, {T}, Sacrifice this artifact: You gain 3 life."")
+Basic landcycling {1}{G} ({1}{G}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)",6,4,['G'],['G'],"['Landcycling', 'Food', 'Basic landcycling', 'Typecycling', 'Cycling']",mh2,common
+Ornithopter of Paradise,{2},2.0,Artifact Creature — Thopter,"Flying
+{T}: Add one mana of any color.",0,2,[],[],['Flying'],mh2,common
+Out of Time,{1}{W}{W},3.0,Enchantment,"When Out of Time enters the battlefield, untap all creatures, then those creatures phase out until Out of Time leaves the battlefield. Put a time counter on Out of Time for each creature that phased out this way.
+Vanishing (At the beginning of your upkeep, remove a time counter from this enchantment. When the last is removed, sacrifice it.)",n/a,n/a,['W'],['W'],['Vanishing'],mh2,rare
+Parcel Myr,{1}{U},2.0,Artifact Creature — Clue Myr,"{2}, Sacrifice Parcel Myr: Draw a card.",2,1,['U'],['U'],[],mh2,common
+Patchwork Gnomes,{3},3.0,Artifact Creature — Gnome,"Discard a card: Regenerate Patchwork Gnomes. (The next time this creature would be destroyed, instead tap it, remove it from combat, and heal all damage on it.)",2,1,[],[],[],mh2,uncommon
+Patriarch's Bidding,{3}{B}{B},5.0,Sorcery,Each player chooses a creature type. Each player returns all creature cards of a type chosen this way from their graveyard to the battlefield.,n/a,n/a,['B'],['B'],[],mh2,rare
+Persist,{1}{B},2.0,Sorcery,Return target nonlegendary creature card from your graveyard to the battlefield with a -1/-1 counter on it.,n/a,n/a,['B'],['B'],[],mh2,rare
+Phantasmal Dreadmaw,{2}{U}{U},4.0,Creature — Dinosaur Illusion,"Trample
+When Phantasmal Dreadmaw becomes the target of a spell or ability, sacrifice it.",6,6,['U'],['U'],['Trample'],mh2,common
+Piercing Rays,{1}{W},2.0,Sorcery,"Exile target tapped creature.
+Forecast — {2}{W}, Reveal Piercing Rays from your hand: Tap target untapped creature. (Activate this ability only during your upkeep and only once each turn.)",n/a,n/a,['W'],['W'],['Forecast'],mh2,common
+"Piru, the Volatile",{2}{R}{R}{W}{W}{B}{B},8.0,Legendary Creature — Elder Dragon,"Flying, lifelink
+At the beginning of your upkeep, sacrifice Piru, the Volatile unless you pay {R}{W}{B}.
+When Piru dies, it deals 7 damage to each nonlegendary creature.",7,7,"['B', 'R', 'W']","['B', 'R', 'W']","['Flying', 'Lifelink']",mh2,rare
+Plains,,0.0,Basic Land — Plains,({T}: Add {W}.),n/a,n/a,[],['W'],[],mh2,common
+Power Depot,,0.0,Artifact Land,"Power Depot enters the battlefield tapped.
+{T}: Add {C}.
+{T}: Add one mana of any color. Spend this mana only to cast artifact spells or activate abilities of artifacts.
+Modular 1",n/a,n/a,[],[],['Modular'],mh2,uncommon
+Priest of Fell Rites,{W}{B},2.0,Creature — Human Warlock,"{T}, Pay 3 life, Sacrifice Priest of Fell Rites: Return target creature card from your graveyard to the battlefield. Activate only as a sorcery.
+Unearth {3}{W}{B} ({3}{W}{B}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)",2,2,"['B', 'W']","['B', 'W']",['Unearth'],mh2,rare
+Prismatic Ending,{X}{W},1.0,Sorcery,Converge — Exile target nonland permanent if its mana value is less than or equal to the number of colors of mana spent to cast this spell.,n/a,n/a,['W'],['W'],['Converge'],mh2,uncommon
+Profane Tutor,,0.0,Sorcery,"Suspend 2—{1}{B} (Rather than cast this card from your hand, pay {1}{B} and exile it with two time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)
+Search your library for a card, put that card into your hand, then shuffle.",n/a,n/a,['B'],['B'],['Suspend'],mh2,rare
+Prophetic Titan,{4}{U}{R},6.0,Creature — Giant Wizard,"Delirium — When Prophetic Titan enters the battlefield, choose one. If there are four or more card types among cards in your graveyard, choose both instead.
+• Prophetic Titan deals 4 damage to any target.
+• Look at the top four cards of your library. Put one of them into your hand and the rest on the bottom of your library in a random order.",4,4,"['R', 'U']","['R', 'U']",['Delirium'],mh2,uncommon
+Quirion Ranger,{G},1.0,Creature — Elf Ranger,Return a Forest you control to its owner's hand: Untap target creature. Activate only once each turn.,1,1,['G'],['G'],[],mh2,uncommon
+Radiant Epicure,{4}{B},5.0,Creature — Vampire Wizard,"Converge — When Radiant Epicure enters the battlefield, each opponent loses X life and you gain X life, where X is the number of colors of mana spent to cast this spell.",5,5,['B'],['B'],['Converge'],mh2,uncommon
+"Ragavan, Nimble Pilferer",{R},1.0,Legendary Creature — Monkey Pirate,"Whenever Ragavan, Nimble Pilferer deals combat damage to a player, create a Treasure token and exile the top card of that player's library. Until end of turn, you may cast that card.
+Dash {1}{R} (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)",2,1,['R'],['R'],"['Treasure', 'Dash']",mh2,mythic
+Rakdos Headliner,{B}{R},2.0,Creature — Devil,"Haste
+Echo—Discard a card. (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)",3,3,"['B', 'R']","['B', 'R']","['Haste', 'Echo']",mh2,uncommon
+Ravenous Squirrel,{B/G},1.0,Creature — Squirrel,"Whenever you sacrifice an artifact or creature, put a +1/+1 counter on Ravenous Squirrel.
+{1}{B}{G}, Sacrifice an artifact or creature: You gain 1 life and draw a card.",1,1,"['B', 'G']","['B', 'G']",[],mh2,uncommon
+Raving Visionary,{1}{U},2.0,Creature — Merfolk Wizard,"{U}, {T}: Draw a card, then discard a card.
+Delirium — {2}{U}, {T}: Draw a card. Activate only if there are four or more card types among cards in your graveyard.",1,1,['U'],['U'],['Delirium'],mh2,uncommon
+Razortide Bridge,,0.0,Artifact Land,"Razortide Bridge enters the battlefield tapped.
+Indestructible
+{T}: Add {W} or {U}.",n/a,n/a,[],"['U', 'W']",['Indestructible'],mh2,common
+Recalibrate,{1}{U},2.0,Instant,"Return target creature to its owner's hand. If you've discarded a card this turn, draw a card.",n/a,n/a,['U'],['U'],[],mh2,common
+Resurgent Belief,,0.0,Sorcery,"Suspend 2—{1}{W} (Rather than cast this card from your hand, pay {1}{W} and exile it with two time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)
+Return all enchantment cards from your graveyard to the battlefield. (Auras with nothing to enchant remain in your graveyard.)",n/a,n/a,['W'],['W'],['Suspend'],mh2,rare
+Revolutionist,{5}{R},6.0,Creature — Human Wizard,"When Revolutionist enters the battlefield, return target instant or sorcery card from your graveyard to your hand.
+Madness {3}{R} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)",3,3,['R'],['R'],['Madness'],mh2,common
+Rift Sower,{2}{G},3.0,Creature — Elf Druid,"{T}: Add one mana of any color.
+Suspend 2—{G} (Rather than cast this card from your hand, you may pay {G} and exile it with two time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost. It has haste.)",1,3,['G'],['G'],['Suspend'],mh2,common
+Riptide Laboratory,,0.0,Land,"{T}: Add {C}.
+{1}{U}, {T}: Return target Wizard you control to its owner's hand.",n/a,n/a,[],['U'],[],mh2,rare
+Rise and Shine,{1}{U},2.0,Sorcery,"Target noncreature artifact you control becomes a 0/0 artifact creature. Put four +1/+1 counters on each artifact that became a creature this way.
+Overload {4}{U}{U} (You may cast this spell for its overload cost. If you do, change ""target"" in its text to ""each."")",n/a,n/a,['U'],['U'],['Overload'],mh2,rare
+Rishadan Dockhand,{U},1.0,Creature — Merfolk,"Islandwalk (This creature can't be blocked as long as defending player controls an Island.)
+{1}, {T}: Tap target land.",1,2,['U'],['U'],"['Landwalk', 'Islandwalk']",mh2,rare
+Road // Ruin,{2}{G} // {1}{R}{R},6.0,Instant // Sorcery,n/a,n/a,n/a,"['G', 'R']","['G', 'R']",['Aftermath'],mh2,uncommon
+Rustvale Bridge,,0.0,Artifact Land,"Rustvale Bridge enters the battlefield tapped.
+Indestructible
+{T}: Add {R} or {W}.",n/a,n/a,[],"['R', 'W']",['Indestructible'],mh2,common
+Said // Done,{2}{U} // {3}{U},7.0,Sorcery // Instant,n/a,n/a,n/a,['U'],['U'],[],mh2,uncommon
+Sanctifier en-Vec,{W}{W},2.0,Creature — Human Cleric,"Protection from black and from red
+When Sanctifier en-Vec enters the battlefield, exile all cards that are black or red from all graveyards.
+If a black or red permanent, spell, or card not on the battlefield would be put into a graveyard, exile it instead.",2,2,['W'],['W'],['Protection'],mh2,rare
+Sanctuary Raptor,{3},3.0,Artifact Creature — Bird,"Flying
+Whenever Sanctuary Raptor attacks, if you control three or more tokens, Sanctuary Raptor gets +2/+0 and gains first strike until end of turn.",2,1,[],[],['Flying'],mh2,uncommon
+Sanctum Prelate,{1}{W}{W},3.0,Creature — Human Cleric,"As Sanctum Prelate enters the battlefield, choose a number.
+Noncreature spells with mana value equal to the chosen number can't be cast.",2,2,['W'],['W'],[],mh2,mythic
+Sanctum Weaver,{1}{G},2.0,Enchantment Creature — Dryad,"{T}: Add X mana of any one color, where X is the number of enchantments you control.",0,2,['G'],['G'],[],mh2,rare
+Scalding Tarn,,0.0,Land,"{T}, Pay 1 life, Sacrifice Scalding Tarn: Search your library for an Island or Mountain card, put it onto the battlefield, then shuffle.",n/a,n/a,[],[],[],mh2,rare
+Scion of Draco,{12},12.0,Artifact Creature — Dragon,"Domain — This spell costs {2} less to cast for each basic land type among lands you control.
+Flying
+Each creature you control has vigilance if it's white, hexproof if it's blue, lifelink if it's black, first strike if it's red, and trample if it's green.",4,4,[],[],"['Flying', 'Domain']",mh2,mythic
+Scour the Desert,{3}{W}{W},5.0,Sorcery,"Exile target creature card from your graveyard. Create X 1/1 white Bird creature tokens with flying, where X is the exiled card's toughness.",n/a,n/a,['W'],['W'],[],mh2,uncommon
+Scurry Oak,{2}{G},3.0,Creature — Treefolk,"Evolve (Whenever a creature enters the battlefield under your control, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.)
+Whenever one or more +1/+1 counters are put on Scurry Oak, you may create a 1/1 green Squirrel creature token.",1,2,['G'],['G'],['Evolve'],mh2,uncommon
+Scuttletide,{1}{U},2.0,Enchantment,"{1}, Discard a card: Create a 0/3 blue Crab creature token.
+Delirium — Crabs you control get +1/+1 as long as there are four or more card types among cards in your graveyard.",n/a,n/a,['U'],['U'],['Delirium'],mh2,uncommon
+Sea Drake,{2}{U},3.0,Creature — Drake,"Flying
+When Sea Drake enters the battlefield, return two target lands you control to their owner's hand.",4,3,['U'],['U'],['Flying'],mh2,uncommon
+Seal of Cleansing,{1}{W},2.0,Enchantment,Sacrifice Seal of Cleansing: Destroy target artifact or enchantment.,n/a,n/a,['W'],['W'],[],mh2,uncommon
+Seal of Removal,{U},1.0,Enchantment,Sacrifice Seal of Removal: Return target creature to its owner's hand.,n/a,n/a,['U'],['U'],[],mh2,uncommon
+Search the Premises,{3}{W},4.0,Enchantment,"Whenever a creature attacks you or a planeswalker you control, investigate. (Create a Clue token. It's an artifact with ""{2}, Sacrifice this artifact: Draw a card."")",n/a,n/a,['W'],['W'],['Investigate'],mh2,rare
+Serra's Emissary,{4}{W}{W}{W},7.0,Creature — Angel,"Flying
+As Serra's Emissary enters the battlefield, choose a card type.
+You and creatures you control have protection from the chosen card type.",7,7,['W'],['W'],['Flying'],mh2,mythic
+Shardless Agent,{1}{G}{U},3.0,Artifact Creature — Human Rogue,"Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)",2,2,"['G', 'U']","['G', 'U']",['Cascade'],mh2,rare
+Shattered Ego,{U},1.0,Enchantment — Aura,"Enchant creature
+Enchanted creature gets -3/-0.
+{3}{U}{U}: Put enchanted creature into its owner's library third from the top.",n/a,n/a,['U'],['U'],['Enchant'],mh2,common
+Silverbluff Bridge,,0.0,Artifact Land,"Silverbluff Bridge enters the battlefield tapped.
+Indestructible
+{T}: Add {U} or {R}.",n/a,n/a,[],"['R', 'U']",['Indestructible'],mh2,common
+Sinister Starfish,{1}{B},2.0,Creature — Starfish,{T}: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.),0,3,['B'],['B'],['Surveil'],mh2,common
+Skirge Familiar,{4}{B},5.0,Creature — Phyrexian Imp,"Flying
+Discard a card: Add {B}.",3,2,['B'],['B'],['Flying'],mh2,uncommon
+Skophos Reaver,{2}{R},3.0,Creature — Minotaur Warrior,"As long as it's your turn, Skophos Reaver gets +2/+0.
+Madness {1}{R} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)",2,3,['R'],['R'],['Madness'],mh2,common
+Skyblade's Boon,{1}{W},2.0,Enchantment — Aura,"Enchant creature
+Enchanted creature gets +1/+1 and has flying.
+{2}{W}: Return Skyblade's Boon to its owner's hand. Activate only if Skyblade's Boon is on the battlefield or in your graveyard.",n/a,n/a,['W'],['W'],['Enchant'],mh2,uncommon
+Slag Strider,{5}{R}{R},7.0,Creature — Elemental,"Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+{1}, Sacrifice an artifact: Slag Strider deals 1 damage to any target.",3,3,['R'],['R'],['Affinity'],mh2,uncommon
+Slagwoods Bridge,,0.0,Artifact Land,"Slagwoods Bridge enters the battlefield tapped.
+Indestructible
+{T}: Add {R} or {G}.",n/a,n/a,[],"['G', 'R']",['Indestructible'],mh2,common
+Smell Fear,{1}{G},2.0,Sorcery,"Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)
+Target creature you control fights up to one target creature you don't control.",n/a,n/a,['G'],['G'],"['Fight', 'Proliferate']",mh2,common
+Sojourner's Companion,{7},7.0,Artifact Creature — Salamander,"Affinity for artifacts
+Artifact landcycling {2} ({2}, Discard this card: Search your library for an artifact land card, reveal it, put it into your hand, then shuffle.)",4,4,[],[],"['Affinity', 'Landcycling', 'Typecycling', 'Cycling']",mh2,common
+Solitary Confinement,{2}{W},3.0,Enchantment,"At the beginning of your upkeep, sacrifice Solitary Confinement unless you discard a card.
+Skip your draw step.
+You have shroud. (You can't be the target of spells or abilities.)
+Prevent all damage that would be dealt to you.",n/a,n/a,['W'],['W'],[],mh2,rare
+Solitude,{3}{W}{W},5.0,Creature — Elemental Incarnation,"Flash
+Lifelink
+When Solitude enters the battlefield, exile up to one other target creature. That creature's controller gains life equal to its power.
+Evoke—Exile a white card from your hand.",3,2,['W'],['W'],"['Lifelink', 'Evoke', 'Flash']",mh2,mythic
+Sol Talisman,,0.0,Artifact,"Suspend 3—{1} (Rather than cast this card from your hand, pay {1} and exile it with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)
+{T}: Add {C}{C}.",n/a,n/a,[],[],['Suspend'],mh2,rare
+So Shiny,{2}{U},3.0,Enchantment — Aura,"Enchant creature
+When So Shiny enters the battlefield, if you control a token, tap enchanted creature, then scry 2.
+Enchanted creature doesn't untap during its controller's untap step.",n/a,n/a,['U'],['U'],"['Enchant', 'Scry']",mh2,common
+Soul of Migration,{5}{W}{W},7.0,Creature — Elemental,"Flying
+When Soul of Migration enters the battlefield, create two 1/1 white Bird creature tokens with flying.
+Evoke {3}{W} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)",2,4,['W'],['W'],"['Flying', 'Evoke']",mh2,common
+Soul Snare,{W},1.0,Enchantment,"{W}, Sacrifice Soul Snare: Exile target creature that's attacking you or a planeswalker you control.",n/a,n/a,['W'],['W'],[],mh2,uncommon
+Specimen Collector,{4}{U},5.0,Creature — Vedalken Wizard,"When Specimen Collector enters the battlefield, create a 1/1 green Squirrel creature token and a 0/3 blue Crab creature token.
+When Specimen Collector dies, create a token that's a copy of target token you control.",2,1,['U'],['U'],[],mh2,uncommon
+Spreading Insurrection,{4}{R},5.0,Sorcery,"Gain control of target creature you don't control until end of turn. Untap that creature. It gains haste until end of turn.
+Storm (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)",n/a,n/a,['R'],['R'],['Storm'],mh2,uncommon
+Squirrel Mob,{1}{G}{G},3.0,Creature — Squirrel,Squirrel Mob gets +1/+1 for each other Squirrel on the battlefield.,2,2,['G'],['G'],[],mh2,rare
+Squirrel Sanctuary,{G},1.0,Enchantment,"When Squirrel Sanctuary enters the battlefield, create a 1/1 green Squirrel creature token.
+Whenever a nontoken creature you control dies, you may pay {1}. If you do, return Squirrel Sanctuary to its owner's hand.",n/a,n/a,['G'],['G'],[],mh2,uncommon
+Squirrel Sovereign,{1}{G},2.0,Creature — Squirrel Noble,Other Squirrels you control get +1/+1.,2,2,['G'],['G'],[],mh2,uncommon
+Steel Dromedary,{3},3.0,Artifact Creature — Camel,"Steel Dromedary enters the battlefield tapped with two +1/+1 counters on it.
+Steel Dromedary doesn't untap during your untap step if it has a +1/+1 counter on it.
+At the beginning of combat on your turn, you may move a +1/+1 counter from Steel Dromedary onto target creature.",2,2,[],[],[],mh2,uncommon
+Steelfin Whale,{5}{U},6.0,Creature — Whale,"Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+Whenever an artifact enters the battlefield under your control, untap Steelfin Whale.",3,4,['U'],['U'],['Affinity'],mh2,common
+Step Through,{3}{U}{U},5.0,Sorcery,"Return two target creatures to their owners' hands.
+Wizardcycling {2} ({2}, Discard this card: Search your library for a Wizard card, reveal it, put it into your hand, then shuffle.)",n/a,n/a,['U'],['U'],"['Wizardcycling', 'Typecycling', 'Cycling']",mh2,common
+Sterling Grove,{G}{W},2.0,Enchantment,"Other enchantments you control have shroud. (They can't be the targets of spells or abilities.)
+{1}, Sacrifice Sterling Grove: Search your library for an enchantment card, reveal it, then shuffle and put that card on top.",n/a,n/a,"['G', 'W']","['G', 'W']",[],mh2,rare
+Storm God's Oracle,{1}{U}{R},3.0,Enchantment Creature — Human Shaman,"{1}: Storm God's Oracle gets +1/-1 until end of turn.
+When Storm God's Oracle dies, it deals 3 damage to any target.",1,3,"['R', 'U']","['R', 'U']",[],mh2,common
+Strike It Rich,{R},1.0,Sorcery,"Create a Treasure token. (It's an artifact with ""{T}, Sacrifice this artifact: Add one mana of any color."")
+Flashback {2}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",n/a,n/a,['R'],['R'],"['Treasure', 'Flashback']",mh2,uncommon
+Subtlety,{2}{U}{U},4.0,Creature — Elemental Incarnation,"Flash
+Flying
+When Subtlety enters the battlefield, choose up to one target creature spell or planeswalker spell. Its owner puts it on the top or bottom of their library.
+Evoke—Exile a blue card from your hand.",3,3,['U'],['U'],"['Flying', 'Evoke', 'Flash']",mh2,mythic
+Sudden Edict,{1}{B},2.0,Instant,"Split second (As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)
+Target player sacrifices a creature.",n/a,n/a,['B'],['B'],['Split second'],mh2,uncommon
+Suspend,{U},1.0,Instant,"Exile target creature and put two time counters on it. If it doesn't have suspend, it gains suspend. (At the beginning of its owner's upkeep, they remove a time counter. When the last is removed, they may play it without paying its mana cost. If it's a creature, it has haste.)",n/a,n/a,['U'],['U'],[],mh2,rare
+Svyelun of Sea and Sky,{1}{U}{U},3.0,Legendary Creature — Merfolk God,"Svyelun of Sea and Sky has indestructible as long as you control at least two other Merfolk.
+Whenever Svyelun attacks, draw a card.
+Other Merfolk you control have ward {1}. (Whenever another Merfolk you control becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)",3,4,['U'],['U'],[],mh2,mythic
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),n/a,n/a,[],['B'],[],mh2,common
+Sweep the Skies,{X}{U}{U},2.0,Sorcery,Converge — Create a 1/1 colorless Thopter artifact creature token with flying for each color of mana spent to cast this spell.,n/a,n/a,['U'],['U'],['Converge'],mh2,uncommon
+Sword of Hearth and Home,{3},3.0,Artifact — Equipment,"Equipped creature gets +2/+2 and has protection from green and from white.
+Whenever equipped creature deals combat damage to a player, exile up to one target creature you own, then search your library for a basic land card. Put both cards onto the battlefield under your control, then shuffle.
+Equip {2}",n/a,n/a,[],[],['Equip'],mh2,mythic
+Sylvan Anthem,{G}{G},2.0,Enchantment,"Green creatures you control get +1/+1.
+Whenever a green creature enters the battlefield under your control, scry 1.",n/a,n/a,['G'],['G'],['Scry'],mh2,rare
+"Sythis, Harvest's Hand",{G}{W},2.0,Legendary Enchantment Creature — Nymph,"Whenever you cast an enchantment spell, you gain 1 life and draw a card.",1,2,"['G', 'W']","['G', 'W']",[],mh2,rare
+Tanglepool Bridge,,0.0,Artifact Land,"Tanglepool Bridge enters the battlefield tapped.
+Indestructible
+{T}: Add {G} or {U}.",n/a,n/a,[],"['G', 'U']",['Indestructible'],mh2,common
+Tavern Scoundrel,{1}{R},2.0,Creature — Human Rogue,"Whenever you win a coin flip, create two Treasure tokens. (They're artifacts with ""{T}, Sacrifice this artifact: Add one mana of any color."")
+{1}, {T}, Sacrifice another permanent: Flip a coin.",1,3,['R'],['R'],['Treasure'],mh2,common
+Terminal Agony,{2}{B}{R},4.0,Sorcery,"Destroy target creature.
+Madness {B}{R} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)",n/a,n/a,"['B', 'R']","['B', 'R']",['Madness'],mh2,common
+Terramorph,{3}{G},4.0,Sorcery,"Search your library for a basic land card, put it onto the battlefield, then shuffle.
+Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)",n/a,n/a,['G'],['G'],['Rebound'],mh2,uncommon
+Territorial Kavu,{R}{G},2.0,Creature — Kavu,"Domain — Territorial Kavu's power and toughness are each equal to the number of basic land types among lands you control.
+Whenever Territorial Kavu attacks, choose one —
+• Discard a card. If you do, draw a card.
+• Exile up to one target card from a graveyard.",*,*,"['G', 'R']","['G', 'R']",['Domain'],mh2,rare
+The Underworld Cookbook,{1},1.0,Artifact,"{T}, Discard a card: Create a Food token. (It's an artifact with ""{2}, {T}, Sacrifice this artifact: You gain 3 life."")
+{4}, {T}, Sacrifice The Underworld Cookbook: Return target creature card from your graveyard to your hand.",n/a,n/a,[],[],['Food'],mh2,uncommon
+Thornglint Bridge,,0.0,Artifact Land,"Thornglint Bridge enters the battlefield tapped.
+Indestructible
+{T}: Add {G} or {W}.",n/a,n/a,[],"['G', 'W']",['Indestructible'],mh2,common
+Thought Monitor,{6}{U},7.0,Artifact Creature — Construct,"Affinity for artifacts
+Flying
+When Thought Monitor enters the battlefield, draw two cards.",2,2,['U'],['U'],"['Flying', 'Affinity']",mh2,rare
+Thraben Watcher,{2}{W}{W},4.0,Creature — Angel,"Flying, vigilance
+Other nontoken creatures you control get +1/+1 and have vigilance.",2,2,['W'],['W'],"['Flying', 'Vigilance']",mh2,uncommon
+"Thrasta, Tempest's Roar",{10}{G}{G},12.0,Legendary Creature — Dinosaur,"This spell costs {3} less to cast for each other spell cast this turn.
+Trample, haste
+Trample over planeswalkers (This creature can deal excess combat damage to the controller of the planeswalker it's attacking.)
+Thrasta, Tempest's Roar has hexproof as long as it entered the battlefield this turn.",7,7,['G'],['G'],"['Haste', 'Trample']",mh2,mythic
+Tide Shaper,{U},1.0,Creature — Merfolk Wizard,"Kicker {1} (You may pay an additional {1} as you cast this spell.)
+When Tide Shaper enters the battlefield, if it was kicked, target land becomes an Island for as long as Tide Shaper remains on the battlefield.
+Tide Shaper gets +1/+1 as long as an opponent controls an Island.",1,1,['U'],['U'],['Kicker'],mh2,uncommon
+Timeless Dragon,{3}{W}{W},5.0,Creature — Dragon,"Flying
+Plainscycling {2} ({2}, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)
+Eternalize {2}{W}{W} ({2}{W}{W}, Exile this card from your graveyard: Create a token that's a copy of it, except it's a 4/4 black Zombie Dragon with no mana cost. Eternalize only as a sorcery.)",5,5,['W'],['W'],"['Flying', 'Plainscycling', 'Landcycling', 'Typecycling', 'Cycling', 'Eternalize']",mh2,rare
+Timeless Witness,{2}{G}{G},4.0,Creature — Human Shaman,"When Timeless Witness enters the battlefield, return target card from your graveyard to your hand.
+Eternalize {5}{G}{G} ({5}{G}{G}, Exile this card from your graveyard: Create a token that's a copy of it, except it's a 4/4 black Zombie Human Shaman with no mana cost. Eternalize only as a sorcery.)",2,1,['G'],['G'],['Eternalize'],mh2,uncommon
+Tireless Provisioner,{2}{G},3.0,Creature — Elf Scout,"Landfall — Whenever a land enters the battlefield under your control, create a Food token or a Treasure token. (Food is an artifact with ""{2}, {T}, Sacrifice this artifact: You gain 3 life."" Treasure is an artifact with ""{T}, Sacrifice this artifact: Add one mana of any color."")",3,2,['G'],['G'],"['Treasure', 'Food', 'Landfall']",mh2,uncommon
+"Titania, Protector of Argoth",{3}{G}{G},5.0,Legendary Creature — Elemental,"When Titania, Protector of Argoth enters the battlefield, return target land card from your graveyard to the battlefield.
+Whenever a land you control is put into a graveyard from the battlefield, create a 5/3 green Elemental creature token.",5,3,['G'],['G'],[],mh2,mythic
+Tizerus Charger,{2}{B},3.0,Creature — Pegasus,"Escape—{4}{B}, Exile five other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)
+Tizerus Charger escapes with your choice of a +1/+1 counter or a flying counter on it.",3,2,['B'],['B'],['Escape'],mh2,common
+Tormod's Cryptkeeper,{3},3.0,Artifact Creature — Golem,"Vigilance
+{T}, Sacrifice Tormod's Cryptkeeper: Exile target player's graveyard.",3,2,[],[],['Vigilance'],mh2,common
+"Tourach, Dread Cantor",{1}{B},2.0,Legendary Creature — Human Cleric,"Kicker {B}{B} (You may pay an additional {B}{B} as you cast this spell.)
+Protection from white
+Whenever an opponent discards a card, put a +1/+1 counter on Tourach, Dread Cantor.
+When Tourach enters the battlefield, if it was kicked, target opponent discards two cards at random.",2,1,['B'],['B'],"['Protection', 'Kicker']",mh2,mythic
+Tourach's Canticle,{3}{B},4.0,Sorcery,"Target opponent reveals their hand. You choose a card from it. That player discards that card, then discards a card at random.",n/a,n/a,['B'],['B'],[],mh2,common
+Tragic Fall,{1}{B},2.0,Instant,"Target creature gets -3/-3 until end of turn.
+Hellbent — That creature gets -13/-13 until end of turn instead if you have no cards in hand.",n/a,n/a,['B'],['B'],['Hellbent'],mh2,common
+Unbounded Potential,{1}{W},2.0,Instant,"Choose one —
+• Put a +1/+1 counter on each of up to two target creatures.
+• Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)
+Entwine {3}{W} (Choose both if you pay the entwine cost.)",n/a,n/a,['W'],['W'],"['Entwine', 'Proliferate']",mh2,common
+Underworld Hermit,{4}{B}{B},6.0,Creature — Human Peasant,"When Underworld Hermit enters the battlefield, create a number of 1/1 green Squirrel creature tokens equal to your devotion to black. (Each {B} in the mana costs of permanents you control counts toward your devotion to black.)",3,3,['B'],['B'],[],mh2,uncommon
+Unholy Heat,{R},1.0,Instant,"Unholy Heat deals 2 damage to target creature or planeswalker.
+Delirium — Unholy Heat deals 6 damage instead if there are four or more card types among cards in your graveyard.",n/a,n/a,['R'],['R'],['Delirium'],mh2,common
+Unmarked Grave,{1}{B},2.0,Sorcery,"Search your library for a nonlegendary card, put that card into your graveyard, then shuffle.",n/a,n/a,['B'],['B'],[],mh2,rare
+Upheaval,{4}{U}{U},6.0,Sorcery,Return all permanents to their owners' hands.,n/a,n/a,['U'],['U'],[],mh2,rare
+Urban Daggertooth,{2}{G}{G},4.0,Creature — Dinosaur,"Vigilance
+Enrage — Whenever Urban Daggertooth is dealt damage, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",4,3,['G'],['G'],"['Enrage', 'Vigilance', 'Proliferate']",mh2,common
+Urza's Saga,,0.0,Enchantment Land — Urza's Saga,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Urza's Saga gains ""{T}: Add {C}.""
+II — Urza's Saga gains ""{2}, {T}: Create a 0/0 colorless Construct artifact creature token with 'This creature gets +1/+1 for each artifact you control.'""
+III — Search your library for an artifact card with mana cost {0} or {1}, put it onto the battlefield, then shuffle.",n/a,n/a,[],[],[],mh2,rare
+Vectis Gloves,{2},2.0,Artifact — Equipment,"Equipped creature gets +2/+0 and has artifact landwalk. (It can't be blocked as long as defending player controls an artifact land.)
+Equip {2}",n/a,n/a,[],[],['Equip'],mh2,uncommon
+Vedalken Infiltrator,{1}{U},2.0,Creature — Vedalken Rogue,"Vedalken Infiltrator can't be blocked.
+Metalcraft — Vedalken Infiltrator gets +1/+0 as long as you control three or more artifacts.",1,3,['U'],['U'],['Metalcraft'],mh2,uncommon
+Verdant Catacombs,,0.0,Land,"{T}, Pay 1 life, Sacrifice Verdant Catacombs: Search your library for a Swamp or Forest card, put it onto the battlefield, then shuffle.",n/a,n/a,[],[],[],mh2,rare
+Verdant Command,{1}{G},2.0,Instant,"Choose two —
+• Target player creates two tapped 1/1 green Squirrel creature tokens.
+• Counter target loyalty ability of a planeswalker.
+• Exile target card from a graveyard.
+• Target player gains 3 life.",n/a,n/a,['G'],['G'],[],mh2,rare
+Vermin Gorger,{1}{B},2.0,Creature — Vampire,"{T}, Sacrifice another creature: Each opponent loses 2 life and you gain 2 life.",2,2,['B'],['B'],[],mh2,common
+Viashino Lashclaw,{1}{R},2.0,Creature — Lizard Warrior,"{T}, Discard a card: Creatures you control gain haste until end of turn.",2,2,['R'],['R'],[],mh2,common
+Vile Entomber,{2}{B}{B},4.0,Creature — Zombie Warlock,"Deathtouch
+When Vile Entomber enters the battlefield, search your library for a card, put that card into your graveyard, then shuffle.",2,2,['B'],['B'],['Deathtouch'],mh2,uncommon
+Vindicate,{1}{W}{B},3.0,Sorcery,Destroy target permanent.,n/a,n/a,"['B', 'W']","['B', 'W']",[],mh2,rare
+Void Mirror,{2},2.0,Artifact,"Whenever a player casts a spell, if no colored mana was spent to cast it, counter that spell.",n/a,n/a,[],[],[],mh2,rare
+Wavesifter,{3}{G}{U},5.0,Creature — Elemental,"Flying
+When Wavesifter enters the battlefield, investigate twice. (To investigate, create a Clue token. It's an artifact with ""{2}, Sacrifice this artifact: Draw a card."")
+Evoke {G}{U} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)",3,2,"['G', 'U']","['G', 'U']","['Flying', 'Investigate', 'Evoke']",mh2,common
+Wonder,{3}{U},4.0,Creature — Incarnation,"Flying
+As long as Wonder is in your graveyard and you control an Island, creatures you control have flying.",2,2,['U'],['U'],['Flying'],mh2,rare
+World-Weary,{3}{B}{B},5.0,Enchantment — Aura,"Enchant creature
+Enchanted creature gets -4/-4.
+Basic landcycling {1}{B} ({1}{B}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)",n/a,n/a,['B'],['B'],"['Landcycling', 'Enchant', 'Basic landcycling', 'Typecycling', 'Cycling']",mh2,common
+Wren's Run Hydra,{X}{G},1.0,Creature — Hydra,"Reach
+Wren's Run Hydra enters the battlefield with X +1/+1 counters on it.
+Reinforce X—{X}{G}{G} ({X}{G}{G}, Discard this card: Put X +1/+1 counters on target creature.)",0,0,['G'],['G'],"['Reach', 'Reinforce']",mh2,uncommon
+"Yavimaya, Cradle of Growth",,0.0,Legendary Land,Each land is a Forest in addition to its other land types.,n/a,n/a,[],[],[],mh2,rare
+Yavimaya Elder,{1}{G}{G},3.0,Creature — Human Druid,"When Yavimaya Elder dies, you may search your library for up to two basic land cards, reveal them, put them into your hand, then shuffle.
+{2}, Sacrifice Yavimaya Elder: Draw a card.",2,1,['G'],['G'],[],mh2,uncommon
+Young Necromancer,{4}{B},5.0,Creature — Human Warlock,"When Young Necromancer enters the battlefield, you may exile two cards from your graveyard. When you do, return target creature card from your graveyard to the battlefield.",2,3,['B'],['B'],[],mh2,uncommon
+"Yusri, Fortune's Flame",{1}{U}{R},3.0,Legendary Creature — Efreet,"Flying
+Whenever Yusri, Fortune's Flame attacks, choose a number between 1 and 5. Flip that many coins. For each flip you win, draw a card. For each flip you lose, Yusri deals 2 damage to you. If you won five flips this way, you may cast spells from your hand this turn without paying their mana costs.",2,3,"['R', 'U']","['R', 'U']",['Flying'],mh2,rare
+"Zabaz, the Glimmerwasp",{1},1.0,Legendary Artifact Creature — Insect,"Modular 1
+If a modular triggered ability would put one or more +1/+1 counters on a creature you control, that many plus one +1/+1 counters are put on it instead.
+{R}: Destroy target artifact you control.
+{W}: Zabaz, the Glimmerwasp gains flying until end of turn.",0,0,[],"['R', 'W']",['Modular'],mh2,rare
+Zuran Orb,{0},0.0,Artifact,Sacrifice a land: You gain 2 life.,n/a,n/a,[],[],[],mh2,uncommon

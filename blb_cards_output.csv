@@ -1,0 +1,612 @@
+name,mana_cost,cmc,type_line,oracle_text,power,toughness,colors,color_identity,keywords,set,rarity
+Agate Assault,{2}{R},3.0,Sorcery,"Choose one —
+• Agate Assault deals 4 damage to target creature. If that creature would die this turn, exile it instead.
+• Exile target artifact.",n/a,n/a,['R'],['R'],[],blb,common
+Agate-Blade Assassin,{1}{B},2.0,Creature — Lizard Assassin,"Whenever Agate-Blade Assassin attacks, defending player loses 1 life and you gain 1 life.",1,3,['B'],['B'],[],blb,common
+"Alania, Divergent Storm",{3}{U}{R},5.0,Legendary Creature — Otter Wizard,"Whenever you cast a spell, if it's the first instant spell, the first sorcery spell, or the first Otter spell other than Alania you've cast this turn, you may have target opponent draw a card. If you do, copy that spell. You may choose new targets for the copy.",3,5,"['R', 'U']","['R', 'U']",[],blb,rare
+Alania's Pathmaker,{3}{R},4.0,Creature — Otter Wizard,"When Alania's Pathmaker enters, exile the top card of your library. Until the end of your next turn, you may play that card.",4,2,['R'],['R'],[],blb,common
+Artist's Talent,{1}{R},2.0,Enchantment — Class,"(Gain the next level as a sorcery to add its ability.)
+Whenever you cast a noncreature spell, you may discard a card. If you do, draw a card.
+{2}{R}: Level 2
+Noncreature spells you cast cost {1} less to cast.
+{2}{R}: Level 3
+If a source you control would deal noncombat damage to an opponent or a permanent an opponent controls, it deals that much damage plus 2 instead.",n/a,n/a,['R'],['R'],[],blb,rare
+Azure Beastbinder,{1}{U},2.0,Creature — Rat Rogue,"Vigilance
+Azure Beastbinder can't be blocked by creatures with power 2 or greater.
+Whenever Azure Beastbinder attacks, up to one target artifact, creature, or planeswalker an opponent controls loses all abilities until your next turn. If it's a creature, it also has base power and toughness 2/2 until your next turn.",1,3,['U'],['U'],['Vigilance'],blb,rare
+Bakersbane Duo,{1}{G},2.0,Creature — Squirrel Raccoon,"When Bakersbane Duo enters, create a Food token.
+Whenever you expend 4, Bakersbane Duo gets +1/+1 until end of turn. (You expend 4 as you spend your fourth total mana to cast spells during a turn.)",2,2,['G'],['G'],['Food'],blb,common
+Bandit's Talent,{1}{B},2.0,Enchantment — Class,"(Gain the next level as a sorcery to add its ability.)
+When Bandit's Talent enters, each opponent discards two cards unless they discard a nonland card.
+{B}: Level 2
+At the beginning of each opponent's upkeep, if that player has one or fewer cards in hand, they lose 2 life.
+{3}{B}: Level 3
+At the beginning of your draw step, draw an additional card for each opponent who has one or fewer cards in hand.",n/a,n/a,['B'],['B'],[],blb,uncommon
+Banishing Light,{2}{W},3.0,Enchantment,"When Banishing Light enters the battlefield, exile target nonland permanent an opponent controls until Banishing Light leaves the battlefield.",n/a,n/a,['W'],['W'],[],blb,common
+Barkform Harvester,{3},3.0,Artifact Creature — Shapeshifter,"Changeling (This card is every creature type.)
+Reach
+{2}: Put target card from your graveyard on the bottom of your library.",2,3,[],[],"['Reach', 'Changeling']",blb,common
+Bark-Knuckle Boxer,{1}{G},2.0,Creature — Raccoon Berserker,"Whenever you expend 4, Bark-Knuckle Boxer gains indestructible until end of turn. (You expend 4 as you spend your fourth total mana to cast spells during a turn.)",3,2,['G'],['G'],[],blb,uncommon
+"Baylen, the Haymaker",{R}{G}{W},3.0,Legendary Creature — Rabbit Warrior,"Tap two untapped tokens you control: Add one mana of any color.
+Tap three untapped tokens you control: Draw a card.
+Tap four untapped tokens you control: Put three +1/+1 counters on Baylen, the Haymaker. It gains trample until end of turn.",4,3,"['G', 'R', 'W']","['G', 'R', 'W']",[],blb,rare
+Bellowing Crier,{1}{U},2.0,Creature — Frog Advisor,"When Bellowing Crier enters, draw a card, then discard a card.",2,1,['U'],['U'],[],blb,common
+"Beza, the Bounding Spring",{2}{W}{W},4.0,Legendary Creature — Elemental Elk,"When Beza, the Bounding Spring enters, create a Treasure token if an opponent controls more lands than you. You gain 4 life if an opponent has more life than you. Create two 1/1 blue Fish creature tokens if an opponent controls more creatures than you. Draw a card if an opponent has more cards in hand than you.",4,5,['W'],['W'],['Treasure'],blb,mythic
+Blacksmith's Talent,{R},1.0,Enchantment — Class,"(Gain the next level as a sorcery to add its ability.)
+When Blacksmith's Talent enters, create a colorless Equipment artifact token named Sword with ""Equipped creature gets +1/+1"" and equip {2}.
+{2}{R}: Level 2
+At the beginning of combat on your turn, attach target Equipment you control to up to one target creature you control.
+{3}{R}: Level 3
+During your turn, equipped creatures you control have double strike and haste.",n/a,n/a,['R'],['R'],[],blb,uncommon
+Blooming Blast,{1}{R},2.0,Instant,"Gift a Treasure (You may promise an opponent a gift as you cast this spell. If you do, they create a Treasure token before its other effects. It's an artifact with ""{T}, Sacrifice this artifact: Add one mana of any color."")
+Blooming Blast deals 2 damage to target creature. If the gift was promised, Blooming Blast also deals 3 damage to that creature's controller.",n/a,n/a,['R'],['R'],"['Gift', 'Treasure']",blb,uncommon
+Blossoming Sands,,0.0,Land,"Blossoming Sands enters the battlefield tapped.
+When Blossoming Sands enters the battlefield, you gain 1 life.
+{T}: Add {G} or {W}.",n/a,n/a,[],"['G', 'W']",[],blb,common
+Bonebind Orator,{1}{B},2.0,Creature — Squirrel Warlock Bard,"{3}{B}, Exile Bonebind Orator from your graveyard: Return another target creature card from your graveyard to your hand.",2,2,['B'],['B'],[],blb,common
+Bonecache Overseer,{B},1.0,Creature — Squirrel Warlock,"{T}, Pay 1 life: Draw a card. Activate only if three or more cards left your graveyard this turn or if you've sacrificed a Food this turn.",1,1,['B'],['B'],[],blb,uncommon
+Brambleguard Captain,{3}{R},4.0,Creature — Mouse Soldier,"At the beginning of combat on your turn, target creature you control gets +X/+0 until end of turn, where X is Brambleguard Captain's power.",2,3,['R'],['R'],[],blb,uncommon
+Brambleguard Veteran,{1}{G}{G},3.0,Creature — Raccoon Warrior,"Whenever you expend 4, Raccoons you control get +1/+1 and gain vigilance until end of turn. (You expend 4 as you spend your fourth total mana to cast spells during a turn.)",3,4,['G'],['G'],[],blb,uncommon
+Brave-Kin Duo,{W},1.0,Creature — Rabbit Mouse,"{1}, {T}: Target creature gets +1/+1 until end of turn. Activate only as a sorcery.",1,1,['W'],['W'],[],blb,common
+Brazen Collector,{1}{R},2.0,Creature — Raccoon Rogue,"First strike
+Whenever Brazen Collector attacks, add {R}. Until end of turn, you don't lose this mana as steps and phases end.",2,1,['R'],['R'],['First strike'],blb,uncommon
+"Bria, Riptide Rogue",{2}{U}{R},4.0,Legendary Creature — Otter Rogue,"Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Other creatures you control have prowess. (If a creature has multiple instances of prowess, each triggers separately.)
+Whenever you cast a noncreature spell, target creature you control can't be blocked this turn.",3,3,"['R', 'U']","['R', 'U']",['Prowess'],blb,mythic
+Brightblade Stoat,{1}{W},2.0,Creature — Weasel Soldier,"First strike, lifelink",2,2,['W'],['W'],"['Lifelink', 'First strike']",blb,uncommon
+Builder's Talent,{1}{W},2.0,Enchantment — Class,"(Gain the next level as a sorcery to add its ability.)
+When Builder's Talent enters, create a 0/4 white Wall creature token with defender.
+{W}: Level 2
+Whenever one or more noncreature, nonland permanents you control enter, put a +1/+1 counter on target creature you control.
+{4}{W}: Level 3
+When this Class becomes level 3, return target noncreature, nonland permanent card from your graveyard to the battlefield.",n/a,n/a,['W'],['W'],[],blb,uncommon
+Bumbleflower's Sharepot,{2},2.0,Artifact,"When Bumbleflower's Sharepot enters, create a Food token. (It's an artifact with ""{2}, {T}, Sacrifice this artifact: You gain 3 life."")
+{5}, {T}, Sacrifice Bumbleflower's Sharepot: Destroy target nonland permanent. Activate only as a sorcery.",n/a,n/a,[],[],['Food'],blb,common
+Burrowguard Mentor,{G}{W},2.0,Creature — Rabbit Soldier,"Trample
+Burrowguard Mentor's power and toughness are each equal to the number of creatures you control.",*,*,"['G', 'W']","['G', 'W']",['Trample'],blb,uncommon
+Bushy Bodyguard,{1}{G},2.0,Creature — Squirrel Warrior,"Offspring {2} (You may pay an additional {2} as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)
+When this creature enters, you may forage. If you do, put two +1/+1 counters on it. (To forage, exile three cards from your graveyard or sacrifice a Food.)",2,1,['G'],['G'],['Forage'],blb,uncommon
+"Byrke, Long Ear of the Law",{4}{G}{W},6.0,Legendary Creature — Rabbit Soldier,"Vigilance
+When Byrke, Long Ear of the Law enters, put a +1/+1 counter on each of up to two target creatures.
+Whenever a creature you control with a +1/+1 counter on it attacks, double the number of +1/+1 counters on it.",4,4,"['G', 'W']","['G', 'W']",['Vigilance'],blb,mythic
+Byway Barterer,{2}{R},3.0,Creature — Raccoon Rogue,"Menace
+Whenever you expend 4, you may discard your hand. If you do, draw two cards. (You expend 4 as you spend your fourth total mana to cast spells during a turn.)",3,3,['R'],['R'],['Menace'],blb,rare
+Cache Grab,{1}{G},2.0,Instant,"Mill four cards. You may put a permanent card from among the cards milled this way into your hand. If you control a Squirrel or returned a Squirrel card to your hand this way, create a Food token. (To mill four cards, put the top four cards of your library into your graveyard. A Food token is an artifact with ""{2}, {T}, Sacrifice this artifact: You gain 3 life."")",n/a,n/a,['G'],['G'],"['Food', 'Mill']",blb,common
+Calamitous Tide,{4}{U}{U},6.0,Sorcery,"Return up to two target creatures to their owners' hands. Draw two cards, then discard a card.",n/a,n/a,['U'],['U'],[],blb,uncommon
+"Camellia, the Seedmiser",{1}{B}{G},3.0,Legendary Creature — Squirrel Warlock,"Menace
+Other Squirrels you control have menace.
+Whenever you sacrifice one or more Foods, create a 1/1 green Squirrel creature token.
+{2}, Forage: Put a +1/+1 counter on each other Squirrel you control. (To forage, exile three cards from your graveyard or sacrifice a Food.)",3,3,"['B', 'G']","['B', 'G']",['Menace'],blb,rare
+Caretaker's Talent,{2}{W},3.0,Enchantment — Class,"(Gain the next level as a sorcery to add its ability.)
+Whenever one or more tokens you control enter, draw a card. This ability triggers only once each turn.
+{W}: Level 2
+When this Class becomes level 2, create a token that's a copy of target token you control.
+{3}{W}: Level 3
+Creature tokens you control get +2/+2.",n/a,n/a,['W'],['W'],[],blb,rare
+Carrot Cake,{1}{W},2.0,Artifact — Food,"When Carrot Cake enters and when you sacrifice it, create a 1/1 white Rabbit creature token and scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{2}, {T}, Sacrifice Carrot Cake: You gain 3 life.",n/a,n/a,['W'],['W'],['Scry'],blb,common
+Charmed Sleep,{1}{U}{U},3.0,Enchantment — Aura,"Enchant creature
+When Charmed Sleep enters the battlefield, tap enchanted creature.
+Enchanted creature doesn't untap during its controller's untap step.",n/a,n/a,['U'],['U'],['Enchant'],blb,common
+Cindering Cutthroat,{2}{B/R},3.0,Creature — Lizard Assassin,"Cindering Cutthroat enters with a +1/+1 counter on it if an opponent lost life this turn.
+{1}{B/R}: Cindering Cutthroat gains menace until end of turn. (It can't be blocked except by two or more creatures.)",3,2,"['B', 'R']","['B', 'R']",[],blb,common
+"Clement, the Worrywort",{1}{G}{U},3.0,Legendary Creature — Frog Druid,"Vigilance
+Whenever Clement, the Worrywort or another creature you control enters, return up to one target creature you control with lesser mana value to its owner's hand.
+Frogs you control have ""{T}: Add {G} or {U}. Spend this mana only to cast a creature spell.""",3,3,"['G', 'U']","['G', 'U']",['Vigilance'],blb,rare
+Clifftop Lookout,{2}{G},3.0,Creature — Frog Scout,"Reach
+When Clifftop Lookout enters, reveal cards from the top of your library until you reveal a land card. Put that card onto the battlefield tapped and the rest on the bottom of your library in a random order.",1,2,['G'],['G'],['Reach'],blb,uncommon
+Coiling Rebirth,{3}{B}{B},5.0,Sorcery,"Gift a card (You may promise an opponent a gift as you cast this spell. If you do, they draw a card before its other effects.)
+Return target creature card from your graveyard to the battlefield. Then if the gift was promised and that creature isn't legendary, create a token that's a copy of that creature, except it's 1/1.",n/a,n/a,['B'],['B'],['Gift'],blb,rare
+Colossification,{5}{G}{G},7.0,Enchantment — Aura,"Enchant creature
+When Colossification enters the battlefield, tap enchanted creature.
+Enchanted creature gets +20/+20.",n/a,n/a,['G'],['G'],['Enchant'],blb,rare
+Conduct Electricity,{4}{R},5.0,Instant,Conduct Electricity deals 6 damage to target creature and 2 damage to up to one target creature token.,n/a,n/a,['R'],['R'],[],blb,common
+Consumed by Greed,{1}{B}{B},3.0,Instant,"Gift a card (You may promise an opponent a gift as you cast this spell. If you do, they draw a card before its other effects.)
+Target opponent sacrifices a creature with the greatest power among creatures they control. If the gift was promised, return target creature card from your graveyard to your hand.",n/a,n/a,['B'],['B'],['Gift'],blb,uncommon
+Corpseberry Cultivator,{1}{B/G}{B/G},3.0,Creature — Squirrel Warlock,"At the beginning of combat on your turn, you may forage. (Exile three cards from your graveyard or sacrifice a Food.)
+Whenever you forage, put a +1/+1 counter on Corpseberry Cultivator.",2,3,"['B', 'G']","['B', 'G']",['Forage'],blb,common
+Coruscation Mage,{1}{R},2.0,Creature — Otter Wizard,"Offspring {2} (You may pay an additional {2} as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)
+Whenever you cast a noncreature spell, this creature deals 1 damage to each opponent.",2,2,['R'],['R'],[],blb,uncommon
+Cruelclaw's Heist,{B}{B},2.0,Sorcery,"Gift a card (You may promise an opponent a gift as you cast this spell. If you do, they draw a card before its other effects.)
+Target opponent reveals their hand. You choose a nonland card from it. Exile that card. If the gift was promised, you may cast that card for as long as it remains exiled, and mana of any type can be spent to cast it.",n/a,n/a,['B'],['B'],['Gift'],blb,rare
+Crumb and Get It,{W},1.0,Instant,"Gift a Food (You may promise an opponent a gift as you cast this spell. If you do, they create a Food token before its other effects. It's an artifact with ""{2}, {T}, Sacrifice this artifact: You gain 3 life."")
+Target creature you control gets +2/+2 until end of turn. If the gift was promised, that creature also gains indestructible until end of turn.",n/a,n/a,['W'],['W'],"['Gift', 'Food']",blb,common
+Curious Forager,{2}{G},3.0,Creature — Squirrel Druid,"When Curious Forager enters, you may forage. When you do, return target permanent card from your graveyard to your hand. (To forage, exile three cards from your graveyard or sacrifice a Food.)",3,2,['G'],['G'],['Forage'],blb,uncommon
+Daggerfang Duo,{2}{B},3.0,Creature — Rat Squirrel,"Deathtouch
+When Daggerfang Duo enters, you may mill two cards. (You may put the top two cards of your library into your graveyard.)",3,2,['B'],['B'],"['Mill', 'Deathtouch']",blb,common
+Daring Waverider,{4}{U}{U},6.0,Creature — Otter Wizard,"When Daring Waverider enters, you may cast target instant or sorcery card with mana value 4 or less from your graveyard without paying its mana cost. If that spell would be put into your graveyard, exile it instead.",4,4,['U'],['U'],[],blb,uncommon
+Darkstar Augur,{2}{B},3.0,Creature — Bat Warlock,"Offspring {B} (You may pay an additional {B} as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)
+Flying
+At the beginning of your upkeep, reveal the top card of your library and put that card into your hand. You lose life equal to its mana value.",2,3,['B'],['B'],['Flying'],blb,rare
+Dawn's Truce,{1}{W},2.0,Instant,"Gift a card (You may promise an opponent a gift as you cast this spell. If you do, they draw a card before its other effects.)
+You and permanents you control gain hexproof until end of turn. If the gift was promised, permanents you control also gain indestructible until end of turn.",n/a,n/a,['W'],['W'],['Gift'],blb,rare
+Dazzling Denial,{1}{U},2.0,Instant,"Counter target spell unless its controller pays {2}. If you control a Bird, counter that spell unless its controller pays {4} instead.",n/a,n/a,['U'],['U'],[],blb,common
+Dewdrop Cure,{2}{W},3.0,Sorcery,"Gift a card (You may promise an opponent a gift as you cast this spell. If you do, they draw a card before its other effects.)
+Return up to two target creature cards each with mana value 2 or less from your graveyard to the battlefield. If the gift was promised, instead return up to three target creature cards each with mana value 2 or less from your graveyard to the battlefield.",n/a,n/a,['W'],['W'],['Gift'],blb,uncommon
+Dire Downdraft,{3}{U},4.0,Instant,"This spell costs {1} less to cast if it targets an attacking or tapped creature.
+Target creature's owner puts it on the top or bottom of their library.",n/a,n/a,['U'],['U'],[],blb,common
+Diresight,{2}{B},3.0,Sorcery,"Surveil 2, then draw two cards. You lose 2 life. (To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)",n/a,n/a,['B'],['B'],['Surveil'],blb,common
+Dour Port-Mage,{1}{U},2.0,Creature — Frog Wizard,"Whenever one or more other creatures you control leave the battlefield without dying, draw a card.
+{1}{U}, {T}: Return another target creature you control to its owner's hand.",1,3,['U'],['U'],[],blb,rare
+Downwind Ambusher,{3}{B},4.0,Creature — Skunk Assassin,"Flash
+When Downwind Ambusher enters, choose one —
+• Target creature an opponent controls gets -1/-1 until end of turn.
+• Destroy target creature an opponent controls that was dealt damage this turn.",4,2,['B'],['B'],['Flash'],blb,uncommon
+"Dragonhawk, Fate's Tempest",{3}{R}{R},5.0,Legendary Creature — Bird Dragon,"Flying
+Whenever Dragonhawk enters or attacks, exile the top X cards of your library, where X is the number of creatures you control with power 4 or greater. You may play those cards until your next end step. At the beginning of your next end step, Dragonhawk deals 2 damage to each opponent for each of those cards that are still exiled.",5,5,['R'],['R'],['Flying'],blb,mythic
+Dreamdew Entrancer,{2}{G}{U},4.0,Creature — Frog Wizard,"Reach
+When Dreamdew Entrancer enters, tap up to one target creature and put three stun counters on it. If you control that creature, draw two cards.",3,4,"['G', 'U']","['G', 'U']",['Reach'],blb,rare
+Driftgloom Coyote,{3}{W}{W},5.0,Creature — Elemental Coyote,"When Driftgloom Coyote enters, exile target creature an opponent controls until Driftgloom Coyote leaves the battlefield. If that creature had power 2 or less, put a +1/+1 counter on Driftgloom Coyote.",3,4,['W'],['W'],[],blb,uncommon
+Druid of the Spade,{2}{G},3.0,Creature — Rabbit Druid,"As long as you control a token, Druid of the Spade gets +2/+0 and has trample.",2,3,['G'],['G'],[],blb,common
+Early Winter,{4}{B},5.0,Instant,"Choose one —
+• Exile target creature.
+• Target opponent exiles an enchantment they control.",n/a,n/a,['B'],['B'],[],blb,common
+Eddymurk Crab,{5}{U}{U},7.0,Creature — Elemental Crab,"Flash
+This spell costs {1} less to cast for each instant and sorcery card in your graveyard.
+Eddymurk Crab enters tapped if it's not your turn.
+When Eddymurk Crab enters, tap up to two target creatures.",5,5,['U'],['U'],['Flash'],blb,uncommon
+"Eluge, the Shoreless Sea",{1}{U}{U}{U},4.0,Legendary Creature — Elemental Fish,"Eluge's power and toughness are each equal to the number of Islands you control.
+Whenever Eluge enters or attacks, put a flood counter on target land. It's an Island in addition to its other types for as long as it has a flood counter on it.
+The first instant or sorcery spell you cast each turn costs {U} (or {1}) less to cast for each land you control with a flood counter on it.",*,*,['U'],['U'],[],blb,mythic
+Emberheart Challenger,{1}{R},2.0,Creature — Mouse Warrior,"Haste
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Valiant — Whenever Emberheart Challenger becomes the target of a spell or ability you control for the first time each turn, exile the top card of your library. Until end of turn, you may play that card.",2,2,['R'],['R'],"['Prowess', 'Valiant', 'Haste']",blb,rare
+Essence Channeler,{1}{W},2.0,Creature — Bat Cleric,"As long as you've lost life this turn, Essence Channeler has flying and vigilance.
+Whenever you gain life, put a +1/+1 counter on Essence Channeler.
+When Essence Channeler dies, put its counters on target creature you control.",2,1,['W'],['W'],[],blb,rare
+Fabled Passage,,0.0,Land,"{T}, Sacrifice Fabled Passage: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. Then if you control four or more lands, untap that land.",n/a,n/a,[],[],[],blb,rare
+Feather of Flight,{1}{W},2.0,Enchantment — Aura,"Flash
+Enchant creature
+When Feather of Flight enters, draw a card.
+Enchanted creature gets +1/+0 and has flying.",n/a,n/a,['W'],['W'],"['Enchant', 'Flash']",blb,uncommon
+Fecund Greenshell,{3}{G}{G},5.0,Creature — Elemental Turtle,"Reach
+As long as you control ten or more lands, creatures you control get +2/+2.
+Whenever Fecund Greenshell or another creature you control with toughness greater than its power enters, look at the top card of your library. If it's a land card, you may put it onto the battlefield tapped. Otherwise, put it into your hand.",4,6,['G'],['G'],['Reach'],blb,rare
+Feed the Cycle,{1}{B},2.0,Instant,"As an additional cost to cast this spell, forage or pay {B}. (To forage, exile three cards from your graveyard or sacrifice a Food.)
+Destroy target creature or planeswalker.",n/a,n/a,['B'],['B'],['Forage'],blb,uncommon
+Fell,{1}{B},2.0,Sorcery,Destroy target creature.,n/a,n/a,['B'],['B'],[],blb,uncommon
+Festival of Embers,{4}{R},5.0,Enchantment,"During your turn, you may cast instant and sorcery spells from your graveyard by paying 1 life in addition to their other costs.
+If a card or token would be put into your graveyard from anywhere, exile it instead.
+{1}{R}: Sacrifice Festival of Embers.",n/a,n/a,['R'],['R'],[],blb,rare
+Finch Formation,{2}{U},3.0,Creature — Bird Scout,"Offspring {3} (You may pay an additional {3} as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)
+Flying
+When this creature enters, target creature you control gains flying until end of turn.",2,2,['U'],['U'],['Flying'],blb,common
+"Finneas, Ace Archer",{G}{W},2.0,Legendary Creature — Rabbit Archer,"Vigilance, reach
+Whenever Finneas, Ace Archer attacks, put a +1/+1 counter on each other creature you control that's a token or a Rabbit. Then if creatures you control have total power 10 or greater, draw a card.",2,2,"['G', 'W']","['G', 'W']","['Reach', 'Vigilance']",blb,rare
+Fireglass Mentor,{B}{R},2.0,Creature — Lizard Warlock,"At the beginning of your second main phase, if an opponent lost life this turn, exile the top two cards of your library. Choose one of them. Until end of turn, you may play that card.",2,1,"['B', 'R']","['B', 'R']",[],blb,uncommon
+Flamecache Gecko,{1}{R},2.0,Creature — Lizard Warlock,"When Flamecache Gecko enters, if an opponent lost life this turn, add {B}{R}.
+{1}{R}, Discard a card: Draw a card.",2,2,['R'],"['B', 'R']",[],blb,uncommon
+Flame Lash,{3}{R},4.0,Instant,Flame Lash deals 4 damage to any target.,n/a,n/a,['R'],['R'],[],blb,common
+Flowerfoot Swordmaster,{W},1.0,Creature — Mouse Soldier,"Offspring {2} (You may pay an additional {2} as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)
+Valiant — Whenever this creature becomes the target of a spell or ability you control for the first time each turn, Mice you control get +1/+0 until end of turn.",1,2,['W'],['W'],['Valiant'],blb,uncommon
+Forest,,0.0,Basic Land — Forest,({T}: Add {G}.),n/a,n/a,[],['G'],[],blb,common
+For the Common Good,{X}{X}{G},1.0,Sorcery,Create X tokens that are copies of target token you control. Then tokens you control gain indestructible until your next turn. You gain 1 life for each token you control.,n/a,n/a,['G'],['G'],[],blb,rare
+Fountainport,,0.0,Land,"{T}: Add {C}.
+{2}, {T}, Sacrifice a token: Draw a card.
+{3}, {T}, Pay 1 life: Create a 1/1 blue Fish creature token.
+{4}, {T}: Create a Treasure token.",n/a,n/a,[],[],['Treasure'],blb,rare
+Fountainport Bell,{1},1.0,Artifact,"When Fountainport Bell enters, you may search your library for a basic land card, reveal it, then shuffle and put that card on top.
+{1}, Sacrifice Fountainport Bell: Draw a card.",n/a,n/a,[],[],[],blb,common
+Frilled Sparkshooter,{3}{R},4.0,Creature — Lizard Archer,"Menace, reach
+Frilled Sparkshooter enters with a +1/+1 counter on it if an opponent lost life this turn.",3,3,['R'],['R'],"['Reach', 'Menace']",blb,common
+Galewind Moose,{4}{G}{G},6.0,Creature — Elemental Elk,"Flash
+Vigilance, reach, trample",6,6,['G'],['G'],"['Reach', 'Vigilance', 'Trample', 'Flash']",blb,uncommon
+"Gev, Scaled Scorch",{B}{R},2.0,Legendary Creature — Lizard Mercenary,"Ward—Pay 2 life.
+Other creatures you control enter with an additional +1/+1 counter on them for each opponent who lost life this turn.
+Whenever you cast a Lizard spell, Gev, Scaled Scorch deals 1 damage to target opponent.",3,2,"['B', 'R']","['B', 'R']",['Ward'],blb,rare
+Giant Growth,{G},1.0,Instant,Target creature gets +3/+3 until end of turn.,n/a,n/a,['G'],['G'],[],blb,common
+"Glarb, Calamity's Augur",{B}{G}{U},3.0,Legendary Creature — Frog Wizard Noble,"Deathtouch
+You may look at the top card of your library any time.
+You may play lands and cast spells with mana value 4 or greater from the top of your library.
+{T}: Surveil 2.",2,4,"['B', 'G', 'U']","['B', 'G', 'U']","['Surveil', 'Deathtouch']",blb,mythic
+Glidedive Duo,{4}{B},5.0,Creature — Bat Lizard,"Flying
+When Glidedive Duo enters, each opponent loses 2 life and you gain 2 life.",3,3,['B'],['B'],['Flying'],blb,common
+Gossip's Talent,{1}{U},2.0,Enchantment — Class,"(Gain the next level as a sorcery to add its ability.)
+Whenever a creature you control enters, surveil 1.
+{1}{U}: Level 2
+Whenever you attack, target attacking creature with power 3 or less can't be blocked this turn.
+{3}{U}: Level 3
+Whenever a creature you control deals combat damage to a player, you may exile it, then return it to the battlefield under its owner's control.",n/a,n/a,['U'],['U'],['Surveil'],blb,uncommon
+Harnesser of Storms,{2}{R},3.0,Creature — Otter Wizard,"Whenever you cast a noncreature or Otter spell, you may exile the top card of your library. Until end of turn, you may play that card. This ability triggers only once each turn.",1,4,['R'],['R'],[],blb,uncommon
+Harvestrite Host,{2}{W},3.0,Creature — Rabbit Citizen,"Whenever Harvestrite Host or another Rabbit you control enters, target creature you control gets +1/+0 until end of turn. Then draw a card if this is the second time this ability has resolved this turn.",3,3,['W'],['W'],[],blb,uncommon
+Hazardroot Herbalist,{2}{G},3.0,Creature — Rabbit Druid,"Whenever you attack, target creature you control gets +1/+0 until end of turn. If that creature is a token, it also gains deathtouch until end of turn.",1,4,['G'],['G'],[],blb,uncommon
+Hazel's Nocturne,{3}{B},4.0,Instant,Return up to two target creature cards from your graveyard to your hand. Each opponent loses 2 life and you gain 2 life.,n/a,n/a,['B'],['B'],[],blb,uncommon
+Head of the Homestead,{3}{G/W}{G/W},5.0,Creature — Rabbit Citizen,"When Head of the Homestead enters, create two 1/1 white Rabbit creature tokens.",3,2,"['G', 'W']","['G', 'W']",[],blb,common
+Heaped Harvest,{2}{G},3.0,Artifact — Food,"When Heaped Harvest enters and when you sacrifice it, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+{2}, {T}, Sacrifice Heaped Harvest: You gain 3 life.",n/a,n/a,['G'],['G'],[],blb,common
+Heartfire Hero,{R},1.0,Creature — Mouse Soldier,"Valiant — Whenever Heartfire Hero becomes the target of a spell or ability you control for the first time each turn, put a +1/+1 counter on it.
+When Heartfire Hero dies, it deals damage equal to its power to each opponent.",1,1,['R'],['R'],['Valiant'],blb,uncommon
+Hearthborn Battler,{2}{R},3.0,Creature — Lizard Warlock,"Haste
+Whenever a player casts their second spell each turn, Hearthborn Battler deals 2 damage to target opponent.",2,3,['R'],['R'],['Haste'],blb,rare
+Heirloom Epic,{1},1.0,Artifact,"{4}, {T}: Draw a card. For each mana in this ability's activation cost, you may tap an untapped creature you control rather than pay that mana. Activate only as a sorcery.",n/a,n/a,[],[],[],blb,uncommon
+"Helga, Skittish Seer",{G}{W}{U},3.0,Legendary Creature — Frog Druid,"Whenever you cast a creature spell with mana value 4 or greater, you draw a card, gain 1 life, and put a +1/+1 counter on Helga, Skittish Seer.
+{T}: Add X mana of any one color, where X is Helga, Skittish Seer's power. Spend this mana only to cast creature spells with mana value 4 or greater or creature spells with {X} in their mana costs.",1,3,"['G', 'U', 'W']","['G', 'U', 'W']",[],blb,mythic
+Hidden Grotto,,0.0,Land,"When Hidden Grotto enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+{T}: Add {C}.
+{1}, {T}: Add one mana of any color.",n/a,n/a,[],[],['Surveil'],blb,common
+High Stride,{G},1.0,Instant,Target creature gets +1/+3 and gains reach until end of turn. Untap it.,n/a,n/a,['G'],['G'],[],blb,common
+Hired Claw,{R},1.0,Creature — Lizard Mercenary,"Whenever you attack with one or more Lizards, Hired Claw deals 1 damage to target opponent.
+{1}{R}: Put a +1/+1 counter on Hired Claw. Activate this ability only if an opponent has lost life this turn and only once each turn.",1,2,['R'],['R'],[],blb,rare
+Hivespine Wolverine,{3}{G}{G},5.0,Creature — Elemental Wolverine,"When Hivespine Wolverine enters, choose one —
+• Put a +1/+1 counter on target creature you control.
+• Hivespine Wolverine fights target creature token.
+• Destroy target artifact or enchantment.",5,4,['G'],['G'],['Fight'],blb,uncommon
+Hoarder's Overflow,{1}{R},2.0,Enchantment,"When Hoarder's Overflow enters and whenever you expend 4, put a stash counter on it. (You expend 4 as you spend your fourth total mana to cast spells during a turn.)
+{1}{R}, Sacrifice Hoarder's Overflow: Discard your hand, then draw cards equal to the number of stash counters on Hoarder's Overflow.",n/a,n/a,['R'],['R'],[],blb,uncommon
+Honored Dreyleader,{2}{G},3.0,Creature — Squirrel Warrior,"Trample
+When Honored Dreyleader enters, put a +1/+1 counter on it for each other Squirrel and/or Food you control.
+Whenever another Squirrel or Food you control enters, put a +1/+1 counter on Honored Dreyleader.",1,1,['G'],['G'],['Trample'],blb,uncommon
+Hop to It,{2}{W},3.0,Sorcery,Create three 1/1 white Rabbit creature tokens.,n/a,n/a,['W'],['W'],[],blb,uncommon
+"Hugs, Grisly Guardian",{X}{R}{R}{G}{G},4.0,Legendary Creature — Badger Warrior,"Trample
+When Hugs, Grisly Guardian enters, exile the top X cards of your library. Until the end of your next turn, you may play those cards.
+You may play an additional land on each of your turns.",5,5,"['G', 'R']","['G', 'R']",['Trample'],blb,mythic
+Hunter's Talent,{1}{G},2.0,Enchantment — Class,"(Gain the next level as a sorcery to add its ability.)
+When Hunter's Talent enters, target creature you control deals damage equal to its power to target creature you don't control.
+{1}{G}: Level 2
+Whenever you attack, target attacking creature gets +1/+0 and gains trample until end of turn.
+{3}{G}: Level 3
+At the beginning of your end step, if you control a creature with power 4 or greater, draw a card.",n/a,n/a,['G'],['G'],[],blb,uncommon
+Huskburster Swarm,{7}{B},8.0,Creature — Elemental Insect,"This spell costs {1} less to cast for each creature card you own in exile and in your graveyard.
+Menace, deathtouch",6,6,['B'],['B'],"['Menace', 'Deathtouch']",blb,uncommon
+Innkeeper's Talent,{1}{G},2.0,Enchantment — Class,"(Gain the next level as a sorcery to add its ability.)
+At the beginning of combat on your turn, put a +1/+1 counter on target creature you control.
+{G}: Level 2
+Permanents you control with counters on them have ward {1}.
+{3}{G}: Level 3
+If you would put one or more counters on a permanent or player, put twice that many of each of those kinds of counters on that permanent or player instead.",n/a,n/a,['G'],['G'],[],blb,rare
+Into the Flood Maw,{U},1.0,Instant,"Gift a tapped Fish (You may promise an opponent a gift as you cast this spell. If you do, they create a tapped 1/1 blue Fish creature token before its other effects.)
+Return target creature an opponent controls to its owner's hand. If the gift was promised, instead return target nonland permanent an opponent controls to its owner's hand.",n/a,n/a,['U'],['U'],['Gift'],blb,uncommon
+Intrepid Rabbit,{2}{W},3.0,Creature — Rabbit Soldier,"Offspring {1} (You may pay an additional {1} as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)
+When this creature enters, target creature you control gets +1/+1 until end of turn.",3,2,['W'],['W'],[],blb,common
+Iridescent Vinelasher,{B},1.0,Creature — Lizard Assassin,"Offspring {2} (You may pay an additional {2} as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)
+Landfall — Whenever a land you control enters, this creature deals 1 damage to target opponent.",1,2,['B'],['B'],['Landfall'],blb,rare
+Island,,0.0,Basic Land — Island,({T}: Add {U}.),n/a,n/a,[],['U'],[],blb,common
+Jackdaw Savior,{2}{W},3.0,Creature — Bird Cleric,"Flying
+Whenever Jackdaw Savior or another creature you control with flying dies, return another target creature card with lesser mana value from your graveyard to the battlefield.",3,1,['W'],['W'],['Flying'],blb,rare
+Jolly Gerbils,{1}{W},2.0,Creature — Hamster Citizen,"Whenever you give a gift, draw a card.",2,3,['W'],['W'],[],blb,uncommon
+Junkblade Bruiser,{3}{R/G}{R/G},5.0,Creature — Raccoon Berserker,"Trample
+Whenever you expend 4, Junkblade Bruiser gets +2/+1 until end of turn. (You expend 4 as you spend your fourth total mana to cast spells during a turn.)",4,5,"['G', 'R']","['G', 'R']",['Trample'],blb,common
+"Kastral, the Windcrested",{3}{W}{U},5.0,Legendary Creature — Bird Scout,"Flying
+Whenever one or more Birds you control deal combat damage to a player, choose one —
+• You may put a Bird creature card from your hand or graveyard onto the battlefield with a finality counter on it.
+• Put a +1/+1 counter on each Bird you control.
+• Draw a card.",4,5,"['U', 'W']","['U', 'W']",['Flying'],blb,rare
+Keen-Eyed Curator,{G}{G},2.0,Creature — Raccoon Scout,"As long as there are four or more card types among cards exiled with Keen-Eyed Curator, it gets +4/+4 and has trample.
+{1}: Exile target card from a graveyard.",3,3,['G'],['G'],[],blb,rare
+Kindlespark Duo,{2}{R},3.0,Creature — Lizard Otter,"{T}: Kindlespark Duo deals 1 damage to target opponent.
+Whenever you cast a noncreature spell, untap Kindlespark Duo.",1,3,['R'],['R'],[],blb,common
+Kitnap,{2}{U}{U},4.0,Enchantment — Aura,"Gift a card (You may promise an opponent a gift as you cast this spell. If you do, when it enters, they draw a card.)
+Enchant creature
+When Kitnap enters, tap enchanted creature. If the gift wasn't promised, put three stun counters on it.
+You control enchanted creature.",n/a,n/a,['U'],['U'],"['Gift', 'Enchant']",blb,rare
+"Kitsa, Otterball Elite",{1}{U},2.0,Legendary Creature — Otter Wizard,"Vigilance
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+{T}: Draw a card, then discard a card.
+{2}, {T}: Copy target instant or sorcery spell you control. You may choose new targets for the copy. Activate only if Kitsa's power is 3 or greater.",1,3,['U'],['U'],"['Prowess', 'Vigilance']",blb,mythic
+Knightfisher,{3}{U}{U},5.0,Creature — Bird Knight,"Flying
+Whenever another nontoken Bird you control enters, create a 1/1 blue Fish creature token.",4,5,['U'],['U'],['Flying'],blb,uncommon
+Lifecreed Duo,{1}{W},2.0,Creature — Bat Bird,"Flying
+Whenever another creature you control enters, you gain 1 life.",1,2,['W'],['W'],['Flying'],blb,common
+Lightshell Duo,{3}{U},4.0,Creature — Rat Otter,"Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+When Lightshell Duo enters, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)",3,4,['U'],['U'],"['Surveil', 'Prowess']",blb,common
+Lilypad Village,,0.0,Land,"{T}: Add {C}.
+{T}: Add {U}. Spend this mana only to cast a creature spell.
+{U}, {T}: Surveil 2. Activate only if a Bird, Frog, Otter, or Rat entered the battlefield under your control this turn.",n/a,n/a,[],['U'],['Surveil'],blb,uncommon
+Lilysplash Mentor,{2}{G}{U},4.0,Creature — Frog Druid,"Reach
+{1}{G}{U}: Exile another target creature you control, then return it to the battlefield under its owner's control with a +1/+1 counter on it. Activate only as a sorcery.",4,4,"['G', 'U']","['G', 'U']",['Reach'],blb,uncommon
+Long River Lurker,{2}{U},3.0,Creature — Frog Scout,"Ward {1}
+Other Frogs you control have ward {1}.
+When Long River Lurker enters, target creature you control can't be blocked this turn. Whenever that creature deals combat damage this turn, you may exile it. If you do, return it to the battlefield under its owner's control.",2,3,['U'],['U'],['Ward'],blb,uncommon
+Long River's Pull,{U}{U},2.0,Instant,"Gift a card (You may promise an opponent a gift as you cast this spell. If you do, they draw a card before its other effects.)
+Counter target creature spell. If the gift was promised, instead counter target spell.",n/a,n/a,['U'],['U'],['Gift'],blb,uncommon
+Longstalk Brawl,{G},1.0,Sorcery,"Gift a tapped Fish (You may promise an opponent a gift as you cast this spell. If you do, they create a tapped 1/1 blue Fish creature token before its other effects.)
+Choose target creature you control and target creature you don't control. Put a +1/+1 counter on the creature you control if the gift was promised. Then those creatures fight each other.",n/a,n/a,['G'],['G'],"['Gift', 'Fight']",blb,common
+"Lumra, Bellow of the Woods",{4}{G}{G},6.0,Legendary Creature — Elemental Bear,"Vigilance, reach
+Lumra, Bellow of the Woods's power and toughness are each equal to the number of lands you control.
+When Lumra enters, mill four cards. Then return all land cards from your graveyard to the battlefield tapped.",*,*,['G'],['G'],"['Reach', 'Vigilance', 'Mill']",blb,mythic
+Lunar Convocation,{W}{B},2.0,Enchantment,"At the beginning of your end step, if you gained life this turn, each opponent loses 1 life.
+At the beginning of your end step, if you gained and lost life this turn, create a 1/1 black Bat creature token with flying.
+{1}{B}, Pay 2 life: Draw a card.",n/a,n/a,"['B', 'W']","['B', 'W']",[],blb,rare
+Lupinflower Village,,0.0,Land,"{T}: Add {C}.
+{T}: Add {W}. Spend this mana only to cast a creature spell.
+{1}{W}, {T}, Sacrifice Lupinflower Village: Look at the top six cards of your library. You may reveal a Bat, Bird, Mouse, or Rabbit card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",n/a,n/a,[],['W'],[],blb,uncommon
+"Mabel, Heir to Cragflame",{1}{R}{W},3.0,Legendary Creature — Mouse Soldier,"Other Mice you control get +1/+1.
+When Mabel, Heir to Cragflame enters, create Cragflame, a legendary colorless Equipment artifact token with ""Equipped creature gets +1/+1 and has vigilance, trample, and haste"" and equip {2}.",3,3,"['R', 'W']","['R', 'W']",[],blb,rare
+Mabel's Mettle,{1}{W},2.0,Instant,Target creature gets +2/+2 until end of turn. Up to one other target creature gets +1/+1 until end of turn.,n/a,n/a,['W'],['W'],[],blb,uncommon
+"Maha, Its Feathers Night",{3}{B}{B},5.0,Legendary Creature — Elemental Bird,"Flying, trample
+Ward—Discard a card.
+Creatures your opponents control have base toughness 1.",6,5,['B'],['B'],"['Flying', 'Trample', 'Ward']",blb,mythic
+Manifold Mouse,{1}{R},2.0,Creature — Mouse Soldier,"Offspring {2} (You may pay an additional {2} as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)
+At the beginning of combat on your turn, target Mouse you control gains your choice of double strike or trample until end of turn.",1,2,['R'],['R'],[],blb,rare
+Might of the Meek,{R},1.0,Instant,"Target creature gains trample until end of turn. It also gets +1/+0 until end of turn if you control a Mouse.
+Draw a card.",n/a,n/a,['R'],['R'],[],blb,common
+Mind Drill Assailant,{2}{U/B}{U/B},4.0,Creature — Rat Warlock,"Threshold — As long as seven or more cards are in your graveyard, Mind Drill Assailant gets +3/+0.
+{2}{U/B}: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",2,5,"['B', 'U']","['B', 'U']","['Surveil', 'Threshold']",blb,common
+Mind Spiral,{4}{U},5.0,Sorcery,"Gift a tapped Fish (You may promise an opponent a gift as you cast this spell. If you do, they create a tapped 1/1 blue Fish creature token before its other effects.)
+Target player draws three cards. If the gift was promised, tap target creature an opponent controls and put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)",n/a,n/a,['U'],['U'],['Gift'],blb,common
+Mind Spring,{X}{U}{U},2.0,Sorcery,Draw X cards.,n/a,n/a,['U'],['U'],[],blb,rare
+Mindwhisker,{2}{U},3.0,Creature — Rat Wizard,"At the beginning of your upkeep, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+Threshold — As long as seven or more cards are in your graveyard, creatures your opponents control get -1/-0.",3,2,['U'],['U'],"['Surveil', 'Threshold']",blb,uncommon
+Mistbreath Elder,{G},1.0,Creature — Frog Warrior,"At the beginning of your upkeep, return another creature you control to its owner's hand. If you do, put a +1/+1 counter on Mistbreath Elder. Otherwise, you may return Mistbreath Elder to its owner's hand.",2,2,['G'],['G'],[],blb,rare
+Mockingbird,{X}{U},1.0,Creature — Bird Bard,"Flying
+You may have Mockingbird enter the battlefield as a copy of any creature on the battlefield with mana value less than or equal to the mana spent to cast Mockingbird, except it is a Bird in addition to its other types and has flying.",1,1,['U'],['U'],['Flying'],blb,rare
+Moonrise Cleric,{1}{W/B}{W/B},3.0,Creature — Bat Cleric,"Flying
+Whenever Moonrise Cleric attacks, you gain 1 life.",2,3,"['B', 'W']","['B', 'W']",['Flying'],blb,common
+Moonstone Harbinger,{2}{B},3.0,Creature — Bat Warrior,"Flying, deathtouch
+Whenever you gain or lose life during your turn, Bats you control get +1/+0 and gain deathtouch until end of turn. This ability triggers only once each turn.",1,3,['B'],['B'],"['Deathtouch', 'Flying']",blb,uncommon
+Mountain,,0.0,Basic Land — Mountain,({T}: Add {R}.),n/a,n/a,[],['R'],[],blb,common
+Mouse Trapper,{2}{W},3.0,Creature — Mouse Soldier,"Flash
+Valiant — Whenever Mouse Trapper becomes the target of a spell or ability you control for the first time each turn, tap target creature an opponent controls.",3,2,['W'],['W'],"['Valiant', 'Flash']",blb,uncommon
+Mudflat Village,,0.0,Land,"{T}: Add {C}.
+{T}: Add {B}. Spend this mana only to cast a creature spell.
+{1}{B}, {T}, Sacrifice Mudflat Village: Return target Bat, Lizard, Rat, or Squirrel card from your graveyard to your hand.",n/a,n/a,[],['B'],[],blb,uncommon
+"Muerra, Trash Tactician",{1}{R}{G},3.0,Legendary Creature — Raccoon Warrior,"At the beginning of your first main phase, add {R} or {G} for each Raccoon you control.
+Whenever you expend 4, you gain 3 life. (You expend 4 as you spend your fourth total mana to cast spells during a turn.)
+Whenever you expend 8, exile the top two cards of your library. Until the end of your next turn, you may play those cards.",2,4,"['G', 'R']","['G', 'R']",[],blb,rare
+Nettle Guard,{1}{W},2.0,Creature — Mouse Soldier,"Valiant — Whenever Nettle Guard becomes the target of a spell or ability you control for the first time each turn, it gets +0/+2 until end of turn.
+{1}, Sacrifice Nettle Guard: Destroy target artifact or enchantment.",3,1,['W'],['W'],['Valiant'],blb,common
+Nightwhorl Hermit,{2}{U},3.0,Creature — Rat Rogue,"Vigilance
+Threshold — As long as seven or more cards are in your graveyard, Nightwhorl Hermit gets +1/+0 and can't be blocked.",1,4,['U'],['U'],"['Vigilance', 'Threshold']",blb,common
+Nocturnal Hunger,{2}{B},3.0,Instant,"Gift a Food (You may promise an opponent a gift as you cast this spell. If you do, they create a Food token before its other effects. It's an artifact with ""{2}, {T}, Sacrifice this artifact: You gain 3 life."")
+Destroy target creature. If the gift wasn't promised, you lose 2 life.",n/a,n/a,['B'],['B'],"['Gift', 'Food']",blb,common
+Oakhollow Village,,0.0,Land,"{T}: Add {C}.
+{T}: Add {G}. Spend this mana only to cast a creature spell.
+{G}, {T}: Put a +1/+1 counter on each Frog, Rabbit, Raccoon, or Squirrel you control that entered the battlefield this turn.",n/a,n/a,[],['G'],[],blb,uncommon
+Osteomancer Adept,{1}{B},2.0,Creature — Squirrel Warlock,"Deathtouch
+{T}: Until end of turn, you may cast creature spells from your graveyard by foraging in addition to paying their other costs. If you cast a spell this way, that creature enters with a finality counter on it. (To forage, exile three cards from your graveyard or sacrifice a Food. If a creature with a finality counter on it would die, exile it instead.)",2,2,['B'],['B'],['Deathtouch'],blb,rare
+Otterball Antics,{1}{U},2.0,Sorcery,"Create a 1/1 blue and red Otter creature token with prowess. If this spell was cast from anywhere other than your hand, put a +1/+1 counter on that creature. (Whenever you cast a noncreature spell, a creature with prowess gets +1/+1 until end of turn.)
+Flashback {3}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",n/a,n/a,['U'],['U'],['Flashback'],blb,uncommon
+Overprotect,{1}{G},2.0,Instant,"Target creature you control gets +3/+3 and gains trample, hexproof, and indestructible until end of turn.",n/a,n/a,['G'],['G'],[],blb,uncommon
+Parting Gust,{W}{W},2.0,Instant,"Gift a tapped Fish (You may promise an opponent a gift as you cast this spell. If you do, they create a tapped 1/1 blue Fish creature token before its other effects.)
+Exile target nontoken creature. If the gift wasn't promised, return that creature to the battlefield under its owner's control with a +1/+1 counter on it at the beginning of the next end step.",n/a,n/a,['W'],['W'],['Gift'],blb,uncommon
+Patchwork Banner,{3},3.0,Artifact,"As Patchwork Banner enters, choose a creature type.
+Creatures you control of the chosen type get +1/+1.
+{T}: Add one mana of any color.",n/a,n/a,[],[],[],blb,uncommon
+Pawpatch Formation,{1}{G},2.0,Instant,"Choose one —
+• Destroy target creature with flying.
+• Destroy target enchantment.
+• Draw a card. Create a Food token. (It's an artifact with ""{2}, {T}, Sacrifice this artifact: You gain 3 life."")",n/a,n/a,['G'],['G'],['Food'],blb,uncommon
+Pawpatch Recruit,{G},1.0,Creature — Rabbit Warrior,"Offspring {2} (You may pay an additional {2} as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)
+Trample
+Whenever a creature you control becomes the target of a spell or ability an opponent controls, put a +1/+1 counter on target creature you control other than that creature.",2,1,['G'],['G'],['Trample'],blb,rare
+Pearl of Wisdom,{2}{U},3.0,Sorcery,"This spell costs {1} less to cast if you control an Otter.
+Draw two cards.",n/a,n/a,['U'],['U'],[],blb,common
+Peerless Recycling,{1}{G},2.0,Instant,"Gift a card (You may promise an opponent a gift as you cast this spell. If you do, they draw a card before its other effects.)
+Return target permanent card from your graveyard to your hand. If the gift was promised, instead return two target permanent cards from your graveyard to your hand.",n/a,n/a,['G'],['G'],['Gift'],blb,uncommon
+Persistent Marshstalker,{1}{B},2.0,Creature — Rat Berserker,"Persistent Marshstalker gets +1/+0 for each other Rat you control.
+Threshold — Whenever you attack with one or more Rats, if seven or more cards are in your graveyard, you may pay {2}{B}. If you do, return Persistent Marshstalker from your graveyard to the battlefield tapped and attacking.",3,1,['B'],['B'],['Threshold'],blb,uncommon
+Pileated Provisioner,{4}{W},5.0,Creature — Bird Scout,"Flying
+When Pileated Provisioner enters, put a +1/+1 counter on target creature you control without flying.",3,4,['W'],['W'],['Flying'],blb,common
+Plains,,0.0,Basic Land — Plains,({T}: Add {W}.),n/a,n/a,[],['W'],[],blb,common
+Playful Shove,{1}{R},2.0,Sorcery,"Playful Shove deals 1 damage to any target.
+Draw a card.",n/a,n/a,['R'],['R'],[],blb,uncommon
+Plumecreed Escort,{1}{U},2.0,Creature — Bird Scout,"Flash
+Flying
+When Plumecreed Escort enters, target creature you control gains hexproof until end of turn.",2,1,['U'],['U'],"['Flying', 'Flash']",blb,uncommon
+Plumecreed Mentor,{1}{W}{U},3.0,Creature — Bird Scout,"Flying
+Whenever Plumecreed Mentor or another creature you control with flying enters, put a +1/+1 counter on target creature you control without flying.",2,3,"['U', 'W']","['U', 'W']",['Flying'],blb,uncommon
+Polliwallop,{3}{G},4.0,Instant,"This spell costs {1} less to cast for each Frog you control.
+Target creature you control deals damage equal to twice its power to target creature you don't control.",n/a,n/a,['G'],['G'],[],blb,common
+Pond Prophet,{G/U}{G/U},2.0,Creature — Frog Advisor,"When Pond Prophet enters, draw a card.",1,1,"['G', 'U']","['G', 'U']",[],blb,common
+Portent of Calamity,{X}{U},1.0,Sorcery,"Reveal the top X cards of your library. For each card type, you may exile a card of that type from among them. Put the rest into your graveyard. You may cast a spell from among the exiled cards without paying its mana cost if you exiled four or more cards this way. Then put the rest of the exiled cards into your hand.",n/a,n/a,['U'],['U'],[],blb,rare
+Psychic Whorl,{2}{B},3.0,Sorcery,"Target opponent discards two cards. Then if you control a Rat, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)",n/a,n/a,['B'],['B'],['Surveil'],blb,common
+Quaketusk Boar,{3}{R}{R},5.0,Creature — Elemental Boar,"Reach, trample, haste",5,5,['R'],['R'],"['Reach', 'Haste', 'Trample']",blb,uncommon
+Rabbit Response,{2}{W}{W},4.0,Instant,"Creatures you control get +2/+1 until end of turn. If you control a Rabbit, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)",n/a,n/a,['W'],['W'],['Scry'],blb,common
+Rabid Bite,{1}{G},2.0,Sorcery,Target creature you control deals damage equal to its power to target creature you don't control.,n/a,n/a,['G'],['G'],[],blb,common
+Rabid Gnaw,{1}{R},2.0,Instant,Target creature you control gets +1/+0 until end of turn. Then it deals damage equal to its power to target creature you don't control.,n/a,n/a,['R'],['R'],[],blb,uncommon
+Raccoon Rallier,{1}{R},2.0,Creature — Raccoon Bard,{T}: Target creature you control gains haste until end of turn. Activate only as a sorcery.,2,2,['R'],['R'],[],blb,common
+"Ral, Crackling Wit",{2}{U}{R},4.0,Legendary Planeswalker — Ral,"Whenever you cast a noncreature spell, put a loyalty counter on Ral, Crackling Wit.
++1: Create a 1/1 blue and red Otter creature token with prowess.
+−3: Draw three cards, then discard two cards.
+−10: Draw three cards. You get an emblem with ""Instant and sorcery spells you cast have storm."" (Whenever you cast an instant or sorcery spell, copy it for each spell cast before it this turn.)",n/a,n/a,"['R', 'U']","['R', 'U']",[],blb,mythic
+Ravine Raider,{B},1.0,Creature — Lizard Rogue,"Menace (This creature can't be blocked except by two or more creatures.)
+{1}{B}: Ravine Raider gets +1/+1 until end of turn.",1,1,['B'],['B'],['Menace'],blb,common
+Repel Calamity,{1}{W},2.0,Instant,Destroy target creature with power or toughness 4 or greater.,n/a,n/a,['W'],['W'],[],blb,uncommon
+Reptilian Recruiter,{3}{R}{R},5.0,Creature — Lizard Warrior,"Trample
+When Reptilian Recruiter enters, choose target creature. If that creature's power is 2 or less or if you control another Lizard, gain control of that creature until end of turn, untap it, and it gains haste until end of turn.",4,2,['R'],['R'],['Trample'],blb,uncommon
+Rockface Village,,0.0,Land,"{T}: Add {C}.
+{T}: Add {R}. Spend this mana only to cast a creature spell.
+{R}, {T}: Target Lizard, Mouse, Otter, or Raccoon you control gets +1/+0 and gains haste until end of turn. Activate only as a sorcery.",n/a,n/a,[],['R'],[],blb,uncommon
+Rottenmouth Viper,{5}{B},6.0,Creature — Elemental Snake,"As an additional cost to cast this spell, you may sacrifice any number of nonland permanents. This spell costs {1} less to cast for each permanent sacrificed this way.
+Whenever Rottenmouth Viper enters or attacks, put a blight counter on it. Then for each blight counter on it, each opponent loses 4 life unless that player sacrifices a nonland permanent or discards a card.",6,6,['B'],['B'],[],blb,mythic
+Roughshod Duo,{2}{R},3.0,Creature — Mouse Raccoon,"Trample
+Whenever you expend 4, target creature you control gets +1/+1 and gains trample until end of turn. (You expend 4 as you spend your fourth total mana to cast spells during a turn.)",3,2,['R'],['R'],['Trample'],blb,common
+Run Away Together,{1}{U},2.0,Instant,Choose two target creatures controlled by different players. Return those creatures to their owners' hands.,n/a,n/a,['U'],['U'],[],blb,common
+Rust-Shield Rampager,{3}{G},4.0,Creature — Raccoon Warrior,"Offspring {2} (You may pay an additional {2} as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)
+This creature can't be blocked by creatures with power 2 or less.",4,4,['G'],['G'],[],blb,common
+Ruthless Negotiation,{B},1.0,Sorcery,"Target opponent exiles a card from their hand. If this spell was cast from a graveyard, draw a card.
+Flashback {4}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",n/a,n/a,['B'],['B'],['Flashback'],blb,uncommon
+Salvation Swan,{3}{W},4.0,Creature — Bird Cleric,"Flash
+Flying
+Whenever Salvation Swan or another Bird you control enters, exile up to one target creature you control without flying. Return it to the battlefield under its owner's control with a flying counter on it at the beginning of the next end step.",3,3,['W'],['W'],"['Flying', 'Flash']",blb,rare
+Savor,{1}{B},2.0,Instant,"Target creature gets -2/-2 until end of turn. Create a Food token. (It's an artifact with ""{2}, {T}, Sacrifice this artifact: You gain 3 life."")",n/a,n/a,['B'],['B'],['Food'],blb,common
+Sazacap's Brew,{1}{R},2.0,Instant,"Gift a tapped Fish (You may promise an opponent a gift as you cast this spell. If you do, they create a tapped 1/1 blue Fish creature token before its other effects.)
+As an additional cost to cast this spell, discard a card.
+Target player draws two cards. If the gift was promised, target creature you control gets +2/+0 until end of turn.",n/a,n/a,['R'],['R'],['Gift'],blb,common
+Scales of Shale,{2}{B},3.0,Instant,"This spell costs {1} less to cast for each Lizard you control.
+Target creature gets +2/+0 and gains lifelink and indestructible until end of turn.",n/a,n/a,['B'],['B'],[],blb,common
+Scavenger's Talent,{B},1.0,Enchantment — Class,"(Gain the next level as a sorcery to add its ability.)
+Whenever one or more creatures you control die, create a Food token. This ability triggers only once each turn.
+{1}{B}: Level 2
+Whenever you sacrifice a permanent, target player mills two cards.
+{2}{B}: Level 3
+At the beginning of your end step, you may sacrifice three other nonland permanents. If you do, return a creature card from your graveyard to the battlefield with a finality counter on it.",n/a,n/a,['B'],['B'],"['Food', 'Mill']",blb,rare
+Scrapshooter,{1}{G}{G},3.0,Creature — Raccoon Archer,"Gift a card (You may promise an opponent a gift as you cast this spell. If you do, when it enters, they draw a card.)
+Reach
+When Scrapshooter enters, if the gift was promised, destroy target artifact or enchantment an opponent controls.",4,4,['G'],['G'],"['Reach', 'Gift']",blb,rare
+Seasoned Warrenguard,{W},1.0,Creature — Rabbit Warrior,"Whenever Seasoned Warrenguard attacks while you control a token, Seasoned Warrenguard gets +2/+0 until end of turn.",1,2,['W'],['W'],[],blb,uncommon
+Season of Gathering,{4}{G}{G},6.0,Sorcery,"Choose up to five {P} worth of modes. You may choose the same mode more than once.
+{P} — Put a +1/+1 counter on a creature you control. It gains vigilance and trample until end of turn.
+{P}{P} — Choose artifact or enchantment. Destroy all permanents of the chosen type.
+{P}{P}{P} — Draw cards equal to the greatest power among creatures you control.",n/a,n/a,['G'],['G'],[],blb,mythic
+Season of Loss,{3}{B}{B},5.0,Sorcery,"Choose up to five {P} worth of modes. You may choose the same mode more than once.
+{P} — Each player sacrifices a creature.
+{P}{P} — Draw a card for each creature you controlled that died this turn.
+{P}{P}{P} — Each opponent loses X life, where X is the number of creature cards in your graveyard.",n/a,n/a,['B'],['B'],[],blb,mythic
+Season of the Bold,{3}{R}{R},5.0,Sorcery,"Choose up to five {P} worth of modes. You may choose the same mode more than once.
+{P} — Create a tapped Treasure token.
+{P}{P} — Exile the top two cards of your library. Until the end of your next turn, you may play them.
+{P}{P}{P} — Until the end of your next turn, whenever you cast a spell, Season of the Bold deals 2 damage to up to one target creature.",n/a,n/a,['R'],['R'],['Treasure'],blb,mythic
+Season of the Burrow,{3}{W}{W},5.0,Sorcery,"Choose up to five {P} worth of modes. You may choose the same mode more than once.
+{P} — Create a 1/1 white Rabbit creature token.
+{P}{P} — Exile target nonland permanent. Its controller draws a card.
+{P}{P}{P} — Return target permanent card with mana value 3 or less from your graveyard to the battlefield with an indestructible counter on it.",n/a,n/a,['W'],['W'],[],blb,mythic
+Season of Weaving,{4}{U}{U},6.0,Sorcery,"Choose up to five {P} worth of modes. You may choose the same mode more than once.
+{P} — Draw a card.
+{P}{P} — Choose an artifact or creature you control. Create a token that's a copy of it.
+{P}{P}{P} — Return each nonland, nontoken permanent to its owner's hand.",n/a,n/a,['U'],['U'],[],blb,mythic
+Seedglaive Mentor,{1}{R}{W},3.0,Creature — Mouse Soldier,"Vigilance, haste
+Valiant — Whenever Seedglaive Mentor becomes the target of a spell or ability you control for the first time each turn, put a +1/+1 counter on it.",3,2,"['R', 'W']","['R', 'W']","['Vigilance', 'Valiant', 'Haste']",blb,uncommon
+Seedpod Squire,{3}{W/U},4.0,Creature — Bird Scout,"Flying
+Whenever Seedpod Squire attacks, target creature you control without flying gets +1/+1 until end of turn.",3,3,"['U', 'W']","['U', 'W']",['Flying'],blb,common
+Serra Redeemer,{3}{W}{W},5.0,Creature — Angel Soldier,"Flying
+Whenever another creature with power 2 or less enters the battlefield under your control, put two +1/+1 counters on that creature.",2,4,['W'],['W'],['Flying'],blb,rare
+Shoreline Looter,{1}{U},2.0,Creature — Rat Rogue,"Shoreline Looter can't be blocked.
+Threshold — Whenever Shoreline Looter deals combat damage to a player, draw a card. Then discard a card unless seven or more cards are in your graveyard.",1,1,['U'],['U'],['Threshold'],blb,uncommon
+Shore Up,{U},1.0,Instant,Target creature you control gets +1/+1 and gains hexproof until end of turn. Untap it. (It can't be the target of spells or abilities your opponents control.),n/a,n/a,['U'],['U'],[],blb,common
+Short Bow,{2},2.0,Artifact — Equipment,"Equipped creature gets +1/+1 and has vigilance and reach.
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",n/a,n/a,[],[],['Equip'],blb,uncommon
+Shrike Force,{2}{W},3.0,Creature — Bird Knight,"Flying, double strike, vigilance",1,3,['W'],['W'],"['Flying', 'Vigilance', 'Double strike']",blb,uncommon
+Sinister Monolith,{3}{B},4.0,Artifact,"At the beginning of combat on your turn, each opponent loses 1 life and you gain 1 life.
+{T}, Pay 2 life, Sacrifice Sinister Monolith: Draw two cards. Activate only as a sorcery.",n/a,n/a,['B'],['B'],[],blb,uncommon
+Skyskipper Duo,{4}{U},5.0,Creature — Bird Frog,"Flying
+When Skyskipper Duo enters, exile up to one other target creature you control. Return it to the battlefield under its owner's control at the beginning of the next end step.",3,3,['U'],['U'],['Flying'],blb,common
+Sonar Strike,{1}{W},2.0,Instant,"Sonar Strike deals 4 damage to target attacking, blocking, or tapped creature. You gain 3 life if you control a Bat.",n/a,n/a,['W'],['W'],[],blb,common
+Spellgyre,{2}{U}{U},4.0,Instant,"Choose one —
+• Counter target spell.
+• Surveil 2, then draw two cards. (To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)",n/a,n/a,['U'],['U'],['Surveil'],blb,uncommon
+Splash Lasher,{3}{U},4.0,Creature — Frog Wizard,"Offspring {1}{U} (You may pay an additional {1}{U} as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)
+When this creature enters, tap up to one target creature and put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)",3,3,['U'],['U'],[],blb,uncommon
+Splash Portal,{U},1.0,Sorcery,"Exile target creature you control, then return it to the battlefield under its owner's control. If that creature is a Bird, Frog, Otter, or Rat, draw a card.",n/a,n/a,['U'],['U'],[],blb,uncommon
+Star Charter,{3}{W},4.0,Creature — Bat Cleric,"Flying
+At the beginning of your end step, if you gained or lost life this turn, look at the top four cards of your library. You may reveal a creature card with power 3 or less from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",3,1,['W'],['W'],['Flying'],blb,uncommon
+Starfall Invocation,{3}{W}{W},5.0,Sorcery,"Gift a card (You may promise an opponent a gift as you cast this spell. If you do, they draw a card before its other effects.)
+Destroy all creatures. If the gift was promised, return a creature card put into your graveyard this way to the battlefield under your control.",n/a,n/a,['W'],['W'],['Gift'],blb,rare
+Starforged Sword,{4},4.0,Artifact — Equipment,"Gift a tapped Fish (You may promise an opponent a gift as you cast this spell. If you do, when it enters, they create a tapped 1/1 blue Fish creature token.)
+When Starforged Sword enters, if the gift was promised, attach Starforged Sword to target creature you control.
+Equipped creature gets +3/+3 and loses flying.
+Equip {3}",n/a,n/a,[],[],"['Gift', 'Equip']",blb,uncommon
+Stargaze,{X}{B}{B},2.0,Sorcery,Look at twice X cards from the top of your library. Put X cards from among them into your hand and the rest into your graveyard. You lose X life.,n/a,n/a,['B'],['B'],[],blb,uncommon
+Starlit Soothsayer,{2}{B},3.0,Creature — Bat Cleric,"Flying
+At the beginning of your end step, if you gained or lost life this turn, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",2,2,['B'],['B'],"['Flying', 'Surveil']",blb,common
+Starscape Cleric,{1}{B},2.0,Creature — Bat Cleric,"Offspring {2}{B} (You may pay an additional {2}{B} as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)
+Flying
+This creature can't block.
+Whenever you gain life, each opponent loses 1 life.",2,1,['B'],['B'],['Flying'],blb,uncommon
+Starseer Mentor,{3}{W}{B},5.0,Creature — Bat Warlock,"Flying, vigilance
+At the beginning of your end step, if you gained or lost life this turn, target opponent loses 3 life unless they sacrifice a nonland permanent or discard a card.",3,5,"['B', 'W']","['B', 'W']","['Flying', 'Vigilance']",blb,uncommon
+Steampath Charger,{1}{R},2.0,Creature — Lizard Warlock,"Offspring {2} (You may pay an additional {2} as you cast this spell. If do, when this creature enters, create a 1/1 token copy of it.)
+When this creature dies, it deals 1 damage to target player.",2,1,['R'],['R'],[],blb,common
+Stickytongue Sentinel,{2}{G},3.0,Creature — Frog Warrior,"Reach
+When Stickytongue Sentinel enters, return up to one other target permanent you control to its owner's hand.",3,3,['G'],['G'],['Reach'],blb,common
+Stocking the Pantry,{G},1.0,Enchantment,"Whenever you put one or more +1/+1 counters on a creature you control, put a supply counter on Stocking the Pantry.
+{2}, Remove a supply counter from Stocking the Pantry: Draw a card.",n/a,n/a,['G'],['G'],[],blb,uncommon
+Stormcatch Mentor,{U}{R},2.0,Creature — Otter Wizard,"Haste
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Instant and sorcery spells you cast cost {1} less to cast.",1,1,"['R', 'U']","['R', 'U']","['Prowess', 'Haste']",blb,uncommon
+Stormchaser's Talent,{U},1.0,Enchantment — Class,"(Gain the next level as a sorcery to add its ability.)
+When Stormchaser's Talent enters, create a 1/1 blue and red Otter creature token with prowess.
+{3}{U}: Level 2
+When this Class becomes level 2, return target instant or sorcery card from your graveyard to your hand.
+{5}{U}: Level 3
+Whenever you cast an instant or sorcery spell, create a 1/1 blue and red Otter creature token with prowess.",n/a,n/a,['U'],['U'],[],blb,rare
+Stormsplitter,{3}{R},4.0,Creature — Otter Wizard,"Haste
+Whenever you cast an instant or sorcery spell, create a token that's a copy of Stormsplitter. Exile that token at the beginning of the next end step.",1,4,['R'],['R'],['Haste'],blb,mythic
+Sugar Coat,{2}{U},3.0,Enchantment — Aura,"Flash
+Enchant creature or Food
+Enchanted permanent is a colorless Food artifact with ""{2}, {T}, Sacrifice this artifact: You gain 3 life"" and loses all other card types and abilities.",n/a,n/a,['U'],['U'],"['Enchant', 'Flash']",blb,uncommon
+Sunshower Druid,{G},1.0,Creature — Frog Druid,"When Sunshower Druid enters, put a +1/+1 counter on target creature and you gain 1 life.",0,2,['G'],['G'],[],blb,common
+Sunspine Lynx,{2}{R}{R},4.0,Creature — Elemental Cat,"Players can't gain life.
+Damage can't be prevented.
+When Sunspine Lynx enters, it deals damage to each player equal to the number of nonbasic lands that player controls.",5,4,['R'],['R'],[],blb,rare
+Swamp,,0.0,Basic Land — Swamp,({T}: Add {B}.),n/a,n/a,[],['B'],[],blb,common
+Swiftwater Cliffs,,0.0,Land,"Swiftwater Cliffs enters the battlefield tapped.
+When Swiftwater Cliffs enters the battlefield, you gain 1 life.
+{T}: Add {U} or {R}.",n/a,n/a,[],"['R', 'U']",[],blb,common
+Sword of Vengeance,{3},3.0,Artifact — Equipment,"Equipped creature gets +2/+0 and has first strike, vigilance, trample, and haste.
+Equip {3}",n/a,n/a,[],[],['Equip'],blb,rare
+Take Out the Trash,{1}{R},2.0,Instant,"Take Out the Trash deals 3 damage to target creature or planeswalker. If you control a Raccoon, you may discard a card. If you do, draw a card.",n/a,n/a,['R'],['R'],[],blb,common
+Tangle Tumbler,{3},3.0,Artifact — Vehicle,"Vigilance
+{3}, {T}: Put a +1/+1 counter on target creature.
+Tap two untapped tokens you control: Tangle Tumbler becomes an artifact creature until end of turn.",6,6,[],[],['Vigilance'],blb,uncommon
+Teapot Slinger,{3}{R},4.0,Creature — Raccoon Warrior,"Menace
+Whenever you expend 4, Teapot Slinger deals 2 damage to each opponent. (You expend 4 as you spend your fourth total mana to cast spells during a turn.)",3,4,['R'],['R'],['Menace'],blb,uncommon
+Tempest Angler,{1}{U/R}{U/R},3.0,Creature — Otter Wizard,"Whenever you cast a noncreature spell, put a +1/+1 counter on Tempest Angler.",2,2,"['R', 'U']","['R', 'U']",[],blb,common
+Tender Wildguide,{1}{G},2.0,Creature — Possum Druid,"Offspring {2} (You may pay an additional {2} as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)
+{T}: Add one mana of any color.
+{T}: Put a +1/+1 counter on this creature.",2,2,['G'],['G'],[],blb,rare
+The Infamous Cruelclaw,{1}{B}{R},3.0,Legendary Creature — Weasel Mercenary,"Menace
+Whenever The Infamous Cruelclaw deals combat damage to a player, exile cards from the top of your library until you exile a nonland card. You may cast that card by discarding a card rather than paying its mana cost.",3,3,"['B', 'R']","['B', 'R']",['Menace'],blb,mythic
+Thieving Otter,{2}{U},3.0,Creature — Otter,"Whenever Thieving Otter deals damage to an opponent, draw a card.",2,2,['U'],['U'],[],blb,common
+Thistledown Players,{2}{W},3.0,Creature — Mouse Bard,"Whenever Thistledown Players attacks, untap target nonland permanent.",3,3,['W'],['W'],[],blb,common
+Thornplate Intimidator,{3}{B},4.0,Creature — Rat Rogue,"Offspring {3} (You may pay an additional {3} as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)
+When this creature enters, target opponent loses 3 life unless they sacrifice a nonland permanent or discard a card.",4,3,['B'],['B'],[],blb,common
+Thornvault Forager,{1}{G},2.0,Creature — Squirrel Ranger,"{T}: Add {G}.
+{T}, Forage: Add two mana in any combination of colors. (To forage, exile three cards from your graveyard or sacrifice a Food.)
+{3}{G}, {T}: Search your library for a Squirrel card, reveal it, put it into your hand, then shuffle.",2,2,['G'],['G'],[],blb,rare
+Thought Shucker,{1}{U},2.0,Creature — Rat Rogue,Threshold — {1}{U}: Put a +1/+1 counter on Thought Shucker and draw a card. Activate only if seven or more cards are in your graveyard and only once.,1,3,['U'],['U'],['Threshold'],blb,common
+Thought-Stalker Warlock,{2}{B},3.0,Creature — Lizard Warlock,"Menace (This creature can't be blocked except by two or more creatures.)
+When Thought-Stalker Warlock enters, choose target opponent. If they lost life this turn, they reveal their hand, you choose a nonland card from it, and they discard that card. Otherwise, they discard a card.",2,2,['B'],['B'],['Menace'],blb,uncommon
+Three Tree City,,0.0,Legendary Land,"As Three Tree City enters, choose a creature type.
+{T}: Add {C}.
+{2}, {T}: Choose a color. Add an amount of mana of that color equal to the number of creatures you control of the chosen type.",n/a,n/a,[],[],[],blb,rare
+Three Tree Mascot,{2},2.0,Artifact Creature — Shapeshifter,"Changeling (This card is every creature type.)
+{1}: Add one mana of any color. Activate only once each turn.",2,1,[],[],['Changeling'],blb,common
+Three Tree Rootweaver,{1}{G},2.0,Creature — Mole Druid,{T}: Add one mana of any color.,1,3,['G'],['G'],[],blb,common
+Three Tree Scribe,{1}{G},2.0,Creature — Frog Druid,"Whenever Three Tree Scribe or another creature you control leaves the battlefield without dying, put a +1/+1 counter on target creature you control.",2,3,['G'],['G'],[],blb,uncommon
+Thundertrap Trainer,{1}{U},2.0,Creature — Otter Wizard,"Offspring {4} (You may pay an additional {4} as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)
+When this creature enters, look at the top four cards of your library. You may reveal a noncreature, nonland card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",1,2,['U'],['U'],[],blb,rare
+Tidecaller Mentor,{1}{U}{B},3.0,Creature — Rat Wizard,"Menace
+Threshold — When Tidecaller Mentor enters, if seven or more cards are in your graveyard, return up to one target nonland permanent to its owner's hand.",3,3,"['B', 'U']","['B', 'U']","['Threshold', 'Menace']",blb,uncommon
+Treeguard Duo,{3}{G},4.0,Creature — Frog Rabbit,"When Treeguard Duo enters, until end of turn, target creature you control gains vigilance and gets +X/+X, where X is the number of creatures you control.",3,4,['G'],['G'],[],blb,common
+Treetop Sentries,{3}{G},4.0,Creature — Squirrel Archer,"Reach
+When Treetop Sentries enters, you may forage. If you do, draw a card. (To forage, exile three cards from your graveyard or sacrifice a Food.)",2,4,['G'],['G'],"['Forage', 'Reach']",blb,common
+Uncharted Haven,,0.0,Land,"Uncharted Haven enters the battlefield tapped.
+As Uncharted Haven enters the battlefield, choose a color.
+{T}: Add one mana of the chosen color.",n/a,n/a,[],[],[],blb,common
+Valley Flamecaller,{2}{R},3.0,Creature — Lizard Warlock,"If a Lizard, Mouse, Otter, or Raccoon you control would deal damage to a permanent or player, it deals that much damage plus 1 instead.",3,3,['R'],['R'],[],blb,rare
+Valley Floodcaller,{2}{U},3.0,Creature — Otter Wizard,"Flash
+You may cast noncreature spells as though they had flash.
+Whenever you cast a noncreature spell, Birds, Frogs, Otters, and Rats you control get +1/+1 until end of turn. Untap them.",2,2,['U'],['U'],['Flash'],blb,rare
+Valley Mightcaller,{G},1.0,Creature — Frog Warrior,"Trample
+Whenever another Frog, Rabbit, Raccoon, or Squirrel you control enters, put a +1/+1 counter on Valley Mightcaller.",1,1,['G'],['G'],['Trample'],blb,rare
+Valley Questcaller,{1}{W},2.0,Creature — Rabbit Warrior,"Whenever one or more other Rabbits, Bats, Birds, and/or Mice you control enter, scry 1.
+Other Rabbits, Bats, Birds, and Mice you control get +1/+1.",2,3,['W'],['W'],['Scry'],blb,rare
+Valley Rally,{2}{R},3.0,Instant,"Gift a Food (You may promise an opponent a gift as you cast this spell. If you do, they create a Food token before its other effects. It's an artifact with ""{2}, {T}, Sacrifice this artifact: You gain 3 life."")
+Creatures you control get +2/+0 until end of turn. If the gift was promised, target creature you control gains first strike until end of turn.",n/a,n/a,['R'],['R'],"['Gift', 'Food']",blb,uncommon
+Valley Rotcaller,{1}{B},2.0,Creature — Squirrel Warlock,"Menace
+Whenever Valley Rotcaller attacks, each opponent loses X life and you gain X life, where X is the number of other Squirrels, Bats, Lizards, and Rats you control.",1,3,['B'],['B'],['Menace'],blb,rare
+Veteran Guardmouse,{3}{R/W},4.0,Creature — Mouse Soldier,"Valiant — Whenever Veteran Guardmouse becomes the target of a spell or ability you control for the first time each turn, it gets +1/+0 and gains first strike until end of turn. Scry 1. (Look at the top card of your library. You may put that card on the bottom.)",3,4,"['R', 'W']","['R', 'W']","['Valiant', 'Scry']",blb,common
+Vinereap Mentor,{B}{G},2.0,Creature — Squirrel Druid,"When Vinereap Mentor enters or dies, create a Food token. (It's an artifact with ""{2}, {T}, Sacrifice this artifact: You gain 3 life."")",3,2,"['B', 'G']","['B', 'G']",['Food'],blb,uncommon
+"Vren, the Relentless",{2}{U}{B},4.0,Legendary Creature — Rat Rogue,"Ward {2}
+If a creature an opponent controls would die, exile it instead.
+At the beginning of each end step, create X 1/1 black Rat creature tokens with ""This creature gets +1/+1 for each other Rat you control,"" where X is the number of creatures your opponents controlled that were exiled this turn.",3,4,"['B', 'U']","['B', 'U']",['Ward'],blb,rare
+Wandertale Mentor,{R}{G},2.0,Creature — Raccoon Bard,"Whenever you expend 4, put a +1/+1 counter on Wandertale Mentor. (You expend 4 as you spend your fourth total mana to cast spells during a turn.)
+{T}: Add {R} or {G}.",2,2,"['G', 'R']","['G', 'R']",[],blb,uncommon
+Warren Elder,{1}{W},2.0,Creature — Rabbit Cleric,{3}{W}: Creatures you control get +1/+1 until end of turn.,2,2,['W'],['W'],[],blb,common
+Warren Warleader,{2}{W}{W},4.0,Creature — Rabbit Knight,"Offspring {2} (You may pay an additional {2} as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)
+Whenever you attack, choose one —
+• Create a 1/1 white Rabbit creature token that's tapped and attacking.
+• Attacking creatures you control get +1/+1 until end of turn.",4,4,['W'],['W'],[],blb,mythic
+War Squeak,{R},1.0,Enchantment — Aura,"Enchant creature
+When War Squeak enters, target creature an opponent controls can't block this turn.
+Enchanted creature gets +1/+1 and has haste.",n/a,n/a,['R'],['R'],['Enchant'],blb,common
+Waterspout Warden,{2}{U},3.0,Creature — Frog Soldier,"Whenever Waterspout Warden attacks, if another creature entered the battlefield under your control this turn, Waterspout Warden gains flying until end of turn.",3,2,['U'],['U'],[],blb,common
+Wax-Wane Witness,{3}{W},4.0,Creature — Bat Cleric,"Flying, vigilance
+Whenever you gain or lose life during your turn, Wax-Wane Witness gets +1/+0 until end of turn.",2,4,['W'],['W'],"['Flying', 'Vigilance']",blb,common
+Wear Down,{1}{G},2.0,Sorcery,"Gift a card (You may promise an opponent a gift as you cast this spell. If you do, they draw a card before its other effects.)
+Destroy target artifact or enchantment. If the gift was promised, instead destroy two target artifacts and/or enchantments.",n/a,n/a,['G'],['G'],['Gift'],blb,uncommon
+Whiskerquill Scribe,{1}{R},2.0,Creature — Mouse Citizen,"Valiant — Whenever Whiskerquill Scribe becomes the target of a spell or ability you control for the first time each turn, you may discard a card. If you do, draw a card.",2,2,['R'],['R'],['Valiant'],blb,common
+Whiskervale Forerunner,{3}{W},4.0,Creature — Mouse Bard,"Valiant — Whenever Whiskervale Forerunner becomes the target of a spell or ability you control for the first time each turn, look at the top five cards of your library. You may reveal a creature card with mana value 3 or less from among them. You may put it onto the battlefield if it's your turn. If you don't put it onto the battlefield, put it into your hand. Put the rest on the bottom of your library in a random order.",3,4,['W'],['W'],['Valiant'],blb,rare
+Wick's Patrol,{4}{B}{B},6.0,Creature — Rat Warlock,"When Wick's Patrol enters, mill three cards. When you do, target creature an opponent controls gets -X/-X until end of turn, where X is the greatest mana value among cards in your graveyard.",5,3,['B'],['B'],['Mill'],blb,uncommon
+"Wick, the Whorled Mind",{3}{B},4.0,Legendary Creature — Rat Warlock,"Whenever Wick or another Rat you control enters, create a 1/1 black Snail creature token if you don't control a Snail. Otherwise, put a +1/+1 counter on a Snail you control.
+{U}{B}{R}, Sacrifice a Snail: Wick deals damage equal to the sacrificed creature's power to each opponent. Then draw cards equal to the sacrificed creature's power.",2,4,['B'],"['B', 'R', 'U']",[],blb,rare
+Wildfire Howl,{1}{R}{R},3.0,Sorcery,"Gift a card (You may promise an opponent a gift as you cast this spell. If you do, they draw a card before its other effects.)
+Wildfire Howl deals 2 damage to each creature. If the gift was promised, instead Wildfire Howl deals 1 damage to any target and 2 damage to each creature.",n/a,n/a,['R'],['R'],['Gift'],blb,uncommon
+Wishing Well,{3}{U},4.0,Artifact,"{T}: Put a coin counter on Wishing Well. When you do, you may cast target instant or sorcery card with mana value equal to the number of coin counters on Wishing Well from your graveyard without paying its mana cost. If that spell would be put into your graveyard, exile it instead. Activate only as a sorcery.",n/a,n/a,['U'],['U'],[],blb,rare
+"Ygra, Eater of All",{3}{B}{G},5.0,Legendary Creature — Elemental Cat,"Ward—Sacrifice a Food.
+Other creatures are Food artifacts in addition to their other types and have ""{2}, {T}, Sacrifice this permanent: You gain 3 life.""
+Whenever a Food is put into a graveyard from the battlefield, put two +1/+1 counters on Ygra, Eater of All.",6,6,"['B', 'G']","['B', 'G']",['Ward'],blb,mythic
+"Zoraline, Cosmos Caller",{1}{W}{B},3.0,Legendary Creature — Bat Cleric,"Flying, vigilance
+Whenever a Bat you control attacks, you gain 1 life.
+Whenever Zoraline enters or attacks, you may pay {W}{B} and 2 life. When you do, return target nonland permanent card with mana value 3 or less from your graveyard to the battlefield with a finality counter on it.",3,3,"['B', 'W']","['B', 'W']","['Flying', 'Vigilance']",blb,rare
