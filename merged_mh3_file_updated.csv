@@ -1,0 +1,657 @@
+Name,Color,Rarity,# Seen,ALSA,# Picked,ATA,# GP,% GP,GP WR,# OH,OH WR,# GD,GD WR,# GIH,GIH WR,# GNS,GNS WR,IWD,mana_cost,cmc,type_line,oracle_text,power,toughness,colors,color_identity,keywords,set,rarity
+Breaker of Creation,,U,60631,3.42,13839,4.2,70139,,,10819,,17087,,27906,,40841,,2.6pp,{6}{C}{C},8,Creature — Eldrazi,"When you cast this spell, you gain 1 life for each colorless permanent you control.
+Hexproof from each color
+Annihilator 2 (Whenever this creature attacks, defending player sacrifices two permanents.)",8,4,[],[],"['Annihilator', 'Hexproof from', 'Hexproof']",mh3,uncommon
+Devourer of Destiny,,R,16812,2.37,5980,2.5,29641,,,5178,,7213,,12391,,16752,,4.2pp,{5}{C}{C},7,Creature — Eldrazi,"You may reveal this card from your opening hand. If you do, at the beginning of your first upkeep, look at the top four cards of your library. You may put one of those cards back on top of your library. Exile the rest.
+When you cast this spell, exile target permanent that's one or more colors.",6,6,[],[],[],mh3,rare
+Drownyard Lurker,U,C,251967,5.35,35529,7.69,152386,,,24848,,39202,,64050,,86934,,1.7pp,{7},7,Creature — Eldrazi Trilobite,"Vigilance
+When you cast or cycle Drownyard Lurker, create a 0/1 colorless Eldrazi Spawn creature token with ""Sacrifice this creature: Add {C}.""
+Cycling {2}{U} ({2}{U}, Discard this card: Draw a card.)",7,7,[],['U'],"['Vigilance', 'Cycling']",mh3,common
+Echoes of Eternity,,R,28966,3.99,4962,5.17,17182,,,2799,,4344,,7143,,9826,,-0.2pp,{3}{C}{C}{C},6,Kindred Enchantment — Eldrazi,"If a triggered ability of a colorless spell you control or another colorless permanent you control triggers, that ability triggers an additional time.
+Whenever you cast a colorless spell, copy it. You may choose new targets for the copy. (A copy of a permanent spell becomes a token.)",,,[],[],[],mh3,rare
+Eldrazi Ravager,,U,70144,3.81,11592,5.11,57046,,,9572,,13465,,23037,,33492,,-1.9pp,{5}{C},6,Creature — Eldrazi,"Annihilator 1 (Whenever this creature attacks, defending player sacrifices a permanent.)
+Sacrifice two Eldrazi: Return Eldrazi Ravager from your graveyard to your hand.
+Cycling {2} ({2}, Discard this card: Draw a card.)",6,6,[],[],"['Annihilator', 'Cycling']",mh3,uncommon
+"Emrakul, the World Anew",,M,5560,1.65,2890,1.58,13144,,,1916,,3487,,5403,,7422,,8.0pp,{12},12,Legendary Creature — Eldrazi,"When you cast this spell, gain control of all creatures target player controls.
+Flying, protection from spells and from permanents that were cast this turn
+When Emrakul, the World Anew leaves the battlefield, sacrifice all creatures you control.
+Madness—Pay six {C}.",12,12,[],[],"['Flying', 'Madness', 'Protection']",mh3,mythic
+Glaring Fleshraker,,U,56740,3.19,13913,3.86,71521,,,12387,,16882,,29269,,41112,,2.7pp,{2}{C},3,Creature — Eldrazi Drone,"Whenever you cast a colorless spell, create a 0/1 colorless Eldrazi Spawn creature token with ""Sacrifice this creature: Add {C}.""
+Whenever another colorless creature enters the battlefield under your control, Glaring Fleshraker deals 1 damage to each opponent.",2,2,[],[],[],mh3,uncommon
+"Herigast, Erupting Nullkite",R,M,6679,1.94,3004,1.92,14801,,,2338,,3411,,5749,,8921,,0.6pp,{9},9,Legendary Creature — Eldrazi Dragon,"Emerge {6}{R}{R} (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)
+When you cast this spell, you may exile your hand. If you do, draw three cards.
+Flying
+Each creature spell you cast has emerge. The emerge cost is equal to its mana cost.",6,6,[],['R'],"['Flying', 'Emerge']",mh3,mythic
+It That Heralds the End,,U,67311,3.76,12834,4.83,63367,,,10701,,14859,,25560,,36955,,0.2pp,{1}{C},2,Creature — Eldrazi Drone,"Colorless spells you cast with mana value 7 or greater cost {1} less to cast.
+Other colorless creatures you control get +1/+1.",2,2,[],[],[],mh3,uncommon
+"Kozilek, the Broken Reality",,M,4895,1.48,2999,1.45,15396,,,2347,,3870,,6217,,8887,,5.0pp,{9},9,Legendary Creature — Eldrazi,"When you cast this spell, up to two target players each manifest two cards from their hands. For each card manifested this way, you draw a card. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)
+Other colorless creatures you control get +3/+2.",9,9,[],[],['Manifest'],mh3,mythic
+Kozilek's Command,,R,17354,2.45,6408,2.59,31376,,,4817,,7656,,12473,,18870,,7.3pp,{X}{C}{C},2,Kindred Instant — Eldrazi,"Choose two —
+• Target player creates X 0/1 colorless Eldrazi Spawn creature tokens with ""Sacrifice this creature: Add {C}.""
+• Target player scries X, then draws a card.
+• Exile target creature with mana value X or less.
+• Exile up to X target cards from graveyards.",,,[],[],[],mh3,rare
+Null Elemental Blast,,U,117346,7.75,11339,11.76,4401,,,695,,1032,,1727,,2676,,-0.5pp,{C},1,Instant,"Choose one —
+• Counter target multicolored spell.
+• Destroy target multicolored permanent.",,,[],[],[],mh3,uncommon
+Nulldrifter,U,R,11231,1.6,6814,1.62,38212,,,6387,,9935,,16322,,21530,,3.8pp,{7},7,Creature — Eldrazi Elemental,"When you cast this spell, draw two cards.
+Flying
+Annihilator 1 (Whenever this creature attacks, defending player sacrifices a permanent.)
+Evoke {2}{U} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)",4,4,[],['U'],"['Flying', 'Annihilator', 'Evoke']",mh3,rare
+Twisted Riddlekeeper,U,U,70179,3.78,16749,4.71,84445,,,13222,,22208,,35430,,48040,,3.4pp,{8},8,Creature — Eldrazi Sphinx,"Emerge {5}{C}{U} (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)
+When you cast this spell, tap up to two target permanents. Put a stun counter on each of them. (If a permanent with a stun counter would become untapped, remove one from it instead.)
+Flying",5,5,[],['U'],"['Flying', 'Emerge']",mh3,uncommon
+"Ulamog, the Defiler",,M,5198,1.55,2780,1.5,13315,,,2031,,3374,,5405,,7642,,0.1pp,{10},10,Legendary Creature — Eldrazi,"When you cast this spell, target opponent exiles the top half of their library, rounded up.
+Ward—Sacrifice two permanents.
+Ulamog, the Defiler enters the battlefield with a number of +1/+1 counters on it equal to the greatest mana value among cards in exile.
+Ulamog has annihilator X, where X is the number of +1/+1 counters on it.",7,7,[],[],['Ward'],mh3,mythic
+Warped Tusker,G,C,237459,4.89,35668,6.98,178188,,,29946,,41494,,71440,,104456,,0.6pp,{7},7,Creature — Eldrazi Boar Beast,"Reach
+When you cast or cycle Warped Tusker, create a 0/1 colorless Eldrazi Spawn creature token with ""Sacrifice this creature: Add {C}.""
+Cycling {2}{G} ({2}{G}, Discard this card: Draw a card.)",6,8,[],['G'],"['Reach', 'Cycling']",mh3,common
+Wastescape Battlemage,UG,U,63907,3.51,17315,4.22,89462,,,14940,,21934,,36874,,50955,,3.6pp,{1}{C},2,Creature — Eldrazi Wizard,"Kicker {G} and/or {1}{U}
+When you cast this spell, if it was kicked with its {G} kicker, exile target artifact or enchantment an opponent controls.
+When you cast this spell, if it was kicked with its {1}{U} kicker, return target creature an opponent controls to its owner's hand.",2,2,[],"['G', 'U']",['Kicker'],mh3,uncommon
+Aerie Auxiliary,W,C,204767,4.48,52125,5.38,289467,,,47897,,57981,,105878,,183152,,1.5pp,{3}{W},4,Creature — Bird Soldier,"Flying
+When Aerie Auxiliary enters the battlefield, support 2. (Put a +1/+1 counter on each of up to two other target creatures.)",3,3,['W'],['W'],"['Flying', 'Support']",mh3,common
+Ajani Fells the Godsire,W,U,70639,4.04,17664,4.79,89889,,,14131,,18470,,32601,,56535,,0.6pp,{3}{W}{W},5,Enchantment — Saga,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Exile target creature an opponent controls with power 3 or greater.
+II — Create a 2/1 white Cat Warrior creature token, then put a vigilance counter on a creature you control.
+III — Target creature you control gains double strike until end of turn.",,,['W'],['W'],[],mh3,uncommon
+Argent Dais,W,R,42756,5.93,4888,9.13,3646,,,605,,778,,1383,,2235,,-2.7pp,{1}{W},2,Artifact,"Argent Dais enters the battlefield with two oil counters on it.
+Whenever two or more creatures attack, put an oil counter on Argent Dais.
+{2}, {T}, Remove two oil counters from Argent Dais: Exile another target nonland permanent. Its controller draws two cards.",,,['W'],['W'],[],mh3,rare
+Charitable Levy,W,U,119292,8.3,12779,12.19,927,,,155,,224,,379,,544,,,{1}{W},2,Enchantment,"Noncreature spells cost {1} more to cast.
+Whenever a player casts a noncreature spell, put a collection counter on Charitable Levy. Then if there are three or more collection counters on it, sacrifice it. If you do, draw a card, then you may search your library for a Plains card, put it onto the battlefield tapped, then shuffle.",,,['W'],['W'],[],mh3,uncommon
+Dog Umbra,W,C,241490,5.27,41226,7.15,198869,,,32668,,40047,,72715,,124900,,-0.9pp,{1}{W},2,Enchantment — Aura,"Flash
+Enchant creature
+As long as another player controls enchanted creature, it can't attack or block. Otherwise, Dog Umbra has umbra armor. (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)",,,['W'],['W'],"['Enchant', 'Flash']",mh3,common
+Envoy of the Ancestors,W,U,74543,4.32,13263,5.65,63980,,,10913,,13193,,24106,,39898,,-1.4pp,{2}{W},3,Creature — Human Cleric,"Outlast {W} ({W}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)
+Modified creatures you control have lifelink. (Equipment, Auras you control, and counters are modifications.)",2,3,['W'],['W'],['Outlast'],mh3,uncommon
+Essence Reliquary,W,U,110971,7.16,18897,9.22,43582,,,7203,,9742,,16945,,26292,,-4.0pp,{2}{W},3,Artifact,{T}: Return another target permanent you control and all Auras you control attached to it to their owner's hand. Activate only during your turn.,,,['W'],['W'],[],mh3,uncommon
+Expel the Unworthy,W,C,268630,6.24,31317,9.17,92963,,,15646,,19376,,35022,,57930,,-2.7pp,{1}{W},2,Sorcery,"Kicker {2}{W} (You may pay an additional {2}{W} as you cast this spell.)
+Choose target creature with mana value 3 or less. If this spell was kicked, instead choose target creature. Exile the chosen creature, then its controller gains life equal to its mana value.",,,['W'],['W'],['Kicker'],mh3,common
+Flare of Fortitude,W,R,40648,5.5,4477,8.6,4331,,,626,,880,,1506,,2827,,-2.3pp,{2}{W}{W},4,Instant,"You may sacrifice a nontoken white creature rather than pay this spell's mana cost.
+Until end of turn, your life total can't change, and permanents you control gain hexproof and indestructible.",,,['W'],['W'],[],mh3,rare
+Glyph Elemental,W,U,48080,2.79,18171,3.08,102431,,,18589,,20755,,39344,,62683,,1.9pp,{1}{W},2,Enchantment Creature — Elemental,"Bestow {1}{W} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)
+Landfall — Whenever a land enters the battlefield under your control, put a +1/+1 counter on Glyph Elemental.
+Enchanted creature gets +1/+1 for each +1/+1 counter on Glyph Elemental.",2,2,['W'],['W'],"['Bestow', 'Landfall']",mh3,uncommon
+Guardian of the Forgotten,W,U,89741,5.28,13617,7.19,53881,,,8689,,11122,,19811,,34141,,-1.2pp,{3}{W},4,Creature — Elephant Warrior,"Vigilance
+Whenever a modified creature you control dies, manifest the top card of your library. (Equipment, Auras you control, and counters are modifications. To manifest a card, put the top card of your library onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)",4,4,['W'],['W'],"['Vigilance', 'Manifest']",mh3,uncommon
+Guide of Souls,W,R,11488,1.68,7750,1.65,46979,,,8566,,9796,,18362,,28367,,11.4pp,{W},1,Creature — Human Cleric,"Whenever another creature enters the battlefield under your control, you gain 1 life and get {E} (an energy counter).
+Whenever you attack, you may pay {E}{E}{E}. When you do, put two +1/+1 counters and a flying counter on target attacking creature. It becomes an Angel in addition to its other types.",1,2,['W'],['W'],[],mh3,rare
+Hexgold Slith,W,C,228833,5.03,44186,6.52,233016,,,41955,,44572,,86527,,146532,,-1.7pp,{1}{W},2,Creature — Slith,"When Hexgold Slith enters the battlefield, you get {E}{E} (two energy counters).
+Whenever Hexgold Slith attacks, you may pay {E}{E}. If you do, it gains first strike until end of turn.
+Whenever Hexgold Slith deals combat damage to a player, put a +1/+1 counter on it.",2,1,['W'],['W'],[],mh3,common
+Indebted Spirit,W,U,95514,5.58,14822,7.53,58537,,,10341,,11275,,21616,,36571,,-2.1pp,{W},1,Enchantment Creature — Spirit,"Bestow {2}{W} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)
+Afterlife 1 (When this permanent is put into a graveyard from the battlefield, create a 1/1 white and black Spirit creature token with flying.)
+Enchanted creature gets +1/+1 and has afterlife 1.",1,1,['W'],['W'],"['Afterlife', 'Bestow']",mh3,uncommon
+Inspired Inventor,W,C,253813,5.63,41720,7.7,197129,,,33721,,38549,,72270,,124699,,-2.2pp,{2}{W},3,Creature — Human Artificer,"When Inspired Inventor enters the battlefield, choose one —
+• You get {E}{E}{E} (three energy counters).
+• Put a +1/+1 counter on target creature.
+• Create a 1/1 colorless Servo artifact creature token.",2,2,['W'],['W'],[],mh3,common
+Jolted Awake,W,C,294732,7.44,40622,10.42,92084,,,14701,,18533,,33234,,58853,,-2.2pp,{W},1,Sorcery,"Choose up to one target artifact or creature card in your graveyard. You get {E}{E} (two energy counters). Then you may pay an amount of {E} equal to that card's mana value. If you do, return it from your graveyard to the battlefield.
+Cycling {2} ({2}, Discard this card: Draw a card.)",,,['W'],['W'],['Cycling'],mh3,common
+Mandibular Kite,W,C,260167,5.95,49530,7.59,233269,,,41406,,44593,,85999,,146106,,0.3pp,{W},1,Artifact — Equipment,"Living weapon (When this Equipment enters the battlefield, create a 0/0 black Phyrexian Germ creature token, then attach this to it.)
+Equipped creature gets +1/+1 and has flying.
+Equip {3}{W}",,,['W'],['W'],"['Equip', 'Living weapon']",mh3,common
+Metastatic Evangel,W,U,60422,3.49,17733,4.02,98410,,,17743,,19409,,37152,,61162,,-0.1pp,{1}{W},2,Creature — Phyrexian Human Cleric,"Whenever another nontoken creature enters the battlefield under your control, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",3,1,['W'],['W'],['Proliferate'],mh3,uncommon
+Muster the Departed,W,U,101917,6.34,12874,9.09,26291,,,4528,,5500,,10028,,16087,,-1.3pp,{2}{W},3,Enchantment,"When Muster the Departed enters the battlefield, create a 1/1 white Spirit creature token with flying.
+Morbid — At the beginning of your end step, if a creature died this turn, populate. (Create a token that's a copy of a creature token you control.)",,,['W'],['W'],"['Populate', 'Morbid']",mh3,uncommon
+Nyxborn Unicorn,W,C,261731,5.92,42442,8.02,193880,,,34193,,37597,,71790,,121136,,-2.6pp,{1}{W},2,Enchantment Creature — Unicorn,"Bestow {3}{W} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)
+Mentor (Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.)
+Enchanted creature gets +2/+2 and has mentor.",2,2,['W'],['W'],"['Mentor', 'Bestow']",mh3,common
+Ocelot Pride,W,M,5622,1.67,3520,1.64,19870,,,3708,,3968,,7676,,12076,,10.0pp,{W},1,Creature — Cat,"First strike, lifelink
+Ascend (If you control ten or more permanents, you get the city's blessing for the rest of the game.)
+At the beginning of your end step, if you gained life this turn, create a 1/1 white Cat creature token. Then if you have the city's blessing, for each token you control that entered the battlefield this turn, create a token that's a copy of it.",1,1,['W'],['W'],"['Lifelink', 'Ascend', 'First strike']",mh3,mythic
+"Pearl-Ear, Imperial Advisor",W,R,23829,3.38,6014,3.82,29289,,,4990,,5915,,10905,,18462,,-0.6pp,{1}{W}{W},3,Legendary Creature — Fox Advisor,"Lifelink
+Enchantment spells you cast have affinity for Auras. (They cost {1} less to cast for each Aura you control.)
+Whenever you cast an Aura spell that targets a modified permanent you control, draw a card. (Equipment, Auras you control, and counters are modifications.)",3,4,['W'],['W'],['Lifelink'],mh3,rare
+"Phelia, Exuberant Shepherd",W,R,13503,1.96,7428,1.96,42121,,,7706,,8596,,16302,,25665,,4.2pp,{1}{W},2,Legendary Creature — Dog,"Flash
+Whenever Phelia, Exuberant Shepherd attacks, exile up to one other target nonland permanent. At the beginning of the next end step, return that card to the battlefield under its owner's control. If it entered under your control, put a +1/+1 counter on Phelia.",2,2,['W'],['W'],['Flash'],mh3,rare
+Proud Pack-Rhino,W,U,76021,4.25,17277,5.28,92489,,,15526,,18460,,33986,,58523,,-0.5pp,{2}{W},3,Creature — Rhino,"When Proud Pack-Rhino enters the battlefield, choose one —
+• Put a shield counter on target permanent. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)
+• Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",3,3,['W'],['W'],['Proliferate'],mh3,uncommon
+Rosecot Knight,W,C,303224,7.88,37281,11.27,57220,,,8833,,11892,,20725,,36511,,-2.3pp,{4}{W},5,Creature — Human Knight,"Vigilance
+When Rosecot Knight enters the battlefield, look at the top six cards of your library. You may reveal an artifact or enchantment card from among them and put it into your hand. Put the rest on the bottom of your library in a random order. If you didn't put a card into your hand this way, put a +1/+1 counter on Rosecot Knight.",3,4,['W'],['W'],['Vigilance'],mh3,common
+Solstice Zealot,W,C,274778,6.5,44986,8.74,188263,,,31730,,37000,,68730,,119591,,-1.6pp,{2}{W},3,Creature — Rhino Cleric,"When Solstice Zealot enters the battlefield, you get {E}{E} (two energy counters).
+{T}, Pay {E}: Tap target creature.",2,3,['W'],['W'],[],mh3,common
+Static Prison,W,U,80082,4.68,19489,5.47,95741,,,15695,,19630,,35325,,59962,,1.3pp,{W},1,Enchantment,"When Static Prison enters the battlefield, exile target nonland permanent an opponent controls until Static Prison leaves the battlefield. You get {E}{E} (two energy counters).
+At the beginning of your precombat main phase, sacrifice Static Prison unless you pay {E}.",,,['W'],['W'],[],mh3,uncommon
+Thraben Charm,W,C,253757,5.66,46031,7.51,220163,,,35570,,43830,,79400,,140644,,0.0pp,{1}{W},2,Instant,"Choose one —
+• Thraben Charm deals damage equal to twice the number of creatures you control to target creature.
+• Destroy target enchantment.
+• Exile any number of target players' graveyards.",,,['W'],['W'],[],mh3,common
+Voltstorm Angel,W,U,62482,3.63,16079,4.28,84814,,,13029,,17443,,30472,,54508,,0.5pp,{3}{W}{W},5,Creature — Angel,"Flying
+When Voltstorm Angel enters the battlefield, you get {E}{E}{E} (three energy counters).
+At the beginning of combat on your turn, you may pay {E}{E}. When you do, choose one —
+• Voltstorm Angel gains vigilance and lifelink until end of turn.
+• Other creatures you control get +1/+1 until end of turn.",4,4,['W'],['W'],['Flying'],mh3,uncommon
+White Orchid Phantom,W,R,30082,3.97,5319,5.16,22981,,,4019,,4570,,8589,,14399,,-4.3pp,{W}{W},2,Creature — Spirit Knight,"Flying, first strike
+When White Orchid Phantom enters the battlefield, destroy up to one target nonbasic land. Its controller may search their library for a basic land card, put it onto the battlefield tapped, then shuffle.",2,2,['W'],['W'],"['Flying', 'First strike']",mh3,rare
+Wing It,W,C,296123,7.47,40258,10.49,102406,,,15705,,19287,,34992,,67411,,-2.1pp,{1}{W},2,Instant,Target creature gets +2/+2 until end of turn. Put a flying counter on it. Scry 1.,,,['W'],['W'],['Scry'],mh3,common
+Wrath of the Skies,W,R,18771,2.76,6830,2.81,30753,,,5051,,7093,,12144,,18630,,2.2pp,{X}{W}{W},2,Sorcery,"You get X {E} (energy counters), then you may pay any amount of {E}. Destroy each artifact, creature, and enchantment with mana value less than or equal to the amount of {E} paid this way.",,,['W'],['W'],[],mh3,rare
+Aether Spike,U,C,272665,6.29,42150,8.69,152779,,,26401,,40202,,66603,,86253,,3.3pp,{1}{U},2,Instant,"Choose target spell. You get {E}{E} (two energy counters), then you may pay any amount of {E}. Counter that spell unless its controller pays {1} for each {E} paid this way.",,,['U'],['U'],[],mh3,common
+Amphibian Downpour,U,R,24431,3.28,5858,3.85,28457,,,4712,,7499,,12211,,16073,,2.9pp,{2}{U},3,Enchantment — Aura,"Flash
+Storm (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies. Copies become tokens.)
+Enchant creature
+Enchanted creature loses all abilities and is a blue Frog creature with base power and toughness 1/1.",,,['U'],['U'],"['Storm', 'Enchant', 'Flash']",mh3,rare
+Bespoke Battlewagon,U,U,87530,5.15,15813,6.63,58836,,,9891,,15557,,25448,,33524,,2.3pp,{3}{U},4,Artifact — Vehicle,"{T}: You get {E}{E} (two energy counters).
+{T}, Pay {E}{E}: Tap target creature.
+{T}, Pay {E}{E}{E}: Draw a card.
+Pay {E}{E}{E}{E}: Bespoke Battlewagon becomes an artifact creature until end of turn.
+Crew 4",5,6,['U'],['U'],['Crew'],mh3,uncommon
+Brainsurge,U,U,93030,5.34,16076,7.07,68589,,,11749,,19656,,31405,,37286,,5.1pp,{2}{U},3,Instant,"Draw four cards, then put two cards from your hand on top of your library in any order.",,,['U'],['U'],[],mh3,uncommon
+Consign to Memory,U,U,116419,7.64,13592,11.11,12640,,,2051,,3419,,5470,,7183,,0.2pp,{U},1,Instant,"Replicate {1} (When you cast this spell, copy it for each time you paid its replicate cost. You may choose new targets for the copies.)
+Counter target triggered ability or colorless spell.",,,['U'],['U'],['Replicate'],mh3,uncommon
+Copycrook,U,U,88092,5.03,13607,6.85,52467,,,8090,,14802,,22892,,29573,,2.6pp,{2}{U}{U},4,Creature — Shapeshifter Rogue,"You may have Copycrook enter the battlefield as a copy of any creature on the battlefield, except it has ""Whenever this creature attacks, it connives."" (Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on this creature.)",0,0,['U'],['U'],['Connive'],mh3,uncommon
+Corrupted Shapeshifter,U,C,281151,6.69,28579,10.23,60115,,,9611,,15627,,25238,,34536,,-0.1pp,{3}{U},4,Creature — Eldrazi Shapeshifter,"Devoid (This card has no color.)
+As Corrupted Shapeshifter enters the battlefield, it becomes your choice of a 3/3 creature with flying, a 2/5 creature with vigilance, or a 0/12 creature with defender.",,,[],['U'],['Devoid'],mh3,common
+Deem Inferior,U,C,275860,6.27,51872,8.28,224615,,,36447,,63514,,99961,,124917,,3.9pp,{3}{U},4,Sorcery,"This spell costs {1} less to cast for each card you've drawn this turn.
+The owner of target nonland permanent puts it into their library second from the top or on the bottom.",,,['U'],['U'],[],mh3,common
+Depth Defiler,U,U,55811,3.18,18958,3.58,100765,,,16081,,28053,,44134,,55758,,6.6pp,{3}{U}{U},5,Creature — Eldrazi,"Devoid (This card has no color.)
+Kicker {C} (You may pay an additional {C} as you cast this spell.)
+When you cast this spell, choose one. If it was kicked, choose both instead.
+• Return target creature to its owner's hand.
+• Target player draws two cards, then discards a card.",3,5,[],['U'],"['Devoid', 'Kicker']",mh3,uncommon
+Dreamtide Whale,U,R,25866,3.59,6083,4.18,26821,,,4711,,7203,,11914,,14996,,3.1pp,{2}{U},3,Creature — Whale,"Vanishing 2 (This creature enters the battlefield with two time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)
+Whenever a player casts their second spell each turn, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",7,5,['U'],['U'],"['Vanishing', 'Proliferate']",mh3,rare
+Electrozoa,U,C,295768,7.53,39488,10.6,83458,,,14152,,20817,,34969,,48544,,0.9pp,{2}{U},3,Creature — Jellyfish,"Flash
+Flying
+When Electrozoa enters the battlefield, you get {E}{E} (two energy counters).
+At the beginning of your precombat main phase, tap Electrozoa unless you pay {E}.",3,1,['U'],['U'],"['Flying', 'Flash']",mh3,common
+Emrakul's Messenger,U,U,65073,3.66,16515,4.39,83774,,,14877,,23051,,37928,,45657,,3.7pp,{1}{U},2,Creature — Eldrazi Faerie Rogue,"Devoid (This card has no color.)
+Flying
+Whenever you draw your second card each turn, create a 0/1 colorless Eldrazi Spawn creature token with ""Sacrifice this creature: Add {C}.""",2,1,[],['U'],"['Flying', 'Devoid']",mh3,uncommon
+Flare of Denial,U,R,33155,4.36,5047,6.0,16833,,,2672,,4883,,7555,,9282,,3.1pp,{1}{U}{U},3,Instant,"You may sacrifice a nontoken blue creature rather than pay this spell's mana cost.
+Counter target spell.",,,['U'],['U'],[],mh3,rare
+Harbinger of the Seas,U,R,46111,6.19,5125,9.66,626,,,98,,166,,264,,366,,,{1}{U}{U},3,Creature — Merfolk Wizard,Nonbasic lands are Islands.,2,2,['U'],['U'],[],mh3,rare
+Hope-Ender Coatl,U,U,64503,3.55,15994,4.33,83714,,,14516,,22210,,36726,,46699,,4.1pp,{2}{U},3,Creature — Eldrazi Snake,"Devoid (This card has no color.)
+Flash
+When you cast this spell, counter target spell an opponent controls unless they pay {1}.
+Flying",2,2,[],['U'],"['Flying', 'Devoid', 'Flash']",mh3,uncommon
+Kozilek's Unsealing,U,U,71937,4.39,13493,5.48,51924,,,9004,,12846,,21850,,29537,,0.4pp,{2}{U},3,Enchantment,"Devoid (This card has no color.)
+Whenever you cast a creature spell with mana value 4, 5, or 6, create two 0/1 colorless Eldrazi Spawn creature tokens with ""Sacrifice this creature: Add {C}.""
+Whenever you cast a creature spell with mana value 7 or greater, draw three cards.",,,[],['U'],['Devoid'],mh3,uncommon
+Petrifying Meddler,U,C,243008,5.15,40190,7.18,186456,,,30235,,49991,,80226,,104603,,3.2pp,{4}{U},5,Creature — Eldrazi,"Devoid (This card has no color.)
+When you cast this spell, tap up to one target creature and put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)
+Reach",4,5,[],['U'],"['Reach', 'Devoid']",mh3,common
+Roil Cartographer,U,U,72747,4.21,18718,4.93,90872,,,16127,,24212,,40339,,50588,,5.1pp,{1}{U},2,Creature — Merfolk Rogue,"Landfall — Whenever a land enters the battlefield under your control, you get {E} (an energy counter).
+{T}, Pay six {E}: Draw three cards.",1,3,['U'],['U'],['Landfall'],mh3,uncommon
+Sage of the Unknowable,U,C,280408,6.63,34838,9.57,108706,,,19634,,27247,,46881,,61222,,-0.4pp,{1}{U},2,Creature — Human Wizard,{T}: Add {C}. Spend this mana only to cast a colorless spell or to activate an ability.,0,4,['U'],['U'],[],mh3,common
+Serum Visionary,U,C,240887,5.14,48380,6.71,240766,,,42701,,65398,,108099,,131503,,4.9pp,{2}{U},3,Creature — Vedalken Wizard,"When Serum Visionary enters the battlefield, draw a card, then scry 2.",2,2,['U'],['U'],['Scry'],mh3,common
+Shadow of the Second Sun,U,M,15253,4.12,3568,4.76,13403,,,2144,,4023,,6167,,7265,,5.4pp,{4}{U}{U},6,Enchantment — Aura,"Enchant player
+At the beginning of enchanted player's postcombat main phase, there is an additional beginning phase after this phase. (The end step happens after the added untap, upkeep, and draw steps.)",,,['U'],['U'],['Enchant'],mh3,mythic
+Strix Serenade,U,R,43290,5.83,4250,9.37,2446,,,384,,598,,982,,1461,,-3.5pp,{U},1,Instant,"Counter target artifact, creature, or planeswalker spell. Its controller creates a 2/2 blue Bird creature token with flying.",,,['U'],['U'],[],mh3,rare
+Tamiyo Meets the Story Circle,U,U,110922,6.84,15855,9.5,33343,,,5809,,9543,,15352,,17985,,-1.6pp,{1}{U},2,Enchantment — Saga,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Until your next turn, whenever a creature attacks you or a planeswalker you control, it gets -2/-0 until end of turn.
+II — Discard any number of cards, then investigate twice for each card discarded this way.
+III — Shuffle up to three target cards from your graveyard into your library.",,,['U'],['U'],['Investigate'],mh3,uncommon
+Tempest Harvester,U,C,275500,6.37,44511,8.72,171944,,,29920,,45662,,75582,,96356,,2.4pp,{1}{U},2,Creature — Merfolk Wizard,"When Tempest Harvester enters the battlefield, you get {E}{E} (two energy counters).
+{T}, Pay {E}: Draw a card, then discard a card.",2,1,['U'],['U'],[],mh3,common
+Triton Wavebreaker,U,U,112109,7.15,12436,10.53,14528,,,2514,,3641,,6155,,8347,,-1.6pp,{U},1,Enchantment Creature — Merfolk Wizard,"Bestow {1}{U} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)
+As long as Triton Wavebreaker is a creature, it has prowess. (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Enchanted creature gets +1/+1 and has prowess.",1,1,['U'],['U'],['Bestow'],mh3,uncommon
+Tune the Narrative,U,C,263288,6.03,43131,8.15,164773,,,28896,,43625,,72521,,92320,,2.1pp,{U},1,Instant,Draw a card. You get {E}{E} (two energy counters).,,,['U'],['U'],[],mh3,common
+Ugin's Binding,U,M,7504,2.24,3296,2.21,15264,,,2686,,4040,,6726,,8478,,6.7pp,{2}{U},3,Instant,"Devoid (This card has no color.)
+Return target nonland permanent you don't control to its owner's hand.
+Whenever you cast a colorless spell with mana value 7 or greater, you may exile Ugin's Binding from your graveyard. When you do, return each nonland permanent you don't control to its owner's hand.",,,[],['U'],['Devoid'],mh3,mythic
+Unfathomable Truths,U,C,253221,5.48,43689,7.5,194261,,,31397,,52795,,84192,,110288,,5.2pp,{4}{U},5,Instant,"Devoid (This card has no color.)
+Draw three cards and create a 0/1 colorless Eldrazi Spawn creature token with ""Sacrifice this creature: Add {C}.""",,,[],['U'],['Devoid'],mh3,common
+Utter Insignificance,U,C,269937,6.05,36271,8.8,137614,,,22575,,36842,,59417,,77296,,2.1pp,{1}{U},2,Enchantment — Aura,"Flash
+Enchant creature
+Enchanted creature loses all abilities and has base power and toughness 1/1.
+{2}{C}: Exile enchanted creature.",,,['U'],['U'],"['Enchant', 'Flash']",mh3,common
+Volatile Stormdrake,U,R,26082,3.53,6541,4.08,29844,,,5168,,8382,,13550,,16521,,4.4pp,{1}{U},2,Creature — Drake,"Flying, hexproof from activated and triggered abilities
+When Volatile Stormdrake enters the battlefield, exchange control of Volatile Stormdrake and target creature an opponent controls. If you do, you get {E}{E}{E}{E}, then sacrifice that creature unless you pay an amount of {E} equal to its mana value.",3,2,['U'],['U'],"['Flying', 'Hexproof from', 'Hexproof']",mh3,rare
+Accursed Marauder,B,C,239025,5.37,41400,6.95,194959,,,34209,,48817,,83026,,110805,,4.4pp,{1}{B},2,Creature — Zombie Warrior,"When Accursed Marauder enters the battlefield, each player sacrifices a nontoken creature.",2,1,['B'],['B'],[],mh3,common
+Arcbound Condor,B,U,84113,4.98,12407,6.62,47724,,,7764,,10543,,18307,,29431,,0.5pp,{2}{B}{B},4,Artifact Creature — Bird,"Flying
+Modular 3 (This creature enters the battlefield with three +1/+1 counters on it. When it dies, you may put its +1/+1 counters on target artifact creature.)
+Whenever another artifact enters the battlefield under your control, target creature an opponent controls gets -1/-1 until end of turn.",0,0,['B'],['B'],"['Flying', 'Modular']",mh3,uncommon
+Breathe Your Last,B,C,179191,3.87,38780,4.81,205691,,,34182,,51905,,86087,,118780,,3.9pp,{1}{B}{B},3,Instant,Destroy target creature or planeswalker. You gain 1 life for each of its colors.,,,['B'],['B'],[],mh3,common
+Chthonian Nightmare,B,R,20503,2.96,7513,2.99,36015,,,6075,,9139,,15214,,20155,,4.4pp,{1}{B},2,Enchantment,"When Chthonian Nightmare enters the battlefield, you get {E}{E}{E} (three energy counters).
+Pay X {E}, Sacrifice a creature, Return Chthonian Nightmare to its owner's hand: Return target creature card with mana value X from your graveyard to the battlefield. Activate only as a sorcery.",,,['B'],['B'],[],mh3,rare
+Consuming Corruption,B,U,96520,5.83,13843,8.02,44609,,,7334,,11584,,18918,,25452,,3.6pp,{B}{B},2,Instant,"Consuming Corruption deals X damage to target creature or planeswalker and you gain X life, where X is the number of Swamps you control.",,,['B'],['B'],[],mh3,uncommon
+Crabomination,B,R,12647,1.83,7676,1.77,43488,,,7074,,11048,,18122,,25142,,12.6pp,{4}{B}{B},6,Creature — Crab Demon,"Emerge from artifact {5}{B}{B} (You may cast this spell by sacrificing an artifact and paying the emerge cost reduced by that artifact's mana value.)
+When Crabomination enters the battlefield, target opponent exiles the top card of their library, a card at random from their graveyard, and a card at random from their hand. You may cast a spell from among cards exiled this way without paying its mana cost.",5,5,['B'],['B'],['Emerge'],mh3,rare
+The Creation of Avacyn,B,U,113551,7.56,11413,11.43,5274,,,899,,1260,,2159,,3111,,-2.7pp,{1}{B}{B},3,Enchantment — Saga,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Search your library for a card, exile it face down, then shuffle.
+II — Turn the exiled card face up. If it's a creature card, you lose life equal to its mana value.
+III — You may put the exiled card onto the battlefield if it's a creature card. If you don't put it onto the battlefield, put it into its owner's hand.",,,['B'],['B'],[],mh3,uncommon
+Dreadmobile,B,U,110213,6.94,14210,9.72,31106,,,5142,,6890,,12032,,19085,,-2.4pp,{2}{B},3,Artifact — Vehicle,"Menace
+{1}, Sacrifice another artifact or creature: Put a +1/+1 counter on Dreadmobile.
+Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)",3,3,['B'],['B'],"['Crew', 'Menace']",mh3,uncommon
+Dreamdrinker Vampire,B,C,269836,6.2,35685,8.82,132082,,,23265,,31506,,54771,,77123,,1.8pp,{1}{B},2,Creature — Vampire,"Lifelink
+{1}{B}: Adapt 1. (If this creature has no +1/+1 counters on it, put a +1/+1 counter on it.)
+Whenever one or more +1/+1 counters are put on Dreamdrinker Vampire, it gains menace until end of turn.",2,1,['B'],['B'],"['Lifelink', 'Adapt']",mh3,common
+Drossclaw,B,C,287129,7.16,33241,10.29,82683,,,14635,,17882,,32517,,50097,,-0.2pp,{1}{B},2,Artifact — Equipment,"Living weapon (When this Equipment enters the battlefield, create a 0/0 black Phyrexian Germ creature token, then attach this to it.)
+Equipped creature gets +1/+1.
+Whenever equipped creature attacks, each opponent loses 1 life.
+Equip {2}",,,['B'],['B'],"['Equip', 'Living weapon']",mh3,common
+Emperor of Bones,B,R,14957,2.1,6759,2.18,36595,,,6467,,9003,,15470,,20938,,7.1pp,{1}{B},2,Creature — Skeleton Noble,"At the beginning of combat on your turn, exile up to one target card from a graveyard.
+{1}{B}: Adapt 2.
+Whenever one or more +1/+1 counters are put on Emperor of Bones, put a creature card exiled with Emperor of Bones onto the battlefield under your control with a finality counter on it. It gains haste. Sacrifice it at the beginning of the next end step.",2,2,['B'],['B'],['Adapt'],mh3,rare
+Etched Slith,B,U,78017,4.46,12536,5.88,57241,,,10281,,12844,,23125,,34081,,0.5pp,{1}{B},2,Artifact Creature — Phyrexian Slith,"Menace
+Whenever Etched Slith deals combat damage to a player, put a +1/+1 counter on it. When you do, you may remove a counter from another target permanent or opponent.",1,1,['B'],['B'],['Menace'],mh3,uncommon
+Etherium Pteramander,B,U,88073,5.16,13177,6.82,52529,,,9326,,11400,,20726,,31600,,2.9pp,{B},1,Artifact Creature — Salamander Drake,"Flying
+Etherium Pteramander can block only creatures with flying.
+{6}{B}: Adapt 4. This ability costs {1} less to activate for each other artifact you control. (If this creature has no +1/+1 counters on it, put four +1/+1 counters on it.)",1,1,['B'],['B'],"['Flying', 'Adapt']",mh3,uncommon
+Eviscerator's Insight,B,C,278935,6.71,40962,9.1,148686,,,24682,,38743,,63425,,84994,,2.6pp,{1}{B},2,Instant,"As an additional cost to cast this spell, sacrifice an artifact or creature.
+Draw two cards.
+Flashback {4}{B} (You may cast this card from your graveyard for its flashback cost and any additional costs. Then exile it.)",,,['B'],['B'],['Flashback'],mh3,common
+Fetid Gargantua,B,C,277812,6.53,33987,9.51,109936,,,17395,,28265,,45660,,64416,,-0.1pp,{4}{B},5,Creature — Horror,"{2}{B}: Adapt 2. (If this creature has no +1/+1 counters on it, put two +1/+1 counters on it.)
+Whenever one or more +1/+1 counters are put on Fetid Gargantua, you may draw two cards. If you do, you lose 2 life.",4,4,['B'],['B'],['Adapt'],mh3,common
+Flare of Malice,B,R,23643,3.2,5856,3.7,28152,,,4543,,7275,,11818,,16281,,4.2pp,{2}{B}{B},4,Instant,"You may sacrifice a nontoken black creature rather than pay this spell's mana cost.
+Each opponent sacrifices a creature or planeswalker with the greatest mana value among creatures and planeswalkers they control.",,,['B'],['B'],[],mh3,rare
+Gravedig,B,C,289869,7.02,36719,10.02,90593,,,14779,,22173,,36952,,53694,,-1.0pp,{1}{B},2,Sorcery,"Choose one —
+• Target player creates a 2/2 black Zombie creature token.
+• Return target creature card from your graveyard to your hand.
+Entwine {2} (Choose both if you pay the entwine cost.)",,,['B'],['B'],['Entwine'],mh3,common
+Grim Servant,B,U,100346,5.98,13938,8.34,43679,,,7167,,10858,,18025,,25636,,0.8pp,{3}{B},4,Creature — Zombie Warlock,"Menace
+When Grim Servant enters the battlefield, search your library for a card with mana value less than or equal to your devotion to black, reveal it, put it into your hand, then shuffle. You lose 3 life. (Each {B} in the mana costs of permanents you control counts toward your devotion to black.)",3,2,['B'],['B'],['Menace'],mh3,uncommon
+Kami of Jealous Thirst,B,C,282357,7.01,37536,9.64,109867,,,18589,,32738,,51327,,58736,,4.0pp,{2}{B},3,Creature — Spirit,"Deathtouch
+{4}{B}: Each opponent loses 2 life and you gain 2 life. This ability costs {4}{B} less to activate if you've drawn three or more cards this turn. Activate only once each turn.",1,3,['B'],['B'],['Deathtouch'],mh3,common
+Lethal Throwdown,B,U,90198,5.18,14872,6.93,63051,,,9928,,15410,,25338,,37336,,2.3pp,{B},1,Sorcery,"As an additional cost to cast this spell, sacrifice a creature or sacrifice a modified creature. (Equipment, Auras you control, and counters are modifications.)
+Destroy target creature or planeswalker. If the modified creature was sacrificed, draw a card.",,,['B'],['B'],[],mh3,uncommon
+Marionette Apprentice,B,U,58819,3.39,18393,3.78,99591,,,17827,,23874,,41701,,57321,,7.2pp,{1}{B},2,Creature — Human Artificer,"Fabricate 1 (When this creature enters the battlefield, put a +1/+1 counter on it or create a 1/1 colorless Servo artifact creature token.)
+Whenever another creature or artifact you control is put into a graveyard from the battlefield, each opponent loses 1 life.",1,2,['B'],['B'],['Fabricate'],mh3,uncommon
+Mindless Conscription,B,U,97232,6.08,17442,7.53,58747,,,10274,,17695,,27969,,30722,,5.9pp,{2}{B},3,Enchantment,"When Mindless Conscription enters the battlefield and whenever you draw your third card each turn, amass Zombies 3. (Put three +1/+1 counters on an Army you control. It's also a Zombie. If you don't control an Army, create a 0/0 black Zombie Army creature token first.)",,,['B'],['B'],['Amass'],mh3,uncommon
+Necrodominance,B,M,17664,4.82,2308,7.07,1779,,,289,,453,,742,,1027,,-5.0pp,{B}{B}{B},3,Legendary Enchantment,"Skip your draw step.
+At the beginning of your end step, you may pay any amount of life. If you do, draw that many cards.
+Your maximum hand size is five.
+If a card or token would be put into your graveyard from anywhere, exile it instead.",,,['B'],['B'],[],mh3,mythic
+Nethergoyf,B,M,9749,2.77,2418,3.15,10120,,,1748,,2471,,4219,,5818,,6.6pp,{B},1,Creature — Lhurgoyf,"Nethergoyf's power is equal to the number of card types among cards in your graveyard and its toughness is equal to that number plus 1.
+Escape—{2}{B}, Exile any number of other cards from your graveyard with four or more card types among them. (You may cast this card from your graveyard for its escape cost.)",,,['B'],['B'],['Escape'],mh3,mythic
+Quest for the Necropolis,B,U,105020,6.47,13098,9.33,28786,,,4903,,7169,,12072,,16501,,-0.8pp,{B},1,Enchantment,"Landfall — Whenever a land enters the battlefield under your control, put a quest counter on Quest for the Necropolis.
+{5}{B}, Sacrifice Quest for the Necropolis: Put target creature card from a graveyard onto the battlefield under your control. This ability costs {1} less to activate for each quest counter on Quest for the Necropolis. Activate only as a sorcery.",,,['B'],['B'],['Landfall'],mh3,uncommon
+Refurbished Familiar,B,C,237071,5.32,40195,6.95,177103,,,29953,,40627,,70580,,106051,,4.1pp,{3}{B},4,Artifact Creature — Zombie Rat,"Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+Flying
+When Refurbished Familiar enters the battlefield, each opponent discards a card. For each opponent who can't, you draw a card.",2,1,['B'],['B'],"['Flying', 'Affinity']",mh3,common
+Retrofitted Transmogrant,B,C,271148,6.38,35294,9.03,134716,,,23838,,31568,,55406,,78833,,1.8pp,{B},1,Artifact Creature — Zombie,{3}{B}: Return Retrofitted Transmogrant from your graveyard to the battlefield tapped with two +1/+1 counters on it.,1,1,['B'],['B'],[],mh3,common
+Ripples of Undeath,B,R,46676,6.36,5441,9.74,1673,,,284,,429,,713,,959,,-5.8pp,{1}{B},2,Enchantment,"At the beginning of your precombat main phase, mill three cards. Then you may pay {1} and 3 life. If you do, put a card from among those cards into your hand.",,,['B'],['B'],['Mill'],mh3,rare
+Scurrilous Sentry,B,C,278591,6.67,37484,9.33,124226,,,20322,,33446,,53768,,70609,,4.2pp,{3}{B},4,Creature — Human Knight Rogue,"Menace
+Whenever Scurrilous Sentry enters the battlefield or attacks, it connives. (Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on this creature.)",2,3,['B'],['B'],"['Menace', 'Connive']",mh3,common
+"Shilgengar, Sire of Famine",WB,R,15270,2.21,6325,2.28,32789,,,5369,,8309,,13678,,19181,,3.7pp,{3}{B}{B},5,Legendary Creature — Elder Demon,"Flying
+Sacrifice another creature: Create a Blood token. If you sacrificed an Angel this way, create a number of Blood tokens equal to its toughness instead.
+{W/B}{W/B}{W/B}, Sacrifice six Blood tokens: Return each creature card from your graveyard to the battlefield with a finality counter on it. Those creatures are Vampires in addition to their other types.",6,6,['B'],"['B', 'W']",['Flying'],mh3,rare
+Warren Soultrader,B,R,27520,3.68,5782,4.55,24774,,,4235,,5991,,10226,,14544,,-0.6pp,{2}{B},3,Creature — Zombie Goblin Wizard,"Pay 1 life, Sacrifice another creature: Create a Treasure token. (It's an artifact with ""{T}, Sacrifice this artifact: Add one mana of any color."")",3,3,['B'],['B'],['Treasure'],mh3,rare
+Wither and Bloom,B,C,183246,3.9,43025,4.82,230811,,,40175,,56681,,96856,,133073,,5.0pp,{1}{B},2,Instant,"Target creature gets -3/-3 until end of turn.
+{1}{B}, Exile Wither and Bloom from your graveyard: Put a +1/+1 counter on target creature you control. Activate only as a sorcery.",,,['B'],['B'],[],mh3,common
+Wurmcoil Larva,B,U,61269,3.48,13807,4.22,71706,,,11597,,17972,,29569,,42247,,4.2pp,{3}{B}{B},5,Artifact Creature — Phyrexian Wurm,"Deathtouch, lifelink
+When Wurmcoil Larva dies, create a 1/2 black Phyrexian Wurm artifact creature token with deathtouch and a 2/1 black Phyrexian Wurm artifact creature token with lifelink.",3,3,['B'],['B'],"['Lifelink', 'Deathtouch']",mh3,uncommon
+Aether Revolt,R,R,22861,3.32,7636,3.42,34901,,,5874,,7951,,13825,,21104,,-1.3pp,{2}{R}{R},4,Enchantment,"Revolt — As long as a permanent you controlled left the battlefield this turn, if a source you control would deal noncombat damage to an opponent or a permanent an opponent controls, it deals that much damage plus 2 instead.
+Whenever you get one or more {E}, Aether Revolt deals that much damage to any target.",,,['R'],['R'],['Revolt'],mh3,rare
+Amped Raptor,R,U,53010,3.09,21537,3.31,122822,,,22211,,24992,,47203,,75192,,7.5pp,{1}{R},2,Creature — Dinosaur,"First strike
+When Amped Raptor enters the battlefield, you get {E}{E} (two energy counters). Then if you cast it from your hand, exile cards from the top of your library until you exile a nonland card. You may cast that card by paying an amount of {E} equal to its mana value rather than paying its mana cost.",2,1,['R'],['R'],['First strike'],mh3,uncommon
+"Ashling, Flame Dancer",R,M,10610,3.02,2739,3.39,11062,,,1801,,2571,,4372,,6694,,-1.4pp,{2}{R}{R},4,Legendary Creature — Elemental Shaman,"You don't lose unspent red mana as steps and phases end.
+Magecraft — Whenever you cast or copy an instant or sorcery spell, discard a card, then draw a card. If this is the second time this ability has resolved this turn, Ashling, Flame Dancer deals 2 damage to each opponent and each creature they control. If it's the third time, add {R}{R}{R}{R}.",4,4,['R'],['R'],['Magecraft'],mh3,mythic
+Detective's Phoenix,R,R,14076,2.01,8080,2.03,46746,,,8354,,9887,,18241,,28309,,2.1pp,{2}{R},3,Enchantment Creature — Phoenix,"Bestow—{R}, Collect evidence 6. (To pay this bestow cost, pay {R} and exile cards with total mana value 6 or greater from your graveyard.)
+Flying, haste
+Enchanted creature gets +2/+2 and has flying and haste.
+You may cast Detective's Phoenix from your graveyard using its bestow ability.",2,2,['R'],['R'],"['Flying', 'Collect evidence', 'Haste', 'Bestow']",mh3,rare
+Eldrazi Linebreaker,R,R,14986,2.2,6979,2.19,35725,,,5997,,7834,,13831,,21355,,3.8pp,{1}{C}{R},3,Creature — Eldrazi,"Devoid (This card has no color.)
+Trample
+At the beginning of combat on your turn, target creature you control gains haste and gets +X/+0 until end of turn, where X is the number of Eldrazi you control.",3,3,[],['R'],"['Devoid', 'Trample']",mh3,rare
+Fanged Flames,R,C,165817,3.46,42617,4.36,235067,,,40660,,49716,,90376,,144564,,0.3pp,{1}{R},2,Sorcery,"Devoid (This card has no color.)
+Fanged Flames deals 4 damage to target creature or planeswalker. If that creature or planeswalker would die this turn, exile it instead.",,,[],['R'],['Devoid'],mh3,common
+Flare of Duplication,R,R,45526,5.95,5306,9.13,2987,,,469,,639,,1108,,1879,,-5.8pp,{1}{R}{R},3,Instant,"You may sacrifice a nontoken red creature rather than pay this spell's mana cost.
+Copy target instant or sorcery spell. You may choose new targets for the copy.",,,['R'],['R'],[],mh3,rare
+Frogmyr Enforcer,R,U,110865,7.05,12147,10.3,19847,,,3068,,3981,,7049,,12792,,-4.6pp,{7},7,Artifact Creature — Frog Myr,"Prototype {3}{R} — 2/2 (You may cast this spell with different mana cost, color, and size. It keeps its abilities and types.)
+Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)",4,4,[],['R'],"['Affinity', 'Prototype']",mh3,uncommon
+Furnace Hellkite,R,U,96958,6.0,12097,8.52,33796,,,5159,,6939,,12098,,21723,,-0.7pp,{5}{R}{R},7,Artifact Creature — Dragon,"Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+Flying
+{R}: Furnace Hellkite gets +1/+0 until end of turn.",5,5,['R'],['R'],"['Flying', 'Affinity']",mh3,uncommon
+Galvanic Discharge,R,C,136104,3.02,54442,3.39,315940,,,54719,,66575,,121294,,194234,,3.1pp,{R},1,Instant,"Choose target creature or planeswalker. You get {E}{E}{E} (three energy counters), then you may pay any amount of {E}. Galvanic Discharge deals that much damage to that permanent.",,,['R'],['R'],[],mh3,common
+Ghostfire Slice,R,U,52839,2.94,16846,3.51,94255,,,16130,,19714,,35844,,58368,,1.1pp,{2}{R},3,Instant,"Devoid (This card has no color.)
+This spell costs {2} less to cast if an opponent controls a multicolored permanent.
+Ghostfire Slice deals 4 damage to any target.",,,[],['R'],['Devoid'],mh3,uncommon
+Glimpse the Impossible,R,C,257227,5.76,48347,7.69,205530,,,34988,,43305,,78293,,127212,,1.3pp,{2}{R},3,Sorcery,"Exile the top three cards of your library. You may play those cards this turn. At the beginning of the next end step, if any of those cards remain exiled, put them into your graveyard, then create a 0/1 colorless Eldrazi Spawn creature token for each card put into your graveyard this way. Those tokens have ""Sacrifice this creature: Add {C}.""",,,['R'],['R'],[],mh3,common
+Infernal Captor,R,C,300939,7.73,40349,10.92,73193,,,11251,,14812,,26063,,46882,,-1.8pp,{3}{R},4,Creature — Devil Rogue,"Exploit (When this creature enters the battlefield, you may sacrifice a creature.)
+When Infernal Captor exploits a creature, gain control of target artifact or creature until end of turn. Untap that permanent. It gains haste until end of turn.",3,3,['R'],['R'],['Exploit'],mh3,common
+Inventor's Axe,R,C,295184,7.57,38898,10.7,79167,,,12658,,15450,,28108,,50896,,-0.8pp,{R},1,Artifact — Equipment,"Flash
+When Inventor's Axe enters the battlefield, you get {E}{E} (two energy counters).
+When Inventor's Axe enters the battlefield, attach it to target creature you control.
+Equipped creature gets +2/+0.
+Equip—Pay {E}{E}.",,,['R'],['R'],"['Equip', 'Flash']",mh3,common
+Mogg Mob,R,U,116618,7.74,14284,11.11,12828,,,2111,,2560,,4671,,8140,,-0.5pp,{R}{R}{R},3,Creature — Goblin,"Sacrifice Mogg Mob: It deals 3 damage divided as you choose among one, two, or three targets.",3,3,['R'],['R'],[],mh3,uncommon
+Molten Gatekeeper,R,C,245580,5.42,41067,7.49,195167,,,33290,,38592,,71882,,122688,,-1.8pp,{2}{R},3,Artifact Creature — Golem,"Whenever another creature enters the battlefield under your control, Molten Gatekeeper deals 1 damage to each opponent.
+Unearth {R} ({R}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)",2,3,['R'],['R'],['Unearth'],mh3,common
+Party Thrasher,R,R,22910,3.11,7684,3.43,40601,,,7425,,8522,,15947,,24630,,3.2pp,{1}{R},2,Creature — Lizard Wizard,"Noncreature spells you cast from exile have convoke. (Each creature you tap while casting a noncreature spell from exile pays for {1} or one mana of that creature's color.)
+At the beginning of your precombat main phase, you may discard a card. If you do, exile the top two cards of your library, then choose one of them. You may play that card this turn.",1,4,['R'],['R'],[],mh3,rare
+Phyrexian Ironworks,R,U,81122,4.78,15100,6.14,63951,,,10721,,13647,,24368,,39485,,-1.8pp,{2}{R},3,Artifact,"Whenever you attack, you get {E} (an energy counter).
+{T}, Pay {E}{E}{E}: Create a 3/3 colorless Phyrexian Golem artifact creature token. Activate only as a sorcery.",,,['R'],['R'],[],mh3,uncommon
+Powerbalance,R,R,46196,6.35,5008,9.92,1101,,,164,,233,,397,,699,,,{R}{R},2,Enchantment,"Whenever an opponent casts a spell, you may reveal the top card of your library. If you do, you may cast that card without paying its mana cost if the two spells have the same mana value.",,,['R'],['R'],[],mh3,rare
+Ral and the Implicit Maze,R,U,76928,4.37,20183,5.23,96391,,,15418,,20806,,36224,,59548,,2.4pp,{3}{R}{R},5,Enchantment — Saga,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Ral and the Implicit Maze deals 2 damage to each creature and planeswalker your opponents control.
+II — You may discard a card. If you do, exile the top two cards of your library. You may play them until the end of your next turn.
+III — Create a Spellgorger Weird token. (It's a {2}{R} 2/2 Weird creature with ""Whenever you cast a noncreature spell, put a +1/+1 counter on Spellgorger Weird."")",,,['R'],['R'],[],mh3,uncommon
+Reckless Pyrosurfer,R,U,81661,4.53,19997,5.51,102665,,,18411,,19740,,38151,,64294,,-1.2pp,{1}{R},2,Creature — Human Scout,"Haste
+Landfall — Whenever a land enters the battlefield under your control, Reckless Pyrosurfer gains battle cry until end of turn. (Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn. Each instance of battle cry triggers separately.)",2,2,['R'],['R'],"['Haste', 'Landfall']",mh3,uncommon
+Reiterating Bolt,R,U,60889,3.41,16905,4.07,89239,,,15356,,19155,,34511,,54761,,-0.5pp,{1}{R},2,Sorcery,"Replicate—Pay {E}{E}{E}. (When you cast this spell, copy it for each time you paid its replicate cost. You may choose new targets for the copies.)
+Reiterating Bolt deals 3 damage to target creature or planeswalker.",,,['R'],['R'],['Replicate'],mh3,uncommon
+Sarpadian Simulacrum,R,C,288898,7.19,35932,10.35,90977,,,15704,,17703,,33407,,57349,,-0.6pp,{R},1,Artifact Creature — Goblin,"Haste
+{3}{R}, Sacrifice Sarpadian Simulacrum: It deals 4 damage to target creature.",1,1,['R'],['R'],['Haste'],mh3,common
+Siege Smash,R,C,300019,7.63,39844,10.82,84496,,,13117,,16661,,29778,,54714,,-1.8pp,{1}{R},2,Instant,"Split second (As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)
+Choose one —
+• Destroy target artifact.
+• Target creature gets +3/+2 and gains trample until end of turn.",,,['R'],['R'],['Split second'],mh3,common
+Skittering Precursor,R,U,81522,4.41,15601,5.91,74740,,,12851,,15527,,28378,,45967,,-0.8pp,{2}{R},3,Creature — Eldrazi Drone,"Devoid (This card has no color.)
+Menace
+Whenever you sacrifice a nontoken permanent, create a 0/1 colorless Eldrazi Spawn creature token with ""Sacrifice this creature: Add {C}.""",3,3,[],['R'],"['Devoid', 'Menace']",mh3,uncommon
+"Skoa, Embermage",R,C,276262,6.33,42301,8.94,145593,,,22001,,30465,,52466,,92255,,-0.9pp,{4}{R}{R},6,Legendary Creature — Goblin Wizard,"When Skoa, Embermage enters the battlefield, it deals 4 damage to any target.
+Grandeur — Discard another card named Skoa, Embermage, Sacrifice two Mountains: Skoa deals 4 damage to any target.",4,4,['R'],['R'],['Grandeur'],mh3,common
+Smelted Chargebug,R,C,248316,5.52,48679,7.18,240506,,,42717,,47158,,89875,,150219,,-0.3pp,{1}{R},2,Artifact Creature — Insect,"Menace
+When Smelted Chargebug enters the battlefield, you get {E}{E} (two energy counters).
+Whenever Smelted Chargebug attacks, you may pay {E}. If you do, another target attacking creature gets +1/+0 and gains menace until end of turn.",1,3,['R'],['R'],['Menace'],mh3,common
+Spawn-Gang Commander,R,U,48234,2.8,18862,3.09,100088,,,16258,,21661,,37919,,61006,,4.1pp,{3}{R}{R},5,Creature — Eldrazi Goblin,"Devoid (This card has no color.)
+When you cast this spell, create three 0/1 colorless Eldrazi Spawn creature tokens with ""Sacrifice this creature: Add {C}.""
+{1}{C}, Sacrifice an Eldrazi: Spawn-Gang Commander deals 2 damage to any target.",2,2,[],['R'],['Devoid'],mh3,uncommon
+Thriving Skyclaw,R,C,277394,6.65,35430,9.62,107678,,,17064,,22425,,39489,,68157,,-1.6pp,{2}{R}{R},4,Creature — Cat Dragon,"Flying
+When Thriving Skyclaw enters the battlefield, you get {E}{E}{E} (three energy counters).
+Whenever Thriving Skyclaw attacks, you may pay {E}{E}{E}. If you do, put a +1/+1 counter on it.",3,2,['R'],['R'],['Flying'],mh3,common
+Unstable Amulet,R,U,82559,4.82,18509,5.83,84931,,,15113,,18237,,33350,,51363,,0.9pp,{1}{R},2,Artifact,"When Unstable Amulet enters the battlefield, you get {E}{E} (two energy counters).
+Whenever you cast a spell from anywhere other than your hand, Unstable Amulet deals 1 damage to each opponent.
+{T}, Pay {E}{E}: Exile the top card of your library. You may play it until you exile another card with Unstable Amulet.",,,['R'],['R'],[],mh3,uncommon
+Voidpouncer,R,C,262922,5.79,38619,8.28,154825,,,26828,,31456,,58284,,95612,,-2.0pp,{1}{R},2,Creature — Eldrazi,"Devoid (This card has no color.)
+Kicker {2}{C} (You may pay an additional {2}{C} as you cast this spell.)
+If Voidpouncer was kicked, it enters the battlefield with two +1/+1 counters and a trample counter on it and with haste.",3,1,[],['R'],"['Devoid', 'Kicker']",mh3,common
+Wheel of Potential,R,R,46545,6.26,5468,9.51,2636,,,383,,601,,984,,1655,,-2.0pp,{2}{R},3,Sorcery,"You get {E}{E}{E} (three energy counters), then you may pay X {E}.
+Each player may exile their hand and draw X cards. If X is 7 or more, you may play cards you own exiled this way until the end of your next turn.",,,['R'],['R'],[],mh3,rare
+Basking Broodscale,G,C,176909,3.62,41529,4.67,233796,,,41780,,51068,,92848,,138611,,1.8pp,{1}{G},2,Creature — Eldrazi Lizard,"Devoid (This card has no color.)
+{1}{G}: Adapt 1. (If this creature has no +1/+1 counters on it, put a +1/+1 counter on it.)
+Whenever one or more +1/+1 counters are put on Basking Broodscale, you may create a 0/1 colorless Eldrazi Spawn creature token with ""Sacrifice this creature: Add {C}.""",2,2,[],['G'],"['Devoid', 'Adapt']",mh3,common
+Birthing Ritual,G,M,15678,4.36,1849,6.45,2351,,,409,,537,,946,,1375,,1.4pp,{1}{G},2,Enchantment,"At the beginning of your end step, if you control a creature, look at the top seven cards of your library. Then you may sacrifice a creature. If you do, you may put a creature card with mana value X or less from among those cards onto the battlefield, where X is 1 plus the sacrificed creature's mana value. Put the rest on the bottom of your library in a random order.",,,['G'],['G'],[],mh3,mythic
+Collective Resistance,G,U,97304,5.41,15738,7.4,69686,,,11240,,15730,,26970,,42653,,2.5pp,{1}{G},2,Instant,"Escalate {G} (Pay this cost for each mode chosen beyond the first.)
+Choose one or more —
+• Destroy target artifact.
+• Destroy target enchantment.
+• Target creature gains hexproof and indestructible until end of turn.",,,['G'],['G'],['Escalate'],mh3,uncommon
+Colossal Dreadmask,G,C,264429,5.83,37445,8.29,158142,,,24227,,35941,,60168,,96528,,-0.7pp,{4}{G}{G},6,Artifact — Equipment,"Living weapon (When this Equipment enters the battlefield, create a 0/0 black Phyrexian Germ creature token, then attach this to it.)
+Equipped creature gets +6/+6 and has trample.
+Equip {3}{G}{G}",,,['G'],['G'],"['Equip', 'Living weapon']",mh3,common
+"Eladamri, Korvecdal",G,M,5775,1.7,2918,1.66,15036,,,2578,,3399,,5977,,8870,,-0.2pp,{1}{G}{G},3,Legendary Creature — Elf Warrior,"You may look at the top card of your library any time.
+You may cast creature spells from the top of your library.
+{G}, {T}, Tap two untapped creatures you control: Reveal a card from your hand or the top card of your library. If you reveal a creature card this way, put it onto the battlefield. Activate only during your turn.",3,3,['G'],['G'],[],mh3,mythic
+Eldrazi Repurposer,G,C,158393,3.3,45572,3.99,258779,,,46269,,57474,,103743,,150902,,4.1pp,{2}{G},3,Creature — Eldrazi Drone,"Devoid (This card has no color.)
+When you cast this spell and when Eldrazi Repurposer dies, create a 0/1 colorless Eldrazi Spawn creature token with ""Sacrifice this creature: Add {C}.""",3,3,[],['G'],['Devoid'],mh3,common
+Evolution Witness,G,C,216174,4.45,38859,6.11,204225,,,34874,,44781,,79655,,121642,,-0.7pp,{2}{G},3,Creature — Elf Shaman Mutant,"{1}{G}: Adapt 2. (If this creature has no +1/+1 counters on it, put two +1/+1 counters on it.)
+Whenever one or more +1/+1 counters are put on Evolution Witness, return target permanent card from your graveyard to your hand.",2,1,['G'],['G'],['Adapt'],mh3,common
+Fanatic of Rhonas,G,R,12745,1.87,6783,1.86,36919,,,6598,,8217,,14815,,21793,,6.4pp,{1}{G},2,Creature — Snake Druid,"{T}: Add {G}.
+Ferocious — {T}: Add {G}{G}{G}{G}. Activate only if you control a creature with power 4 or greater.
+Eternalize {2}{G}{G} ({2}{G}{G}, Exile this card from your graveyard: Create a token that's a copy of it, except it's a 4/4 black Zombie Snake Druid with no mana cost. Eternalize only as a sorcery.)",1,4,['G'],['G'],"['Ferocious', 'Eternalize']",mh3,rare
+Fangs of Kalonia,G,U,90583,5.13,12210,7.26,47531,,,7138,,10170,,17308,,30206,,-1.2pp,{1}{G},2,Sorcery,"Put a +1/+1 counter on target creature you control, then double the number of +1/+1 counters on each creature that had a +1/+1 counter put on it this way.
+Overload {4}{G}{G} (You may cast this spell for its overload cost. If you do, change ""target"" in its text to ""each."")",,,['G'],['G'],['Overload'],mh3,uncommon
+Flare of Cultivation,G,R,34187,4.5,4007,6.69,10119,,,1697,,2299,,3996,,6127,,-0.7pp,{1}{G}{G},3,Sorcery,"You may sacrifice a nontoken green creature rather than pay this spell's mana cost.
+Search your library for up to two basic land cards, reveal those cards, put one onto the battlefield tapped and the other into your hand, then shuffle.",,,['G'],['G'],[],mh3,rare
+Fowl Strike,G,C,295877,7.15,34465,10.52,72870,,,11196,,16066,,27262,,45606,,-0.8pp,{1}{G},2,Instant,"Destroy target creature with flying.
+Reinforce 2—{2}{G} ({2}{G}, Discard this card: Put two +1/+1 counters on target creature.)",,,['G'],['G'],['Reinforce'],mh3,common
+Gift of the Viper,G,C,280127,6.41,33383,9.47,113782,,,17757,,24730,,42487,,71174,,1.6pp,{G},1,Instant,"Put a +1/+1 counter, a reach counter, and a deathtouch counter on target creature. Untap it.",,,['G'],['G'],[],mh3,common
+Horrific Assault,G,C,170129,3.52,47418,4.34,265731,,,43928,,60196,,104124,,161051,,3.4pp,{G},1,Sorcery,"Target creature you control deals damage equal to its power to target creature or planeswalker you don't control. If you control an Eldrazi, you gain 3 life.",,,['G'],['G'],[],mh3,common
+The Hunger Tide Rises,G,U,107720,6.46,12043,9.59,26350,,,4464,,5804,,10268,,15855,,-2.9pp,{2}{G},3,Enchantment — Saga,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)
+I, II, III — Create a 1/1 black and green Insect creature token.
+IV — Sacrifice any number of creatures. Search your library and/or graveyard for a creature card with mana value less than or equal to the number of creatures sacrificed this way and put it onto the battlefield. If you search your library this way, shuffle.",,,['G'],['G'],[],mh3,uncommon
+Hydra Trainer,G,U,91184,5.19,12337,7.27,47932,,,8451,,9886,,18337,,29382,,-3.1pp,{1}{G},2,Creature — Human Warrior,"You may exert Hydra Trainer as it attacks. When you do, target creature gets +X/+X until end of turn, where X is the number of counters on permanents you control. (An exerted creature won't untap during your next untap step.)
+{2}{G}: Adapt 2. (If this creature has no +1/+1 counters on it, put two +1/+1 counters on it.)",1,1,['G'],['G'],"['Adapt', 'Exert']",mh3,uncommon
+Lion Umbra,G,U,105238,6.29,12149,9.33,29639,,,4524,,6023,,10547,,18881,,-1.7pp,{G}{G},2,Enchantment — Aura,"Enchant modified creature (Equipment, Auras its controller controls, and counters are modifications.)
+Enchanted creature gets +3/+3 and has vigilance and reach.
+Umbra armor (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)",,,['G'],['G'],"['Umbra armor', 'Enchant']",mh3,uncommon
+Malevolent Rumble,G,C,222265,4.78,50955,5.92,265744,,,48006,,59593,,107599,,158077,,4.3pp,{1}{G},2,Sorcery,"Reveal the top four cards of your library. You may put a permanent card from among them into your hand. Put the rest into your graveyard. Create a 0/1 colorless Eldrazi Spawn creature token with ""Sacrifice this creature: Add {C}.""",,,['G'],['G'],[],mh3,common
+Monstrous Vortex,G,U,113830,7.47,11693,11.21,5898,,,916,,1408,,2324,,3531,,-3.0pp,{3}{G},4,Enchantment,"Whenever you cast a creature spell with power 5 or greater, discover X, where X is that spell's mana value. (Exile cards from the top of your library until you exile a nonland card with that mana value or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)",,,['G'],['G'],['Discover'],mh3,uncommon
+Nightshade Dryad,G,C,153603,3.23,43491,3.89,245108,,,44657,,54695,,99352,,142960,,3.6pp,{1}{G},2,Creature — Dryad,"Deathtouch
+{T}: Add {C}.
+{T}: Add one mana of any color.",1,2,['G'],['G'],['Deathtouch'],mh3,common
+Nyxborn Hydra,G,C,219068,4.54,37111,6.3,193698,,,31880,,42877,,74757,,116256,,1.3pp,{X}{G},1,Enchantment Creature — Hydra,"Bestow {X}{G}{G} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)
+Reach, trample
+Nyxborn Hydra enters the battlefield with X +1/+1 counters on it.
+Enchanted creature gets +1/+1 for each +1/+1 counter on Nyxborn Hydra and has reach and trample.",0,1,['G'],['G'],"['Reach', 'Trample', 'Bestow']",mh3,common
+Path of Annihilation,G,U,48962,2.91,18208,3.08,95134,,,16555,,22439,,38994,,54206,,7.0pp,{3}{G},4,Enchantment,"Devoid (This card has no color.)
+When Path of Annihilation enters the battlefield, create two 0/1 colorless Eldrazi Spawn creature tokens with ""Sacrifice this creature: Add {C}.""
+Eldrazi you control have ""{T}: Add one mana of any color.""
+Whenever you cast a creature spell with mana value 7 or greater, you gain 4 life.",,,[],['G'],['Devoid'],mh3,uncommon
+Primal Prayers,G,R,44235,5.93,4875,9.15,1400,,,224,,325,,549,,837,,-6.1pp,{2}{G}{G},4,Enchantment,"When Primal Prayers enters the battlefield, you get {E}{E} (two energy counters).
+You may cast creature spells with mana value 3 or less by paying {E} rather than paying their mana costs. If you cast a spell this way, you may cast it as though it had flash.",,,['G'],['G'],[],mh3,rare
+Propagator Drone,G,U,46463,2.65,15216,3.04,83804,,,14951,,18749,,33700,,48824,,1.6pp,{1}{G},2,Creature — Eldrazi Drone,"Devoid (This card has no color.)
+Creature tokens you control have evolve. (They have ""Whenever a creature enters the battlefield under your control, if it has greater power or toughness than this token, put a +1/+1 counter on this token."" They see this creature enter.)
+{3}{G}: Create a 0/1 colorless Eldrazi Spawn creature token with ""Sacrifice this creature: Add {C}.""",2,2,[],['G'],['Devoid'],mh3,uncommon
+Signature Slam,G,U,56069,3.08,18771,3.57,104326,,,17176,,23502,,40678,,63519,,4.5pp,{2}{G},3,Instant,"Put a +1/+1 counter on target creature you control, then each modified creature you control deals damage equal to its power to target creature you don't control. (Equipment, Auras you control, and counters are modifications.)",,,['G'],['G'],[],mh3,uncommon
+Six,G,R,12421,1.78,7296,1.79,40225,,,7341,,9181,,16522,,23103,,4.8pp,{2}{G},3,Legendary Creature — Treefolk,"Reach
+Whenever Six attacks, mill three cards. You may put a land card from among them into your hand.
+As long as it's your turn, nonland permanent cards in your graveyard have retrace. (You may cast permanent cards from your graveyard by discarding a land card in addition to paying their other costs.)",2,4,['G'],['G'],"['Reach', 'Mill']",mh3,rare
+Sowing Mycospawn,G,R,15091,2.14,6458,2.22,34757,,,5913,,7929,,13842,,20257,,5.6pp,{3}{G},4,Creature — Eldrazi Fungus,"Devoid (This card has no color.)
+Kicker {1}{C} (You may pay an additional {1}{C} as you cast this spell.)
+When you cast this spell, search your library for a land card, put it onto the battlefield, then shuffle.
+When you cast this spell, if it was kicked, exile target land.",3,3,[],['G'],"['Devoid', 'Kicker']",mh3,rare
+Springheart Nantuko,G,R,10680,1.58,7092,1.57,39489,,,7145,,8696,,15841,,22717,,5.5pp,{1}{G},2,Enchantment Creature — Insect Monk,"Bestow {1}{G}
+Enchanted creature gets +1/+1.
+Landfall — Whenever a land enters the battlefield under your control, you may pay {1}{G} if Springheart Nantuko is attached to a creature you control. If you do, create a token that's a copy of that creature. If you didn't create a token this way, create a 1/1 green Insect creature token.",1,1,['G'],['G'],"['Bestow', 'Landfall']",mh3,rare
+Temperamental Oozewagg,G,C,251844,5.4,36511,7.74,169514,,,27969,,37007,,64976,,103256,,-0.6pp,{3}{G},4,Creature — Ooze Brushwagg,"{2}{G}: Adapt 2. (If this creature has no +1/+1 counters on it, put two +1/+1 counters on it.)
+Modified creatures you control have trample. (Equipment, Auras you control, and counters are modifications.)",4,4,['G'],['G'],['Adapt'],mh3,common
+Territory Culler,G,U,46595,2.65,15585,3.04,87310,,,14537,,20567,,35104,,51027,,2.4pp,{4}{G},5,Creature — Eldrazi,"Devoid (This card has no color.)
+Reach
+Landfall — Whenever a land enters the battlefield under your control, look at the top card of your library. If it's a creature card, you may reveal it and put it into your hand. If you don't put the card into your hand, you may put it into your graveyard.",7,5,[],['G'],"['Reach', 'Devoid', 'Landfall']",mh3,uncommon
+Thief of Existence,G,R,17673,2.58,5008,2.82,24062,,,3999,,5507,,9506,,14288,,-0.9pp,{1}{C}{G},3,Creature — Eldrazi,"Devoid (This card has no color.)
+When you cast this spell, exile up to one target noncreature, nonland permanent an opponent controls with mana value 4 or less. If you do, Thief of Existence gains ""When this creature leaves the battlefield, target opponent draws a card.""",3,4,[],['G'],['Devoid'],mh3,rare
+Trickster's Elk,G,U,97039,5.39,13193,7.71,52229,,,8872,,11147,,20019,,31723,,-3.2pp,{2}{G},3,Enchantment Creature — Elk,"Bestow {1}{G} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)
+Enchanted creature loses all abilities and is a green Elk creature with base power and toughness 3/3.",3,3,['G'],['G'],['Bestow'],mh3,uncommon
+Wumpus Aberration,G,U,53520,3.02,15614,3.58,84948,,,14325,,19753,,34078,,49588,,2.1pp,{3}{G},4,Creature — Eldrazi Beast,"Devoid (This card has no color.)
+When you cast this spell, if {C} wasn't spent to cast it, target opponent may put a creature card from their hand onto the battlefield.
+Trample",6,6,[],['G'],"['Devoid', 'Trample']",mh3,uncommon
+Abstruse Appropriation,WB,R,20666,2.94,6391,3.16,28680,,,4720,,6896,,11616,,17020,,6.0pp,{2}{W}{B},4,Instant,"Devoid (This card has no color.)
+Exile target nonland permanent. You may cast that card for as long as it remains exiled, and you may spend colorless mana as though it were mana of any color to cast that spell.",,,[],"['B', 'W']",['Devoid'],mh3,rare
+"Arna Kennerüd, Skycaptain",WUB,M,10372,3.19,2950,3.35,11629,,,1855,,3032,,4887,,6762,,5.4pp,{2}{W}{U}{B},5,Legendary Creature — Human Knight,"Flying, lifelink
+Ward—Discard a card.
+Whenever a modified creature you control attacks, double the number of each kind of counter on it. Then for each nontoken permanent attached to it, create a token that's a copy of that permanent attached to that creature.",4,4,"['B', 'U', 'W']","['B', 'U', 'W']","['Flying', 'Lifelink', 'Ward']",mh3,mythic
+Conduit Goblin,WR,C,230114,5.52,53381,6.5,249324,,,43243,,46068,,89311,,159971,,0.4pp,{R}{W},2,Creature — Goblin Warrior,"When Conduit Goblin enters the battlefield, you get {E}{E} (two energy counters).
+At the beginning of combat on your turn, you may pay {E}. If you do, another target creature you control gets +1/+0 and gains haste until end of turn.",2,2,"['R', 'W']","['R', 'W']",[],mh3,common
+Cranial Ram,BR,C,252760,6.42,39038,8.3,127319,,,22295,,25952,,48247,,78778,,2.9pp,{B}{R},2,Artifact — Equipment,"Living weapon (When this Equipment enters the battlefield, create a 0/0 black Phyrexian Germ creature token, then attach this to it.)
+Equipped creature gets +X/+1, where X is the number of artifacts you control.
+Equip {2}",,,"['B', 'R']","['B', 'R']","['Equip', 'Living weapon']",mh3,common
+Cursed Wombat,BG,U,72764,4.36,14322,5.33,61219,,,10669,,13447,,24116,,36606,,3.2pp,{B}{G},2,Creature — Nightmare Wombat,"{2}{B}{G}: Adapt 2. (If this creature has no +1/+1 counters on it, put two +1/+1 counters on it.)
+Permanents you control have ""Whenever one or more +1/+1 counters are put on this permanent, put an additional +1/+1 counter on it. This ability triggers only once each turn.""",2,3,"['B', 'G']","['B', 'G']",['Adapt'],mh3,uncommon
+Cyclops Superconductor,UR,C,276217,6.96,40361,9.47,112370,,,18765,,28371,,47136,,65302,,1.8pp,{1}{U}{R},3,Creature — Cyclops Wizard,"Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+When Cyclops Superconductor enters the battlefield, you get {E}{E}{E} (three energy counters).
+When Cyclops Superconductor dies, you may pay {E}{E}{E}. When you do, Cyclops Superconductor deals damage equal to its power to any target.",2,2,"['R', 'U']","['R', 'U']",['Prowess'],mh3,common
+Emissary of Soulfire,WU,U,94301,5.82,16374,7.53,56525,,,9446,,13452,,22898,,33731,,-0.3pp,{1}{W}{U},3,Creature — Djinn Monk,"When Emissary of Soulfire enters the battlefield, you get {E}{E}{E} (three energy counters).
+Pay {E}{E}: Put an exalted counter on target creature you control. Activate only as a sorcery. (Whenever a creature you control attacks alone, it gets +1/+1 until end of turn for each instance of exalted among permanents you control.)",1,4,"['U', 'W']","['U', 'W']",[],mh3,uncommon
+Expanding Ooze,BG,C,256861,6.09,33156,8.6,110709,,,18948,,24257,,43205,,66784,,-0.5pp,{1}{B}{G},3,Creature — Ooze,"{B}{G}: Adapt 1. (If this creature has no +1/+1 counters on it, put a +1/+1 counter on it.)
+Whenever Expanding Ooze attacks, put a +1/+1 counter on target modified creature you control. (Equipment, Auras you control, and counters are modifications.)",3,3,"['B', 'G']","['B', 'G']",['Adapt'],mh3,common
+Faithful Watchdog,WG,C,256811,6.27,38139,8.38,134035,,,23643,,25808,,49451,,83982,,0.2pp,{G}{W},2,Creature — Dog,"Vigilance
+Faithful Watchdog enters the battlefield with three +1/+1 counters on it.",0,0,"['G', 'W']","['G', 'W']",['Vigilance'],mh3,common
+"Genku, Future Shaper",WU,R,16596,2.51,7727,2.49,39636,,,6607,,10042,,16649,,23098,,5.2pp,{2}{W}{U},4,Legendary Creature — Moonfolk Wizard,"Whenever another nontoken permanent you control leaves the battlefield, choose one that hasn't been chosen this turn. Create a creature token with those characteristics.
+• 2/2 white Fox with vigilance.
+• 1/2 blue Moonfolk with flying.
+• 1/1 black Rat with lifelink.
+{3}{W}{U}: Put a +1/+1 counter on each creature you control.",2,5,"['U', 'W']","['U', 'W']",[],mh3,rare
+Golden-Tail Trainer,WG,U,101590,6.47,13476,8.99,33913,,,5668,,6584,,12252,,21595,,-6.6pp,{1}{G}{W},3,Creature — Fox Samurai,"Aura and Equipment spells you cast cost {X} less to cast, where X is Golden-Tail Trainer's power.
+Whenever Golden-Tail Trainer attacks, other modified creatures you control get +X/+X until end of turn, where X is Golden-Tail Trainer's power. (Equipment, Auras you control, and counters are modifications.)",1,3,"['G', 'W']","['G', 'W']",[],mh3,uncommon
+Horrid Shadowspinner,UB,U,100043,6.29,15750,8.17,49583,,,8450,,15302,,23752,,26065,,5.6pp,{1}{U}{B},3,Creature — Horror,"Lifelink
+Whenever Horrid Shadowspinner attacks, you may draw cards equal to its power. If you do, discard that many cards.",2,3,"['B', 'U']","['B', 'U']",['Lifelink'],mh3,uncommon
+Imskir Iron-Eater,BR,R,31620,4.54,5240,5.78,15074,,,2417,,3149,,5566,,9520,,-5.6pp,{6}{B}{R},8,Legendary Creature — Demon,"Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+When Imskir Iron-Eater enters the battlefield, you draw X cards and you lose X life, where X is half the number of artifacts you control, rounded down.
+{3}{R}, Sacrifice an artifact: Imskir deals damage equal to the sacrificed artifact's mana value to any target.",5,5,"['B', 'R']","['B', 'R']",['Affinity'],mh3,rare
+Invert Polarity,UR,R,31325,4.28,7413,5.02,27834,,,4590,,7349,,11939,,15934,,5.2pp,{U}{U}{R},3,Instant,"Choose target spell, then flip a coin. If you win the flip, gain control of that spell and you may choose new targets for it. If you lose the flip, counter that spell.",,,"['R', 'U']","['R', 'U']",[],mh3,rare
+Izzet Generatorium,UR,U,102075,6.63,15011,8.92,32833,,,5537,,8114,,13651,,19175,,-3.2pp,{U}{R},2,Artifact,"If you would get one or more {E} (energy counters), you get that many plus one {E} instead.
+{T}: Draw a card. Activate only if you've paid or lost four or more {E} this turn.",,,"['R', 'U']","['R', 'U']",[],mh3,uncommon
+"Kudo, King Among Bears",WG,R,39788,5.36,5757,7.61,12991,,,2331,,2448,,4779,,8127,,-1.9pp,{G}{W},2,Legendary Creature — Bear,Other creatures have base power and toughness 2/2 and are Bears in addition to their other types.,2,2,"['G', 'W']","['G', 'W']",[],mh3,rare
+"Nadu, Winged Wisdom",UG,R,12198,1.85,7314,1.79,38551,,,6834,,9468,,16302,,21632,,7.9pp,{1}{G}{U},3,Legendary Creature — Bird Wizard,"Flying
+Creatures you control have ""Whenever this creature becomes the target of a spell or ability, reveal the top card of your library. If it's a land card, put it onto the battlefield. Otherwise, put it into your hand. This ability triggers only twice each turn.""",3,4,"['G', 'U']","['G', 'U']",['Flying'],mh3,rare
+The Necrobloom,WBG,R,35983,4.94,4870,7.05,8674,,,1400,,2025,,3425,,5198,,-0.5pp,{1}{W}{B}{G},4,Legendary Creature — Plant,"Landfall — Whenever a land enters the battlefield under your control, create a 0/1 green Plant creature token. If you control seven or more lands with different names, create a 2/2 black Zombie creature token instead.
+Land cards in your graveyard have dredge 2. (You may return a land card from your graveyard to your hand and mill two cards instead of drawing a card.)",2,7,"['B', 'G', 'W']","['B', 'G', 'W']","['Mill', 'Landfall']",mh3,rare
+Obstinate Gargoyle,WB,C,293911,7.68,35803,10.83,67190,,,11328,,14659,,25987,,40939,,-0.7pp,{1}{W}{B},3,Artifact Creature — Gargoyle,"Obstinate Gargoyle has flying as long as it's modified. (Equipment, Auras you control, and counters are modifications.)
+Persist (When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)",2,2,"['B', 'W']","['B', 'W']",['Persist'],mh3,common
+"Phlage, Titan of Fire's Fury",WR,M,5905,1.78,3653,1.7,19477,,,3492,,3968,,7460,,11969,,8.9pp,{1}{R}{W},3,Legendary Creature — Elder Giant,"When Phlage enters the battlefield, sacrifice it unless it escaped.
+Whenever Phlage enters the battlefield or attacks, it deals 3 damage to any target and you gain 3 life.
+Escape—{R}{R}{W}{W}, Exile five other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)",6,6,"['R', 'W']","['R', 'W']",['Escape'],mh3,mythic
+Planar Genesis,UG,U,97514,5.71,13360,8.1,47605,,,8277,,11969,,20246,,27353,,0.1pp,{G}{U},2,Instant,"Look at the top four cards of your library. You may put a land card from among them onto the battlefield tapped. If you don't, put a card from among them into your hand. Put the rest on the bottom of your library in a random order.",,,"['G', 'U']","['G', 'U']",[],mh3,uncommon
+Psychic Frog,UB,R,19226,2.93,7510,2.85,34890,,,6036,,10514,,16550,,18372,,11.3pp,{U}{B},2,Creature — Frog,"Whenever Psychic Frog deals combat damage to a player or planeswalker, draw a card.
+Discard a card: Put a +1/+1 counter on Psychic Frog.
+Exile three cards from your graveyard: Psychic Frog gains flying until end of turn.",1,2,"['B', 'U']","['B', 'U']",[],mh3,rare
+Pyretic Rebirth,BR,U,96036,5.69,15548,7.7,51465,,,8237,,11404,,19641,,31787,,0.1pp,{2}{B}{R},4,Instant,Return target artifact or creature card from your graveyard to your hand. Pyretic Rebirth deals damage equal to that card's mana value to up to one target creature or planeswalker.,,,"['B', 'R']","['B', 'R']",[],mh3,uncommon
+Riddle Gate Gargoyle,WU,C,258818,6.33,43841,8.18,156138,,,26576,,36986,,63562,,92019,,3.4pp,{W}{U},2,Artifact Creature — Gargoyle,"Flying
+When Riddle Gate Gargoyle enters the battlefield, you get {E}{E}{E} (three energy counters).
+Whenever you attack, you may pay {E}{E}. When you do, target creature you control gains lifelink until end of turn.",2,2,"['U', 'W']","['U', 'W']",['Flying'],mh3,common
+"Rosheen, Roaring Prophet",RG,R,46633,6.25,5743,9.43,3172,,,534,,644,,1178,,1961,,-0.2pp,{2}{R}{G},4,Legendary Creature — Giant Shaman,"When Rosheen, Roaring Prophet enters the battlefield, mill six cards. You may put a card with {X} in its mana cost from among them into your hand.
+{T}: Reveal any number of cards with {X} in their mana cost in your hand. Add {C}{C} for each card revealed this way. Spend this mana only on costs that contain {X}.",4,4,"['G', 'R']","['G', 'R']",['Mill'],mh3,rare
+Scurry of Gremlins,WR,U,65186,3.98,22220,4.27,115489,,,19190,,22707,,41897,,72958,,3.6pp,{2}{R}{W},4,Enchantment,"When Scurry of Gremlins enters the battlefield, create two 1/1 red Gremlin creature tokens. Then you get an amount of {E} (energy counters) equal to the number of creatures you control.
+Pay {E}{E}{E}{E}: Creatures you control get +1/+0 and gain haste until end of turn.",,,"['R', 'W']","['R', 'W']",[],mh3,uncommon
+Snapping Voidcraw,UG,C,199634,4.51,33858,5.92,157028,,,27696,,38770,,66466,,88582,,0.3pp,{1}{G}{U},3,Creature — Eldrazi Turtle,"Devoid (This card has no color.)
+{T}: Add {C}{C}.
+{3}{C}, {T}: Draw a card.",1,3,[],"['G', 'U']",['Devoid'],mh3,common
+Sneaky Snacker,UB,C,265412,6.86,47915,8.36,162960,,,28257,,51602,,79859,,83109,,6.7pp,{U}{B},2,Creature — Faerie Rogue,"Flying
+When you draw your third card in a turn, return Sneaky Snacker from your graveyard to the battlefield tapped.",2,1,"['B', 'U']","['B', 'U']",['Flying'],mh3,common
+Titans' Vanguard,RG,U,45976,2.77,17536,3.01,92780,,,15505,,21136,,36641,,54167,,4.4pp,{3}{R}{G},5,Creature — Eldrazi,"Devoid (This card has no color.)
+When you cast this spell and whenever Titans' Vanguard attacks, put a +1/+1 counter on each colorless creature you control.
+Trample",5,5,[],"['G', 'R']","['Devoid', 'Trample']",mh3,uncommon
+Wight of the Reliquary,BG,R,25022,3.49,5473,4.16,21876,,,3868,,5036,,8904,,12743,,4.2pp,{B}{G},2,Creature — Zombie Knight,"Vigilance
+Wight of the Reliquary gets +1/+1 for each creature card in your graveyard.
+{T}, Sacrifice another creature: Search your library for a land card, put it onto the battlefield tapped, then shuffle.",2,2,"['B', 'G']","['B', 'G']",['Vigilance'],mh3,rare
+Writhing Chrysalis,RG,C,106004,2.61,51888,2.68,290013,,,50464,,65225,,115689,,167297,,9.0pp,{2}{R}{G},4,Creature — Eldrazi Drone,"Devoid (This card has no color.)
+When you cast this spell, create two 0/1 colorless Eldrazi Spawn creature tokens with ""Sacrifice this creature: Add {C}.""
+Reach
+Whenever you sacrifice another Eldrazi, put a +1/+1 counter on Writhing Chrysalis.",2,3,[],"['G', 'R']","['Reach', 'Devoid']",mh3,common
+Disruptor Flute,,R,50251,6.77,5742,10.29,138,,,21,,26,,47,,91,,,{2},2,Artifact,"Flash
+As Disruptor Flute enters the battlefield, choose a card name.
+Spells with the chosen name cost {3} more to cast.
+Activated abilities of sources with the chosen name can't be activated unless they're mana abilities.",,,[],[],['Flash'],mh3,rare
+Idol of False Gods,,U,88894,5.01,10052,7.41,36148,,,6355,,8358,,14713,,21175,,-1.9pp,{2},2,Kindred Artifact — Eldrazi,"{1}{C}, {T}: Create a 0/1 colorless Eldrazi Spawn creature token with ""Sacrifice this creature: Add {C}.""
+Whenever another Eldrazi you control dies, put a +1/+1 counter on Idol of False Gods.
+As long as Idol of False Gods has eight or more +1/+1 counters on it, it's a 0/0 creature in addition to its other types and it has annihilator 2.",,,[],[],[],mh3,uncommon
+Solar Transformer,,U,74227,3.93,17848,4.93,89345,,,16714,,20644,,37358,,51631,,2.1pp,{2},2,Artifact,"Solar Transformer enters the battlefield tapped.
+When Solar Transformer enters the battlefield, you get {E}{E}{E} (three energy counters).
+{T}: Add {C}.
+{T}, Pay {E}: Add one mana of any color.",,,[],[],[],mh3,uncommon
+Vexing Bauble,,U,120067,7.93,12183,11.79,5224,,,947,,1110,,2057,,3165,,-2.1pp,{1},1,Artifact,"Whenever a player casts a spell, if no mana was spent to cast it, counter that spell.
+{1}, {T}, Sacrifice Vexing Bauble: Draw a card.",,,[],[],[],mh3,uncommon
+Winter Moon,,R,49294,6.72,5582,10.31,114,,,17,,26,,43,,70,,,{2},2,Artifact,Players can't untap more than one nonbasic land during their untap steps.,,,[],[],[],mh3,rare
+Archway of Innovation,U,R,47822,6.29,5561,9.63,3628,,,608,,931,,1539,,2094,,-2.8pp,,0,Land,"Archway of Innovation enters the battlefield tapped unless you control an Island.
+{T}: Add {U}.
+{U}, {T}: The next spell you cast this turn has improvise. (Your artifacts can help cast that spell. Each artifact you tap after you're done activating mana abilities pays for {1}.)",,,[],['U'],[],mh3,rare
+Arena of Glory,R,R,39928,4.96,6364,6.94,27402,,,4659,,5557,,10216,,17093,,-0.5pp,,0,Land,"Arena of Glory enters the battlefield tapped unless you control a Mountain.
+{T}: Add {R}.
+{R}, {T}, Exert Arena of Glory: Add {R}{R}. If that mana is spent on a creature spell, it gains haste until end of turn. (An exerted permanent won't untap during your next untap step.)",,,[],['R'],['Exert'],mh3,rare
+Bloodstained Mire,,R,35922,4.39,5078,6.4,17017,,,3062,,3690,,6752,,10234,,1.4pp,,0,Land,"{T}, Pay 1 life, Sacrifice Bloodstained Mire: Search your library for a Swamp or Mountain card, put it onto the battlefield, then shuffle.",,,[],[],[],mh3,rare
+Bountiful Landscape,URG,C,250768,5.07,45776,7.11,244465,,,44627,,55485,,100112,,142855,,1.3pp,,0,Land,"{T}: Add {C}.
+{T}, Sacrifice Bountiful Landscape: Search your library for a basic Forest, Island, or Mountain card, put it onto the battlefield tapped, then shuffle.
+Cycling {G}{U}{R} ({G}{U}{R}, Discard this card: Draw a card.)",,,[],"['G', 'R', 'U']",['Cycling'],mh3,common
+Contaminated Landscape,WUB,C,283350,6.28,42065,8.97,178117,,,31993,,43978,,75971,,102020,,2.1pp,,0,Land,"{T}: Add {C}.
+{T}, Sacrifice Contaminated Landscape: Search your library for a basic Plains, Island, or Swamp card, put it onto the battlefield tapped, then shuffle.
+Cycling {W}{U}{B} ({W}{U}{B}, Discard this card: Draw a card.)",,,[],"['B', 'U', 'W']",['Cycling'],mh3,common
+Deceptive Landscape,WBG,C,278695,6.04,39095,8.76,167793,,,30212,,36057,,66269,,100973,,0.7pp,,0,Land,"{T}: Add {C}.
+{T}, Sacrifice Deceptive Landscape: Search your library for a basic Plains, Swamp, or Forest card, put it onto the battlefield tapped, then shuffle.
+Cycling {W}{B}{G} ({W}{B}{G}, Discard this card: Draw a card.)",,,[],"['B', 'G', 'W']",['Cycling'],mh3,common
+Flooded Strand,,R,35334,4.35,5387,6.09,19903,,,3521,,4538,,8059,,11840,,0.1pp,,0,Land,"{T}, Pay 1 life, Sacrifice Flooded Strand: Search your library for a Plains or Island card, put it onto the battlefield, then shuffle.",,,[],[],[],mh3,rare
+Foreboding Landscape,UBG,C,269343,5.62,41196,8.09,206080,,,37650,,49553,,87203,,118003,,1.8pp,,0,Land,"{T}: Add {C}.
+{T}, Sacrifice Foreboding Landscape: Search your library for a basic Swamp, Forest, or Island card, put it onto the battlefield tapped, then shuffle.
+Cycling {B}{G}{U} ({B}{G}{U}, Discard this card: Draw a card.)",,,[],"['B', 'G', 'U']",['Cycling'],mh3,common
+Monumental Henge,W,R,44365,5.69,5931,8.47,15417,,,2681,,3176,,5857,,9529,,-2.4pp,,0,Land,"Monumental Henge enters the battlefield tapped unless you control a Plains.
+{T}: Add {W}.
+{2}{W}{W}, {T}: Look at the top five cards of your library. You may reveal a historic card from among them and put it into your hand. Put the rest on the bottom of your library in a random order. (Artifacts, legendaries, and Sagas are historic.)",,,[],['W'],[],mh3,rare
+Perilous Landscape,WUR,C,270823,5.72,47241,8.04,237875,,,43212,,52492,,95704,,141735,,0.1pp,,0,Land,"{T}: Add {C}.
+{T}, Sacrifice Perilous Landscape: Search your library for a basic Island, Mountain, or Plains card, put it onto the battlefield tapped, then shuffle.
+Cycling {U}{R}{W} ({U}{R}{W}, Discard this card: Draw a card.)",,,[],"['R', 'U', 'W']",['Cycling'],mh3,common
+Polluted Delta,,R,36305,4.43,5211,6.4,16961,,,3076,,4565,,7641,,9320,,1.6pp,,0,Land,"{T}, Pay 1 life, Sacrifice Polluted Delta: Search your library for an Island or Swamp card, put it onto the battlefield, then shuffle.",,,[],[],[],mh3,rare
+Seething Landscape,UBR,C,275335,5.88,44007,8.43,214004,,,37993,,51643,,89636,,123857,,1.8pp,,0,Land,"{T}: Add {C}.
+{T}, Sacrifice Seething Landscape: Search your library for a basic Island, Swamp, or Mountain card, put it onto the battlefield tapped, then shuffle.
+Cycling {U}{B}{R} ({U}{B}{R}, Discard this card: Draw a card.)",,,[],"['B', 'R', 'U']",['Cycling'],mh3,common
+Shattered Landscape,WBR,C,282750,6.19,43310,8.87,192523,,,34299,,40644,,74943,,117331,,-0.0pp,,0,Land,"{T}: Add {C}.
+{T}, Sacrifice Shattered Landscape: Search your library for a basic Mountain, Plains, or Swamp card, put it onto the battlefield tapped, then shuffle.
+Cycling {R}{W}{B} ({R}{W}{B}, Discard this card: Draw a card.)",,,[],"['B', 'R', 'W']",['Cycling'],mh3,common
+Sheltering Landscape,WRG,C,268508,5.54,45784,7.89,240660,,,43681,,49924,,93605,,146004,,-0.0pp,,0,Land,"{T}: Add {C}.
+{T}, Sacrifice Sheltering Landscape: Search your library for a basic Mountain, Forest, or Plains card, put it onto the battlefield tapped, then shuffle.
+Cycling {R}{G}{W} ({R}{G}{W}, Discard this card: Draw a card.)",,,[],"['G', 'R', 'W']",['Cycling'],mh3,common
+Shifting Woodland,G,R,33875,4.2,5486,5.75,24556,,,4372,,5331,,9703,,14602,,1.6pp,,0,Land,"Shifting Woodland enters the battlefield tapped unless you control a Forest.
+{T}: Add {G}.
+Delirium — {2}{G}{G}: Shifting Woodland becomes a copy of target permanent card in your graveyard until end of turn. Activate only if there are four or more card types among cards in your graveyard.",,,[],['G'],['Delirium'],mh3,rare
+Snow-Covered Wastes,,U,121115,8.36,12403,12.26,8746,,,1418,,2050,,3468,,5219,,-1.8pp,,0,Basic Snow Land,{T}: Add {C}.,,,[],[],[],mh3,uncommon
+Spymaster's Vault,B,R,35353,4.44,6678,5.82,30212,,,5348,,7384,,12732,,17340,,3.7pp,,0,Land,"Spymaster's Vault enters the battlefield tapped unless you control a Swamp.
+{T}: Add {B}.
+{B}, {T}: Target creature you control connives X, where X is the number of creatures that died this turn. (Draw X cards, then discard X cards. Put a +1/+1 counter on that creature for each nonland card discarded this way.)",,,[],['B'],['Connive'],mh3,rare
+Tranquil Landscape,WUG,C,270884,5.65,41885,8.19,206470,,,37155,,46912,,84067,,121687,,1.0pp,,0,Land,"{T}: Add {C}.
+{T}, Sacrifice Tranquil Landscape: Search your library for a basic Forest, Plains, or Island card, put it onto the battlefield tapped, then shuffle.
+Cycling {G}{W}{U} ({G}{W}{U}, Discard this card: Draw a card.)",,,[],"['G', 'U', 'W']",['Cycling'],mh3,common
+Twisted Landscape,BRG,C,265710,5.48,43154,7.84,219589,,,39330,,48122,,87452,,130943,,0.4pp,,0,Land,"{T}: Add {C}.
+{T}, Sacrifice Twisted Landscape: Search your library for a basic Swamp, Mountain, or Forest card, put it onto the battlefield tapped, then shuffle.
+Cycling {B}{R}{G} ({B}{R}{G}, Discard this card: Draw a card.)",,,[],"['B', 'G', 'R']",['Cycling'],mh3,common
+Ugin's Labyrinth,,M,11347,3.14,2352,3.68,8056,,,1352,,1953,,3305,,4693,,3.5pp,,0,Land,"Imprint — When Ugin's Labyrinth enters the battlefield, you may exile a colorless card with mana value 7 or greater from your hand.
+{T}: Add {C}. If a card is exiled with Ugin's Labyrinth, add {C}{C} instead.
+{T}: Return the exiled card to its owner's hand.",,,[],[],['Imprint'],mh3,mythic
+Urza's Cave,,U,117814,7.59,11389,11.49,12571,,,2093,,2878,,4971,,7567,,-1.4pp,,0,Land — Urza's Cave,"{T}: Add {C}.
+{3}, {T}, Sacrifice Urza's Cave: Search your library for a land card, put it onto the battlefield tapped, then shuffle.",,,[],[],[],mh3,uncommon
+Windswept Heath,,R,36522,4.5,5165,6.64,16813,,,2998,,3447,,6445,,10337,,-0.3pp,,0,Land,"{T}, Pay 1 life, Sacrifice Windswept Heath: Search your library for a Forest or Plains card, put it onto the battlefield, then shuffle.",,,[],[],[],mh3,rare
+Wooded Foothills,,R,34579,4.09,5581,5.77,24027,,,4289,,5228,,9517,,14394,,0.8pp,,0,Land,"{T}, Pay 1 life, Sacrifice Wooded Foothills: Search your library for a Mountain or Forest card, put it onto the battlefield, then shuffle.",,,[],[],[],mh3,rare
+Angel of the Ruins,W,U,108942,6.07,13606,8.84,36351,,,5976,,7876,,13852,,22231,,-0.0pp,{5}{W}{W},7,Artifact Creature — Angel,"Flying
+When Angel of the Ruins enters the battlefield, exile up to two target artifacts and/or enchantments.
+Plainscycling {2} ({2}, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)",5,7,['W'],['W'],"['Flying', 'Plainscycling', 'Landcycling', 'Typecycling', 'Cycling']",mh3,uncommon
+Decree of Justice,W,U,111375,6.41,13113,9.45,25169,,,3976,,5616,,9592,,15611,,-0.7pp,{X}{X}{2}{W}{W},4,Sorcery,"Create X 4/4 white Angel creature tokens with flying.
+Cycling {2}{W} ({2}{W}, Discard this card: Draw a card.)
+When you cycle Decree of Justice, you may pay {X}. If you do, create X 1/1 white Soldier creature tokens.",,,['W'],['W'],['Cycling'],mh3,uncommon
+Distinguished Conjurer,W,U,103828,5.83,12640,8.46,35205,,,6208,,7420,,13628,,21525,,-3.3pp,{1}{W},2,Creature — Human Wizard,"Whenever another creature enters the battlefield under your control, you gain 1 life.
+{4}{W}, {T}: Exile another target creature you control, then return it to the battlefield under its owner's control.",1,2,['W'],['W'],[],mh3,uncommon
+Orim's Chant,W,R,37098,6.36,3753,10.05,1101,,,171,,235,,406,,695,,,{W},1,Instant,"Kicker {W} (You may pay an additional {W} as you cast this spell.)
+Target player can't cast spells this turn. If this spell was kicked, creatures can't attack this turn.",,,['W'],['W'],['Kicker'],mh3,rare
+Recruiter of the Guard,W,M,10581,3.43,2031,4.38,8389,,,1438,,1676,,3114,,5250,,1.8pp,{2}{W},3,Creature — Human Soldier,"When Recruiter of the Guard enters the battlefield, you may search your library for a creature card with toughness 2 or less, reveal it, put it into your hand, then shuffle.",1,1,['W'],['W'],[],mh3,mythic
+Sevinne's Reclamation,W,R,21512,3.52,4959,4.29,24142,,,3866,,5091,,8957,,15200,,0.5pp,{2}{W},3,Sorcery,"Return target permanent card with mana value 3 or less from your graveyard to the battlefield. If this spell was cast from a graveyard, you may copy this spell and may choose a new target for the copy.
+Flashback {4}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",,,['W'],['W'],['Flashback'],mh3,rare
+Deep Analysis,U,U,98303,5.17,16498,6.91,70739,,,11736,,19768,,31504,,39384,,4.2pp,{3}{U},4,Sorcery,"Target player draws two cards.
+Flashback—{1}{U}, Pay 3 life. (You may cast this card from your graveyard for its flashback cost. Then exile it.)",,,['U'],['U'],['Flashback'],mh3,uncommon
+Estrid's Invocation,U,R,39217,6.59,4612,9.97,1891,,,322,,447,,769,,1103,,4.5pp,{2}{U},3,Enchantment,"You may have Estrid's Invocation enter the battlefield as a copy of an enchantment you control, except it has ""At the beginning of your upkeep, you may exile this enchantment. If you do, return it to the battlefield under its owner's control.""",,,['U'],['U'],[],mh3,rare
+Kappa Cannoneer,U,R,19456,3.41,4664,3.81,18116,,,2972,,4576,,7548,,10575,,4.1pp,{5}{U},6,Artifact Creature — Turtle Warrior,"Improvise (Your artifacts can help cast this spell. Each artifact you tap after you're done activating mana abilities pays for {1}.)
+Ward {4}
+Whenever Kappa Cannoneer or another artifact enters the battlefield under your control, put a +1/+1 counter on Kappa Cannoneer and it can't be blocked this turn.",4,4,['U'],['U'],"['Improvise', 'Ward']",mh3,rare
+Reef Worm,U,U,101016,5.57,12086,8.1,35656,,,6038,,10125,,16163,,19456,,3.6pp,{3}{U},4,Creature — Worm,"When Reef Worm dies, create a 3/3 blue Fish creature token with ""When this creature dies, create a 6/6 blue Whale creature token with 'When this creature dies, create a 9/9 blue Kraken creature token.'""",0,1,['U'],['U'],[],mh3,uncommon
+Shrieking Drake,U,U,126868,7.79,15013,11.26,11813,,,1934,,2985,,4919,,6886,,-2.1pp,{U},1,Creature — Drake,"Flying
+When Shrieking Drake enters the battlefield, return a creature you control to its owner's hand.",1,1,['U'],['U'],['Flying'],mh3,uncommon
+Buried Alive,B,U,129108,8.33,14703,11.99,3433,,,557,,894,,1451,,1981,,1.6pp,{2}{B},3,Sorcery,"Search your library for up to three creature cards, put them into your graveyard, then shuffle.",,,['B'],['B'],[],mh3,uncommon
+"K'rrik, Son of Yawgmoth",B,R,30286,5.15,3161,8.11,4048,,,688,,956,,1644,,2401,,-6.1pp,{4}{B/P}{B/P}{B/P},7,Legendary Creature — Phyrexian Horror Minion,"({B/P} can be paid with either {B} or 2 life.)
+Lifelink
+For each {B} in a cost, you may pay 2 life rather than pay that mana.
+Whenever you cast a black spell, put a +1/+1 counter on K'rrik, Son of Yawgmoth.",2,2,['B'],['B'],['Lifelink'],mh3,rare
+Nadier's Nightblade,B,U,119739,7.17,13653,10.47,18216,,,2986,,4197,,7183,,10948,,-3.7pp,{2}{B},3,Creature — Elf Warrior,"Whenever a token you control leaves the battlefield, each opponent loses 1 life and you gain 1 life.",1,3,['B'],['B'],[],mh3,uncommon
+Ophiomancer,B,R,12188,2.11,5898,2.21,32217,,,5736,,7974,,13710,,18337,,7.9pp,{2}{B},3,Creature — Human Shaman,"At the beginning of each upkeep, if you control no Snakes, create a 1/1 black Snake creature token with deathtouch.",2,2,['B'],['B'],[],mh3,rare
+Toxic Deluge,B,R,13091,2.27,5856,2.31,31424,,,5486,,7989,,13475,,17933,,6.2pp,{2}{B},3,Sorcery,"As an additional cost to cast this spell, pay X life.
+All creatures get -X/-X until end of turn.",,,['B'],['B'],[],mh3,rare
+Victimize,B,U,99365,5.49,13555,7.67,45079,,,6995,,11474,,18469,,26580,,-0.1pp,{2}{B},3,Sorcery,"Choose two target creature cards in your graveyard. Sacrifice a creature. If you do, return the chosen cards to the battlefield tapped.",,,['B'],['B'],[],mh3,uncommon
+Cursed Mirror,R,R,31394,5.19,3516,7.96,6956,,,1214,,1438,,2652,,4276,,-2.5pp,{2}{R},3,Artifact,"{T}: Add {R}.
+As Cursed Mirror enters the battlefield, you may have it become a copy of any creature on the battlefield until end of turn, except it has haste.",,,['R'],['R'],[],mh3,rare
+Fledgling Dragon,R,U,122130,7.31,12772,10.98,13959,,,2205,,2978,,5183,,8713,,-5.6pp,{2}{R}{R},4,Creature — Dragon,"Flying
+Threshold — As long as seven or more cards are in your graveyard, Fledgling Dragon gets +3/+3 and has ""{R}: Fledgling Dragon gets +1/+0 until end of turn.""",2,2,['R'],['R'],"['Flying', 'Threshold']",mh3,uncommon
+"Laelia, the Blade Reforged",R,R,9954,1.78,6557,1.78,38974,,,7000,,8360,,15360,,23499,,4.8pp,{2}{R},3,Legendary Creature — Spirit Warrior,"Haste
+Whenever Laelia, the Blade Reforged attacks, exile the top card of your library. You may play that card this turn.
+Whenever one or more cards are put into exile from your library and/or your graveyard, put a +1/+1 counter on Laelia.",2,2,['R'],['R'],['Haste'],mh3,rare
+Meltdown,R,U,131880,8.69,14707,12.44,431,,,54,,83,,137,,294,,,{X}{R},1,Sorcery,Destroy each artifact with mana value X or less.,,,['R'],['R'],[],mh3,uncommon
+Meteoric Mace,R,U,126234,7.68,13873,11.34,10804,,,1628,,2209,,3837,,6917,,-4.4pp,{4}{R}{R},6,Artifact — Equipment,"Equipped creature gets +4/+0 and has trample.
+Equip {4}
+Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)",,,['R'],['R'],"['Equip', 'Cascade']",mh3,uncommon
+Annoyed Altisaur,G,U,72775,3.75,17554,4.62,91917,,,14206,,21278,,35484,,54725,,2.1pp,{5}{G}{G},7,Creature — Dinosaur,"Reach, trample
+Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)",6,5,['G'],['G'],"['Reach', 'Trample', 'Cascade']",mh3,uncommon
+Branching Evolution,G,R,26546,4.59,3136,6.55,8434,,,1451,,1741,,3192,,5183,,-7.3pp,{2}{G},3,Enchantment,"If one or more +1/+1 counters would be put on a creature you control, twice that many +1/+1 counters are put on that creature instead.",,,['G'],['G'],[],mh3,rare
+Priest of Titania,G,U,109307,5.9,14846,8.41,55694,,,9884,,12266,,22150,,33157,,-0.5pp,{1}{G},2,Creature — Elf Druid,{T}: Add {G} for each Elf on the battlefield.,1,1,['G'],['G'],[],mh3,uncommon
+Sylvan Safekeeper,G,R,30268,4.81,4368,6.75,15627,,,2634,,3327,,5961,,9508,,1.3pp,{G},1,Creature — Human Wizard,Sacrifice a land: Target creature you control gains shroud until end of turn. (It can't be the target of spells or abilities.),1,1,['G'],['G'],[],mh3,rare
+Wirewood Symbiote,G,U,131437,8.62,14926,12.36,1331,,,235,,283,,518,,809,,1.5pp,{G},1,Creature — Insect,Return an Elf you control to its owner's hand: Untap target creature. Activate only once each turn.,1,1,['G'],['G'],[],mh3,uncommon
+"Breya, Etherium Shaper",WUBR,M,14090,4.64,2141,6.33,3703,,,642,,910,,1552,,2141,,8.8pp,{W}{U}{B}{R},4,Legendary Artifact Creature — Human,"When Breya, Etherium Shaper enters the battlefield, create two 1/1 blue Thopter artifact creature tokens with flying.
+{2}, Sacrifice two artifacts: Choose one —
+• Breya deals 3 damage to target player or planeswalker.
+• Target creature gets -4/-4 until end of turn.
+• You gain 5 life.",4,4,"['B', 'R', 'U', 'W']","['B', 'R', 'U', 'W']",[],mh3,mythic
+Kaalia of the Vast,WBR,M,16475,5.6,1865,8.73,410,,,72,,76,,148,,262,,,{1}{R}{W}{B},4,Legendary Creature — Human Cleric,"Flying
+Whenever Kaalia of the Vast attacks an opponent, you may put an Angel, Demon, or Dragon creature card from your hand onto the battlefield tapped and attacking that opponent.",2,2,"['B', 'R', 'W']","['B', 'R', 'W']",['Flying'],mh3,mythic
+Emerald Medallion,,R,37780,6.36,3794,10.15,727,,,132,,145,,277,,447,,,{2},2,Artifact,Green spells you cast cost {1} less to cast.,,,[],[],[],mh3,rare
+Jet Medallion,,R,36815,6.24,3719,9.94,1296,,,224,,286,,510,,784,,-0.7pp,{2},2,Artifact,Black spells you cast cost {1} less to cast.,,,[],[],[],mh3,rare
+Junk Diver,,U,126573,7.58,13060,11.22,14172,,,2335,,2941,,5276,,8885,,-3.5pp,{3},3,Artifact Creature — Bird,"Flying
+When Junk Diver dies, return another target artifact card from your graveyard to your hand.",1,1,[],[],['Flying'],mh3,uncommon
+Pearl Medallion,,R,38502,6.57,4030,10.35,614,,,109,,127,,236,,369,,,{2},2,Artifact,White spells you cast cost {1} less to cast.,,,[],[],[],mh3,rare
+Ruby Medallion,,R,37443,6.32,3875,10.02,1009,,,146,,220,,366,,641,,,{2},2,Artifact,Red spells you cast cost {1} less to cast.,,,[],[],[],mh3,rare
+Sapphire Medallion,,R,37781,6.45,3845,10.2,537,,,100,,117,,217,,321,,,{2},2,Artifact,Blue spells you cast cost {1} less to cast.,,,[],[],[],mh3,rare
+Urza's Incubator,,R,32834,5.55,3046,8.89,2883,,,464,,679,,1143,,1724,,-5.7pp,{3},3,Artifact,"As Urza's Incubator enters the battlefield, choose a creature type.
+Creature spells of the chosen type cost {2} less to cast.",,,[],[],[],mh3,rare
+Worn Powerstone,,U,97482,5.08,11968,7.3,44193,,,7907,,10376,,18283,,25624,,0.4pp,{3},3,Artifact,"Worn Powerstone enters the battlefield tapped.
+{T}: Add {C}{C}.",,,[],[],[],mh3,uncommon
+Barbarian Ring,R,U,130126,8.07,15544,11.58,21590,,,3586,,4362,,7948,,13614,,-2.8pp,,0,Land,"{T}: Add {R}. Barbarian Ring deals 1 damage to you.
+Threshold — {R}, {T}, Sacrifice Barbarian Ring: It deals 2 damage to any target. Activate only if seven or more cards are in your graveyard.",,,[],['R'],['Threshold'],mh3,uncommon
+Cephalid Coliseum,U,U,129993,8.17,15039,11.79,14587,,,2401,,4083,,6484,,8152,,0.9pp,,0,Land,"{T}: Add {U}. Cephalid Coliseum deals 1 damage to you.
+Threshold — {U}, {T}, Sacrifice Cephalid Coliseum: Target player draws three cards, then discards three cards. Activate only if seven or more cards are in your graveyard.",,,[],['U'],['Threshold'],mh3,uncommon
+Deserted Temple,,R,39726,6.48,4034,10.14,3071,,,513,,703,,1216,,1855,,-1.6pp,,0,Land,"{T}: Add {C}.
+{1}, {T}: Untap target land.",,,[],[],[],mh3,rare
+Nesting Grounds,,U,122570,6.76,15234,9.88,42366,,,6796,,9329,,16125,,26018,,-1.2pp,,0,Land,"{T}: Add {C}.
+{1}, {T}: Move a counter from target permanent you control onto another target permanent. Activate only as a sorcery.",,,[],[],[],mh3,uncommon
+Phyrexian Tower,B,M,13393,4.29,1648,6.12,4405,,,741,,1017,,1758,,2633,,2.8pp,,0,Legendary Land,"{T}: Add {C}.
+{T}, Sacrifice a creature: Add {B}{B}.",,,[],['B'],[],mh3,mythic
