@@ -1,0 +1,621 @@
+﻿name,mana_cost,cmc,type_line,oracle_text,power,toughness,colors,color_identity,keywords,set,rarity
+Abrade,{1}{R},2.0,Instant,"Choose one —
+• Abrade deals 3 damage to target creature.
+• Destroy target artifact.",n/a,n/a,['R'],['R'],[],fdn,uncommon
+Abyssal Harvester,{1}{B}{B},3.0,Creature — Demon Warlock,"{T}: Exile target creature card from a graveyard that was put there this turn. Create a token that's a copy of it, except it's a Nightmare in addition to its other types. Then exile all other Nightmare tokens you control.",3,2,['B'],['B'],[],fdn,rare
+Adamant Will,{1}{W},2.0,Instant,"Target creature gets +2/+2 and gains indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy it.)",n/a,n/a,['W'],['W'],[],fdn,common
+Adaptive Automaton,{3},3.0,Artifact Creature — Construct,"As Adaptive Automaton enters, choose a creature type.
+Adaptive Automaton is the chosen type in addition to its other types.
+Other creatures you control of the chosen type get +1/+1.",2,2,[],[],[],fdn,rare
+Adventuring Gear,{1},1.0,Artifact — Equipment,"Landfall — Whenever a land you control enters, equipped creature gets +2/+2 until end of turn.
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",n/a,n/a,[],[],"['Equip', 'Landfall']",fdn,uncommon
+Aegis Turtle,{U},1.0,Creature — Turtle,,0,5,['U'],['U'],[],fdn,common
+Aetherize,{3}{U},4.0,Instant,Return all attacking creatures to their owner's hand.,n/a,n/a,['U'],['U'],[],fdn,uncommon
+Affectionate Indrik,{5}{G},6.0,Creature — Beast,"When Affectionate Indrik enters, you may have it fight target creature you don't control. (Each deals damage equal to its power to the other.)",4,4,['G'],['G'],['Fight'],fdn,uncommon
+Aggressive Mammoth,{3}{G}{G}{G},6.0,Creature — Elephant,"Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+Other creatures you control have trample.",8,8,['G'],['G'],['Trample'],fdn,rare
+"Ajani, Caller of the Pride",{1}{W}{W},3.0,Legendary Planeswalker — Ajani,"+1: Put a +1/+1 counter on up to one target creature.
+−3: Target creature gains flying and double strike until end of turn.
+−8: Create X 2/2 white Cat creature tokens, where X is your life total.",n/a,n/a,['W'],['W'],[],fdn,mythic
+Ajani's Pridemate,{1}{W},2.0,Creature — Cat Soldier,"Whenever you gain life, put a +1/+1 counter on Ajani's Pridemate.",2,2,['W'],['W'],[],fdn,uncommon
+"Alesha, Who Laughs at Fate",{1}{B}{R},3.0,Legendary Creature — Human Warrior,"First strike
+Whenever Alesha attacks, put a +1/+1 counter on it.
+Raid — At the beginning of your end step, if you attacked this turn, return target creature card with mana value less than or equal to Alesha's power from your graveyard to the battlefield.",2,2,"['B', 'R']","['B', 'R']","['First strike', 'Raid']",fdn,rare
+Ambush Wolf,{2}{G},3.0,Creature — Wolf,"Flash (You may cast this spell any time you could cast an instant.)
+When this creature enters, exile up to one target card from a graveyard.",4,2,['G'],['G'],['Flash'],fdn,common
+Ancestor Dragon,{4}{W}{W},6.0,Creature — Dragon,"Flying
+Whenever one or more creatures you control attack, you gain 1 life for each attacking creature.",5,6,['W'],['W'],['Flying'],fdn,rare
+Angelic Destiny,{2}{W}{W},4.0,Enchantment — Aura,"Enchant creature
+Enchanted creature gets +4/+4, has flying and first strike, and is an Angel in addition to its other types.
+When enchanted creature dies, return Angelic Destiny to its owner's hand.",n/a,n/a,['W'],['W'],['Enchant'],fdn,mythic
+Angelic Edict,{4}{W},5.0,Sorcery,Exile target creature or enchantment.,n/a,n/a,['W'],['W'],[],fdn,common
+Angel of Finality,{3}{W},4.0,Creature — Angel,"Flying
+When Angel of Finality enters, exile target player's graveyard.",3,4,['W'],['W'],['Flying'],fdn,uncommon
+Angel of Vitality,{2}{W},3.0,Creature — Angel,"Flying
+If you would gain life, you gain that much life plus 1 instead.
+Angel of Vitality gets +2/+2 as long as you have 25 or more life.",2,2,['W'],['W'],['Flying'],fdn,uncommon
+An Offer You Can't Refuse,{U},1.0,Instant,"Counter target noncreature spell. Its controller creates two Treasure tokens. (They're artifacts with ""{T}, Sacrifice this artifact: Add one mana of any color."")",n/a,n/a,['U'],['U'],['Treasure'],fdn,uncommon
+Anthem of Champions,{G}{W},2.0,Enchantment,Creatures you control get +1/+1.,n/a,n/a,"['G', 'W']","['G', 'W']",[],fdn,rare
+Apothecary Stomper,{4}{G}{G},6.0,Creature — Elephant,"Vigilance (Attacking doesn't cause this creature to tap.)
+When this creature enters, choose one —
+• Put two +1/+1 counters on target creature you control.
+• You gain 4 life.",4,4,['G'],['G'],['Vigilance'],fdn,common
+"Arahbo, the First Fang",{2}{W},3.0,Legendary Creature — Cat Avatar,"Other Cats you control get +1/+1.
+Whenever Arahbo or another nontoken Cat you control enters, create a 1/1 white Cat creature token.",2,2,['W'],['W'],[],fdn,rare
+Arbiter of Woe,{4}{B}{B},6.0,Creature — Demon,"As an additional cost to cast this spell, sacrifice a creature.
+Flying
+When this creature enters, each opponent discards a card and loses 2 life. You draw a card and gain 2 life.",5,4,['B'],['B'],['Flying'],fdn,uncommon
+Arcane Epiphany,{3}{U}{U},5.0,Instant,"This spell costs {1} less to cast if you control a Wizard.
+Draw three cards.",n/a,n/a,['U'],['U'],[],fdn,uncommon
+Arcanis the Omnipotent,{3}{U}{U}{U},6.0,Legendary Creature — Wizard,"{T}: Draw three cards.
+{2}{U}{U}: Return Arcanis the Omnipotent to its owner's hand.",3,4,['U'],['U'],[],fdn,rare
+Archmage of Runes,{3}{U}{U},5.0,Creature — Giant Wizard,"Instant and sorcery spells you cast cost {1} less to cast.
+Whenever you cast an instant or sorcery spell, draw a card.",3,6,['U'],['U'],[],fdn,rare
+Archway Angel,{5}{W},6.0,Creature — Angel,"Flying
+When Archway Angel enters, you gain 2 life for each Gate you control.",3,4,['W'],['W'],['Flying'],fdn,uncommon
+Armasaur Guide,{4}{W},5.0,Creature — Dinosaur,"Vigilance (Attacking doesn't cause this creature to tap.)
+Whenever you attack with three or more creatures, put a +1/+1 counter on target creature you control.",4,4,['W'],['W'],['Vigilance'],fdn,common
+Ashroot Animist,{2}{R}{G},4.0,Creature — Lizard Druid,"Trample
+When this creature attacks, another target creature you control gains trample and gets +X/+X until end of turn, where X is this creature's power.",4,4,"['G', 'R']","['G', 'R']",['Trample'],fdn,rare
+"Aurelia, the Warleader",{2}{R}{R}{W}{W},6.0,Legendary Creature — Angel,"Flying, vigilance, haste
+Whenever Aurelia, the Warleader attacks for the first time each turn, untap all creatures you control. After this phase, there is an additional combat phase.",3,4,"['R', 'W']","['R', 'W']","['Flying', 'Vigilance', 'Haste']",fdn,mythic
+Authority of the Consuls,{W},1.0,Enchantment,"Creatures your opponents control enter tapped.
+Whenever a creature an opponent controls enters, you gain 1 life.",n/a,n/a,['W'],['W'],[],fdn,rare
+Axgard Cavalry,{1}{R},2.0,Creature — Dwarf Berserker,{T}: Target creature gains haste until end of turn.,2,2,['R'],['R'],[],fdn,common
+"Ayli, Eternal Pilgrim",{W}{B},2.0,Legendary Creature — Kor Cleric,"Deathtouch
+{1}, Sacrifice another creature: You gain life equal to the sacrificed creature's toughness.
+{1}{W}{B}, Sacrifice another creature: Exile target nonland permanent. Activate only if you have at least 10 life more than your starting life total.",2,3,"['B', 'W']","['B', 'W']",['Deathtouch'],fdn,rare
+Azorius Guildgate,,0.0,Land — Gate,"Azorius Guildgate enters tapped.
+{T}: Add {W} or {U}.",n/a,n/a,[],"['U', 'W']",[],fdn,common
+Bake into a Pie,{2}{B}{B},4.0,Instant,"Destroy target creature. Create a Food token. (It's an artifact with ""{2}, {T}, Sacrifice this artifact: You gain 3 life."")",n/a,n/a,['B'],['B'],['Food'],fdn,common
+Ball Lightning,{R}{R}{R},3.0,Creature — Elemental,"Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+Haste (This creature can attack and {T} as soon as it comes under your control.)
+At the beginning of the end step, sacrifice Ball Lightning.",6,1,['R'],['R'],"['Haste', 'Trample']",fdn,rare
+Ballyrush Banneret,{1}{W},2.0,Creature — Kithkin Soldier,Kithkin spells and Soldier spells you cast cost {1} less to cast.,2,1,['W'],['W'],[],fdn,common
+"Balmor, Battlemage Captain",{U}{R},2.0,Legendary Creature — Bird Wizard,"Flying
+Whenever you cast an instant or sorcery spell, creatures you control get +1/+0 and gain trample until end of turn.",1,3,"['R', 'U']","['R', 'U']",['Flying'],fdn,uncommon
+Banishing Light,{2}{W},3.0,Enchantment,"When Banishing Light enters, exile target nonland permanent an opponent controls until Banishing Light leaves the battlefield.",n/a,n/a,['W'],['W'],[],fdn,common
+Banner of Kinship,{5},5.0,Artifact,"As this artifact enters, choose a creature type. This artifact enters with a fellowship counter on it for each creature you control of the chosen type.
+Creatures you control of the chosen type get +1/+1 for each fellowship counter on this artifact.",n/a,n/a,[],[],[],fdn,rare
+Basilisk Collar,{1},1.0,Artifact — Equipment,"Equipped creature has deathtouch and lifelink.
+Equip {2}",n/a,n/a,[],[],['Equip'],fdn,rare
+Battle-Rattle Shaman,{3}{R},4.0,Creature — Goblin Shaman,"At the beginning of combat on your turn, you may have target creature get +2/+0 until end of turn.",2,2,['R'],['R'],[],fdn,uncommon
+Battlesong Berserker,{3}{R},4.0,Creature — Human Berserker,"Whenever you attack, target creature you control gets +1/+0 and gains menace until end of turn. (It can't be blocked except by two or more creatures.)",3,4,['R'],['R'],[],fdn,uncommon
+Bear Cub,{1}{G},2.0,Creature — Bear,,2,2,['G'],['G'],[],fdn,common
+Beast-Kin Ranger,{2}{G},3.0,Creature — Elf Ranger,"Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+Whenever another creature you control enters, this creature gets +1/+0 until end of turn.",3,3,['G'],['G'],['Trample'],fdn,common
+Bigfin Bouncer,{3}{U},4.0,Creature — Shark Pirate,"When this creature enters, return target creature an opponent controls to its owner's hand.",3,2,['U'],['U'],[],fdn,common
+Billowing Shriekmass,{3}{B},4.0,Creature — Spirit,"Flying
+When this creature enters, mill three cards. (Put the top three cards of your library into your graveyard.)
+Threshold — This creature gets +2/+1 as long as there are seven or more cards in your graveyard.",2,3,['B'],['B'],"['Flying', 'Threshold', 'Mill']",fdn,uncommon
+Biogenic Upgrade,{4}{G}{G},6.0,Sorcery,"Distribute three +1/+1 counters among one, two, or three target creatures, then double the number of +1/+1 counters on each of those creatures.",n/a,n/a,['G'],['G'],[],fdn,uncommon
+Bishop's Soldier,{1}{W},2.0,Creature — Vampire Soldier,Lifelink,2,2,['W'],['W'],['Lifelink'],fdn,common
+Bite Down,{1}{G},2.0,Instant,Target creature you control deals damage equal to its power to target creature or planeswalker you don't control.,n/a,n/a,['G'],['G'],[],fdn,common
+Blanchwood Armor,{2}{G},3.0,Enchantment — Aura,"Enchant creature
+Enchanted creature gets +1/+1 for each Forest you control.",n/a,n/a,['G'],['G'],['Enchant'],fdn,uncommon
+Blasphemous Edict,{3}{B}{B},5.0,Sorcery,"You may pay {B} rather than pay this spell's mana cost if there are thirteen or more creatures on the battlefield.
+Each player sacrifices thirteen creatures of their choice.",n/a,n/a,['B'],['B'],[],fdn,rare
+Bloodfell Caves,,0.0,Land,"Bloodfell Caves enters tapped.
+When Bloodfell Caves enters, you gain 1 life.
+{T}: Add {B} or {R}.",n/a,n/a,[],"['B', 'R']",[],fdn,common
+Bloodthirsty Conqueror,{3}{B}{B},5.0,Creature — Vampire Knight,"Flying, deathtouch
+Whenever an opponent loses life, you gain that much life. (Damage causes loss of life.)",5,5,['B'],['B'],"['Deathtouch', 'Flying']",fdn,mythic
+Bloodtithe Collector,{4}{B},5.0,Creature — Vampire Noble,"Flying
+When Bloodtithe Collector enters, if an opponent lost life this turn, each opponent discards a card.",3,4,['B'],['B'],['Flying'],fdn,uncommon
+Blossoming Sands,,0.0,Land,"Blossoming Sands enters tapped.
+When Blossoming Sands enters, you gain 1 life.
+{T}: Add {G} or {W}.",n/a,n/a,[],"['G', 'W']",[],fdn,common
+Bolt Bend,{3}{R},4.0,Instant,"This spell costs {3} less to cast if you control a creature with power 4 or greater.
+Change the target of target spell or ability with a single target.",n/a,n/a,['R'],['R'],[],fdn,uncommon
+Boltwave,{R},1.0,Sorcery,Boltwave deals 3 damage to each opponent.,n/a,n/a,['R'],['R'],[],fdn,uncommon
+Boros Charm,{R}{W},2.0,Instant,"Choose one —
+• Boros Charm deals 4 damage to target player or planeswalker.
+• Permanents you control gain indestructible until end of turn.
+• Target creature gains double strike until end of turn.",n/a,n/a,"['R', 'W']","['R', 'W']",[],fdn,uncommon
+Boros Guildgate,,0.0,Land — Gate,"Boros Guildgate enters tapped.
+{T}: Add {R} or {W}.",n/a,n/a,[],"['R', 'W']",[],fdn,common
+Brass's Bounty,{6}{R},7.0,Sorcery,"For each land you control, create a Treasure token. (It's an artifact with ""{T}, Sacrifice this artifact: Add one mana of any color."")",n/a,n/a,['R'],['R'],['Treasure'],fdn,rare
+Brazen Scourge,{1}{R}{R},3.0,Creature — Gremlin,Haste,3,3,['R'],['R'],['Haste'],fdn,uncommon
+Brineborn Cutthroat,{1}{U},2.0,Creature — Merfolk Pirate,"Flash (You may cast this spell any time you could cast an instant.)
+Whenever you cast a spell during an opponent's turn, put a +1/+1 counter on Brineborn Cutthroat.",2,1,['U'],['U'],['Flash'],fdn,uncommon
+Broken Wings,{2}{G},3.0,Instant,"Destroy target artifact, enchantment, or creature with flying.",n/a,n/a,['G'],['G'],[],fdn,common
+Bulk Up,{1}{R},2.0,Instant,"Double target creature's power until end of turn.
+Flashback {4}{R}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",n/a,n/a,['R'],['R'],['Flashback'],fdn,uncommon
+Burglar Rat,{1}{B},2.0,Creature — Rat,"When Burglar Rat enters, each opponent discards a card.",1,1,['B'],['B'],[],fdn,common
+Burnished Hart,{3},3.0,Artifact Creature — Elk,"{3}, Sacrifice Burnished Hart: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.",2,2,[],[],[],fdn,uncommon
+Burrog Befuddler,{1}{U},2.0,Creature — Frog Wizard,"Flash
+When Burrog Befuddler enters, target creature an opponent controls gets -1/-0 until end of turn.",2,1,['U'],['U'],['Flash'],fdn,common
+Burst Lightning,{R},1.0,Instant,"Kicker {4} (You may pay an additional {4} as you cast this spell.)
+Burst Lightning deals 2 damage to any target. If this spell was kicked, it deals 4 damage instead.",n/a,n/a,['R'],['R'],['Kicker'],fdn,common
+Bushwhack,{G},1.0,Sorcery,"Choose one —
+• Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+• Target creature you control fights target creature you don't control. (Each deals damage equal to its power to the other.)",n/a,n/a,['G'],['G'],['Fight'],fdn,common
+Cackling Prowler,{3}{G},4.0,Creature — Hyena Rogue,"Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+Morbid — At the beginning of your end step, if a creature died this turn, put a +1/+1 counter on this creature.",4,3,['G'],['G'],"['Ward', 'Morbid']",fdn,common
+Campus Guide,{2},2.0,Artifact Creature — Golem,"When Campus Guide enters, you may search your library for a basic land card, reveal it, then shuffle and put that card on top.",2,1,[],[],[],fdn,common
+Cancel,{1}{U}{U},3.0,Instant,Counter target spell.,n/a,n/a,['U'],['U'],[],fdn,common
+Carnelian Orb of Dragonkind,{2}{R},3.0,Artifact,"{T}: Add {R}. If that mana is spent on a Dragon creature spell, it gains haste until end of turn.",n/a,n/a,['R'],['R'],[],fdn,common
+Cat Collector,{2}{W},3.0,Creature — Human Citizen,"When this creature enters, create a Food token. (It's an artifact with ""{2}, {T}, Sacrifice this token: You gain 3 life."")
+Whenever you gain life for the first time during each of your turns, create a 1/1 white Cat creature token.",3,2,['W'],['W'],['Food'],fdn,uncommon
+Cathar Commando,{1}{W},2.0,Creature — Human Soldier,"Flash
+{1}, Sacrifice Cathar Commando: Destroy target artifact or enchantment.",3,1,['W'],['W'],['Flash'],fdn,common
+Celestial Armor,{2}{W},3.0,Artifact — Equipment,"Flash (You may cast this spell any time you could cast an instant.)
+When this Equipment enters, attach it to target creature you control. That creature gains hexproof and indestructible until end of turn.
+Equipped creature gets +2/+0 and has flying.
+Equip {3}{W} ({3}{W}: Attach to target creature you control. Equip only as a sorcery.)",n/a,n/a,['W'],['W'],"['Equip', 'Flash']",fdn,rare
+Cemetery Recruitment,{1}{B},2.0,Sorcery,"Return target creature card from your graveyard to your hand. If it's a Zombie card, draw a card.",n/a,n/a,['B'],['B'],[],fdn,common
+Cephalid Inkmage,{2}{U},3.0,Creature — Octopus Wizard,"When this creature enters, surveil 3. (Look at the top three cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+Threshold — This creature can't be blocked as long as there are seven or more cards in your graveyard.",2,2,['U'],['U'],"['Surveil', 'Threshold']",fdn,uncommon
+"Chandra, Flameshaper",{5}{R}{R},7.0,Legendary Planeswalker — Chandra,"+2: Add {R}{R}{R}. Exile the top three cards of your library. Choose one. You may play that card this turn.
++1: Create a token that's a copy of target creature you control, except it has haste and ""At the beginning of the end step, sacrifice this token.""
+−4: Chandra deals 8 damage divided as you choose among any number of target creatures and/or planeswalkers.",n/a,n/a,['R'],['R'],[],fdn,mythic
+Charming Prince,{1}{W},2.0,Creature — Human Noble,"When Charming Prince enters, choose one —
+• Scry 2.
+• You gain 3 life.
+• Exile another target creature you own. Return it to the battlefield under your control at the beginning of the next end step.",2,2,['W'],['W'],['Scry'],fdn,rare
+Chart a Course,{1}{U},2.0,Sorcery,Draw two cards. Then discard a card unless you attacked this turn.,n/a,n/a,['U'],['U'],[],fdn,uncommon
+Circuitous Route,{3}{G},4.0,Sorcery,"Search your library for up to two basic land cards and/or Gate cards, put them onto the battlefield tapped, then shuffle.",n/a,n/a,['G'],['G'],[],fdn,uncommon
+Claws Out,{3}{W}{W},5.0,Instant,"This spell costs {1} less to cast for each Cat you control.
+Creatures you control get +2/+2 until end of turn.",n/a,n/a,['W'],['W'],[],fdn,uncommon
+Clinquant Skymage,{3}{U},4.0,Creature — Bird Wizard,"Flying
+Whenever you draw a card, put a +1/+1 counter on this creature.",1,1,['U'],['U'],['Flying'],fdn,uncommon
+Cloudblazer,{3}{W}{U},5.0,Creature — Human Scout,"Flying
+When Cloudblazer enters, you gain 2 life and draw two cards.",2,2,"['U', 'W']","['U', 'W']",['Flying'],fdn,uncommon
+Confiscate,{4}{U}{U},6.0,Enchantment — Aura,"Enchant permanent
+You control enchanted permanent.",n/a,n/a,['U'],['U'],['Enchant'],fdn,uncommon
+Consuming Aberration,{3}{U}{B},5.0,Creature — Horror,"Consuming Aberration's power and toughness are each equal to the number of cards in your opponents' graveyards.
+Whenever you cast a spell, each opponent reveals cards from the top of their library until they reveal a land card, then puts those cards into their graveyard.",*,*,"['B', 'U']","['B', 'U']",[],fdn,rare
+Corsair Captain,{2}{U},3.0,Creature — Human Pirate,"When Corsair Captain enters, create a Treasure token. (It's an artifact with ""{T}, Sacrifice this artifact: Add one mana of any color."")
+Other Pirates you control get +1/+1.",2,2,['U'],['U'],['Treasure'],fdn,rare
+Courageous Goblin,{1}{R},2.0,Creature — Goblin,"Whenever this creature attacks while you control a creature with power 4 or greater, this creature gets +1/+0 and gains menace until end of turn. (It can't be blocked except by two or more creatures.)",2,2,['R'],['R'],[],fdn,common
+Crackling Cyclops,{2}{R},3.0,Creature — Cyclops Wizard,"Whenever you cast a noncreature spell, this creature gets +3/+0 until end of turn.",0,4,['R'],['R'],[],fdn,common
+Crash Through,{R},1.0,Sorcery,"Creatures you control gain trample until end of turn. (A creature with trample can deal excess combat damage to the player or planeswalker it's attacking.)
+Draw a card.",n/a,n/a,['R'],['R'],[],fdn,common
+Crawling Barrens,,0.0,Land,"{T}: Add {C}.
+{4}: Put two +1/+1 counters on Crawling Barrens. Then you may have it become a 0/0 Elemental creature until end of turn. It's still a land.",n/a,n/a,[],[],[],fdn,rare
+Crossway Troublemakers,{5}{B},6.0,Creature — Vampire,"Attacking Vampires you control have deathtouch and lifelink.
+Whenever a Vampire you control dies, you may pay 2 life. If you do, draw a card.",5,5,['B'],['B'],[],fdn,rare
+Crow of Dark Tidings,{2}{B},3.0,Creature — Zombie Bird,"Flying
+When Crow of Dark Tidings enters or dies, mill two cards. (Put the top two cards of your library into your graveyard.)",2,1,['B'],['B'],"['Flying', 'Mill']",fdn,common
+Crusader of Odric,{2}{W},3.0,Creature — Human Soldier,Crusader of Odric's power and toughness are each equal to the number of creatures you control.,*,*,['W'],['W'],[],fdn,common
+Crypt Feaster,{3}{B},4.0,Creature — Zombie,"Menace (This creature can't be blocked except by two or more creatures.)
+Threshold — Whenever this creature attacks, if there are seven or more cards in your graveyard, this creature gets +2/+0 until end of turn.",3,4,['B'],['B'],"['Threshold', 'Menace']",fdn,common
+Cryptic Caves,,0.0,Land,"{T}: Add {C}.
+{1}, {T}, Sacrifice Cryptic Caves: Draw a card. Activate only if you control five or more lands.",n/a,n/a,[],[],[],fdn,uncommon
+Crystal Barricade,{1}{W},2.0,Artifact Creature — Wall,"Defender (This creature can't attack.)
+You have hexproof. (You can't be the target of spells or abilities your opponents control.)
+Prevent all noncombat damage that would be dealt to other creatures you control.",0,4,['W'],['W'],['Defender'],fdn,rare
+Cultivator's Caravan,{3},3.0,Artifact — Vehicle,"{T}: Add one mana of any color.
+Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)",5,5,[],[],['Crew'],fdn,rare
+Curator of Destinies,{4}{U}{U},6.0,Creature — Sphinx,"This spell can't be countered.
+Flying
+When this creature enters, look at the top five cards of your library and separate them into a face-down pile and a face-up pile. An opponent chooses one of those piles. Put that pile into your hand and the other into your graveyard.",5,5,['U'],['U'],['Flying'],fdn,rare
+Darksteel Colossus,{11},11.0,Artifact Creature — Golem,"Trample, indestructible
+If Darksteel Colossus would be put into a graveyard from anywhere, reveal Darksteel Colossus and shuffle it into its owner's library instead.",11,11,[],[],"['Indestructible', 'Trample']",fdn,mythic
+Dauntless Veteran,{1}{W}{W},3.0,Creature — Human Soldier,"Whenever this creature attacks, creatures you control get +1/+1 until end of turn.",2,2,['W'],['W'],[],fdn,uncommon
+Dawnwing Marshal,{1}{W},2.0,Creature — Cat Soldier,"Flying
+{4}{W}: Creatures you control get +1/+1 until end of turn.",2,2,['W'],['W'],['Flying'],fdn,uncommon
+Day of Judgment,{2}{W}{W},4.0,Sorcery,Destroy all creatures.,n/a,n/a,['W'],['W'],[],fdn,rare
+Dazzling Angel,{2}{W},3.0,Creature — Angel,"Flying
+Whenever another creature you control enters, you gain 1 life.",2,3,['W'],['W'],['Flying'],fdn,common
+Deadly Brew,{B}{G},2.0,Sorcery,"Each player sacrifices a creature or planeswalker. If you sacrificed a permanent this way, you may return another permanent card from your graveyard to your hand.",n/a,n/a,"['B', 'G']","['B', 'G']",[],fdn,uncommon
+Deadly Plot,{3}{B},4.0,Instant,"Choose one —
+• Destroy target creature or planeswalker.
+• Return target Zombie creature card from your graveyard to the battlefield tapped.",n/a,n/a,['B'],['B'],[],fdn,uncommon
+Deadly Riposte,{1}{W},2.0,Instant,Deadly Riposte deals 3 damage to target tapped creature and you gain 2 life.,n/a,n/a,['W'],['W'],[],fdn,common
+Death Baron,{1}{B}{B},3.0,Creature — Zombie Wizard,Skeletons you control and other Zombies you control get +1/+1 and have deathtouch.,2,2,['B'],['B'],[],fdn,rare
+Deathmark,{B},1.0,Sorcery,Destroy target green or white creature.,n/a,n/a,['B'],['B'],[],fdn,uncommon
+Demolition Field,,0.0,Land,"{T}: Add {C}.
+{2}, {T}, Sacrifice Demolition Field: Destroy target nonbasic land an opponent controls. That land's controller may search their library for a basic land card, put it onto the battlefield, then shuffle. You may search your library for a basic land card, put it onto the battlefield, then shuffle.",n/a,n/a,[],[],[],fdn,uncommon
+Demonic Pact,{2}{B}{B},4.0,Enchantment,"At the beginning of your upkeep, choose one that hasn't been chosen —
+• Demonic Pact deals 4 damage to any target and you gain 4 life.
+• Target opponent discards two cards.
+• Draw two cards.
+• You lose the game.",n/a,n/a,['B'],['B'],[],fdn,mythic
+Desecration Demon,{2}{B}{B},4.0,Creature — Demon,"Flying
+At the beginning of each combat, any opponent may sacrifice a creature. If a player does, tap Desecration Demon and put a +1/+1 counter on it.",6,6,['B'],['B'],['Flying'],fdn,rare
+Devout Decree,{1}{W},2.0,Sorcery,Exile target creature or planeswalker that's black or red. Scry 1. (Look at the top card of your library. You may put that card on the bottom.),n/a,n/a,['W'],['W'],['Scry'],fdn,uncommon
+Diamond Mare,{2},2.0,Artifact Creature — Horse,"As Diamond Mare enters, choose a color.
+Whenever you cast a spell of the chosen color, you gain 1 life.",1,3,[],[],[],fdn,uncommon
+Dictate of Kruphix,{1}{U}{U},3.0,Enchantment,"Flash
+At the beginning of each player's draw step, that player draws an additional card.",n/a,n/a,['U'],['U'],['Flash'],fdn,rare
+Dimir Guildgate,,0.0,Land — Gate,"Dimir Guildgate enters tapped.
+{T}: Add {U} or {B}.",n/a,n/a,[],"['B', 'U']",[],fdn,common
+Diregraf Ghoul,{B},1.0,Creature — Zombie,Diregraf Ghoul enters tapped.,2,2,['B'],['B'],[],fdn,uncommon
+Disenchant,{1}{W},2.0,Instant,Destroy target artifact or enchantment.,n/a,n/a,['W'],['W'],[],fdn,common
+Dismal Backwater,,0.0,Land,"Dismal Backwater enters tapped.
+When Dismal Backwater enters, you gain 1 life.
+{T}: Add {U} or {B}.",n/a,n/a,[],"['B', 'U']",[],fdn,common
+Dive Down,{U},1.0,Instant,Target creature you control gets +0/+3 and gains hexproof until end of turn. (It can't be the target of spells or abilities your opponents control.),n/a,n/a,['U'],['U'],[],fdn,common
+Divine Resilience,{W},1.0,Instant,"Kicker {2}{W} (You may pay an additional {2}{W} as you cast this spell.)
+Target creature you control gains indestructible until end of turn. If this spell was kicked, instead any number of target creatures you control gain indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy them.)",n/a,n/a,['W'],['W'],['Kicker'],fdn,uncommon
+Doubling Season,{4}{G},5.0,Enchantment,"If an effect would create one or more tokens under your control, it creates twice that many of those tokens instead.
+If an effect would put one or more counters on a permanent you control, it puts twice that many of those counters on that permanent instead.",n/a,n/a,['G'],['G'],[],fdn,mythic
+Dragon Fodder,{1}{R},2.0,Sorcery,Create two 1/1 red Goblin creature tokens.,n/a,n/a,['R'],['R'],[],fdn,common
+Dragonlord's Servant,{1}{R},2.0,Creature — Goblin Shaman,Dragon spells you cast cost {1} less to cast.,1,3,['R'],['R'],[],fdn,uncommon
+Dragon Mage,{5}{R}{R},7.0,Creature — Dragon Wizard,"Flying
+Whenever Dragon Mage deals combat damage to a player, each player discards their hand, then draws seven cards.",5,5,['R'],['R'],['Flying'],fdn,uncommon
+Dragonmaster Outcast,{R},1.0,Creature — Human Shaman,"At the beginning of your upkeep, if you control six or more lands, create a 5/5 red Dragon creature token with flying.",1,1,['R'],['R'],[],fdn,mythic
+Dragon Trainer,{3}{R}{R},5.0,Creature — Human,"When this creature enters, create a 4/4 red Dragon creature token with flying.",1,1,['R'],['R'],[],fdn,uncommon
+Drake Hatcher,{1}{U},2.0,Creature — Human Wizard,"Vigilance, prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Whenever this creature deals combat damage to a player, put that many incubation counters on it.
+Remove three incubation counters from this creature: Create a 2/2 blue Drake creature token with flying.",1,3,['U'],['U'],"['Prowess', 'Vigilance']",fdn,rare
+"Drakuseth, Maw of Flames",{4}{R}{R}{R},7.0,Legendary Creature — Dragon,"Flying
+Whenever Drakuseth, Maw of Flames attacks, it deals 4 damage to any target and 3 damage to each of up to two other targets.",7,7,['R'],['R'],['Flying'],fdn,rare
+Dread Summons,{X}{B}{B},2.0,Sorcery,"Each player mills X cards. For each creature card put into a graveyard this way, you create a tapped 2/2 black Zombie creature token.",n/a,n/a,['B'],['B'],['Mill'],fdn,rare
+Dreadwing Scavenger,{1}{U}{B},3.0,Creature — Nightmare Bird,"Flying
+Whenever this creature enters or attacks, draw a card, then discard a card.
+Threshold — This creature gets +1/+1 and has deathtouch as long as there are seven or more cards in your graveyard.",2,2,"['B', 'U']","['B', 'U']","['Flying', 'Threshold']",fdn,uncommon
+Driver of the Dead,{3}{B},4.0,Creature — Vampire,"When Driver of the Dead dies, return target creature card with mana value 2 or less from your graveyard to the battlefield.",3,2,['B'],['B'],[],fdn,common
+Drogskol Reaver,{5}{W}{U},7.0,Creature — Spirit,"Flying, double strike, lifelink
+Whenever you gain life, draw a card.",3,5,"['U', 'W']","['U', 'W']","['Flying', 'Lifelink', 'Double strike']",fdn,rare
+Dropkick Bomber,{2}{R},3.0,Creature — Goblin Warrior,"Other Goblins you control get +1/+1.
+{R}: Until end of turn, another target Goblin you control gains flying and ""When this creature deals combat damage, sacrifice it.""",2,3,['R'],['R'],[],fdn,rare
+Druid of the Cowl,{1}{G},2.0,Creature — Elf Druid,{T}: Add {G}.,1,3,['G'],['G'],[],fdn,common
+Dryad Militant,{G/W},1.0,Creature — Dryad Soldier,"If an instant or sorcery card would be put into a graveyard from anywhere, exile it instead.",2,1,"['G', 'W']","['G', 'W']",[],fdn,uncommon
+Duress,{B},1.0,Sorcery,"Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card.",n/a,n/a,['B'],['B'],[],fdn,common
+"Dwynen, Gilt-Leaf Daen",{2}{G}{G},4.0,Legendary Creature — Elf Warrior,"Reach
+Other Elf creatures you control get +1/+1.
+Whenever Dwynen, Gilt-Leaf Daen attacks, you gain 1 life for each attacking Elf you control.",3,4,['G'],['G'],['Reach'],fdn,uncommon
+Dwynen's Elite,{1}{G},2.0,Creature — Elf Warrior,"When Dwynen's Elite enters, if you control another Elf, create a 1/1 green Elf Warrior creature token.",2,2,['G'],['G'],[],fdn,common
+Eager Trufflesnout,{2}{G},3.0,Creature — Boar,"Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+Whenever this creature deals combat damage to a player, create a Food token. (It's an artifact with ""{2}, {T} Sacrifice this token: You gain 3 life."")",4,2,['G'],['G'],"['Food', 'Trample']",fdn,uncommon
+Eaten Alive,{B},1.0,Sorcery,"As an additional cost to cast this spell, sacrifice a creature or pay {3}{B}.
+Exile target creature or planeswalker.",n/a,n/a,['B'],['B'],[],fdn,common
+Eaten by Piranhas,{1}{U},2.0,Enchantment — Aura,"Flash
+Enchant creature
+Enchanted creature loses all abilities and is a black Skeleton creature with base power and toughness 1/1. (It loses all other card types and creature types.)",n/a,n/a,['U'],['U'],"['Enchant', 'Flash']",fdn,uncommon
+Electroduplicate,{2}{R},3.0,Sorcery,"Create a token that's a copy of target creature you control, except it has haste and ""At the beginning of the end step, sacrifice this token.""
+Flashback {2}{R}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",n/a,n/a,['R'],['R'],['Flashback'],fdn,rare
+Elementalist Adept,{1}{U},2.0,Creature — Human Wizard,"Flash (You may cast this spell any time you could cast an instant.)
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)",2,1,['U'],['U'],"['Prowess', 'Flash']",fdn,common
+"Elenda, Saint of Dusk",{2}{W}{B},4.0,Legendary Creature — Vampire Knight,"Lifelink, hexproof from instants
+As long as your life total is greater than your starting life total, Elenda gets +1/+1 and has menace. Elenda gets an additional +5/+5 as long as your life total is at least 10 greater than your starting life total.",4,4,"['B', 'W']","['B', 'W']","['Lifelink', 'Hexproof from', 'Hexproof']",fdn,rare
+Elfsworn Giant,{3}{G}{G},5.0,Creature — Giant,"Reach (This creature can block creatures with flying.)
+Landfall — Whenever a land you control enters, create a 1/1 green Elf Warrior creature token.",5,3,['G'],['G'],"['Reach', 'Landfall']",fdn,common
+Elspeth's Smite,{W},1.0,Instant,"Elspeth's Smite deals 3 damage to target attacking or blocking creature. If that creature would die this turn, exile it instead.",n/a,n/a,['W'],['W'],[],fdn,uncommon
+Elvish Archdruid,{1}{G}{G},3.0,Creature — Elf Druid,"Other Elf creatures you control get +1/+1.
+{T}: Add {G} for each Elf you control.",2,2,['G'],['G'],[],fdn,rare
+Elvish Regrower,{2}{G}{G},4.0,Creature — Elf Druid,"When this creature enters, return target permanent card from your graveyard to your hand.",4,3,['G'],['G'],[],fdn,uncommon
+Empyrean Eagle,{1}{W}{U},3.0,Creature — Bird Spirit,"Flying
+Other creatures you control with flying get +1/+1.",2,3,"['U', 'W']","['U', 'W']",['Flying'],fdn,uncommon
+Enigma Drake,{1}{U}{R},3.0,Creature — Drake,"Flying
+Enigma Drake's power is equal to the number of instant and sorcery cards in your graveyard.",*,4,"['R', 'U']","['R', 'U']",['Flying'],fdn,uncommon
+Erudite Wizard,{2}{U},3.0,Creature — Human Wizard,"Whenever you draw your second card each turn, put a +1/+1 counter on this creature.",2,3,['U'],['U'],[],fdn,common
+Essence Scatter,{1}{U},2.0,Instant,Counter target creature spell.,n/a,n/a,['U'],['U'],[],fdn,uncommon
+"Etali, Primal Storm",{4}{R}{R},6.0,Legendary Creature — Elder Dinosaur,"Whenever Etali, Primal Storm attacks, exile the top card of each player's library, then you may cast any number of spells from among those cards without paying their mana costs.",6,6,['R'],['R'],[],fdn,rare
+Evolving Wilds,,0.0,Land,"{T}, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",n/a,n/a,[],[],[],fdn,common
+Exclusion Mage,{2}{U},3.0,Creature — Human Wizard,"When Exclusion Mage enters, return target creature an opponent controls to its owner's hand.",2,2,['U'],['U'],[],fdn,uncommon
+Exemplar of Light,{2}{W}{W},4.0,Creature — Angel,"Flying
+Whenever you gain life, put a +1/+1 counter on this creature.
+Whenever you put one or more +1/+1 counters on this creature, draw a card. This ability triggers only once each turn.",3,3,['W'],['W'],['Flying'],fdn,rare
+Expedition Map,{1},1.0,Artifact,"{2}, {T}, Sacrifice Expedition Map: Search your library for a land card, reveal it, put it into your hand, then shuffle.",n/a,n/a,[],[],[],fdn,common
+Exsanguinate,{X}{B}{B},2.0,Sorcery,Each opponent loses X life. You gain life equal to the life lost this way.,n/a,n/a,['B'],['B'],[],fdn,uncommon
+Extravagant Replication,{4}{U}{U},6.0,Enchantment,"At the beginning of your upkeep, create a token that's a copy of another target nonland permanent you control.",n/a,n/a,['U'],['U'],[],fdn,rare
+Faebloom Trick,{2}{U},3.0,Instant,"Create two 1/1 blue Faerie creature tokens with flying. When you do, tap target creature an opponent controls.",n/a,n/a,['U'],['U'],[],fdn,uncommon
+Fake Your Own Death,{1}{B},2.0,Instant,"Until end of turn, target creature gets +2/+0 and gains ""When this creature dies, return it to the battlefield tapped under its owner's control and you create a Treasure token."" (It's an artifact with ""{T}, Sacrifice this artifact: Add one mana of any color."")",n/a,n/a,['B'],['B'],['Treasure'],fdn,common
+Fanatical Firebrand,{R},1.0,Creature — Goblin Pirate,"Haste
+{T}, Sacrifice Fanatical Firebrand: It deals 1 damage to any target.",1,1,['R'],['R'],['Haste'],fdn,common
+Feed the Swarm,{1}{B},2.0,Sorcery,Destroy target creature or enchantment an opponent controls. You lose life equal to that permanent's mana value.,n/a,n/a,['B'],['B'],[],fdn,common
+Feldon's Cane,{1},1.0,Artifact,"{T}, Exile Feldon's Cane: Shuffle your graveyard into your library.",n/a,n/a,[],[],[],fdn,uncommon
+Felidar Cub,{1}{W},2.0,Creature — Cat Beast,Sacrifice Felidar Cub: Destroy target enchantment.,2,2,['W'],['W'],[],fdn,common
+Felidar Retreat,{3}{W},4.0,Enchantment,"Landfall — Whenever a land you control enters, choose one —
+• Create a 2/2 white Cat Beast creature token.
+• Put a +1/+1 counter on each creature you control. Those creatures gain vigilance until end of turn.",n/a,n/a,['W'],['W'],['Landfall'],fdn,rare
+Felidar Savior,{3}{W},4.0,Creature — Cat Beast,"Lifelink (Damage dealt by this creature also causes you to gain that much life.)
+When this creature enters, put a +1/+1 counter on each of up to two other target creatures you control.",2,3,['W'],['W'],['Lifelink'],fdn,common
+Felling Blow,{2}{G},3.0,Sorcery,Put a +1/+1 counter on target creature you control. Then that creature deals damage equal to its power to target creature an opponent controls.,n/a,n/a,['G'],['G'],[],fdn,uncommon
+Fiendish Panda,{2}{W}{B},4.0,Creature — Bear Demon,"Whenever you gain life, put a +1/+1 counter on this creature.
+When this creature dies, return another target non-Bear creature card with mana value less than or equal to this creature's power from your graveyard to the battlefield.",3,2,"['B', 'W']","['B', 'W']",[],fdn,uncommon
+Fierce Empath,{2}{G},3.0,Creature — Elf,"When Fierce Empath enters, you may search your library for a creature card with mana value 6 or greater, reveal it, put it into your hand, then shuffle.",1,1,['G'],['G'],[],fdn,common
+Fiery Annihilation,{2}{R},3.0,Instant,"Fiery Annihilation deals 5 damage to target creature. Exile up to one target Equipment attached to that creature. If that creature would die this turn, exile it instead.",n/a,n/a,['R'],['R'],[],fdn,uncommon
+Finale of Revelation,{X}{U}{U},2.0,Sorcery,"Draw X cards. If X is 10 or more, instead shuffle your graveyard into your library, draw X cards, untap up to five lands, and you have no maximum hand size for the rest of the game.
+Exile Finale of Revelation.",n/a,n/a,['U'],['U'],[],fdn,mythic
+Firebrand Archer,{1}{R},2.0,Creature — Human Archer,"Whenever you cast a noncreature spell, Firebrand Archer deals 1 damage to each opponent.",2,1,['R'],['R'],[],fdn,common
+Fire Elemental,{3}{R}{R},5.0,Creature — Elemental,,5,4,['R'],['R'],[],fdn,common
+Fireshrieker,{3},3.0,Artifact — Equipment,"Equipped creature has double strike. (It deals both first-strike and regular combat damage.)
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",n/a,n/a,[],[],['Equip'],fdn,uncommon
+Firespitter Whelp,{2}{R},3.0,Creature — Dragon,"Flying
+Whenever you cast a noncreature or Dragon spell, Firespitter Whelp deals 1 damage to each opponent.",2,2,['R'],['R'],['Flying'],fdn,uncommon
+Fishing Pole,{1},1.0,Artifact — Equipment,"Equipped creature has ""{1}, {T}, Tap Fishing Pole: Put a bait counter on Fishing Pole.""
+Whenever equipped creature becomes untapped, remove a bait counter from this Equipment. If you do, create a 1/1 blue Fish creature token.
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",n/a,n/a,[],[],['Equip'],fdn,uncommon
+Flamewake Phoenix,{1}{R}{R},3.0,Creature — Phoenix,"Flying, haste
+Flamewake Phoenix attacks each combat if able.
+Ferocious — At the beginning of combat on your turn, if you control a creature with power 4 or greater, you may pay {R}. If you do, return Flamewake Phoenix from your graveyard to the battlefield.",2,2,['R'],['R'],"['Flying', 'Ferocious', 'Haste']",fdn,rare
+Flashfreeze,{1}{U},2.0,Instant,Counter target red or green spell.,n/a,n/a,['U'],['U'],[],fdn,uncommon
+Fleeting Distraction,{U},1.0,Instant,"Target creature gets -1/-0 until end of turn.
+Draw a card.",n/a,n/a,['U'],['U'],[],fdn,common
+Fleeting Flight,{W},1.0,Instant,Put a +1/+1 counter on target creature. It gains flying until end of turn. Prevent all combat damage that would be dealt to it this turn.,n/a,n/a,['W'],['W'],[],fdn,common
+Fog Bank,{1}{U},2.0,Creature — Wall,"Defender, flying
+Prevent all combat damage that would be dealt to and dealt by Fog Bank.",0,2,['U'],['U'],"['Flying', 'Defender']",fdn,uncommon
+Forest,,0.0,Basic Land — Forest,({T}: Add {G}.),n/a,n/a,[],['G'],[],fdn,common
+Frenzied Goblin,{R},1.0,Creature — Goblin Berserker,"Whenever Frenzied Goblin attacks, you may pay {R}. If you do, target creature can't block this turn.",1,1,['R'],['R'],[],fdn,uncommon
+Fumigate,{3}{W}{W},5.0,Sorcery,Destroy all creatures. You gain 1 life for each creature destroyed this way.,n/a,n/a,['W'],['W'],[],fdn,rare
+"Fynn, the Fangbearer",{1}{G},2.0,Legendary Creature — Human Warrior,"Deathtouch
+Whenever a creature you control with deathtouch deals combat damage to a player, that player gets two poison counters. (A player with ten or more poison counters loses the game.)",1,3,['G'],['G'],['Deathtouch'],fdn,uncommon
+"Garna, Bloodfist of Keld",{1}{B}{R}{R},4.0,Legendary Creature — Human Berserker,"Whenever another creature you control dies, draw a card if it was attacking. Otherwise, Garna, Bloodfist of Keld deals 1 damage to each opponent.",4,3,"['B', 'R']","['B', 'R']",[],fdn,uncommon
+Garruk's Uprising,{2}{G},3.0,Enchantment,"When Garruk's Uprising enters, if you control a creature with power 4 or greater, draw a card.
+Creatures you control have trample.
+Whenever a creature you control with power 4 or greater enters, draw a card.",n/a,n/a,['G'],['G'],[],fdn,uncommon
+Gate Colossus,{8},8.0,Artifact Creature — Construct,"This spell costs {1} less to cast for each Gate you control.
+Gate Colossus can't be blocked by creatures with power 2 or less.
+Whenever a Gate you control enters, you may put Gate Colossus from your graveyard on top of your library.",8,8,[],[],[],fdn,uncommon
+Gatekeeper of Malakir,{B}{B},2.0,Creature — Vampire Warrior,"Kicker {B} (You may pay an additional {B} as you cast this spell.)
+When Gatekeeper of Malakir enters, if it was kicked, target player sacrifices a creature.",2,2,['B'],['B'],['Kicker'],fdn,uncommon
+Gateway Sneak,{2}{U},3.0,Creature — Vedalken Rogue,"Whenever a Gate you control enters, Gateway Sneak can't be blocked this turn.
+Whenever Gateway Sneak deals combat damage to a player, draw a card.",1,3,['U'],['U'],[],fdn,uncommon
+Genesis Wave,{X}{G}{G}{G},3.0,Sorcery,Reveal the top X cards of your library. You may put any number of permanent cards with mana value X or less from among them onto the battlefield. Then put all cards revealed this way that weren't put onto the battlefield into your graveyard.,n/a,n/a,['G'],['G'],[],fdn,rare
+"Ghalta, Primal Hunger",{10}{G}{G},12.0,Legendary Creature — Elder Dinosaur,"This spell costs {X} less to cast, where X is the total power of creatures you control.
+Trample",12,12,['G'],['G'],['Trample'],fdn,rare
+Ghitu Lavarunner,{R},1.0,Creature — Human Wizard,"As long as there are two or more instant and/or sorcery cards in your graveyard, Ghitu Lavarunner gets +1/+0 and has haste.",1,2,['R'],['R'],[],fdn,common
+"Giada, Font of Hope",{1}{W},2.0,Legendary Creature — Angel,"Flying, vigilance
+Each other Angel you control enters with an additional +1/+1 counter on it for each Angel you already control.
+{T}: Add {W}. Spend this mana only to cast an Angel spell.",2,2,['W'],['W'],"['Flying', 'Vigilance']",fdn,rare
+Giant Cindermaw,{2}{R},3.0,Creature — Dinosaur Beast,"Trample
+Players can't gain life.",4,3,['R'],['R'],['Trample'],fdn,uncommon
+Giant Growth,{G},1.0,Instant,Target creature gets +3/+3 until end of turn.,n/a,n/a,['G'],['G'],[],fdn,common
+Gigantosaurus,{G}{G}{G}{G}{G},5.0,Creature — Dinosaur,,10,10,['G'],['G'],[],fdn,rare
+Gilded Lotus,{5},5.0,Artifact,{T}: Add three mana of any one color.,n/a,n/a,[],[],[],fdn,rare
+Gleaming Barrier,{2},2.0,Artifact Creature — Wall,"Defender
+When Gleaming Barrier dies, create a Treasure token. (It's an artifact with ""{T}, Sacrifice this artifact: Add one mana of any color."")",0,4,[],[],"['Treasure', 'Defender']",fdn,common
+Gnarlback Rhino,{2}{G}{G},4.0,Creature — Rhino,"Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+Whenever you cast a spell that targets Gnarlback Rhino, draw a card.",4,4,['G'],['G'],['Trample'],fdn,uncommon
+Gnarlid Colony,{1}{G},2.0,Creature — Beast,"Kicker {2}{G} (You may pay an additional {2}{G} as you cast this spell.)
+If Gnarlid Colony was kicked, it enters with two +1/+1 counters on it.
+Each creature you control with a +1/+1 counter on it has trample.",2,2,['G'],['G'],['Kicker'],fdn,common
+Goblin Boarders,{2}{R},3.0,Creature — Goblin Pirate,Raid — This creature enters with a +1/+1 counter on it if you attacked this turn.,3,2,['R'],['R'],['Raid'],fdn,common
+Goblin Firebomb,{1},1.0,Artifact,"Flash
+{7}, {T}, Sacrifice Goblin Firebomb: Destroy target permanent.",n/a,n/a,[],[],['Flash'],fdn,common
+Goblin Negotiation,{X}{R}{R},2.0,Sorcery,Goblin Negotiation deals X damage to target creature. Create a number of 1/1 red Goblin creature tokens equal to the amount of excess damage dealt to that creature this way.,n/a,n/a,['R'],['R'],[],fdn,uncommon
+Goblin Oriflamme,{1}{R},2.0,Enchantment,Attacking creatures you control get +1/+0.,n/a,n/a,['R'],['R'],[],fdn,uncommon
+Goblin Smuggler,{2}{R},3.0,Creature — Goblin Rogue,"Haste (This creature can attack and {T} as soon as it comes under your control.)
+{T}: Another target creature with power 2 or less can't be blocked this turn.",2,2,['R'],['R'],['Haste'],fdn,common
+Goblin Surprise,{2}{R},3.0,Instant,"Choose one —
+• Creatures you control get +2/+0 until end of turn.
+• Create two 1/1 red Goblin creature tokens.",n/a,n/a,['R'],['R'],[],fdn,common
+Goldvein Pick,{2},2.0,Artifact — Equipment,"Equipped creature gets +1/+1.
+Whenever equipped creature deals combat damage to a player, create a Treasure token. (It's an artifact with ""{T}, Sacrifice this artifact: Add one mana of any color."")
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",n/a,n/a,[],[],"['Treasure', 'Equip']",fdn,common
+Golgari Guildgate,,0.0,Land — Gate,"Golgari Guildgate enters tapped.
+{T}: Add {B} or {G}.",n/a,n/a,[],"['B', 'G']",[],fdn,common
+Good-Fortune Unicorn,{1}{G}{W},3.0,Creature — Unicorn,"Whenever another creature you control enters, put a +1/+1 counter on that creature.",2,2,"['G', 'W']","['G', 'W']",[],fdn,uncommon
+Gorehorn Raider,{4}{R},5.0,Creature — Minotaur Pirate,"Raid — When this creature enters, if you attacked this turn, this creature deals 2 damage to any target.",4,4,['R'],['R'],['Raid'],fdn,common
+Grappling Kraken,{4}{U}{U},6.0,Creature — Kraken,"Landfall — Whenever a land you control enters, tap target creature an opponent controls and put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)",5,6,['U'],['U'],['Landfall'],fdn,uncommon
+Gratuitous Violence,{2}{R}{R}{R},5.0,Enchantment,"If a creature you control would deal damage to a permanent or player, it deals double that damage to that permanent or player instead.",n/a,n/a,['R'],['R'],[],fdn,rare
+Grow from the Ashes,{2}{G},3.0,Sorcery,"Kicker {2} (You may pay an additional {2} as you cast this spell.)
+Search your library for a basic land card, put it onto the battlefield, then shuffle. If this spell was kicked, instead search your library for two basic land cards, put them onto the battlefield, then shuffle.",n/a,n/a,['G'],['G'],['Kicker'],fdn,common
+Gruul Guildgate,,0.0,Land — Gate,"Gruul Guildgate enters tapped.
+{T}: Add {R} or {G}.",n/a,n/a,[],"['G', 'R']",[],fdn,common
+Guarded Heir,{5}{W},6.0,Creature — Human Noble,"Lifelink (Damage dealt by this creature also causes you to gain that much life.)
+When this creature enters, create two 3/3 white Knight creature tokens.",1,1,['W'],['W'],['Lifelink'],fdn,uncommon
+Gutless Plunderer,{2}{B},3.0,Creature — Skeleton Pirate,"Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+Raid — When this creature enters, if you attacked this turn, look at the top three cards of your library. You may put one of those cards back on top of your library. Put the rest into your graveyard.",2,2,['B'],['B'],"['Raid', 'Deathtouch']",fdn,common
+Guttersnipe,{2}{R},3.0,Creature — Goblin Shaman,"Whenever you cast an instant or sorcery spell, Guttersnipe deals 2 damage to each opponent.",2,2,['R'],['R'],[],fdn,uncommon
+"Halana and Alena, Partners",{2}{R}{G},4.0,Legendary Creature — Human Ranger,"First strike, reach
+At the beginning of combat on your turn, put X +1/+1 counters on another target creature you control, where X is Halana and Alena's power. That creature gains haste until end of turn.",2,3,"['G', 'R']","['G', 'R']","['Reach', 'First strike']",fdn,rare
+Harbinger of the Tides,{U}{U},2.0,Creature — Merfolk Wizard,"You may cast Harbinger of the Tides as though it had flash if you pay {2} more to cast it. (You may cast it any time you could cast an instant.)
+When Harbinger of the Tides enters, you may return target tapped creature an opponent controls to its owner's hand.",2,2,['U'],['U'],[],fdn,rare
+Hare Apparent,{1}{W},2.0,Creature — Rabbit Noble,"When this creature enters, create a number of 1/1 white Rabbit creature tokens equal to the number of other creatures you control named Hare Apparent.
+A deck can have any number of cards named Hare Apparent.",2,2,['W'],['W'],[],fdn,common
+Harmless Offering,{2}{R},3.0,Sorcery,Target opponent gains control of target permanent you control.,n/a,n/a,['R'],['R'],[],fdn,rare
+Healer's Hawk,{W},1.0,Creature — Bird,"Flying, lifelink",1,1,['W'],['W'],"['Flying', 'Lifelink']",fdn,common
+Heartfire Immolator,{1}{R},2.0,Creature — Human Wizard,"Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+{R}, Sacrifice Heartfire Immolator: It deals damage equal to its power to target creature or planeswalker.",2,2,['R'],['R'],['Prowess'],fdn,uncommon
+Hedron Archive,{4},4.0,Artifact,"{T}: Add {C}{C}.
+{2}, {T}, Sacrifice Hedron Archive: Draw two cards.",n/a,n/a,[],[],[],fdn,uncommon
+Helpful Hunter,{1}{W},2.0,Creature — Cat,"When this creature enters, draw a card.",1,1,['W'],['W'],[],fdn,common
+Heraldic Banner,{3},3.0,Artifact,"As Heraldic Banner enters, choose a color.
+Creatures you control of the chosen color get +1/+0.
+{T}: Add one mana of the chosen color.",n/a,n/a,[],[],[],fdn,uncommon
+Herald of Eternal Dawn,{4}{W}{W}{W},7.0,Creature — Angel,"Flash (You may cast this spell any time you could cast an instant.)
+Flying
+You can't lose the game and your opponents can't win the game.",6,6,['W'],['W'],"['Flying', 'Flash']",fdn,mythic
+Herald of Faith,{3}{W}{W},5.0,Creature — Angel,"Flying
+Whenever Herald of Faith attacks, you gain 2 life.",4,3,['W'],['W'],['Flying'],fdn,uncommon
+Heroes' Bane,{3}{G}{G},5.0,Creature — Hydra,"Heroes' Bane enters with four +1/+1 counters on it.
+{2}{G}{G}: Put X +1/+1 counters on Heroes' Bane, where X is its power.",0,0,['G'],['G'],[],fdn,rare
+Heroic Reinforcements,{2}{R}{W},4.0,Sorcery,"Create two 1/1 white Soldier creature tokens. Until end of turn, creatures you control get +1/+1 and gain haste. (They can attack and {T} this turn.)",n/a,n/a,"['R', 'W']","['R', 'W']",[],fdn,uncommon
+Hero's Downfall,{1}{B}{B},3.0,Instant,Destroy target creature or planeswalker.,n/a,n/a,['B'],['B'],[],fdn,uncommon
+Hidetsugu's Second Rite,{3}{R},4.0,Instant,"If target player has exactly 10 life, Hidetsugu's Second Rite deals 10 damage to that player.",n/a,n/a,['R'],['R'],[],fdn,uncommon
+Highborn Vampire,{3}{B},4.0,Creature — Vampire Warrior,,4,3,['B'],['B'],[],fdn,common
+High Fae Trickster,{3}{U},4.0,Creature — Faerie Wizard,"Flash (You may cast this spell any time you could cast an instant.)
+Flying
+You may cast spells as though they had flash.",4,2,['U'],['U'],"['Flying', 'Flash']",fdn,rare
+High-Society Hunter,{3}{B}{B},5.0,Creature — Vampire Noble,"Flying
+Whenever this creature attacks, you may sacrifice another creature. If you do, put a +1/+1 counter on this creature.
+Whenever another nontoken creature dies, draw a card.",5,3,['B'],['B'],['Flying'],fdn,rare
+Hinterland Sanctifier,{W},1.0,Creature — Rabbit Cleric,"Whenever another creature you control enters, you gain 1 life.",1,2,['W'],['W'],[],fdn,common
+Hoarding Dragon,{3}{R}{R},5.0,Creature — Dragon,"Flying
+When Hoarding Dragon enters, you may search your library for an artifact card, exile it, then shuffle.
+When Hoarding Dragon dies, you may put the exiled card into its owner's hand.",4,4,['R'],['R'],['Flying'],fdn,uncommon
+Homunculus Horde,{3}{U},4.0,Creature — Homunculus,"Whenever you draw your second card each turn, create a token that's a copy of this creature.",2,2,['U'],['U'],[],fdn,rare
+Hungry Ghoul,{1}{B},2.0,Creature — Zombie,"{1}, Sacrifice another creature: Put a +1/+1 counter on this creature.",2,2,['B'],['B'],[],fdn,common
+Icewind Elemental,{4}{U},5.0,Creature — Elemental,"Flying
+When this creature enters, draw a card, then discard a card.",3,4,['U'],['U'],['Flying'],fdn,common
+Immersturm Predator,{2}{B}{R},4.0,Creature — Vampire Dragon,"Flying
+Whenever Immersturm Predator becomes tapped, exile up to one target card from a graveyard and put a +1/+1 counter on Immersturm Predator.
+Sacrifice another creature: Immersturm Predator gains indestructible until end of turn. Tap it.",3,3,"['B', 'R']","['B', 'R']",['Flying'],fdn,rare
+Impact Tremors,{1}{R},2.0,Enchantment,"Whenever a creature you control enters, Impact Tremors deals 1 damage to each opponent.",n/a,n/a,['R'],['R'],[],fdn,common
+Imperious Perfect,{2}{G},3.0,Creature — Elf Warrior,"Other Elves you control get +1/+1.
+{G}, {T}: Create a 1/1 green Elf Warrior creature token.",2,2,['G'],['G'],[],fdn,uncommon
+Imprisoned in the Moon,{2}{U},3.0,Enchantment — Aura,"Enchant creature, land, or planeswalker
+Enchanted permanent is a colorless land with ""{T}: Add {C}"" and loses all other card types and abilities.",n/a,n/a,['U'],['U'],['Enchant'],fdn,uncommon
+Incinerating Blast,{4}{R},5.0,Sorcery,"Incinerating Blast deals 6 damage to target creature.
+You may discard a card. If you do, draw a card.",n/a,n/a,['R'],['R'],[],fdn,common
+Infernal Vessel,{2}{B},3.0,Creature — Human Cleric,"When this creature dies, if it wasn't a Demon, return it to the battlefield under its owner's control with two +1/+1 counters on it. It's a Demon in addition to its other types.",2,1,['B'],['B'],[],fdn,uncommon
+Infestation Sage,{B},1.0,Creature — Elf Warlock,"When this creature dies, create a 1/1 black and green Insect creature token with flying.",1,1,['B'],['B'],[],fdn,common
+Ingenious Leonin,{4}{W},5.0,Creature — Cat Soldier,"{3}{W}: Put a +1/+1 counter on another target attacking creature you control. If that creature is a Cat, it gains first strike until end of turn.",4,4,['W'],['W'],[],fdn,uncommon
+Inspiration from Beyond,{2}{U},3.0,Sorcery,"Mill three cards, then return an instant or sorcery card from your graveyard to your hand.
+Flashback {5}{U}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",n/a,n/a,['U'],['U'],"['Flashback', 'Mill']",fdn,uncommon
+Inspiring Call,{2}{G},3.0,Instant,"Draw a card for each creature you control with a +1/+1 counter on it. Those creatures gain indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy them.)",n/a,n/a,['G'],['G'],[],fdn,uncommon
+Inspiring Overseer,{2}{W},3.0,Creature — Angel Cleric,"Flying
+When Inspiring Overseer enters, you gain 1 life and draw a card.",2,1,['W'],['W'],['Flying'],fdn,common
+Inspiring Paladin,{2}{W},3.0,Creature — Human Knight,"During your turn, this creature has first strike. (It deals combat damage before creatures without first strike.)
+During your turn, creatures you control with +1/+1 counters on them have first strike.",3,3,['W'],['W'],[],fdn,common
+Into the Roil,{1}{U},2.0,Instant,"Kicker {1}{U} (You may pay an additional {1}{U} as you cast this spell.)
+Return target nonland permanent to its owner's hand. If this spell was kicked, draw a card.",n/a,n/a,['U'],['U'],['Kicker'],fdn,common
+Involuntary Employment,{3}{R},4.0,Sorcery,"Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. Create a Treasure token. (It's an artifact with ""{T}, Sacrifice this artifact: Add one mana of any color."")",n/a,n/a,['R'],['R'],['Treasure'],fdn,common
+Island,,0.0,Basic Land — Island,({T}: Add {U}.),n/a,n/a,[],['U'],[],fdn,common
+Izzet Guildgate,,0.0,Land — Gate,"Izzet Guildgate enters tapped.
+{T}: Add {U} or {R}.",n/a,n/a,[],"['R', 'U']",[],fdn,common
+Jazal Goldmane,{2}{W}{W},4.0,Legendary Creature — Cat Warrior,"First strike
+{3}{W}{W}: Attacking creatures you control get +X/+X until end of turn, where X is the number of attacking creatures.",4,4,['W'],['W'],['First strike'],fdn,rare
+Joraga Invocation,{4}{G}{G},6.0,Sorcery,Each creature you control gets +3/+3 until end of turn and must be blocked this turn if able.,n/a,n/a,['G'],['G'],[],fdn,uncommon
+Joust Through,{W},1.0,Instant,Joust Through deals 3 damage to target attacking or blocking creature. You gain 1 life.,n/a,n/a,['W'],['W'],[],fdn,uncommon
+Juggernaut,{4},4.0,Artifact Creature — Juggernaut,"Juggernaut attacks each combat if able.
+Juggernaut can't be blocked by Walls.",5,3,[],[],[],fdn,uncommon
+Jungle Hollow,,0.0,Land,"Jungle Hollow enters tapped.
+When Jungle Hollow enters, you gain 1 life.
+{T}: Add {B} or {G}.",n/a,n/a,[],"['B', 'G']",[],fdn,common
+"Kaito, Cunning Infiltrator",{1}{U}{U},3.0,Legendary Planeswalker — Kaito,"Whenever a creature you control deals combat damage to a player, put a loyalty counter on Kaito.
++1: Up to one target creature you control can't be blocked this turn. Draw a card, then discard a card.
+−2: Create a 2/1 blue Ninja creature token.
+−9: You get an emblem with ""Whenever a player casts a spell, you create a 2/1 blue Ninja creature token.""",n/a,n/a,['U'],['U'],[],fdn,mythic
+Kalastria Highborn,{B}{B},2.0,Creature — Vampire Shaman,"Whenever Kalastria Highborn or another Vampire you control dies, you may pay {B}. If you do, target player loses 2 life and you gain 2 life.",2,2,['B'],['B'],[],fdn,rare
+Kargan Dragonrider,{1}{R},2.0,Creature — Human Warrior,"As long as you control a Dragon, Kargan Dragonrider has flying. (It can't be blocked except by creatures with flying or reach.)",2,2,['R'],['R'],[],fdn,common
+"Kellan, Planar Trailblazer",{R},1.0,Legendary Creature — Human Faerie Scout,"{1}{R}: If Kellan is a Scout, it becomes a Human Faerie Detective and gains ""Whenever Kellan deals combat damage to a player, exile the top card of your library. You may play that card this turn.""
+{2}{R}: If Kellan is a Detective, it becomes a 3/2 Human Faerie Rogue and gains double strike.",2,1,['R'],['R'],[],fdn,rare
+Kindled Fury,{R},1.0,Instant,Target creature gets +1/+0 and gains first strike until end of turn.,n/a,n/a,['R'],['R'],[],fdn,common
+"Kiora, the Rising Tide",{2}{U},3.0,Legendary Creature — Merfolk Noble,"When Kiora enters, draw two cards, then discard two cards.
+Threshold — Whenever Kiora attacks, if there are seven or more cards in your graveyard, you may create Scion of the Deep, a legendary 8/8 blue Octopus creature token.",3,2,['U'],['U'],['Threshold'],fdn,rare
+Kitesail Corsair,{1}{U},2.0,Creature — Human Pirate,Kitesail Corsair has flying as long as it's attacking.,2,1,['U'],['U'],[],fdn,common
+Knight of Grace,{1}{W},2.0,Creature — Human Knight,"First strike
+Hexproof from black (This creature can't be the target of black spells or abilities your opponents control.)
+Knight of Grace gets +1/+0 as long as any player controls a black permanent.",2,2,['W'],['W'],"['Hexproof from', 'Hexproof', 'First strike']",fdn,uncommon
+Knight of Malice,{1}{B},2.0,Creature — Human Knight,"First strike
+Hexproof from white (This creature can't be the target of white spells or abilities your opponents control.)
+Knight of Malice gets +1/+0 as long as any player controls a white permanent.",2,2,['B'],['B'],"['Hexproof from', 'Hexproof', 'First strike']",fdn,uncommon
+"Koma, World-Eater",{3}{G}{G}{U}{U},7.0,Legendary Creature — Serpent,"This spell can't be countered.
+Trample, ward {4}
+Whenever Koma deals combat damage to a player, create four 3/3 blue Serpent creature tokens named Koma's Coil.",8,12,"['G', 'U']","['G', 'U']","['Trample', 'Ward']",fdn,rare
+"Krenko, Mob Boss",{2}{R}{R},4.0,Legendary Creature — Goblin Warrior,"{T}: Create X 1/1 red Goblin creature tokens, where X is the number of Goblins you control.",3,3,['R'],['R'],[],fdn,rare
+"Kykar, Zephyr Awakener",{2}{W}{U},4.0,Legendary Creature — Bird Wizard,"Flying
+Whenever you cast a noncreature spell, choose one —
+• Exile another target creature you control. Return that card to the battlefield under its owner's control at the beginning of the next end step.
+• Create a 1/1 white Spirit creature token with flying.",3,4,"['U', 'W']","['U', 'W']",['Flying'],fdn,rare
+"Lathliss, Dragon Queen",{4}{R}{R},6.0,Legendary Creature — Dragon,"Flying
+Whenever another nontoken Dragon you control enters, create a 5/5 red Dragon creature token with flying.
+{1}{R}: Dragons you control get +1/+0 until end of turn.",6,6,['R'],['R'],['Flying'],fdn,rare
+"Lathril, Blade of the Elves",{2}{B}{G},4.0,Legendary Creature — Elf Noble,"Menace
+Whenever Lathril, Blade of the Elves deals combat damage to a player, create that many 1/1 green Elf Warrior creature tokens.
+{T}, Tap ten untapped Elves you control: Each opponent loses 10 life and you gain 10 life.",2,3,"['B', 'G']","['B', 'G']",['Menace'],fdn,rare
+Leonin Skyhunter,{W}{W},2.0,Creature — Cat Knight,Flying,2,2,['W'],['W'],['Flying'],fdn,uncommon
+Leonin Vanguard,{W},1.0,Creature — Cat Soldier,"At the beginning of combat on your turn, if you control three or more creatures, Leonin Vanguard gets +1/+1 until end of turn and you gain 1 life.",1,1,['W'],['W'],[],fdn,uncommon
+Leyline Axe,{4},4.0,Artifact — Equipment,"If this card is in your opening hand, you may begin the game with it on the battlefield.
+Equipped creature gets +1/+1 and has double strike and trample.
+Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)",n/a,n/a,[],[],['Equip'],fdn,rare
+Lightshell Duo,{3}{U},4.0,Creature — Rat Otter,"Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+When Lightshell Duo enters, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)",3,4,['U'],['U'],"['Surveil', 'Prowess']",fdn,common
+"Liliana, Dreadhorde General",{4}{B}{B},6.0,Legendary Planeswalker — Liliana,"Whenever a creature you control dies, draw a card.
++1: Create a 2/2 black Zombie creature token.
+−4: Each player sacrifices two creatures.
+−9: Each opponent chooses a permanent they control of each permanent type and sacrifices the rest.",n/a,n/a,['B'],['B'],[],fdn,mythic
+"Linden, the Steadfast Queen",{W}{W}{W},3.0,Legendary Creature — Human Noble,"Vigilance
+Whenever a white creature you control attacks, you gain 1 life.",3,3,['W'],['W'],['Vigilance'],fdn,rare
+Llanowar Elves,{G},1.0,Creature — Elf Druid,{T}: Add {G}.,1,1,['G'],['G'],[],fdn,common
+"Loot, Exuberant Explorer",{2}{G},3.0,Legendary Creature — Beast Noble,"You may play an additional land on each of your turns.
+{4}{G}{G}, {T}: Look at the top six cards of your library. You may reveal a creature card with mana value less than or equal to the number of lands you control from among them and put it onto the battlefield. Put the rest on the bottom in a random order.",1,4,['G'],['G'],[],fdn,rare
+Luminous Rebuke,{4}{W},5.0,Instant,"This spell costs {3} less to cast if it targets a tapped creature.
+Destroy target creature.",n/a,n/a,['W'],['W'],[],fdn,common
+Lunar Insight,{2}{U},3.0,Sorcery,Draw a card for each different mana value among nonland permanents you control.,n/a,n/a,['U'],['U'],[],fdn,rare
+Lyra Dawnbringer,{3}{W}{W},5.0,Legendary Creature — Angel,"Flying, first strike, lifelink
+Other Angels you control get +1/+1 and have lifelink.",5,5,['W'],['W'],"['Flying', 'Lifelink', 'First strike']",fdn,mythic
+Maalfeld Twins,{5}{B},6.0,Creature — Zombie,"When Maalfeld Twins dies, create two 2/2 black Zombie creature tokens.",4,4,['B'],['B'],[],fdn,uncommon
+Macabre Waltz,{1}{B},2.0,Sorcery,"Return up to two target creature cards from your graveyard to your hand, then discard a card.",n/a,n/a,['B'],['B'],[],fdn,common
+Maelstrom Pulse,{1}{B}{G},3.0,Sorcery,Destroy target nonland permanent and all other permanents with the same name as that permanent.,n/a,n/a,"['B', 'G']","['B', 'G']",[],fdn,rare
+Magnigoth Sentry,{3}{G},4.0,Creature — Treefolk,Reach,4,4,['G'],['G'],['Reach'],fdn,common
+Make a Stand,{2}{W},3.0,Instant,"Creatures you control get +1/+0 and gain indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy them.)",n/a,n/a,['W'],['W'],[],fdn,uncommon
+Make Your Move,{2}{W},3.0,Instant,"Destroy target artifact, enchantment, or creature with power 4 or greater.",n/a,n/a,['W'],['W'],[],fdn,common
+Marauding Blight-Priest,{2}{B},3.0,Creature — Vampire Cleric,"Whenever you gain life, each opponent loses 1 life.",3,2,['B'],['B'],[],fdn,common
+Massacre Wurm,{3}{B}{B}{B},6.0,Creature — Phyrexian Wurm,"When Massacre Wurm enters, creatures your opponents control get -2/-2 until end of turn.
+Whenever a creature an opponent controls dies, that player loses 2 life.",6,5,['B'],['B'],[],fdn,mythic
+Mazemind Tome,{2},2.0,Artifact,"{T}, Put a page counter on Mazemind Tome: Scry 1.
+{2}, {T}, Put a page counter on Mazemind Tome: Draw a card.
+When there are four or more page counters on Mazemind Tome, exile it. If you do, you gain 4 life.",n/a,n/a,[],[],['Scry'],fdn,rare
+Maze's End,,0.0,Land,"Maze's End enters tapped.
+{T}: Add {C}.
+{3}, {T}, Return Maze's End to its owner's hand: Search your library for a Gate card, put it onto the battlefield, then shuffle. If you control ten or more Gates with different names, you win the game.",n/a,n/a,[],[],[],fdn,mythic
+Mentor of the Meek,{2}{W},3.0,Creature — Human Soldier,"Whenever another creature you control with power 2 or less enters, you may pay {1}. If you do, draw a card.",2,2,['W'],['W'],[],fdn,rare
+Meteor Golem,{7},7.0,Artifact Creature — Golem,"When Meteor Golem enters, destroy target nonland permanent an opponent controls.",3,3,[],[],[],fdn,uncommon
+Micromancer,{3}{U},4.0,Creature — Human Wizard,"When Micromancer enters, you may search your library for an instant or sorcery card with mana value 1, reveal it, put it into your hand, then shuffle.",3,3,['U'],['U'],[],fdn,uncommon
+Midnight Reaper,{2}{B},3.0,Creature — Zombie Knight,"Whenever a nontoken creature you control dies, Midnight Reaper deals 1 damage to you and you draw a card.",3,2,['B'],['B'],[],fdn,rare
+Midnight Snack,{2}{B},3.0,Enchantment,"Raid — At the beginning of your end step, if you attacked this turn, create a Food token. (It's an artifact with ""{2}, {T}, Sacrifice this token: You gain 3 life."")
+{2}{B}, Sacrifice this enchantment: Target opponent loses X life, where X is the amount of life you gained this turn.",n/a,n/a,['B'],['B'],"['Food', 'Raid']",fdn,uncommon
+Mild-Mannered Librarian,{G},1.0,Creature — Human,{3}{G}: Mild-Mannered Librarian becomes a Werewolf. Put two +1/+1 counters on it and you draw a card. Activate only once.,1,1,['G'],['G'],[],fdn,uncommon
+Mindsparker,{1}{R}{R},3.0,Creature — Elemental,"First strike (This creature deals combat damage before creatures without first strike.)
+Whenever an opponent casts a white or blue instant or sorcery spell, Mindsparker deals 2 damage to that player.",3,2,['R'],['R'],['First strike'],fdn,uncommon
+Mischievous Mystic,{1}{U},2.0,Creature — Human Wizard,"Flying
+Whenever you draw your second card each turn, create a 1/1 blue Faerie creature token with flying.",2,1,['U'],['U'],['Flying'],fdn,uncommon
+Mischievous Pup,{2}{W},3.0,Creature — Dog,"Flash
+When Mischievous Pup enters, return up to one other target permanent you control to its owner's hand.",3,1,['W'],['W'],['Flash'],fdn,uncommon
+Mocking Sprite,{2}{U},3.0,Creature — Faerie Rogue,"Flying
+Instant and sorcery spells you cast cost {1} less to cast.",2,1,['U'],['U'],['Flying'],fdn,common
+Mold Adder,{G},1.0,Creature — Fungus Snake,"Whenever an opponent casts a blue or black spell, you may put a +1/+1 counter on Mold Adder.",1,1,['G'],['G'],[],fdn,uncommon
+Moment of Craving,{1}{B},2.0,Instant,Target creature gets -2/-2 until end of turn. You gain 2 life.,n/a,n/a,['B'],['B'],[],fdn,common
+Moment of Triumph,{W},1.0,Instant,Target creature gets +2/+2 until end of turn. You gain 2 life.,n/a,n/a,['W'],['W'],[],fdn,common
+Mortify,{1}{W}{B},3.0,Instant,Destroy target creature or enchantment.,n/a,n/a,"['B', 'W']","['B', 'W']",[],fdn,uncommon
+Mossborn Hydra,{2}{G},3.0,Creature — Elemental Hydra,"Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+This creature enters with a +1/+1 counter on it.
+Landfall — Whenever a land you control enters, double the number of +1/+1 counters on this creature.",0,0,['G'],['G'],"['Trample', 'Landfall']",fdn,rare
+Mountain,,0.0,Basic Land — Mountain,({T}: Add {R}.),n/a,n/a,[],['R'],[],fdn,common
+"Muldrotha, the Gravetide",{3}{B}{G}{U},6.0,Legendary Creature — Elemental Avatar,"During each of your turns, you may play a land and cast a permanent spell of each permanent type from your graveyard. (If a card has multiple permanent types, choose one as you play it.)",6,6,"['B', 'G', 'U']","['B', 'G', 'U']",[],fdn,mythic
+Myojin of Night's Reach,{5}{B}{B}{B},8.0,Legendary Creature — Spirit,"Myojin of Night's Reach enters with a divinity counter on it if you cast it from your hand.
+Myojin of Night's Reach has indestructible as long as it has a divinity counter on it.
+Remove a divinity counter from Myojin of Night's Reach: Each opponent discards their hand.",5,2,['B'],['B'],[],fdn,rare
+Mystical Teachings,{3}{U},4.0,Instant,"Search your library for an instant card or a card with flash, reveal it, put it into your hand, then shuffle.
+Flashback {5}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",n/a,n/a,['U'],"['B', 'U']",['Flashback'],fdn,uncommon
+Mystic Archaeologist,{1}{U},2.0,Creature — Human Wizard,{3}{U}{U}: Draw two cards.,2,1,['U'],['U'],[],fdn,rare
+Needletooth Pack,{3}{G}{G},5.0,Creature — Dinosaur,"Morbid — At the beginning of your end step, if a creature died this turn, put two +1/+1 counters on target creature you control.",4,5,['G'],['G'],['Morbid'],fdn,uncommon
+Negate,{1}{U},2.0,Instant,Counter target noncreature spell.,n/a,n/a,['U'],['U'],[],fdn,common
+Nessian Hornbeetle,{1}{G},2.0,Creature — Insect,"At the beginning of combat on your turn, if you control another creature with power 4 or greater, put a +1/+1 counter on Nessian Hornbeetle.",2,2,['G'],['G'],[],fdn,uncommon
+New Horizons,{2}{G},3.0,Enchantment — Aura,"Enchant land
+When New Horizons enters, put a +1/+1 counter on target creature you control.
+Enchanted land has ""{T}: Add two mana of any one color.""",n/a,n/a,['G'],['G'],['Enchant'],fdn,common
+Nine-Lives Familiar,{1}{B}{B},3.0,Creature — Cat,"This creature enters with eight revival counters on it if you cast it.
+When this creature dies, if it had a revival counter on it, return it to the battlefield with one fewer revival counter on it at the beginning of the next end step.",1,1,['B'],['B'],[],fdn,rare
+"Niv-Mizzet, Visionary",{4}{U}{R},6.0,Legendary Creature — Dragon Wizard,"Flying
+You have no maximum hand size.
+Whenever a source you control deals noncombat damage to an opponent, you draw that many cards.",5,5,"['R', 'U']","['R', 'U']",['Flying'],fdn,mythic
+Nullpriest of Oblivion,{1}{B},2.0,Creature — Vampire Cleric,"Kicker {3}{B}
+Menace, lifelink
+When Nullpriest of Oblivion enters, if it was kicked, return target creature card from your graveyard to the battlefield.",2,1,['B'],['B'],"['Lifelink', 'Menace', 'Kicker']",fdn,rare
+Obliterating Bolt,{1}{R},2.0,Sorcery,"Obliterating Bolt deals 4 damage to target creature or planeswalker. If that creature or planeswalker would die this turn, exile it instead.",n/a,n/a,['R'],['R'],[],fdn,uncommon
+Offer Immortality,{1}{B},2.0,Instant,"Target creature gains deathtouch and indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy it.)",n/a,n/a,['B'],['B'],[],fdn,common
+Omniscience,{7}{U}{U}{U},10.0,Enchantment,You may cast spells from your hand without paying their mana costs.,n/a,n/a,['U'],['U'],[],fdn,mythic
+Opt,{U},1.0,Instant,"Scry 1.
+Draw a card.",n/a,n/a,['U'],['U'],['Scry'],fdn,common
+Ordeal of Nylea,{1}{G},2.0,Enchantment — Aura,"Enchant creature
+Whenever enchanted creature attacks, put a +1/+1 counter on it. Then if it has three or more +1/+1 counters on it, sacrifice Ordeal of Nylea.
+When you sacrifice Ordeal of Nylea, search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.",n/a,n/a,['G'],['G'],['Enchant'],fdn,uncommon
+Orzhov Guildgate,,0.0,Land — Gate,"Orzhov Guildgate enters tapped.
+{T}: Add {W} or {B}.",n/a,n/a,[],"['B', 'W']",[],fdn,common
+Overrun,{2}{G}{G}{G},5.0,Sorcery,Creatures you control get +3/+3 and gain trample until end of turn.,n/a,n/a,['G'],['G'],[],fdn,uncommon
+"Ovika, Enigma Goliath",{5}{U}{R},7.0,Legendary Creature — Phyrexian Nightmare,"Flying
+Ward—{3}, Pay 3 life.
+Whenever you cast a noncreature spell, create X 1/1 red Phyrexian Goblin creature tokens, where X is the mana value of that spell. They gain haste until end of turn.",6,6,"['R', 'U']","['R', 'U']","['Flying', 'Ward']",fdn,rare
+Pacifism,{1}{W},2.0,Enchantment — Aura,"Enchant creature
+Enchanted creature can't attack or block.",n/a,n/a,['W'],['W'],['Enchant'],fdn,common
+Painful Quandary,{3}{B}{B},5.0,Enchantment,"Whenever an opponent casts a spell, that player loses 5 life unless they discard a card.",n/a,n/a,['B'],['B'],[],fdn,rare
+Pelakka Wurm,{4}{G}{G}{G},7.0,Creature — Wurm,"Trample
+When Pelakka Wurm enters, you gain 7 life.
+When Pelakka Wurm dies, draw a card.",7,7,['G'],['G'],['Trample'],fdn,uncommon
+Perforating Artist,{1}{B}{R},3.0,Creature — Devil,"Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+Raid — At the beginning of your end step, if you attacked this turn, each opponent loses 3 life unless that player sacrifices a nonland permanent of their choice or discards a card.",3,2,"['B', 'R']","['B', 'R']","['Raid', 'Deathtouch']",fdn,uncommon
+Phyrexian Arena,{1}{B}{B},3.0,Enchantment,"At the beginning of your upkeep, you draw a card and you lose 1 life.",n/a,n/a,['B'],['B'],[],fdn,rare
+Pilfer,{1}{B},2.0,Sorcery,Target opponent reveals their hand. You choose a nonland card from it. That player discards that card.,n/a,n/a,['B'],['B'],[],fdn,common
+Pirate's Cutlass,{3},3.0,Artifact — Equipment,"When Pirate's Cutlass enters, attach it to target Pirate you control.
+Equipped creature gets +2/+1.
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",n/a,n/a,[],[],['Equip'],fdn,common
+Plains,,0.0,Basic Land — Plains,({T}: Add {W}.),n/a,n/a,[],['W'],[],fdn,common
+Prayer of Binding,{3}{W},4.0,Enchantment,"Flash
+When Prayer of Binding enters, exile up to one target nonland permanent an opponent controls until Prayer of Binding leaves the battlefield. You gain 2 life.",n/a,n/a,['W'],['W'],['Flash'],fdn,uncommon
+Predator Ooze,{G}{G}{G},3.0,Creature — Ooze,"Indestructible
+Whenever Predator Ooze attacks, put a +1/+1 counter on it.
+Whenever a creature dealt damage by Predator Ooze this turn dies, put a +1/+1 counter on Predator Ooze.",1,1,['G'],['G'],['Indestructible'],fdn,rare
+Preposterous Proportions,{5}{G}{G},7.0,Sorcery,Creatures you control get +10/+10 and gain vigilance until end of turn.,n/a,n/a,['G'],['G'],[],fdn,rare
+Prideful Parent,{2}{W},3.0,Creature — Cat,"Vigilance (Attacking doesn't cause this creature to tap.)
+When this creature enters, create a 1/1 white Cat creature token.",2,2,['W'],['W'],['Vigilance'],fdn,common
+Primal Might,{X}{G},1.0,Sorcery,Target creature you control gets +X/+X until end of turn. Then it fights up to one target creature you don't control.,n/a,n/a,['G'],['G'],['Fight'],fdn,rare
+Prime Speaker Zegana,{2}{G}{G}{U}{U},6.0,Legendary Creature — Merfolk Wizard,"Prime Speaker Zegana enters with X +1/+1 counters on it, where X is the greatest power among other creatures you control.
+When Prime Speaker Zegana enters, draw cards equal to its power.",1,1,"['G', 'U']","['G', 'U']",[],fdn,rare

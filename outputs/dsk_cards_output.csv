@@ -1,0 +1,523 @@
+﻿name,mana_cost,cmc,type_line,oracle_text,power,toughness,colors,color_identity,keywords,set,rarity
+Abandoned Campground,,0,Land,"Abandoned Campground enters tapped unless a player has 13 or less life.
+{T}: Add {W} or {U}.",n/a,n/a,[],"['U', 'W']",[],dsk,common
+Abhorrent Oculus,{2}{U},3,Creature — Eye,"As an additional cost to cast this spell, exile six cards from your graveyard.
+Flying
+At the beginning of each opponent's upkeep, manifest dread. (Look at the top two cards of your library. Put one onto the battlefield face down as a 2/2 creature and the other into your graveyard. Turn it face up any time for its mana cost if it's a creature card.)",5,5,['U'],['U'],"['Flying', 'Manifest', 'Manifest dread']",dsk,mythic
+Acrobatic Cheerleader,{1}{W},2,Creature — Human Survivor,"Survival — At the beginning of your second main phase, if Acrobatic Cheerleader is tapped, put a flying counter on it. This ability triggers only once.",2,2,['W'],['W'],['Survival'],dsk,common
+"Altanak, the Thrice-Called",{5}{G}{G},7,Legendary Creature — Insect Beast,"Trample
+Whenever Altanak, the Thrice-Called becomes the target of a spell or ability an opponent controls, draw a card.
+{1}{G}, Discard Altanak, the Thrice-Called: Return target land card from your graveyard to the battlefield tapped.",9,9,['G'],['G'],['Trample'],dsk,uncommon
+Anthropede,{3}{G},4,Creature — Insect,"Reach
+When Anthropede enters, you may discard a card or pay {2}. When you do, destroy target Room.",3,4,['G'],['G'],['Reach'],dsk,common
+Appendage Amalgam,{2}{B},3,Enchantment Creature — Horror,"Flash
+Whenever Appendage Amalgam attacks, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",3,2,['B'],['B'],"['Surveil', 'Flash']",dsk,common
+"Arabella, Abandoned Doll",{R}{W},2,Legendary Artifact Creature — Toy,"Whenever Arabella, Abandoned Doll attacks, it deals X damage to each opponent and you gain X life, where X is the number of creatures you control with power 2 or less.",1,3,"['R', 'W']","['R', 'W']",[],dsk,uncommon
+Attack-in-the-Box,{3},3,Artifact Creature — Toy,"Whenever Attack-in-the-Box attacks, you may have it get +4/+0 until end of turn. If you do, sacrifice it at the beginning of the next end step.",2,4,[],[],[],dsk,uncommon
+Balemurk Leech,{1}{B},2,Creature — Leech,"Eerie — Whenever an enchantment you control enters and whenever you fully unlock a Room, each opponent loses 1 life.",2,2,['B'],['B'],['Eerie'],dsk,common
+Balustrade Wurm,{3}{G}{G},5,Creature — Wurm,"This spell can't be countered.
+Trample, haste
+Delirium — {2}{G}{G}: Return Balustrade Wurm from your graveyard to the battlefield with a finality counter on it. Activate only if there are four or more card types among cards in your graveyard and only as a sorcery.",5,5,['G'],['G'],"['Delirium', 'Haste', 'Trample']",dsk,rare
+Baseball Bat,{G}{W},2,Artifact — Equipment,"When Baseball Bat enters, attach it to target creature you control.
+Equipped creature gets +1/+1.
+Whenever equipped creature attacks, tap up to one target creature.
+Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)",n/a,n/a,"['G', 'W']","['G', 'W']",['Equip'],dsk,uncommon
+Bashful Beastie,{4}{G},5,Creature — Beast,"When Bashful Beastie dies, manifest dread. (Look at the top two cards of your library. Put one onto the battlefield face down as a 2/2 creature and the other into your graveyard. Turn it face up any time for its mana cost if it's a creature card.)",5,4,['G'],['G'],"['Manifest', 'Manifest dread']",dsk,common
+Bear Trap,{1},1,Artifact,"Flash
+{3}, {T}, Sacrifice Bear Trap: It deals 3 damage to target creature.",n/a,n/a,[],[],['Flash'],dsk,common
+Beastie Beatdown,{R}{G},2,Sorcery,"Choose target creature you control and target creature an opponent controls.
+Delirium — If there are four or more card types among cards in your graveyard, put two +1/+1 counters on the creature you control.
+The creature you control deals damage equal to its power to the creature an opponent controls.",n/a,n/a,"['G', 'R']","['G', 'R']",['Delirium'],dsk,uncommon
+Bedhead Beastie,{4}{R}{R},6,Creature — Beast,"Menace (This creature can't be blocked except by two or more creatures.)
+Mountaincycling {2} ({2}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)",5,6,['R'],['R'],"['Mountaincycling', 'Landcycling', 'Menace', 'Typecycling', 'Cycling']",dsk,common
+Betrayer's Bargain,{1}{R},2,Instant,"As an additional cost to cast this spell, sacrifice a creature or enchantment or pay {2}.
+Betrayer's Bargain deals 5 damage to target creature. If that creature would die this turn, exile it instead.",n/a,n/a,['R'],['R'],[],dsk,uncommon
+Blazemire Verge,,0,Land,"{T}: Add {B}.
+{T}: Add {R}. Activate only if you control a Swamp or a Mountain.",n/a,n/a,[],"['B', 'R']",[],dsk,rare
+Bleeding Woods,,0,Land,"Bleeding Woods enters tapped unless a player has 13 or less life.
+{T}: Add {R} or {G}.",n/a,n/a,[],"['G', 'R']",[],dsk,common
+Boilerbilges Ripper,{4}{R},5,Creature — Human Assassin,"When Boilerbilges Ripper enters, you may sacrifice another creature or enchantment. When you do, Boilerbilges Ripper deals 2 damage to any target.",4,4,['R'],['R'],[],dsk,common
+Bottomless Pool // Locker Room,{U} // {4}{U},6,Enchantment — Room // Enchantment — Room,n/a,n/a,n/a,['U'],['U'],[],dsk,uncommon
+Break Down the Door,{2}{G},3,Instant,"Choose one —
+• Exile target artifact.
+• Exile target enchantment.
+• Manifest dread. (Look at the top two cards of your library. Put one onto the battlefield face down as a 2/2 creature and the other into your graveyard. Turn it face up any time for its mana cost if it's a creature card.)",n/a,n/a,['G'],['G'],"['Manifest', 'Manifest dread']",dsk,uncommon
+Broodspinner,{B}{G},2,Creature — Spider,"Reach
+When Broodspinner enters, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+{4}{B}{G}, {T}, Sacrifice Broodspinner: Create a number of 1/1 black and green Insect creature tokens with flying equal to the number of card types among cards in your graveyard.",2,3,"['B', 'G']","['B', 'G']","['Surveil', 'Reach']",dsk,uncommon
+Cackling Slasher,{3}{B},4,Creature — Human Assassin,"Deathtouch
+Cackling Slasher enters with a +1/+1 counter on it if a creature died this turn.",3,3,['B'],['B'],['Deathtouch'],dsk,common
+Cathartic Parting,{1}{G},2,Sorcery,The owner of target artifact or enchantment an opponent controls shuffles it into their library. You may shuffle up to four target cards from your graveyard into your library.,n/a,n/a,['G'],['G'],[],dsk,uncommon
+Cautious Survivor,{3}{G},4,Creature — Elf Survivor,"Survival — At the beginning of your second main phase, if Cautious Survivor is tapped, you gain 2 life.",4,4,['G'],['G'],['Survival'],dsk,common
+Central Elevator // Promising Stairs,{3}{U} // {2}{U},7,Enchantment — Room // Enchantment — Room,n/a,n/a,n/a,['U'],['U'],['Surveil'],dsk,rare
+Chainsaw,{1}{R},2,Artifact — Equipment,"When Chainsaw enters, it deals 3 damage to up to one target creature.
+Whenever one or more creatures die, put a rev counter on Chainsaw.
+Equipped creature gets +X/+0, where X is the number of rev counters on Chainsaw.
+Equip {3}",n/a,n/a,['R'],['R'],['Equip'],dsk,rare
+Charred Foyer // Warped Space,{3}{R} // {4}{R}{R},10,Enchantment — Room // Enchantment — Room,n/a,n/a,n/a,['R'],['R'],[],dsk,mythic
+Clammy Prowler,{3}{U},4,Enchantment Creature — Horror,"Whenever Clammy Prowler attacks, another target attacking creature can't be blocked this turn.",2,5,['U'],['U'],[],dsk,common
+Clockwork Percussionist,{R},1,Artifact Creature — Monkey Toy,"Haste
+When Clockwork Percussionist dies, exile the top card of your library. You may play it until the end of your next turn.",1,1,['R'],['R'],['Haste'],dsk,common
+Come Back Wrong,{2}{B},3,Sorcery,"Destroy target creature. If a creature card is put into a graveyard this way, return it to the battlefield under your control. Sacrifice it at the beginning of your next end step.",n/a,n/a,['B'],['B'],[],dsk,rare
+Commune with Evil,{2}{B},3,Sorcery,Look at the top four cards of your library. Put one of them into your hand and the rest into your graveyard. You gain 3 life.,n/a,n/a,['B'],['B'],[],dsk,uncommon
+Conductive Machete,{4},4,Artifact — Equipment,"When Conductive Machete enters, manifest dread, then attach Conductive Machete to that creature. (Look at the top two cards of your library. Put one onto the battlefield face down as a 2/2 creature and the other into your graveyard. Turn it face up any time for its mana cost if it's a creature card.)
+Equipped creature gets +2/+1.
+Equip {4}",n/a,n/a,[],[],"['Manifest', 'Manifest dread', 'Equip']",dsk,uncommon
+Coordinated Clobbering,{G},1,Sorcery,Tap one or two target untapped creatures you control. They each deal damage equal to their power to target creature an opponent controls.,n/a,n/a,['G'],['G'],[],dsk,uncommon
+Cracked Skull,{2}{B},3,Enchantment — Aura,"Enchant creature
+When Cracked Skull enters, look at target player's hand. You may choose a nonland card from it. That player discards that card.
+When enchanted creature is dealt damage, destroy it.",n/a,n/a,['B'],['B'],['Enchant'],dsk,common
+Creeping Peeper,{1}{U},2,Creature — Eye,"{T}: Add {U}. Spend this mana only to cast an enchantment spell, unlock a door, or turn a permanent face up.",2,1,['U'],['U'],[],dsk,common
+Cryptid Inspector,{2}{G},3,Creature — Elf Warrior,"Vigilance
+Whenever a face-down permanent you control enters and whenever Cryptid Inspector or another permanent you control is turned face up, put a +1/+1 counter on Cryptid Inspector.",2,3,['G'],['G'],['Vigilance'],dsk,common
+Cult Healer,{2}{W},3,Creature — Human Doctor,"Eerie — Whenever an enchantment you control enters and whenever you fully unlock a Room, Cult Healer gains lifelink until end of turn.",3,3,['W'],['W'],['Eerie'],dsk,common
+Cursed Recording,{2}{R}{R},4,Artifact,"Whenever you cast an instant or sorcery spell, put a time counter on Cursed Recording. Then if there are seven or more time counters on it, remove those counters and it deals 20 damage to you.
+{T}: When you next cast an instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy.",n/a,n/a,['R'],['R'],[],dsk,rare
+Cursed Windbreaker,{2}{U},3,Artifact — Equipment,"When Cursed Windbreaker enters, manifest dread, then attach Cursed Windbreaker to that creature. (Look at the top two cards of your library. Put one onto the battlefield face down as a 2/2 creature and the other into your graveyard. Turn it face up any time for its mana cost if it's a creature card.)
+Equipped creature has flying.
+Equip {3}",n/a,n/a,['U'],['U'],"['Manifest', 'Manifest dread', 'Equip']",dsk,uncommon
+Cynical Loner,{1}{B},2,Creature — Human Survivor,"Cynical Loner can't be blocked by Glimmers.
+Survival — At the beginning of your second main phase, if Cynical Loner is tapped, you may search your library for a card, put it into your graveyard, then shuffle.",3,1,['B'],['B'],['Survival'],dsk,uncommon
+Daggermaw Megalodon,{4}{U}{U},6,Creature — Shark,"Vigilance
+Islandcycling {2} ({2}, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)",5,7,['U'],['U'],"['Islandcycling', 'Vigilance', 'Landcycling', 'Typecycling', 'Cycling']",dsk,common
+Dashing Bloodsucker,{3}{B},4,Creature — Vampire Warrior,"Eerie — Whenever an enchantment you control enters and whenever you fully unlock a Room, Dashing Bloodsucker gets +2/+0 and gains lifelink until end of turn.",2,5,['B'],['B'],['Eerie'],dsk,uncommon
+Dazzling Theater // Prop Room,{3}{W} // {2}{W},7,Enchantment — Room // Enchantment — Room,n/a,n/a,n/a,['W'],['W'],[],dsk,rare
+Defiant Survivor,{2}{G},3,Creature — Human Survivor,"Survival — At the beginning of your second main phase, if Defiant Survivor is tapped, manifest dread. (Look at the top two cards of your library. Put one onto the battlefield face down as a 2/2 creature and the other into your graveyard. Turn it face up any time for its mana cost if it's a creature card.)",3,2,['G'],['G'],"['Manifest', 'Survival', 'Manifest dread']",dsk,uncommon
+Defiled Crypt // Cadaver Lab,{3}{B} // {B},5,Enchantment — Room // Enchantment — Room,n/a,n/a,n/a,['B'],['B'],[],dsk,uncommon
+Demonic Counsel,{1}{B},2,Sorcery,"Search your library for a Demon card, reveal it, put it into your hand, then shuffle.
+Delirium — If there are four or more card types among cards in your graveyard, instead search your library for any card, put it into your hand, then shuffle.",n/a,n/a,['B'],['B'],['Delirium'],dsk,rare
+Derelict Attic // Widow's Walk,{2}{B} // {3}{B},7,Enchantment — Room // Enchantment — Room,n/a,n/a,n/a,['B'],['B'],[],dsk,common
+Dissection Tools,{5},5,Artifact — Equipment,"When Dissection Tools enters, manifest dread, then attach Dissection Tools to that creature.
+Equipped creature gets +2/+2 and has deathtouch and lifelink.
+Equip—Sacrifice a creature.",n/a,n/a,[],[],"['Manifest', 'Manifest dread', 'Equip']",dsk,rare
+Disturbing Mirth,{B}{R},2,Enchantment,"When Disturbing Mirth enters, you may sacrifice another enchantment or creature. If you do, draw two cards.
+When you sacrifice Disturbing Mirth, manifest dread. (Look at the top two cards of your library. Put one onto the battlefield face down as a 2/2 creature and the other into your graveyard. Turn it face up any time for its mana cost if it's a creature card.)",n/a,n/a,"['B', 'R']","['B', 'R']","['Manifest', 'Manifest dread']",dsk,uncommon
+Diversion Specialist,{3}{R},4,Creature — Human Warrior,"Menace (This creature can't be blocked except by two or more creatures.)
+{1}, Sacrifice another creature or enchantment: Exile the top card of your library. You may play it this turn.",4,3,['R'],['R'],['Menace'],dsk,uncommon
+Dollmaker's Shop // Porcelain Gallery,{1}{W} // {4}{W}{W},8,Enchantment — Room // Enchantment — Room,n/a,n/a,n/a,['W'],['W'],[],dsk,mythic
+Don't Make a Sound,{1}{U},2,Instant,"Counter target spell unless its controller pays {2}. If they do, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)",n/a,n/a,['U'],['U'],['Surveil'],dsk,common
+Doomsday Excruciator,{B}{B}{B}{B}{B}{B},6,Creature — Demon,"Flying
+When Doomsday Excruciator enters, if it was cast, each player exiles all but the bottom six cards of their library face down.
+At the beginning of your upkeep, draw a card.",6,6,['B'],['B'],['Flying'],dsk,rare
+Drag to the Roots,{2}{B}{G},4,Instant,"Delirium — This spell costs {2} less to cast as long as there are four or more card types among cards in your graveyard.
+Destroy target nonland permanent.",n/a,n/a,"['B', 'G']","['B', 'G']",['Delirium'],dsk,uncommon
+Duskmourn's Domination,{4}{U}{U},6,Enchantment — Aura,"Enchant creature
+You control enchanted creature.
+Enchanted creature gets -3/-0 and loses all abilities.",n/a,n/a,['U'],['U'],['Enchant'],dsk,uncommon
+Emerge from the Cocoon,{4}{W},5,Sorcery,Return target creature card from your graveyard to the battlefield. You gain 3 life.,n/a,n/a,['W'],['W'],[],dsk,common
+Enduring Courage,{2}{R}{R},4,Enchantment Creature — Dog Glimmer,"Whenever another creature you control enters, it gets +2/+0 and gains haste until end of turn.
+When Enduring Courage dies, if it was a creature, return it to the battlefield under its owner's control. It's an enchantment. (It's not a creature.)",3,3,['R'],['R'],[],dsk,rare
+Enduring Curiosity,{2}{U}{U},4,Enchantment Creature — Cat Glimmer,"Flash
+Whenever a creature you control deals combat damage to a player, draw a card.
+When Enduring Curiosity dies, if it was a creature, return it to the battlefield under its owner's control. It's an enchantment. (It's not a creature.)",4,3,['U'],['U'],['Flash'],dsk,rare
+Enduring Innocence,{1}{W}{W},3,Enchantment Creature — Sheep Glimmer,"Lifelink
+Whenever one or more other creatures you control with power 2 or less enter, draw a card. This ability triggers only once each turn.
+When Enduring Innocence dies, if it was a creature, return it to the battlefield under its owner's control. It's an enchantment. (It's not a creature.)",2,1,['W'],['W'],['Lifelink'],dsk,rare
+Enduring Tenacity,{2}{B}{B},4,Enchantment Creature — Snake Glimmer,"Whenever you gain life, target opponent loses that much life.
+When Enduring Tenacity dies, if it was a creature, return it to the battlefield under its owner's control. It's an enchantment. (It's not a creature.)",4,3,['B'],['B'],[],dsk,rare
+Enduring Vitality,{1}{G}{G},3,Enchantment Creature — Elk Glimmer,"Vigilance
+Creatures you control have ""{T}: Add one mana of any color.""
+When Enduring Vitality dies, if it was a creature, return it to the battlefield under its owner's control. It's an enchantment. (It's not a creature.)",3,3,['G'],['G'],['Vigilance'],dsk,rare
+Enter the Enigma,{U},1,Sorcery,"Target creature can't be blocked this turn.
+Draw a card.",n/a,n/a,['U'],['U'],[],dsk,common
+Entity Tracker,{2}{U},3,Creature — Human Scout,"Flash
+Eerie — Whenever an enchantment you control enters and whenever you fully unlock a Room, draw a card.",2,3,['U'],['U'],"['Flash', 'Eerie']",dsk,rare
+Erratic Apparition,{2}{U},3,Creature — Spirit,"Flying, vigilance
+Eerie — Whenever an enchantment you control enters and whenever you fully unlock a Room, Erratic Apparition gets +1/+1 until end of turn.",1,3,['U'],['U'],"['Flying', 'Vigilance', 'Eerie']",dsk,common
+Etched Cornfield,,0,Land,"Etched Cornfield enters tapped unless a player has 13 or less life.
+{T}: Add {G} or {W}.",n/a,n/a,[],"['G', 'W']",[],dsk,common
+Ethereal Armor,{W},1,Enchantment — Aura,"Enchant creature
+Enchanted creature gets +1/+1 for each enchantment you control and has first strike.",n/a,n/a,['W'],['W'],['Enchant'],dsk,uncommon
+Exorcise,{1}{W},2,Sorcery,"Exile target artifact, enchantment, or creature with power 4 or greater.",n/a,n/a,['W'],['W'],[],dsk,uncommon
+Fanatic of the Harrowing,{3}{B},4,Creature — Human Cleric,"When Fanatic of the Harrowing enters, each player discards a card. If you discarded a card this way, draw a card.",2,2,['B'],['B'],[],dsk,common
+Fear of Abduction,{4}{W}{W},6,Enchantment Creature — Nightmare,"As an additional cost to cast this spell, exile a creature you control.
+Flying
+When Fear of Abduction enters, exile target creature an opponent controls.
+When Fear of Abduction leaves the battlefield, put each card exiled with it into its owner's hand.",5,5,['W'],['W'],['Flying'],dsk,uncommon
+Fear of Being Hunted,{1}{R}{R},3,Enchantment Creature — Nightmare,"Haste
+Fear of Being Hunted must be blocked if able.",4,2,['R'],['R'],['Haste'],dsk,uncommon
+Fear of Burning Alive,{4}{R}{R},6,Enchantment Creature — Nightmare,"When Fear of Burning Alive enters, it deals 4 damage to each opponent.
+Delirium — Whenever a source you control deals noncombat damage to an opponent, if there are four or more card types among cards in your graveyard, Fear of Burning Alive deals that amount of damage to target creature that player controls.",4,4,['R'],['R'],['Delirium'],dsk,uncommon
+Fear of Exposure,{2}{G},3,Enchantment Creature — Nightmare,"As an additional cost to cast this spell, tap two untapped creatures and/or lands you control.
+Trample",5,4,['G'],['G'],['Trample'],dsk,uncommon
+Fear of Failed Tests,{4}{U},5,Enchantment Creature — Nightmare,"Whenever Fear of Failed Tests deals combat damage to a player, draw that many cards.",2,7,['U'],['U'],[],dsk,uncommon
+Fear of Falling,{3}{U}{U},5,Enchantment Creature — Nightmare,"Flying
+Whenever Fear of Falling attacks, target creature defending player controls gets -2/-0 and loses flying until your next turn.",4,4,['U'],['U'],['Flying'],dsk,uncommon
+Fear of Immobility,{4}{W},5,Enchantment Creature — Nightmare,"When Fear of Immobility enters, tap up to one target creature. If an opponent controls that creature, put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)",4,4,['W'],['W'],[],dsk,common
+Fear of Impostors,{1}{U}{U},3,Enchantment Creature — Nightmare,"Flash
+When Fear of Impostors enters, counter target spell. Its controller manifests dread. (That player looks at the top two cards of their library, then puts one onto the battlefield face down as a 2/2 creature and the other into their graveyard. If it's a creature card, it can be turned face up any time for its mana cost.)",3,2,['U'],['U'],['Flash'],dsk,uncommon
+Fear of Infinity,{1}{U}{B},3,Enchantment Creature — Nightmare,"Flying, lifelink
+Fear of Infinity can't block.
+Eerie — Whenever an enchantment you control enters and whenever you fully unlock a Room, you may return Fear of Infinity from your graveyard to your hand.",2,2,"['B', 'U']","['B', 'U']","['Flying', 'Lifelink', 'Eerie']",dsk,uncommon
+Fear of Isolation,{1}{U},2,Enchantment Creature — Nightmare,"As an additional cost to cast this spell, return a permanent you control to its owner's hand.
+Flying",2,3,['U'],['U'],['Flying'],dsk,uncommon
+Fear of Lost Teeth,{B},1,Enchantment Creature — Nightmare,"When Fear of Lost Teeth dies, it deals 1 damage to any target and you gain 1 life.",1,1,['B'],['B'],[],dsk,common
+Fear of Missing Out,{1}{R},2,Enchantment Creature — Nightmare,"When Fear of Missing Out enters, discard a card, then draw a card.
+Delirium — Whenever Fear of Missing Out attacks for the first time each turn, if there are four or more card types among cards in your graveyard, untap target creature. After this phase, there is an additional combat phase.",2,3,['R'],['R'],['Delirium'],dsk,rare
+Fear of Surveillance,{1}{W},2,Enchantment Creature — Nightmare,"Vigilance
+Whenever Fear of Surveillance attacks, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",2,2,['W'],['W'],"['Surveil', 'Vigilance']",dsk,common
+Fear of the Dark,{4}{B},5,Enchantment Creature — Nightmare,"Whenever Fear of the Dark attacks, if defending player controls no Glimmer creatures, it gains menace and deathtouch until end of turn. (A creature with menace can't be blocked except by two or more creatures.)",5,5,['B'],['B'],[],dsk,common
+Final Vengeance,{B},1,Sorcery,"As an additional cost to cast this spell, sacrifice a creature or enchantment.
+Exile target creature.",n/a,n/a,['B'],['B'],[],dsk,common
+Flesh Burrower,{1}{G},2,Creature — Insect,"Deathtouch
+Whenever Flesh Burrower attacks, another target creature you control gains deathtouch until end of turn.",2,2,['G'],['G'],['Deathtouch'],dsk,common
+Floodfarm Verge,,0,Land,"{T}: Add {W}.
+{T}: Add {U}. Activate only if you control a Plains or an Island.",n/a,n/a,[],"['U', 'W']",[],dsk,rare
+Floodpits Drowner,{1}{U},2,Creature — Merfolk,"Flash
+Vigilance
+When Floodpits Drowner enters, tap target creature an opponent controls and put a stun counter on it.
+{1}{U}, {T}: Shuffle Floodpits Drowner and target creature with a stun counter on it into their owners' libraries.",2,1,['U'],['U'],"['Vigilance', 'Flash']",dsk,uncommon
+Forest,,0,Basic Land — Forest,({T}: Add {G}.),n/a,n/a,[],['G'],[],dsk,common
+Found Footage,{1},1,Artifact — Clue,"You may look at face-down creatures your opponents control any time.
+{2}, Sacrifice Found Footage: Surveil 2, then draw a card. (To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)",n/a,n/a,[],[],['Surveil'],dsk,common
+Frantic Strength,{2}{G},3,Enchantment — Aura,"Flash
+Enchant creature
+Enchanted creature gets +2/+2 and has trample.",n/a,n/a,['G'],['G'],"['Enchant', 'Flash']",dsk,common
+Friendly Ghost,{3}{W},4,Creature — Spirit,"Flying
+When Friendly Ghost enters, target creature gets +2/+4 until end of turn.",2,4,['W'],['W'],['Flying'],dsk,common
+Friendly Teddy,{2},2,Artifact Creature — Bear Toy,"When Friendly Teddy dies, each player draws a card.",2,2,[],[],[],dsk,common
+Funeral Room // Awakening Hall,{2}{B} // {6}{B}{B},11,Enchantment — Room // Enchantment — Room,n/a,n/a,n/a,['B'],['B'],[],dsk,mythic
+Get Out,{U}{U},2,Instant,"Choose one —
+• Counter target creature or enchantment spell.
+• Return one or two target creatures and/or enchantments you own to your hand.",n/a,n/a,['U'],['U'],[],dsk,uncommon
+Ghostly Dancers,{3}{W}{W},5,Creature — Spirit,"Flying
+When Ghostly Dancers enters, return an enchantment card from your graveyard to your hand or unlock a locked door of a Room you control.
+Eerie — Whenever an enchantment you control enters and whenever you fully unlock a Room, create a 3/1 white Spirit creature token with flying.",2,5,['W'],['W'],"['Flying', 'Eerie']",dsk,rare
+Ghostly Keybearer,{3}{U},4,Creature — Spirit,"Flying
+Whenever Ghostly Keybearer deals combat damage to a player, unlock a locked door of up to one target Room you control.",3,3,['U'],['U'],['Flying'],dsk,uncommon
+Ghost Vacuum,{1},1,Artifact,"{T}: Exile target card from a graveyard.
+{6}, {T}, Sacrifice Ghost Vacuum: Put each creature card exiled with Ghost Vacuum onto the battlefield under your control with a flying counter on it. Each of them is a 1/1 Spirit in addition to its other types. Activate only as a sorcery.",n/a,n/a,[],[],[],dsk,rare
+Give In to Violence,{1}{B},2,Instant,Target creature gets +2/+2 and gains lifelink until end of turn.,n/a,n/a,['B'],['B'],[],dsk,common
+Glassworks // Shattered Yard,{2}{R} // {4}{R},8,Enchantment — Room // Enchantment — Room,n/a,n/a,n/a,['R'],['R'],[],dsk,common
+Glimmerburst,{3}{U},4,Instant,Draw two cards. Create a 1/1 white Glimmer enchantment creature token.,n/a,n/a,['U'],['U'],[],dsk,common
+Glimmerlight,{2},2,Artifact — Equipment,"When Glimmerlight enters, create a 1/1 white Glimmer enchantment creature token.
+Equipped creature gets +1/+1.
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",n/a,n/a,[],[],['Equip'],dsk,common
+Glimmer Seeker,{2}{W},3,Creature — Human Survivor,"Survival — At the beginning of your second main phase, if Glimmer Seeker is tapped, draw a card if you control a Glimmer creature. If you don't control a Glimmer creature, create a 1/1 white Glimmer enchantment creature token.",3,3,['W'],['W'],['Survival'],dsk,uncommon
+Gloomlake Verge,,0,Land,"{T}: Add {U}.
+{T}: Add {B}. Activate only if you control an Island or a Swamp.",n/a,n/a,[],"['B', 'U']",[],dsk,rare
+Grab the Prize,{1}{R},2,Sorcery,"As an additional cost to cast this spell, discard a card.
+Draw two cards. If the discarded card wasn't a land card, Grab the Prize deals 2 damage to each opponent.",n/a,n/a,['R'],['R'],[],dsk,common
+Grand Entryway // Elegant Rotunda,{1}{W} // {2}{W},5,Enchantment — Room // Enchantment — Room,n/a,n/a,n/a,['W'],['W'],[],dsk,common
+Grasping Longneck,{2}{G},3,Enchantment Creature — Horror,"Reach
+When Grasping Longneck dies, you gain 2 life.",4,2,['G'],['G'],['Reach'],dsk,common
+Greenhouse // Rickety Gazebo,{2}{G} // {3}{G},7,Enchantment — Room // Enchantment — Room,n/a,n/a,n/a,['G'],['G'],['Mill'],dsk,uncommon
+Gremlin Tamer,{W}{U},2,Creature — Human Scout,"Eerie — Whenever an enchantment you control enters and whenever you fully unlock a Room, create a 1/1 red Gremlin creature token.",2,2,"['U', 'W']","['U', 'W']",['Eerie'],dsk,uncommon
+Grievous Wound,{3}{B}{B},5,Enchantment — Aura,"Enchant player
+Enchanted player can't gain life.
+Whenever enchanted player is dealt damage, they lose half their life, rounded up.",n/a,n/a,['B'],['B'],['Enchant'],dsk,rare
+Growing Dread,{G}{U},2,Enchantment,"Flash
+When Growing Dread enters, manifest dread. (Look at the top two cards of your library. Put one onto the battlefield face down as a 2/2 creature and the other into your graveyard. Turn it face up any time for its mana cost if it's a creature card.)
+Whenever you turn a permanent face up, put a +1/+1 counter on it.",n/a,n/a,"['G', 'U']","['G', 'U']","['Manifest', 'Manifest dread', 'Flash']",dsk,uncommon
+Hand That Feeds,{1}{R},2,Creature — Mutant,"Delirium — Whenever Hand That Feeds attacks while there are four or more card types among cards in your graveyard, it gets +2/+0 and gains menace until end of turn. (It can't be blocked except by two or more creatures.)",2,2,['R'],['R'],['Delirium'],dsk,common
+Hardened Escort,{2}{W},3,Creature — Human Soldier,"Whenever Hardened Escort attacks, another target creature you control gets +1/+0 and gains indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy it.)",2,4,['W'],['W'],[],dsk,common
+Haunted Screen,{3},3,Artifact,"{T}: Add {W} or {B}.
+{T}, Pay 1 life: Add {G}, {U}, or {R}.
+{7}: Put seven +1/+1 counters on Haunted Screen. It becomes a 0/0 Spirit creature in addition to its other types. Activate only once.",n/a,n/a,[],"['B', 'G', 'R', 'U', 'W']",[],dsk,uncommon
+Hauntwoods Shrieker,{1}{G}{G},3,Creature — Beast Mutant,"Whenever Hauntwoods Shrieker attacks, manifest dread. (Look at the top two cards of your library. Put one onto the battlefield face down as a 2/2 creature and the other into your graveyard. Turn it face up any time for its mana cost if it's a creature card.)
+{1}{G}: Reveal target face-down permanent. If it's a creature card, you may turn it face up.",3,3,['G'],['G'],"['Manifest', 'Manifest dread']",dsk,mythic
+Hedge Shredder,{2}{G}{G},4,Artifact — Vehicle,"Whenever Hedge Shredder attacks, you may mill two cards.
+Whenever one or more land cards are put into your graveyard from your library, put them onto the battlefield tapped.
+Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)",5,5,['G'],['G'],"['Crew', 'Mill']",dsk,rare
+Horrid Vigor,{1}{G},2,Instant,Target creature gains deathtouch and indestructible until end of turn.,n/a,n/a,['G'],['G'],[],dsk,common
+House Cartographer,{1}{G},2,Creature — Human Scout Survivor,"Survival — At the beginning of your second main phase, if House Cartographer is tapped, reveal cards from the top of your library until you reveal a land card. Put that card into your hand and the rest on the bottom of your library in a random order.",2,2,['G'],['G'],['Survival'],dsk,uncommon
+Hushwood Verge,,0,Land,"{T}: Add {G}.
+{T}: Add {W}. Activate only if you control a Forest or a Plains.",n/a,n/a,[],"['G', 'W']",[],dsk,rare
+Impossible Inferno,{4}{R},5,Instant,"Impossible Inferno deals 6 damage to target creature.
+Delirium — If there are four or more card types among cards in your graveyard, exile the top card of your library. You may play it until the end of your next turn.",n/a,n/a,['R'],['R'],['Delirium'],dsk,common
+Infernal Phantom,{3}{R},4,Creature — Spirit,"Eerie — Whenever an enchantment you control enters and whenever you fully unlock a Room, Infernal Phantom gets +2/+0 until end of turn.
+When Infernal Phantom dies, it deals damage equal to its power to any target.",2,3,['R'],['R'],['Eerie'],dsk,uncommon
+Innocuous Rat,{1}{B},2,Creature — Rat,"When Innocuous Rat dies, manifest dread. (Look at the top two cards of your library. Put one onto the battlefield face down as a 2/2 creature and the other into your graveyard. Turn it face up any time for its mana cost if it's a creature card.)",1,1,['B'],['B'],"['Manifest', 'Manifest dread']",dsk,common
+Inquisitive Glimmer,{W}{U},2,Enchantment Creature — Fox Glimmer,"Enchantment spells you cast cost {1} less to cast.
+Unlock costs you pay cost {1} less.",2,3,"['U', 'W']","['U', 'W']",[],dsk,uncommon
+Insidious Fungus,{G},1,Creature — Fungus,"{2}, Sacrifice Insidious Fungus: Choose one —
+• Destroy target artifact.
+• Destroy target enchantment.
+• Draw a card. Then you may put a land card from your hand onto the battlefield tapped.",1,2,['G'],['G'],[],dsk,uncommon
+Intruding Soulrager,{U}{R},2,Creature — Spirit,"Vigilance
+{T}, Sacrifice a Room: Intruding Soulrager deals 2 damage to each opponent. Draw a card.",2,2,"['R', 'U']","['R', 'U']",['Vigilance'],dsk,uncommon
+Irreverent Gremlin,{1}{R},2,Creature — Gremlin,"Menace (This creature can't be blocked except by two or more creatures.)
+Whenever another creature you control with power 2 or less enters, you may discard a card. If you do, draw a card. Do this only once each turn.",2,2,['R'],['R'],['Menace'],dsk,uncommon
+Island,,0,Basic Land — Island,({T}: Add {U}.),n/a,n/a,[],['U'],[],dsk,common
+Jump Scare,{W},1,Instant,"Until end of turn, target creature gets +2/+2, gains flying, and becomes a Horror enchantment creature in addition to its other types.",n/a,n/a,['W'],['W'],[],dsk,common
+"Kaito, Bane of Nightmares",{2}{U}{B},4,Legendary Planeswalker — Kaito,"Ninjutsu {1}{U}{B} ({1}{U}{B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+During your turn, as long as Kaito has one or more loyalty counters on him, he's a 3/4 Ninja creature and has hexproof.
++1: You get an emblem with ""Ninjas you control get +1/+1.""
+0: Surveil 2. Then draw a card for each opponent who lost life this turn.
+−2: Tap target creature. Put two stun counters on it.",n/a,n/a,"['B', 'U']","['B', 'U']","['Surveil', 'Ninjutsu']",dsk,mythic
+Keys to the House,{1},1,Artifact,"{1}, {T}, Sacrifice Keys to the House: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+{3}, {T}, Sacrifice Keys to the House: Lock or unlock a door of target Room you control. Activate only as a sorcery.",n/a,n/a,[],[],[],dsk,uncommon
+Killer's Mask,{2}{B},3,Artifact — Equipment,"When Killer's Mask enters, manifest dread, then attach Killer's Mask to that creature. (Look at the top two cards of your library. Put one onto the battlefield face down as a 2/2 creature and the other into your graveyard. Turn it face up any time for its mana cost if it's a creature card.)
+Equipped creature has menace.
+Equip {2}",n/a,n/a,['B'],['B'],"['Manifest', 'Manifest dread', 'Equip']",dsk,uncommon
+"Kona, Rescue Beastie",{3}{G},4,Legendary Creature — Beast Survivor,"Survival — At the beginning of your second main phase, if Kona, Rescue Beastie is tapped, you may put a permanent card from your hand onto the battlefield.",4,3,['G'],['G'],['Survival'],dsk,rare
+Lakeside Shack,,0,Land,"Lakeside Shack enters tapped unless a player has 13 or less life.
+{T}: Add {G} or {U}.",n/a,n/a,[],"['G', 'U']",[],dsk,common
+Let's Play a Game,{3}{B},4,Sorcery,"Delirium — Choose one. If there are four or more card types among cards in your graveyard, choose one or more instead.
+• Creatures your opponents control get -1/-1 until end of turn.
+• Each opponent discards two cards.
+• Each opponent loses 3 life and you gain 3 life.",n/a,n/a,['B'],['B'],['Delirium'],dsk,uncommon
+Leyline of Hope,{2}{W}{W},4,Enchantment,"If Leyline of Hope is in your opening hand, you may begin the game with it on the battlefield.
+If you would gain life, you gain that much life plus 1 instead.
+As long as you have at least 7 life more than your starting life total, creatures you control get +2/+2.",n/a,n/a,['W'],['W'],[],dsk,rare
+Leyline of Mutation,{2}{G}{G},4,Enchantment,"If Leyline of Mutation is in your opening hand, you may begin the game with it on the battlefield.
+You may pay {W}{U}{B}{R}{G} rather than pay the mana cost for spells that you cast.",n/a,n/a,['G'],"['B', 'G', 'R', 'U', 'W']",[],dsk,rare
+Leyline of Resonance,{2}{R}{R},4,Enchantment,"If Leyline of Resonance is in your opening hand, you may begin the game with it on the battlefield.
+Whenever you cast an instant or sorcery spell that targets only a single creature you control, copy that spell. You may choose new targets for the copy.",n/a,n/a,['R'],['R'],[],dsk,rare
+Leyline of the Void,{2}{B}{B},4,Enchantment,"If Leyline of the Void is in your opening hand, you may begin the game with it on the battlefield.
+If a card would be put into an opponent's graveyard from anywhere, exile it instead.",n/a,n/a,['B'],['B'],[],dsk,rare
+Leyline of Transformation,{2}{U}{U},4,Enchantment,"If Leyline of Transformation is in your opening hand, you may begin the game with it on the battlefield.
+As Leyline of Transformation enters, choose a creature type.
+Creatures you control are the chosen type in addition to their other types. The same is true for creature spells you control and creature cards you own that aren't on the battlefield.",n/a,n/a,['U'],['U'],[],dsk,rare
+Lionheart Glimmer,{3}{W}{W},5,Enchantment Creature — Cat Glimmer,"Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+Whenever you attack, creatures you control get +1/+1 until end of turn.",2,5,['W'],['W'],['Ward'],dsk,uncommon
+Live or Die,{3}{B}{B},5,Instant,"Choose one —
+• Return target creature card from your graveyard to the battlefield.
+• Destroy target creature.",n/a,n/a,['B'],['B'],[],dsk,uncommon
+Living Phone,{2}{W},3,Artifact Creature — Toy,"When Living Phone dies, look at the top five cards of your library. You may reveal a creature card with power 2 or less from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",2,1,['W'],['W'],[],dsk,common
+Malevolent Chandelier,{6},6,Artifact Creature — Construct,"Flying
+{2}: Put target card from a graveyard on the bottom of its owner's library. Activate only as a sorcery.",4,4,[],[],['Flying'],dsk,common
+Manifest Dread,{1}{G},2,Sorcery,Manifest dread. (Look at the top two cards of your library. Put one onto the battlefield face down as a 2/2 creature and the other into your graveyard. Turn it face up any time for its mana cost if it's a creature card.),n/a,n/a,['G'],['G'],"['Manifest', 'Manifest dread']",dsk,common
+Marina Vendrell,{W}{U}{B}{R}{G},5,Legendary Creature — Human Warlock,"When Marina Vendrell enters, reveal the top seven cards of your library. Put all enchantment cards from among them into your hand and the rest on the bottom of your library in a random order.
+{T}: Lock or unlock a door of target Room you control. Activate only as a sorcery.",3,5,"['B', 'G', 'R', 'U', 'W']","['B', 'G', 'R', 'U', 'W']",[],dsk,rare
+Marina Vendrell's Grimoire,{5}{U},6,Legendary Artifact,"When Marina Vendrell's Grimoire enters, if you cast it, draw five cards.
+You have no maximum hand size and don't lose the game for having 0 or less life.
+Whenever you gain life, draw that many cards.
+Whenever you lose life, discard that many cards. Then if you have no cards in hand, you lose the game.",n/a,n/a,['U'],['U'],[],dsk,rare
+"Marvin, Murderous Mimic",{2},2,Legendary Artifact Creature — Toy,"Marvin, Murderous Mimic has all activated abilities of creatures you control that don't have the same name as this creature.",2,2,[],[],[],dsk,rare
+Meathook Massacre II,{X}{X}{B}{B}{B}{B},4,Legendary Enchantment,"When Meathook Massacre II enters, each player sacrifices X creatures.
+Whenever a creature you control dies, you may pay 3 life. If you do, return that card under your control with a finality counter on it.
+Whenever a creature an opponent controls dies, they may pay 3 life. If they don't, return that card under your control with a finality counter on it.",n/a,n/a,['B'],['B'],[],dsk,mythic
+Meat Locker // Drowned Diner,{2}{U} // {3}{U}{U},8,Enchantment — Room // Enchantment — Room,n/a,n/a,n/a,['U'],['U'],[],dsk,common
+Miasma Demon,{4}{B}{B},6,Creature — Demon,"Flying
+When Miasma Demon enters, you may discard any number of cards. When you do, up to that many target creatures each get -2/-2 until end of turn.",5,4,['B'],['B'],['Flying'],dsk,uncommon
+Midnight Mayhem,{2}{R}{W},4,Sorcery,"Create three 1/1 red Gremlin creature tokens. Gremlins you control gain menace, lifelink, and haste until end of turn. (A creature with menace can't be blocked except by two or more creatures.)",n/a,n/a,"['R', 'W']","['R', 'W']",[],dsk,uncommon
+Mirror Room // Fractured Realm,{2}{U} // {5}{U}{U},10,Enchantment — Room // Enchantment — Room,n/a,n/a,n/a,['U'],['U'],[],dsk,mythic
+Moldering Gym // Weight Room,{2}{G} // {5}{G},9,Enchantment — Room // Enchantment — Room,n/a,n/a,n/a,['G'],['G'],"['Manifest', 'Manifest dread']",dsk,common
+Monstrous Emergence,{1}{G},2,Sorcery,"As an additional cost to cast this spell, choose a creature you control or reveal a creature card from your hand.
+Monstrous Emergence deals damage equal to the power of the creature you chose or the card you revealed to target creature.",n/a,n/a,['G'],['G'],[],dsk,common
+Most Valuable Slayer,{3}{R},4,Creature — Human Warrior,"Whenever you attack, target attacking creature gets +1/+0 and gains first strike until end of turn.",2,4,['R'],['R'],[],dsk,common
+Mountain,,0,Basic Land — Mountain,({T}: Add {R}.),n/a,n/a,[],['R'],[],dsk,common
+Murder,{1}{B}{B},3,Instant,Destroy target creature.,n/a,n/a,['B'],['B'],[],dsk,common
+Murky Sewer,,0,Land,"Murky Sewer enters tapped unless a player has 13 or less life.
+{T}: Add {U} or {B}.",n/a,n/a,[],"['B', 'U']",[],dsk,common
+"Nashi, Searcher in the Dark",{U}{B},2,Legendary Creature — Rat Ninja Wizard,"Menace
+Whenever Nashi, Searcher in the Dark deals combat damage to a player, you mill that many cards. You may put any number of legendary and/or enchantment cards from among them into your hand. If you put no cards into your hand this way, put a +1/+1 counter on Nashi.",2,2,"['B', 'U']","['B', 'U']","['Menace', 'Mill']",dsk,rare
+Neglected Manor,,0,Land,"Neglected Manor enters tapped unless a player has 13 or less life.
+{T}: Add {W} or {B}.",n/a,n/a,[],"['B', 'W']",[],dsk,common
+"Niko, Light of Hope",{2}{W}{U},4,Legendary Creature — Human Wizard,"When Niko, Light of Hope enters, create two Shard tokens. (They're enchantments with ""{2}, Sacrifice this enchantment: Scry 1, then draw a card."")
+{2}, {T}: Exile target nonlegendary creature you control. Shards you control become copies of it until the beginning of the next end step. Return it to the battlefield under its owner's control at the beginning of the next end step.",3,4,"['U', 'W']","['U', 'W']",['Scry'],dsk,mythic
+"Norin, Swift Survivalist",{R},1,Legendary Creature — Human Coward,"Norin, Swift Survivalist can't block.
+Whenever a creature you control becomes blocked, you may exile it. You may play that card from exile this turn.",2,1,['R'],['R'],[],dsk,uncommon
+Nowhere to Run,{1}{B},2,Enchantment,"Flash
+When Nowhere to Run enters, target creature an opponent controls gets -3/-3 until end of turn.
+Creatures your opponents control can be the targets of spells and abilities as though they didn't have hexproof. Ward abilities of those creatures don't trigger.",n/a,n/a,['B'],['B'],['Flash'],dsk,uncommon
+Oblivious Bookworm,{G}{U},2,Creature — Human Wizard,"At the beginning of your end step, you may draw a card. If you do, discard a card unless a permanent entered the battlefield face down under your control this turn or you turned a permanent face up this turn.",2,3,"['G', 'U']","['G', 'U']",[],dsk,uncommon
+Omnivorous Flytrap,{2}{G},3,Creature — Plant,"Delirium — Whenever Omnivorous Flytrap enters or attacks, if there are four or more card types among cards in your graveyard, distribute two +1/+1 counters among one or two target creatures. Then if there are six or more card types among cards in your graveyard, double the number of +1/+1 counters on those creatures.",2,4,['G'],['G'],['Delirium'],dsk,rare
+Optimistic Scavenger,{W},1,Creature — Human Scout,"Eerie — Whenever an enchantment you control enters and whenever you fully unlock a Room, put a +1/+1 counter on target creature.",1,1,['W'],['W'],['Eerie'],dsk,uncommon
+Orphans of the Wheat,{1}{W},2,Creature — Human,"Whenever Orphans of the Wheat attacks, tap any number of untapped creatures you control. Orphans of the Wheat gets +1/+1 until end of turn for each creature tapped this way.",2,1,['W'],['W'],[],dsk,uncommon
+Osseous Sticktwister,{1}{B},2,Artifact Creature — Scarecrow,"Lifelink
+Delirium — At the beginning of your end step, if there are four or more card types among cards in your graveyard, each opponent may sacrifice a nonland permanent or discard a card. Then Osseous Sticktwister deals damage equal to its power to each opponent who didn't sacrifice a permanent or discard a card this way.",2,2,['B'],['B'],"['Delirium', 'Lifelink']",dsk,uncommon
+Overgrown Zealot,{1}{G},2,Creature — Elf Druid,"{T}: Add one mana of any color.
+{T}: Add two mana of any one color. Spend this mana only to turn permanents face up.",0,4,['G'],['G'],[],dsk,uncommon
+Overlord of the Balemurk,{3}{B}{B},5,Enchantment Creature — Avatar Horror,"Impending 5—{1}{B} (If you cast this spell for its impending cost, it enters with five time counters and isn't a creature until the last is removed. At the beginning of your end step, remove a time counter from it.)
+Whenever Overlord of the Balemurk enters or attacks, mill four cards, then you may return a non-Avatar creature card or a planeswalker card from your graveyard to your hand.",5,5,['B'],['B'],['Mill'],dsk,mythic
+Overlord of the Boilerbilges,{4}{R}{R},6,Enchantment Creature — Avatar Horror,"Impending 4—{2}{R}{R} (If you cast this spell for its impending cost, it enters with four time counters and isn't a creature until the last is removed. At the beginning of your end step, remove a time counter from it.)
+Whenever Overlord of the Boilerbilges enters or attacks, it deals 4 damage to any target.",5,5,['R'],['R'],[],dsk,mythic
+Overlord of the Floodpits,{3}{U}{U},5,Enchantment Creature — Avatar Horror,"Impending 4—{1}{U}{U} (If you cast this spell for its impending cost, it enters with four time counters and isn't a creature until the last is removed. At the beginning of your end step, remove a time counter from it.)
+Flying
+Whenever Overlord of the Floodpits enters or attacks, draw two cards, then discard a card.",5,3,['U'],['U'],['Flying'],dsk,mythic
+Overlord of the Hauntwoods,{3}{G}{G},5,Enchantment Creature — Avatar Horror,"Impending 4—{1}{G}{G} (If you cast this spell for its impending cost, it enters with four time counters and isn't a creature until the last is removed. At the beginning of your end step, remove a time counter from it.)
+Whenever Overlord of the Hauntwoods enters or attacks, create a tapped colorless land token named Everywhere that is every basic land type.",6,5,['G'],['G'],[],dsk,mythic
+Overlord of the Mistmoors,{5}{W}{W},7,Enchantment Creature — Avatar Horror,"Impending 4—{2}{W}{W} (If you cast this spell for its impending cost, it enters with four time counters and isn't a creature until the last is removed. At the beginning of your end step, remove a time counter from it.)
+Whenever Overlord of the Mistmoors enters or attacks, create two 2/1 white Insect creature tokens with flying.",6,6,['W'],['W'],[],dsk,mythic
+Painter's Studio // Defaced Gallery,{2}{R} // {1}{R},5,Enchantment — Room // Enchantment — Room,n/a,n/a,n/a,['R'],['R'],[],dsk,uncommon
+Paranormal Analyst,{1}{U},2,Creature — Human Detective,"Whenever you manifest dread, put a card you put into your graveyard this way into your hand.",1,3,['U'],['U'],"['Manifest', 'Manifest dread']",dsk,uncommon
+Patched Plaything,{2}{W},3,Artifact Creature — Toy,"Double strike
+Patched Plaything enters with two -1/-1 counters on it if you cast it from your hand.",4,3,['W'],['W'],['Double strike'],dsk,uncommon
+Patchwork Beastie,{G},1,Artifact Creature — Beast,"Delirium — Patchwork Beastie can't attack or block unless there are four or more card types among cards in your graveyard.
+At the beginning of your upkeep, you may mill a card. (You may put the top card of your library into your graveyard.)",3,3,['G'],['G'],"['Delirium', 'Mill']",dsk,uncommon
+Peculiar Lighthouse,,0,Land,"Peculiar Lighthouse enters tapped unless a player has 13 or less life.
+{T}: Add {U} or {R}.",n/a,n/a,[],"['R', 'U']",[],dsk,common
+Peer Past the Veil,{2}{R}{G},4,Instant,"Discard your hand. Then draw X cards, where X is the number of card types among cards in your graveyard.",n/a,n/a,"['G', 'R']","['G', 'R']",[],dsk,rare
+Piggy Bank,{1}{R},2,Artifact Creature — Boar Toy,"When Piggy Bank dies, create a Treasure token. (It's an artifact with ""{T}, Sacrifice this artifact: Add one mana of any color."")",3,2,['R'],['R'],['Treasure'],dsk,uncommon
+Piranha Fly,{1}{U},2,Creature — Fish Insect,"Flying
+Piranha Fly enters tapped.",2,1,['U'],['U'],['Flying'],dsk,common
+Plains,,0,Basic Land — Plains,({T}: Add {W}.),n/a,n/a,[],['W'],[],dsk,common
+Popular Egotist,{2}{B},3,Creature — Human Rogue,"{1}{B}, Sacrifice another creature or enchantment: Popular Egotist gains indestructible until end of turn. Tap it. (Damage and effects that say ""destroy"" don't destroy it.)
+Whenever you sacrifice a permanent, target opponent loses 1 life and you gain 1 life.",3,2,['B'],['B'],[],dsk,uncommon
+Possessed Goat,{W},1,Creature — Goat,"{3}, Discard a card: Put three +1/+1 counters on Possessed Goat and it becomes a black Demon in addition to its other colors and types. Activate only once.",1,1,['W'],['W'],[],dsk,common
+Pyroclasm,{1}{R},2,Sorcery,Pyroclasm deals 2 damage to each creature.,n/a,n/a,['R'],['R'],[],dsk,uncommon
+Ragged Playmate,{1}{R},2,Artifact Creature — Toy,"{1}, {T}: Target creature with power 2 or less can't be blocked this turn.",2,2,['R'],['R'],[],dsk,common
+Rampaging Soulrager,{2}{R},3,Creature — Spirit,Rampaging Soulrager gets +3/+0 as long as there are two or more unlocked doors among Rooms you control.,1,4,['R'],['R'],[],dsk,common
+Raucous Carnival,,0,Land,"Raucous Carnival enters tapped unless a player has 13 or less life.
+{T}: Add {R} or {W}.",n/a,n/a,[],"['R', 'W']",[],dsk,common
+Razorkin Hordecaller,{4}{R},5,Creature — Human Clown Berserker,"Haste
+Whenever you attack, create a 1/1 red Gremlin creature token.",4,4,['R'],['R'],['Haste'],dsk,uncommon
+Razorkin Needlehead,{R}{R},2,Creature — Human Assassin,"Razorkin Needlehead has first strike during your turn.
+Whenever an opponent draws a card, Razorkin Needlehead deals 1 damage to them.",2,2,['R'],['R'],[],dsk,rare
+Razortrap Gorge,,0,Land,"Razortrap Gorge enters tapped unless a player has 13 or less life.
+{T}: Add {B} or {R}.",n/a,n/a,[],"['B', 'R']",[],dsk,common
+Reluctant Role Model,{1}{W},2,Creature — Human Survivor,"Survival — At the beginning of your second main phase, if Reluctant Role Model is tapped, put a flying, lifelink, or +1/+1 counter on it.
+Whenever Reluctant Role Model or another creature you control dies, if it had counters on it, put those counters on up to one target creature.",2,2,['W'],['W'],['Survival'],dsk,rare
+Restricted Office // Lecture Hall,{2}{W}{W} // {5}{U}{U},11,Enchantment — Room // Enchantment — Room,n/a,n/a,n/a,"['U', 'W']","['U', 'W']",[],dsk,rare
+Resurrected Cultist,{2}{B},3,Creature — Human Cleric,"Delirium — {2}{B}{B}: Return Resurrected Cultist from your graveyard to the battlefield with a finality counter on it. Activate only if there are four or more card types among cards in your graveyard and only as a sorcery. (If a creature with a finality counter on it would die, exile it instead.)",4,1,['B'],['B'],['Delirium'],dsk,common
+Ripchain Razorkin,{3}{R},4,Creature — Human Berserker,"Reach
+{2}{R}, Sacrifice a land: Draw a card.",5,3,['R'],['R'],['Reach'],dsk,common
+"Rip, Spawn Hunter",{2}{G}{W},4,Legendary Creature — Human Survivor,"Survival — At the beginning of your second main phase, if Rip, Spawn Hunter is tapped, reveal the top X cards of your library, where X is its power. Put any number of creature and/or Vehicle cards with different powers from among them into your hand. Put the rest on the bottom of your library in a random order.",4,4,"['G', 'W']","['G', 'W']",['Survival'],dsk,rare
+Rite of the Moth,{1}{W}{B}{B},4,Sorcery,"Return target creature card from your graveyard to the battlefield with a finality counter on it. (If a creature with a finality counter on it would die, exile it instead.)
+Flashback {3}{W}{W}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",n/a,n/a,"['B', 'W']","['B', 'W']",['Flashback'],dsk,uncommon
+Roaring Furnace // Steaming Sauna,{1}{R} // {3}{U}{U},7,Enchantment — Room // Enchantment — Room,n/a,n/a,n/a,"['R', 'U']","['R', 'U']",[],dsk,rare
+Rootwise Survivor,{3}{G}{G},5,Creature — Human Survivor,"Haste
+Survival — At the beginning of your second main phase, if Rootwise Survivor is tapped, put three +1/+1 counters on up to one target land you control. That land becomes a 0/0 Elemental creature in addition to its other types. It gains haste until your next turn.",3,4,['G'],['G'],"['Haste', 'Survival']",dsk,uncommon
+Savior of the Small,{3}{W},4,Creature — Kor Survivor,"Survival — At the beginning of your second main phase, if Savior of the Small is tapped, return target creature card with mana value 3 or less from your graveyard to your hand.",3,4,['W'],['W'],['Survival'],dsk,uncommon
+Saw,{2},2,Artifact — Equipment,"Equipped creature gets +2/+0.
+Whenever equipped creature attacks, you may sacrifice a permanent other than that creature or Saw. If you do, draw a card.
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",n/a,n/a,[],[],['Equip'],dsk,uncommon
+Sawblade Skinripper,{1}{B}{R},3,Creature — Human Assassin,"Menace
+{2}, Sacrifice another creature or enchantment: Put a +1/+1 counter on Sawblade Skinripper.
+At the beginning of your end step, if you sacrificed one or more permanents this turn, Sawblade Skinripper deals that much damage to any target.",3,2,"['B', 'R']","['B', 'R']",['Menace'],dsk,uncommon
+Say Its Name,{1}{G},2,Sorcery,"Mill three cards. Then you may return a creature or land card from your graveyard to your hand.
+Exile this card and two other cards named Say Its Name from your graveyard: Search your graveyard, hand, and/or library for a card named Altanak, the Thrice-Called and put it onto the battlefield. If you search your library this way, shuffle. Activate only as a sorcery.",n/a,n/a,['G'],['G'],['Mill'],dsk,common
+Scorching Dragonfire,{1}{R},2,Instant,"Scorching Dragonfire deals 3 damage to target creature or planeswalker. If that creature or planeswalker would die this turn, exile it instead.",n/a,n/a,['R'],['R'],[],dsk,common
+Scrabbling Skullcrab,{U},1,Creature — Crab Skeleton,"Eerie — Whenever an enchantment you control enters and whenever you fully unlock a Room, target player mills two cards. (They put the top two cards of their library into their graveyard.)",0,3,['U'],['U'],"['Mill', 'Eerie']",dsk,uncommon
+Screaming Nemesis,{2}{R},3,Creature — Spirit,"Haste
+Whenever Screaming Nemesis is dealt damage, it deals that much damage to any other target. If a player is dealt damage this way, they can't gain life for the rest of the game.",3,3,['R'],['R'],['Haste'],dsk,mythic
+Seized from Slumber,{4}{W},5,Instant,"This spell costs {3} less to cast if it targets a tapped creature.
+Destroy target creature.",n/a,n/a,['W'],['W'],[],dsk,common
+Shardmage's Rescue,{W},1,Enchantment — Aura,"Flash
+Enchant creature you control
+As long as Shardmage's Rescue entered this turn, enchanted creature has hexproof.
+Enchanted creature gets +1/+1.",n/a,n/a,['W'],['W'],"['Enchant', 'Flash']",dsk,uncommon
+Sheltered by Ghosts,{1}{W},2,Enchantment — Aura,"Enchant creature you control
+When Sheltered by Ghosts enters, exile target nonland permanent an opponent controls until Sheltered by Ghosts leaves the battlefield.
+Enchanted creature gets +1/+0 and has lifelink and ward {2}.",n/a,n/a,['W'],['W'],['Enchant'],dsk,uncommon
+Shepherding Spirits,{4}{W}{W},6,Creature — Spirit,"Flying
+Plainscycling {2} ({2}, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)",4,5,['W'],['W'],"['Flying', 'Plainscycling', 'Landcycling', 'Typecycling', 'Cycling']",dsk,common
+Shrewd Storyteller,{1}{G}{W},3,Creature — Human Survivor,"Survival — At the beginning of your second main phase, if Shrewd Storyteller is tapped, put a +1/+1 counter on target creature.",3,3,"['G', 'W']","['G', 'W']",['Survival'],dsk,uncommon
+Shroudstomper,{3}{W}{W}{B}{B},7,Creature — Elemental,"Deathtouch
+Whenever Shroudstomper enters or attacks, each opponent loses 2 life. You gain 2 life and draw a card.",5,5,"['B', 'W']","['B', 'W']",['Deathtouch'],dsk,uncommon
+Silent Hallcreeper,{1}{U},2,Enchantment Creature — Horror,"Silent Hallcreeper can't be blocked.
+Whenever Silent Hallcreeper deals combat damage to a player, choose one that hasn't been chosen —
+• Put two +1/+1 counters on Silent Hallcreeper.
+• Draw a card.
+• Silent Hallcreeper becomes a copy of another target creature you control.",1,1,['U'],['U'],[],dsk,rare
+Skullsnap Nuisance,{U}{B},2,Creature — Insect Skeleton,"Flying
+Eerie — Whenever an enchantment you control enters and whenever you fully unlock a Room, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",1,4,"['B', 'U']","['B', 'U']","['Flying', 'Surveil', 'Eerie']",dsk,uncommon
+Slavering Branchsnapper,{4}{G}{G},6,Creature — Lizard,"Trample
+Forestcycling {2} ({2}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)",7,6,['G'],['G'],"['Landcycling', 'Trample', 'Forestcycling', 'Typecycling', 'Cycling']",dsk,common
+Smoky Lounge // Misty Salon,{2}{R} // {3}{U},7,Enchantment — Room // Enchantment — Room,n/a,n/a,n/a,"['R', 'U']","['R', 'U']",[],dsk,uncommon
+Spectral Snatcher,{4}{B}{B},6,Creature — Spirit,"Ward—Discard a card. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player discards a card.)
+Swampcycling {2} ({2}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)",6,5,['B'],['B'],"['Landcycling', 'Ward', 'Typecycling', 'Cycling', 'Swampcycling']",dsk,common
+Spineseeker Centipede,{2}{G},3,Creature — Insect,"When Spineseeker Centipede enters, search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+Delirium — Spineseeker Centipede gets +1/+2 and has vigilance as long as there are four or more card types among cards in your graveyard.",2,1,['G'],['G'],['Delirium'],dsk,common
+Splitskin Doll,{1}{W},2,Artifact Creature — Toy,"When Splitskin Doll enters, draw a card. Then discard a card unless you control another creature with power 2 or less.",2,1,['W'],['W'],[],dsk,uncommon
+Split Up,{1}{W}{W},3,Sorcery,"Choose one —
+• Destroy all tapped creatures.
+• Destroy all untapped creatures.",n/a,n/a,['W'],['W'],[],dsk,rare
+Sporogenic Infection,{1}{B},2,Enchantment — Aura,"Enchant creature
+When Sporogenic Infection enters, target player sacrifices a creature other than enchanted creature.
+When enchanted creature is dealt damage, destroy it.",n/a,n/a,['B'],['B'],['Enchant'],dsk,uncommon
+Stalked Researcher,{1}{U},2,Creature — Human Wizard,"Defender
+Eerie — Whenever an enchantment you control enters and whenever you fully unlock a Room, Stalked Researcher can attack this turn as though it didn't have defender.",3,3,['U'],['U'],"['Defender', 'Eerie']",dsk,common
+"Stay Hidden, Stay Silent",{1}{U},2,Enchantment — Aura,"Enchant creature
+When Stay Hidden, Stay Silent enters, tap enchanted creature.
+Enchanted creature doesn't untap during its controller's untap step.
+{4}{U}{U}: Shuffle enchanted creature into its owner's library, then manifest dread. Activate only as a sorcery.",n/a,n/a,['U'],['U'],"['Manifest', 'Enchant', 'Manifest dread']",dsk,uncommon
+Strangled Cemetery,,0,Land,"Strangled Cemetery enters tapped unless a player has 13 or less life.
+{T}: Add {B} or {G}.",n/a,n/a,[],"['B', 'G']",[],dsk,common
+Surgical Suite // Hospital Room,{1}{W} // {3}{W},6,Enchantment — Room // Enchantment — Room,n/a,n/a,n/a,['W'],['W'],[],dsk,uncommon
+Swamp,,0,Basic Land — Swamp,({T}: Add {B}.),n/a,n/a,[],['B'],[],dsk,common
+Terramorphic Expanse,,0,Land,"{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",n/a,n/a,[],[],[],dsk,common
+The Jolly Balloon Man,{1}{R}{W},3,Legendary Creature — Human Clown,"Haste
+{1}, {T}: Create a token that's a copy of another target creature you control, except it's a 1/1 red Balloon creature in addition to its other colors and types and it has flying and haste. Sacrifice it at the beginning of the next end step. Activate only as a sorcery.",1,4,"['R', 'W']","['R', 'W']",['Haste'],dsk,rare
+The Mindskinner,{U}{U}{U},3,Legendary Enchantment Creature — Nightmare,"The Mindskinner can't be blocked.
+If a source you control would deal damage to an opponent, prevent that damage and each opponent mills that many cards.",10,1,['U'],['U'],['Mill'],dsk,rare
+The Rollercrusher Ride,{X}{2}{R},3,Legendary Enchantment,"Delirium — If a source you control would deal noncombat damage to a permanent or player while there are four or more card types among cards in your graveyard, it deals double that damage instead.
+When The Rollercrusher Ride enters, it deals X damage to each of up to X target creatures.",n/a,n/a,['R'],['R'],['Delirium'],dsk,mythic
+The Swarmweaver,{2}{B}{G},4,Legendary Artifact Creature — Scarecrow,"When The Swarmweaver enters, create two 1/1 black and green Insect creature tokens with flying.
+Delirium — As long as there are four or more card types among cards in your graveyard, Insects and Spiders you control get +1/+1 and have deathtouch.",2,3,"['B', 'G']","['B', 'G']",['Delirium'],dsk,rare
+The Tale of Tamiyo,{2}{U},3,Legendary Enchantment — Saga,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)
+I, II, III — Mill two cards. If two cards that share a card type were milled this way, draw a card and repeat this process.
+IV — Exile any number of target instant, sorcery, and/or Tamiyo planeswalker cards from your graveyard. Copy them. You may cast any number of the copies.",n/a,n/a,['U'],['U'],['Mill'],dsk,rare
+The Wandering Rescuer,{3}{W}{W},5,Legendary Creature — Human Samurai Noble,"Flash
+Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)
+Double strike
+Other tapped creatures you control have hexproof.",3,4,['W'],['W'],"['Double strike', 'Flash', 'Convoke']",dsk,mythic
+Thornspire Verge,,0,Land,"{T}: Add {R}.
+{T}: Add {G}. Activate only if you control a Mountain or a Forest.",n/a,n/a,[],"['G', 'R']",[],dsk,rare
+Threats Around Every Corner,{3}{G},4,Enchantment,"When Threats Around Every Corner enters, manifest dread.
+Whenever a face-down permanent you control enters, search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",n/a,n/a,['G'],['G'],"['Manifest', 'Manifest dread']",dsk,uncommon
+Ticket Booth // Tunnel of Hate,{2}{R} // {4}{R}{R},9,Enchantment — Room // Enchantment — Room,n/a,n/a,n/a,['R'],['R'],"['Manifest', 'Manifest dread']",dsk,common
+"Toby, Beastie Befriender",{2}{W},3,Legendary Creature — Human Wizard,"When Toby, Beastie Befriender enters, create a 4/4 white Beast creature token with ""This creature can't attack or block alone.""
+As long as you control four or more creature tokens, creature tokens you control have flying.",1,1,['W'],['W'],[],dsk,rare
+Trapped in the Screen,{2}{W},3,Enchantment,"Ward {2} (Whenever this enchantment becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+When Trapped in the Screen enters, exile target artifact, creature, or enchantment an opponent controls until Trapped in the Screen leaves the battlefield.",n/a,n/a,['W'],['W'],['Ward'],dsk,common
+Trial of Agony,{R},1,Sorcery,"Choose two target creatures controlled by the same opponent. That player chooses one of those creatures. Trial of Agony deals 5 damage to that creature, and the other can't block this turn.",n/a,n/a,['R'],['R'],[],dsk,uncommon
+Tunnel Surveyor,{2}{U},3,Creature — Human Detective,"When Tunnel Surveyor enters, create a 1/1 white Glimmer enchantment creature token.",2,2,['U'],['U'],[],dsk,common
+Turn Inside Out,{R},1,Instant,"Target creature gets +3/+0 until end of turn. When it dies this turn, manifest dread. (Look at the top two cards of your library. Put one onto the battlefield face down as a 2/2 creature and the other into your graveyard. Turn it face up any time for its mana cost if it's a creature card.)",n/a,n/a,['R'],['R'],"['Manifest', 'Manifest dread']",dsk,common
+Twist Reality,{1}{U}{U},3,Instant,"Choose one —
+• Counter target spell.
+• Manifest dread. (Look at the top two cards of your library. Put one onto the battlefield face down as a 2/2 creature and the other into your graveyard. Turn it face up any time for its mana cost if it's a creature card.)",n/a,n/a,['U'],['U'],"['Manifest', 'Manifest dread']",dsk,common
+Twitching Doll,{1}{G},2,Artifact Creature — Spider Toy,"{T}: Add one mana of any color. Put a nest counter on Twitching Doll.
+{T}, Sacrifice Twitching Doll: Create a 2/2 green Spider creature token with reach for each counter on Twitching Doll. Activate only as a sorcery.",2,2,['G'],['G'],[],dsk,rare
+"Tyvar, the Pummeler",{1}{G}{G},3,Legendary Creature — Elf Warrior,"Tap another untapped creature you control: Tyvar, the Pummeler gains indestructible until end of turn. Tap it.
+{3}{G}{G}: Creatures you control get +X/+X until end of turn, where X is the greatest power among creatures you control.",3,3,['G'],['G'],[],dsk,mythic
+Unable to Scream,{U},1,Enchantment — Aura,"Enchant creature
+Enchanted creature loses all abilities and is a Toy artifact creature with base power and toughness 0/2 in addition to its other types.
+As long as enchanted creature is face down, it can't be turned face up.",n/a,n/a,['U'],['U'],['Enchant'],dsk,common
+Undead Sprinter,{B}{R},2,Creature — Zombie,"Trample, haste
+You may cast Undead Sprinter from your graveyard if a non-Zombie creature died this turn. If you do, Undead Sprinter enters with a +1/+1 counter on it.",2,2,"['B', 'R']","['B', 'R']","['Haste', 'Trample']",dsk,rare
+Under the Skin,{2}{G},3,Sorcery,"Manifest dread. (Look at the top two cards of your library. Put one onto the battlefield face down as a 2/2 creature and the other into your graveyard. Turn it face up any time for its mana cost if it's a creature card.)
+You may return a permanent card from your graveyard to your hand.",n/a,n/a,['G'],['G'],"['Manifest', 'Manifest dread']",dsk,uncommon
+Underwater Tunnel // Slimy Aquarium,{U} // {3}{U},5,Enchantment — Room // Enchantment — Room,n/a,n/a,n/a,['U'],['U'],"['Surveil', 'Manifest', 'Manifest dread']",dsk,common
+Unholy Annex // Ritual Chamber,{2}{B} // {3}{B}{B},8,Enchantment — Room // Enchantment — Room,n/a,n/a,n/a,['B'],['B'],[],dsk,rare
+Unidentified Hovership,{1}{W}{W},3,Artifact — Vehicle,"Flying
+When Unidentified Hovership enters, exile up to one target creature with toughness 5 or less.
+When Unidentified Hovership leaves the battlefield, the exiled card's owner manifests dread.
+Crew 1",2,2,['W'],['W'],"['Flying', 'Crew']",dsk,rare
+Unnerving Grasp,{2}{U},3,Sorcery,Return up to one target nonland permanent to its owner's hand. Manifest dread. (Look at the top two cards of your library. Put one onto the battlefield face down as a 2/2 creature and the other into your graveyard. Turn it face up any time for its mana cost if it's a creature card.),n/a,n/a,['U'],['U'],"['Manifest', 'Manifest dread']",dsk,uncommon
+Unsettling Twins,{3}{W},4,Creature — Human,"When Unsettling Twins enters, manifest dread. (Look at the top two cards of your library. Put one onto the battlefield face down as a 2/2 creature and the other into your graveyard. Turn it face up any time for its mana cost if it's a creature card.)",2,2,['W'],['W'],"['Manifest', 'Manifest dread']",dsk,common
+Unstoppable Slasher,{2}{B},3,Creature — Zombie Assassin,"Deathtouch
+Whenever Unstoppable Slasher deals combat damage to a player, they lose half their life, rounded up.
+When Unstoppable Slasher dies, if it had no counters on it, return it to the battlefield tapped under its owner's control with two stun counters on it.",2,3,['B'],['B'],['Deathtouch'],dsk,rare
+Untimely Malfunction,{1}{R},2,Instant,"Choose one —
+• Destroy target artifact.
+• Change the target of target spell or ability with a single target.
+• One or two target creatures can't block this turn.",n/a,n/a,['R'],['R'],[],dsk,uncommon
+Unwanted Remake,{W},1,Instant,"Destroy target creature. Its controller manifests dread. (That player looks at the top two cards of their library, then puts one onto the battlefield face down as a 2/2 creature and the other into their graveyard. If it's a creature card, it can be turned face up any time for its mana cost.)",n/a,n/a,['W'],['W'],[],dsk,uncommon
+Unwilling Vessel,{2}{U},3,Creature — Human Wizard,"Vigilance
+Eerie — Whenever an enchantment you control enters and whenever you fully unlock a Room, put a possession counter on Unwilling Vessel.
+When Unwilling Vessel dies, create an X/X blue Spirit creature token with flying, where X is the number of counters on Unwilling Vessel.",3,2,['U'],['U'],"['Vigilance', 'Eerie']",dsk,uncommon
+Valgavoth's Faithful,{B},1,Creature — Human Cleric,"{3}{B}, Sacrifice Valgavoth's Faithful: Return target creature card from your graveyard to the battlefield. Activate only as a sorcery.",1,1,['B'],['B'],[],dsk,uncommon
+Valgavoth's Lair,,0,Enchantment Land,"Hexproof
+Valgavoth's Lair enters tapped. As it enters, choose a color.
+{T}: Add one mana of the chosen color.",n/a,n/a,[],[],['Hexproof'],dsk,rare
+Valgavoth's Onslaught,{X}{X}{G},1,Sorcery,"Manifest dread X times, then put X +1/+1 counters on each of those creatures. (To manifest dread, look at the top two cards of your library, then put one onto the battlefield face down as a 2/2 creature and the other into your graveyard. Turn it face up any time for its mana cost if it's a creature card.)",n/a,n/a,['G'],['G'],"['Manifest', 'Manifest dread']",dsk,rare
+"Valgavoth, Terror Eater",{6}{B}{B}{B},9,Legendary Creature — Elder Demon,"Flying, lifelink
+Ward—Sacrifice three nonland permanents.
+If a card you didn't control would be put into an opponent's graveyard from anywhere, exile it instead.
+During your turn, you may play cards exiled with Valgavoth. If you cast a spell this way, pay life equal to its mana value rather than pay its mana cost.",9,9,['B'],['B'],"['Flying', 'Lifelink', 'Ward']",dsk,mythic
+Vanish from Sight,{3}{U},4,Instant,Target nonland permanent's owner puts it on the top or bottom of their library. Surveil 1. (Look at the top card of your library. You may put it into your graveyard.),n/a,n/a,['U'],['U'],['Surveil'],dsk,common
+Vengeful Possession,{2}{R},3,Sorcery,"Gain control of target creature until end of turn. Untap it. It gains haste until end of turn. You may discard a card. If you do, draw a card.",n/a,n/a,['R'],['R'],[],dsk,uncommon
+Veteran Survivor,{W},1,Creature — Human Survivor,"Survival — At the beginning of your second main phase, if Veteran Survivor is tapped, exile up to one target card from a graveyard.
+As long as there are three or more cards exiled with Veteran Survivor, it gets +3/+3 and has hexproof. (It can't be the target of spells or abilities your opponents control.)",2,1,['W'],['W'],['Survival'],dsk,uncommon
+Vicious Clown,{2}{R},3,Creature — Human Clown,"Whenever another creature you control with power 2 or less enters, Vicious Clown gets +2/+0 until end of turn.",2,3,['R'],['R'],[],dsk,common
+"Victor, Valgavoth's Seneschal",{1}{W}{B},3,Legendary Creature — Human Warlock,"Eerie — Whenever an enchantment you control enters and whenever you fully unlock a Room, surveil 2 if this is the first time this ability has resolved this turn. If it's the second time, each opponent discards a card. If it's the third time, put a creature card from a graveyard onto the battlefield under your control.",3,3,"['B', 'W']","['B', 'W']","['Surveil', 'Eerie']",dsk,rare
+Vile Mutilator,{5}{B}{B},7,Creature — Demon,"As an additional cost to cast this spell, sacrifice a creature or enchantment.
+Flying, trample
+When Vile Mutilator enters, each opponent sacrifices a nontoken enchantment, then sacrifices a nontoken creature.",6,5,['B'],['B'],"['Flying', 'Trample']",dsk,uncommon
+Violent Urge,{R},1,Instant,"Target creature gets +1/+0 and gains first strike until end of turn.
+Delirium — If there are four or more card types among cards in your graveyard, that creature gains double strike until end of turn.",n/a,n/a,['R'],['R'],['Delirium'],dsk,uncommon
+Walk-In Closet // Forgotten Cellar,{2}{G} // {3}{G}{G},8,Enchantment — Room // Enchantment — Room,n/a,n/a,n/a,['G'],['G'],[],dsk,mythic
+Waltz of Rage,{3}{R}{R},5,Sorcery,"Target creature you control deals damage equal to its power to each other creature. Until end of turn, whenever a creature you control dies, exile the top card of your library. You may play it until the end of your next turn.",n/a,n/a,['R'],['R'],[],dsk,rare
+Wary Watchdog,{1}{G},2,Creature — Dog,"When Wary Watchdog enters or dies, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",3,1,['G'],['G'],['Surveil'],dsk,common
+Wickerfolk Thresher,{3}{G},4,Artifact Creature — Scarecrow,"Delirium — Whenever Wickerfolk Thresher attacks, if there are four or more card types among cards in your graveyard, look at the top card of your library. If it's a land card, you may put it onto the battlefield. If you don't put the card onto the battlefield, put it into your hand.",5,4,['G'],['G'],['Delirium'],dsk,uncommon
+Wildfire Wickerfolk,{R}{G},2,Artifact Creature — Scarecrow,"Haste
+Delirium — Wildfire Wickerfolk gets +1/+1 and has trample as long as there are four or more card types among cards in your graveyard.",3,2,"['G', 'R']","['G', 'R']","['Delirium', 'Haste']",dsk,uncommon
+"Winter, Misanthropic Guide",{1}{B}{R}{G},4,Legendary Creature — Human Warlock,"Ward {2}
+At the beginning of your upkeep, each player draws two cards.
+Delirium — As long as there are four or more card types among cards in your graveyard, each opponent's maximum hand size is equal to seven minus the number of those card types.",3,4,"['B', 'G', 'R']","['B', 'G', 'R']","['Delirium', 'Ward']",dsk,rare
+Winter's Intervention,{1}{B},2,Instant,Winter's Intervention deals 2 damage to target creature. You gain 2 life.,n/a,n/a,['B'],['B'],[],dsk,common
+Withering Torment,{2}{B},3,Instant,Destroy target creature or enchantment. You lose 2 life.,n/a,n/a,['B'],['B'],[],dsk,uncommon
+"Zimone, All-Questioning",{1}{G}{U},3,Legendary Creature — Human Wizard,"At the beginning of your end step, if a land entered the battlefield under your control this turn and you control a prime number of lands, create Primo, the Indivisible, a legendary 0/0 green and blue Fractal creature token, then put that many +1/+1 counters on it. (2, 3, 5, 7, 11, 13, 17, 19, 23, 29, and 31 are prime numbers.)",1,1,"['G', 'U']","['G', 'U']",[],dsk,rare
